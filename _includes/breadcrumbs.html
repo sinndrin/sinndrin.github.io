@@ -1,0 +1,8 @@
+<nav class="breadcrumbs">
+  <a href="/">Home</a>
+  {% assign crumbs = page.url | split: '/' %}
+  {% assign crumbstotal = crumbs | size %}
+  {% for crumb in crumbs offset:1 %}
+    <a href="/{{crumb}}/" {% if crumbs.last == crumb %}class="current"{% endif %}>{{ crumb | remove: '.html' | replace: "-"," " | replace: "ueber uns","über uns" }}</a>
+  {% endfor %}
+</nav>

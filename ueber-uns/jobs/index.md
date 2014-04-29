@@ -1,10 +1,7 @@
 ---
 layout: two-columns
-title:  "Jobs / Stellenangebote / Praktika"
+title:  "Jobs, Stellenangebote und Praktika"
 ---
-
-#Jobs, Stellenangebote und Praktika
-
 Wir schreiben grundsätzlich keine Stellenangebote aus, [gute Zusammenarbeit](/ueber-uns/mit-uns-zusammen-arbeiten/) ist jedoch eines unserer Hauptanliegen.
 
 
