@@ -1,0 +1,12 @@
+---
+layout: two-columns
+title:  "Geschichte"
+---
+
+#Geschichte der sinndrin genossenschaft
+
+Die Idee, eine Genossenschaft zu gründen kam im Jahr 2012 auf. Als im Rahmen einer Modularbeit im Umweltingenieurlehrgang an ZHAW in Wädenswil eine Gruppe von Studierenden den Fussabdruck für den Naturpark Entlebuch berechneten. Die Idee der Selbständigkeit wurde an mehreren intensiven Treffen weitergestrickt. Dabei wurde diskutiert wie die neue Genossenschaft heissen, die Statuten aussehen und welchen Sinn sie erfüllen soll. Am 25.04.2013 war es denn so weit. Die sieben Gründungsmitglieder haben ihre Idee in die Tat Umgesetzt und unterschrieben den Handelsregistereintrag für die sinndrin genossenschaft.
+
+Vom ersten Treffen im April 2012 bis zur Gründung im April 2013 vergingen für die Geneossenschafts-Gründungsmitglieder intensive 12 Monate. Es wurden viele Ideen umgewälzt, Träume beschrieben, und Vorfreude geschürt. Vieles geschah in Eigenregie, doch wir bekamen auch viele Tipps und Anregungen von aussen, aus unserem Freundes- und Verwandtenkreis sowie durch Mentoringprojekten, wofür wir hier ganzherzlich danken möchten.
+
+Im April 2012 wurden an der ZHAW in Wädenswil die ersten Ideen gesammelt, wie eine zukünftige Selbständigkeit aussehen könnte. Auf dieses erste Treffen  folgten viele weitere Treffen, an denen die verschiedenen Vorstellungen, Ideale und Träume beschrieben wurden. Aber auch handfestes wie die Statuten, der Name oder der Unternehmungszweck wurden gesucht, definiert und ausgearbeitet. Nach einem Jahr voller Diskussionen, Abschlussprüfungen und Vorfreuden wurde die sinndrin genossenschaft am 25.04.2013 in Zürich angemeldet.

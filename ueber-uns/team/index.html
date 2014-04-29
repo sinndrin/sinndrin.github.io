@@ -1,0 +1,23 @@
+---
+layout: two-columns
+title: Team
+---
+{% for post in site.categories.team %}
+<div class="row">
+  <div class="large-12 columns">
+    <a href="{{ post.url }}">
+      <div class="team-image small-6 columns left">
+        <img src="{{ post.image }}">
+      </div>
+      <div class="small-6 columns right">
+        <div class="team-title">
+          <h4>{{ post.title }}</h4>
+        </div>
+        <div class="team-subtitle">
+          <h5>{{ post.subtitle }}</h5>
+        </div>
+      </div>
+    </a>
+  </div>
+</div>
+{% endfor %}

@@ -1,0 +1,11 @@
+---
+layout: default
+---
+<div class="large-9 columns">
+  {{content}}
+</div>
+<aside class="large-3 columns">
+  {% capture location %}{{ page.url | remove_first:'/' | split:'/' | first }}{% endcapture %}
+  {% assign asideLocation = location | append:'.html' | prepend:'aside/' %}
+  {% include {{asideLocation}} %}
+</aside>

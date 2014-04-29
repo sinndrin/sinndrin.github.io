@@ -1,0 +1,44 @@
+/* ******************************************************************************************************* */
+/* main layout */
+/* ***************************************************** */
+/* fix centered layout for pages with and without vertical scroll */
+html {
+  overflow-y:scroll;
+}
+/* ******************************************************************************************************* */
+/* blog */
+div.thumb {
+  width: 100%;
+  @media #{$medium-up} { height: 300px; }
+  @media #{$small-only} { height: 180px; }
+  margin: 20px auto;
+  background: none no-repeat scroll 50% 0% / 100% auto rgb(255, 255, 255);
+  box-shadow: 0px 0px 10px rgb(204, 204, 204);
+  display: block;
+}
+#blog h5, #blog .meta, .byline .text.team, footer {
+  color: rgb(136, 136, 136);
+}
+#blog li {
+  padding-bottom: 20px;
+  border-bottom: 1px solid rgb(221, 221, 221);
+}
+
+#blog .post {
+  padding-top: 20px;
+}
+/* blog single post */
+.byline .thumb.team {
+  float: left;
+  width: 40px;
+  height: 40px;
+  margin: 5px 10px 0px 0px;
+  background-size: 100% auto;
+  box-shadow: 0px 0px 6px rgb(204, 204, 204);
+}
+.byline .text.team {
+  font-size: smaller;
+  margin-top: 5px;
+  box-shadow: 0px 0px 6px white;
+}
+/* ******************************************************************************************************* */

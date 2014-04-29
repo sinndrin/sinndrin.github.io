@@ -1,0 +1,82 @@
+<!doctype html>
+<html class="no-js" lang="de">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>{{ page.title }} - {{ site.name }} </title>
+  <link rel="stylesheet" href="/css/app.css"/>
+  <link rel="stylesheet" href="/assets/foundation-icons/foundation-icons.css"/>
+  <script src="/assets/foundation/bower_components/modernizr/modernizr.js"></script>
+</head>
+<body>
+<!-- Navigation -->
+<div class="sticky contain-to-grid">
+  <nav class="top-bar" data-topbar data-options="back_text: 'Zurück'">
+    <ul class="title-area">
+      <li class="name"><h1><a href="/">{{ site.name }}</a></h1></li>
+      <!--<li class="name"><a href="/"><img style="padding:5px;" width="90px" src="/images/logo-sinndrin.resized.jpg"></a></li>-->
+      <li class="toggle-topbar menu-icon"><a href="#">Menü</a></li>
+    </ul>
+    <section class="top-bar-section">
+      <!-- Left Nav Section -->
+      <ul class="left">
+        <li class="divider hide-for-small"></li>
+        {% capture location %}{{ page.url | remove_first:'/' | split:'/' | first }}{% endcapture %}
+        <li>
+          <a href="/"><i class="fi-home"></i> Home</a>
+        </li>
+        <li class="divider hide-for-small"></li>
+      </ul>
+      <!-- Right Nav Section -->
+      <ul class="right">
+        <li class="divider hide-for-small"></li>
+        <li
+        {% if location == 'angebote' %}class="active" {% endif %}>
+        <a href="/angebote/">
+          <i class="fi-book"></i> Angebote</a></li>
+        <li class="divider hide-for-small"></li>
+        <li
+        {% if location == 'ueber-uns' %}class="active" {% endif %}><a href="/ueber-uns/">
+        <i class="fi-plus"></i> Über uns</a></li>
+        <li class="divider hide-for-small"></li>
+        <li
+        {% if location == 'hintergrundwissen' %}class="active" {% endif %}><a href="/hintergrundwissen/">
+        <i class="fi-list"></i> Hintergrundwissen</a></li>
+        <li class="divider hide-for-small"></li>
+<!--        <li
+        {% if location == 'blog' %}class="active" {% endif %}><a href="/blog/">
+        <i class="fi-megaphone"></i> Blog</a></li>-->
+      </ul>
+    </section>
+  </nav>
+</div>
+<!-- Navigation end -->
+<div class="row">
+  <div class="large-12 columns">
+
+    <!-- Content -->
+    <div class="row">
+      {{ content }}
+    </div>
+    <!-- Content end -->
+
+    <!-- Footer -->
+    <footer class="row">
+      <div class="large-12 columns">
+        <hr>
+        <div class="row">
+          <div class="large-12 columns">
+            <p class="text-left">Copyright &copy; 2014 - sinndrin genossenschaft | <i class="fi-telephone"></i> 044 534 64 54 | <a href="mailto:info@sinndrin.ch"><i class="fi-mail"></i> info@sinndrin.ch</a> | Impressum</p>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!-- Footer end -->
+  </div>
+</div>
+<!-- Script loading -->
+<script src="/assets/foundation/bower_components/jquery/dist/jquery.min.js"></script>
+<script src="/assets/foundation/bower_components/foundation/js/foundation.min.js"></script>
+<script>$(document).foundation();</script>
+</body>
+</html>
