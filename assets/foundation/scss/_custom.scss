@@ -6,6 +6,40 @@ html {
   overflow-y:scroll;
 }
 /* ******************************************************************************************************* */
+/* side bar */
+aside ul.side-nav {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+/* ******************************************************************************************************* */
+/* angebote */
+.angebote-img {
+  position: relative;
+  height: 100px;
+  widht: 100%;
+  h5 span {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    color: white;
+    background: rgb(0, 0, 0); /* fallback color */
+    background: rgba(0, 0, 0, 0.8);
+    padding: 10px;
+  }
+}
+.angebote-img.bildung {
+  background-image: url(/images/angebote/bildung.jpg);
+  background-repeat: none;
+}
+.angebote-img.energie {
+  background-image: url(/images/angebote/energie.jpg);
+  background-repeat: none;
+}
+.angebote-img.suffizienz {
+  background-image: url(/images/angebote/suffizienz.jpg);
+  background-repeat: none;
+}
+/* ******************************************************************************************************* */
 /* blog */
 div.thumb {
   width: 100%;
