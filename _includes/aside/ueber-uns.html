@@ -1,8 +1,9 @@
 <!-- Über uns -->
-<h5>Über uns</h5>
+<!--<h5>Über uns</h5>-->
+{% assign location %}{{ page.url | remove_first:'/' | split:'/' }}{% endcapture %}
 <ul class="side-nav">
-  <li style="border-bottom: 1px dotted #808080;"><a href="/ueber-uns/">+ Wer wir sind</a></li>
-  <li style="border-bottom: 1px dotted #808080;"><a href="/ueber-uns/mit-uns-zusammen-arbeiten/">+ Mit uns zusammen arbeiten</a></li>
-  <li style="border-bottom: 1px dotted #808080;"><a href="/ueber-uns/geschichte/">+ Geschichte</a></li>
-  <li style="border-bottom: 1px dotted #808080;><a href="/ueber-uns/jobs/">+ Jobs</a></li>
+  <li style="border-bottom: 1px dotted #808080;"><a href="/ueber-uns/">Über uns</a></li>
+  <li style="border-bottom: 1px dotted #808080; padding-left; 10px;"><a href="/ueber-uns/mit-uns-zusammen-arbeiten/">&nbsp;&nbsp;Mit uns zusammen arbeiten</a></li>
+  <li style="border-bottom: 1px dotted #808080; padding-left; 10px;" {% if location[1] == 'geschichte' %}class="active" {% endif %}><a href="/ueber-uns/geschichte/">&nbsp;&nbsp;Geschichte</a></li>
+  <li style="border-bottom: 1px dotted #808080; padding-left; 10px;"><a href="/ueber-uns/jobs/">&nbsp;&nbsp;Jobs</a></li>
 </ul>
