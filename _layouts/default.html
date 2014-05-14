@@ -26,10 +26,6 @@
           <a href="/"><i class="fi-home"></i> Home</a>
         </li>
         <li class="divider hide-for-small"></li>
-      </ul>
-      <!-- Right Nav Section -->
-      <ul class="right">
-        <li class="divider hide-for-small"></li>
         <li
         {% if location == 'angebote' %}class="active" {% endif %}>
         <a href="/angebote/">
@@ -43,9 +39,13 @@
         {% if location == 'hintergrundwissen' %}class="active" {% endif %}><a href="/hintergrundwissen/">
         <i class="fi-list"></i> Hintergrundwissen</a></li>
         <li class="divider hide-for-small"></li>
-<!--        <li
-        {% if location == 'blog' %}class="active" {% endif %}><a href="/blog/">
-        <i class="fi-megaphone"></i> Blog</a></li>-->
+        <!--        <li
+                {% if location == 'blog' %}class="active" {% endif %}><a href="/blog/">
+                <i class="fi-megaphone"></i> Blog</a></li>-->
+      </ul>
+      <!-- Right Nav Section -->
+      <ul class="right">
+        <li class="has-form"><a href="/ueber-uns/kontakt/" class="button">Kontakt</a> </li>
       </ul>
     </section>
   </nav>

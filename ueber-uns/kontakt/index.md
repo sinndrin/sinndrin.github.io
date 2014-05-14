@@ -1,0 +1,36 @@
+---
+layout: two-columns
+title:  "Kontakt"
+---
+<!-- Kontakt -->
+<ul class="side-nav">
+  <li><a href="mailto:info@sinndrin.ch"><i class="fi-mail"></i> info@sinndrin.ch</a></li>
+  <li><i class="fi-telephone"></i> 044 534 64 54</li>
+  <li><a href="#" data-reveal-id="addressModal"><i class="fi-map"></i> Alfred-Escher-Strasse 46 in
+    CH-8002 Zürich (Schweiz)</a></li>
+</ul>
+
+<!-- Reveal Modals begin -->
+<div id="addressModal" class="reveal-modal" data-reveal>
+  <h2>Adresse der sinndrin genossenschaft</h2>
+
+  <p>Alfred-Escher-Strasse 46, CH-8002 Zürich, Schweiz</p>
+  <!-- data-interchange begin -->
+  <div
+      data-interchange="[/ueber-uns/kontakt/default.html, (small)], [/ueber-uns/kontakt/medium.html, (medium)], [/ueber-uns/kontakt/large.html, (large)]">
+    <div data-alert class="alert-box secondary radius">
+      <!-- default content begin -->
+      <!-- TODO: map auf ueber-uns auf google places ändern -->
+      <iframe width="280" height="280" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
+              src="https://maps.google.ch/maps?f=q&amp;source=s_q&amp;hl=de&amp;geocode=&amp;q=Alfred+Escher-Strasse+46,+8002+Z%C3%BCrich&amp;aq=&amp;sll=47.362067,8.533785&amp;sspn=0.010886,0.021672&amp;ie=UTF8&amp;hq=&amp;hnear=Alfred+Escher-Strasse+46,+Kreis+2,+8002+Z%C3%BCrich&amp;ll=47.362069,8.533781&amp;spn=0.010886,0.021672&amp;t=m&amp;z=14&amp;output=embed"></iframe>
+      <br/>
+      <small><a
+          href="https://maps.google.ch/maps?f=q&amp;source=embed&amp;hl=de&amp;geocode=&amp;q=Alfred+Escher-Strasse+46,+8002+Z%C3%BCrich&amp;aq=&amp;sll=47.362067,8.533785&amp;sspn=0.010886,0.021672&amp;ie=UTF8&amp;hq=&amp;hnear=Alfred+Escher-Strasse+46,+Kreis+2,+8002+Z%C3%BCrich&amp;ll=47.362069,8.533781&amp;spn=0.010886,0.021672&amp;t=m&amp;z=14"
+          style="color:#0000FF;text-align:left">Grössere Kartenansicht</a></small>
+      <!-- default content end -->
+    </div>
+  </div>
+  <!-- data-interchange end -->
+  <a class="close-reveal-modal">&#215;</a>
+</div>
+<!-- Reveal Modals end -->

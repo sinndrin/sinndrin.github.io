@@ -1,14 +1,15 @@
 ---
 layout: default
 ---
-<aside class="large-2 columns">
+<aside style="text-align:right;" class="large-2 columns">
+  <hr>
   {% capture location %}{{ page.url | remove_first:'/' | split:'/' | first }}{% endcapture %}
   {% if location != "" %}
   {% assign asideLocation = location | append:'.html' | prepend:'aside/' %}
   {% include {{asideLocation}} %}
   {% endif %}
 </aside>
-<div class="large-10 columns">
+<div class="large-7 columns">
   <!-- Breadcrumbs -->
   <div class="row">
     <div class="large-12 columns breadcrumb">
@@ -18,3 +19,6 @@ layout: default
   <h1>{{ page.title }}</h1>
   {{content}}
 </div>
+<aside class="large-3 columns">
+  {% include aside/contact.html %}
+</aside>
