@@ -1,4 +1,4 @@
 ---
 layout: two-columns
-title:  "Hintergrundwissen"
+title:  "Suffizienz"
 ---

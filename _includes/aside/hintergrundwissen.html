@@ -1,4 +1,9 @@
-<h5>Hintergrundwissen</h5>
+{% assign location = page.url | remove_first:'/' | split:'/' %}
 <ul class="side-nav">
-  <li><a href="/hintergrundwissen/suffizienz/">+ Suffizienz</a></li>
+  <li {% if location.size == 1 %}class="active" {% endif %}><a href="/hintergrundwissen/">Hintergrundgwissen</a></li>
+  <ul class="second">
+    <li {% if location[1] == 'suffizienz' %}class="active" {% endif %}><a href="/hintergrundwissen/suffizienz/">Suffizienz</a></li>
+    <li {% if location[1] == 'themenwege' %}class="active" {% endif %}><a href="/hintergrundwissen/themenwege/">Themenwege</a></li>
+    <li {% if location[1] == 'minutos' %}class="active" {% endif %}><a href="/hintergrundwissen/minutos/">Minutos</a></li>
+  </ul>
 </ul>
