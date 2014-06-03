@@ -6,11 +6,41 @@ html {
   overflow-y:scroll;
 }
 /* ******************************************************************************************************* */
+/* globals */
+div > h1 {
+/*  background-color: rgb(0, 138, 184);
+  background-color: rgba(0, 138, 184, 0.80);
+  color: white;*/
+  padding-left: rem-calc(12);
+  border-bottom: 1px solid #808080;
+  border-left: 1px solid #808080;
+  padding-top: rem-calc(24);
+}
+body > div {
+  background-image: url(/images/design/noise.png);
+  background-repeat: both;
+}
+/* ******************************************************************************************************* */
 /* side bar */
 aside ul.side-nav {
   padding-top: 0px;
   padding-bottom: 0px;
+  > li {
+    border-bottom: 1px dotted #808080;
+    border-top: 1px dotted #808080;
+    margin-bottom: 0px;
+  }
+  .second, .third {
+    margin-left: rem-calc(10);
+    margin-bottom: 0px;
+    li {
+      border-bottom: 1px dotted #808080;
+      list-style: none;
+      margin-bottom: 0px;
+    }
+  }
 }
+
 /* ******************************************************************************************************* */
 /* angebote */
 .angebote-img {
