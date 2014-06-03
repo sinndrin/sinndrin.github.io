@@ -24,7 +24,7 @@ layout: default
 <aside class="large-2 columns">
   {% if location != "" %}
   {% assign asideLocation = location | append:'.html' | prepend:'aside/' %}
-  {% include {{asideLocation}} %}
+    {% include {{asideLocation}} %}
   {% endif %}
 </aside>
 <div class="large-10 columns">

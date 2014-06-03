@@ -1,9 +1,13 @@
 <!-- Über uns -->
 <!--<h5>Über uns</h5>-->
-{% assign location %}{{ page.url | remove_first:'/' | split:'/' }}{% endcapture %}
+{% assign location = page.url | remove_first:'/' | split:'/' %}
 <ul class="side-nav">
-  <li style="border-bottom: 1px dotted #808080;"><a href="/ueber-uns/">Über uns</a></li>
-  <li style="border-bottom: 1px dotted #808080; padding-left; 10px;"><a href="/ueber-uns/mit-uns-zusammen-arbeiten/">&nbsp;&nbsp;Mit uns zusammen arbeiten</a></li>
-  <li style="border-bottom: 1px dotted #808080; padding-left; 10px;" {% if location[1] == 'geschichte' %}class="active" {% endif %}><a href="/ueber-uns/geschichte/">&nbsp;&nbsp;Geschichte</a></li>
-  <li style="border-bottom: 1px dotted #808080; padding-left; 10px;"><a href="/ueber-uns/jobs/">&nbsp;&nbsp;Jobs</a></li>
+  <li {% if location.size == 1 %}class="active" {% endif %}><a href="/ueber-uns/">Über uns</a></li>
+  <ul class="second">
+    <li {% if location[1] == 'kontakt' %}class="active" {% endif %}><a href="/ueber-uns/kontakt/">Kontakt</a></li>
+    <li {% if location[1] == 'team' %}class="active" {% endif %}><a href="/ueber-uns/team/">Team</a></li>
+    <li {% if location[1] == 'mit-uns-zusammen-arbeiten' %}class="active" {% endif %}><a href="/ueber-uns/mit-uns-zusammen-arbeiten/">Mit uns zusammen arbeiten</a></li>
+    <li {% if location[1] == 'geschichte' %}class="active" {% endif %}><a href="/ueber-uns/geschichte/">Geschichte</a></li>
+    <li {% if location[1] == 'jobs' %}class="active" {% endif %}><a href="/ueber-uns/jobs/">Jobs</a></li>
+  </ul>
 </ul>
