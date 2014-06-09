@@ -1,14 +1,20 @@
 {% assign location = page.url | remove_first:'/' | split:'/' %}
 <ul class="side-nav">
   <li {% if location.size == 1 %}class="active" {% endif %}><a href="/angebote/">Angebote</a></li>
+  <!-- Bildung -->
   <ul class="second">
-    <li {% if location[1] == 'bildung' and location.size == 2 %}class="active" {% endif %}><a href="/angebote/bildung/">Bildung</a></li>
-    {% if location[1] == 'bildung' %}
+    {% assign secondPath = 'bildung' %}
+    {% assign secondName = 'Bildung' %}
+    <li {% if location[1] == secondPath and location.size == 2 %}class="active" {% endif %}><a href="/angebote/{{secondPath}}/">{{secondName}}</a></li>
+    {% if location[1] == secondPath %}
     <ul class="third">
-      <li {% if location[2] == 'begleitung' %}class="active" {% endif %}><a href="/angebote/bildung/begleitung/">Begleitung</a></li>
+      {% assign thirdPath = 'bachelor-und-semsterarbeiten-begleiten' %}
+      {% assign thirdName = 'Begleitung' %}
+      <li {% if location[2] == thirdPath  and location.size == 3 %}class="active" {% endif %}><a href="/angebote/{{secondPath}}/{{thirdPath}}/">{{thirdName}}</a></li>
     </ul>
     {% endif %}
   </ul>
+  <!-- Energie -->
   <ul class="second">
     <li {% if location[1] == 'energie' %}class="active" {% endif %}><a href="/angebote/energie/">Energie</a></li>
     {% if location[1] == 'energie' %}
@@ -18,6 +24,7 @@
     </ul>
     {% endif %}
   </ul>
+  <!-- Suffizienz -->
   <ul class="second">
     <li {% if location[1] == 'suffizienz' %}class="active" {% endif %}><a href="/angebote/suffizienz/">Suffizienz</a></li>
     {% if location[1] == 'suffizienz' %}
