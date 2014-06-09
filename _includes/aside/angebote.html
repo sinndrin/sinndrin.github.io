@@ -2,22 +2,28 @@
 <ul class="side-nav">
   <li {% if location.size == 1 %}class="active" {% endif %}><a href="/angebote/">Angebote</a></li>
   <ul class="second">
-    <li {% if location[1] == 'bildung' %}class="active" {% endif %}><a href="/angebote/bildung/">Bildung</a></li>
+    <li {% if location[1] == 'bildung' and location.size == 2 %}class="active" {% endif %}><a href="/angebote/bildung/">Bildung</a></li>
+    {% if location[1] == 'bildung' %}
     <ul class="third">
       <li {% if location[2] == 'begleitung' %}class="active" {% endif %}><a href="/angebote/bildung/begleitung/">Begleitung</a></li>
     </ul>
+    {% endif %}
   </ul>
   <ul class="second">
     <li {% if location[1] == 'energie' %}class="active" {% endif %}><a href="/angebote/energie/">Energie</a></li>
+    {% if location[1] == 'energie' %}
     <ul class="third">
       <li {% if location[2] == 'energieberatung' %}class="active" {% endif %}><a href="/angebote/energie/energieberatung/">Energieberatung</a></li>
       <li {% if location[2] == 'energieanzeigen' %}class="active" {% endif %}><a href="/angebote/energie/energieanzeigen/">Energieanzeigen</a></li>
     </ul>
+    {% endif %}
   </ul>
   <ul class="second">
     <li {% if location[1] == 'suffizienz' %}class="active" {% endif %}><a href="/angebote/suffizienz/">Suffizienz</a></li>
+    {% if location[1] == 'suffizienz' %}
     <ul class="third">
       <li {% if location[2] == 'suffizienz-in-zuerich-erleben' %}class="active" {% endif %}><a href="/angebote/suffizienz/suffizienz-in-zuerich-erleben/">Suffizienz in Zürich erleben</a></li>
     </ul>
+    {% endif %}
   </ul>
 </ul>
