@@ -1,0 +1,34 @@
+---
+layout: one-column
+title: Workflow
+---
+{% assign inspectors = "gt,rs,jl,rh" | split: "," %}
+<div class="panel">
+  <h2>Nach der Kontrolle den Seitenstatus auf kontrolliert setzen</h2>
+  <p>Ist die Seite kontrolliert worden, kann auf der entsprechenden Seite <b>inspectorOk: true</b> vermerkt werden.</p>
+</div>
+<h2>Seiten die noch zu prüfen sind</h2>
+{% for inspector in inspectors %}
+<h3>{{inspector}}</h3>
+<h4>posts</h4>
+<ul>
+  {% for post in site.posts %}
+  {% if post.ownerOk == true and post.inspectorOk != true and post.inspector == inspector %}
+  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endif %}
+  {% endfor %}
+</ul>
+<h4>pages</h4>
+<ul>
+  {% for page in site.pages %}
+  {% if page.layout != nil %}
+  {% if page.layout != 'feed' %}
+  {% if page.ownerOk == true and page.inspectorOk != true and page.inspector == inspector %}
+  <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+  {% endif %}
+  {% endif %}
+  {% endif %}
+  {% endfor %}
+</ul>
+<hr>
+{% endfor %}
