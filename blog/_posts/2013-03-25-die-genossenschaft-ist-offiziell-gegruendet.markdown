@@ -4,6 +4,7 @@ title: "Die Genossenschaft ist offiziell gegründet"
 subtitle: "Das Handelsregisteramt Zürich hat uns aufgenommen. Wir legen los."
 image: /images/blog/gruendung.jpg
 date: 2014-03-10 19:02:21
+published: false
 categories: blog
 tags:
  - Raphael Hagmann
