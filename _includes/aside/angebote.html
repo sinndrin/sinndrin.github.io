@@ -11,6 +11,9 @@
       {% assign thirdPath = 'bachelor-und-semsterarbeiten-begleiten' %}
       {% assign thirdName = 'Bachelor- und Semsterarbeiten begleiten' %}
       <li {% if location[2] == thirdPath  and location.size == 3 %}class="active" {% endif %}><a href="/angebote/{{secondPath}}/{{thirdPath}}/">{{thirdName}}</a></li>
+      {% assign thirdPath = 'schulbesuche' %}
+      {% assign thirdName = 'Schulbesuche' %}
+      <li {% if location[2] == thirdPath  and location.size == 3 %}class="active" {% endif %}><a href="/angebote/{{secondPath}}/{{thirdPath}}/">{{thirdName}}</a></li>
     </ul>
     {% endif %}
   </ul>

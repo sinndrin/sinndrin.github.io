@@ -1,7 +1,10 @@
 <nav class="breadcrumbs">
   <a href="/">Home</a>
   {% assign crumbs = page.url | split: '/' %}
+  {% assign previous="" %}
   {% for crumb in crumbs offset:1 %}
-    <a href="/{{crumb}}/" {% if crumbs.last == crumb %}class="current"{% endif %}>{{ crumb | remove: '.html' | replace: "-"," " | replace: "ueber uns","über uns" | replace: "suffizienz in zuerich erleben","suffizienz in zürich erleben" }}</a>
+<!-- TODO: breadcrumbs nach 2. level richtig verlinken -->
+    {% capture previous %}{{ previous }}/{{ crumb }}{% endcapture %}
+    <a href="{{previous}}/" {% if crumbs.last == crumb %}class="current"{% endif %}>{{ crumb | remove: '.html' | replace: "-"," " | replace: "ueber uns","über uns" | replace: "suffizienz in zuerich erleben","suffizienz in zürich erleben" }}</a>
   {% endfor %}
 </nav>
