@@ -118,10 +118,12 @@ $body-bg: #fff;
 // $include-html-type-classes: $include-html-classes;
 
 // We use these to control header font styles
+@import url(http://fonts.googleapis.com/css?family=PT+Serif:700);
 // $header-font-family: $body-font-family;
+$header-font-family: 'PT Serif', serif;
 // $header-font-weight: normal;
 // $header-font-style: normal;
-// $header-font-color: #222;
+$header-font-color: rgb(0, 140, 186);
 // $header-line-height: 1.4;
 // $header-top-margin: .2rem;
 // $header-bottom-margin: .5rem;
