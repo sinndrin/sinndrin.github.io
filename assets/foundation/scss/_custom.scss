@@ -6,6 +6,20 @@ html {
   overflow-y:scroll;
 }
 /* ******************************************************************************************************* */
+/* small screens */
+// TODO: zusammenfügen von small und medium media queries
+@media #{$small-only} {
+  aside ul {
+    background-color: lightgrey;
+  }
+}
+@media #{$medium-only} {
+  aside ul {
+    background-color: lightgrey;
+  }
+}
+
+/* ******************************************************************************************************* */
 /* globals */
 div > h1 {
   // TODO: fix this hack to display the title horizontally aligned to the text
