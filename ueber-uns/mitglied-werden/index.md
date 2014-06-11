@@ -8,5 +8,5 @@ title:  "Mitglied werden"
 * Strebst du eine Selbstständigkeit an, hast aber keine Lust auf den administrativen Aufwand bezüglich Gründung und Buchhaltung?
 
 
-###Vielleicht ist die sinndrin genossenschaft eine passende Plattform für dich. 
-###Im gemeinsamen Gespräch können Ideen getauscht und Synergien gefunden werden.
+######Vielleicht ist die sinndrin genossenschaft eine passende Plattform für dich. 
+######Im gemeinsamen Gespräch können Ideen getauscht und Synergien gefunden werden.
