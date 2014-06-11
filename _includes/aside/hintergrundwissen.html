@@ -1,9 +1,66 @@
 {% assign location = page.url | remove_first:'/' | split:'/' %}
 <ul class="side-nav">
   <li {% if location.size == 1 %}class="active" {% endif %}><a href="/hintergrundwissen/">Hintergrundgwissen</a></li>
+  <!-- Erlebnispfade -->
+  <ul class="second">
+    {% assign secondPath = 'erlebnispfade' %}
+    {% assign secondName = 'Erlebnispfade' %}
+    <li {% if location[1] == secondPath and location.size == 2 %}class="active" {% endif %}><a href="/hintergrundwissen/{{secondPath}}/">{{secondName}}</a></li>
+    {% if location[1] == secondPath %}
+      <ul class="third">
+      {% assign thirdPath = 'theorie-erlebnispfade' %}
+      {% assign thirdName = 'Theorie Erlebnispfade' %}
+      <li {% if location[2] == thirdPath and location.size == 3 %}class="active" {% endif %}><a href="/hintergrundwissen/{{secondPath}}/{{thirdPath}}/">{{thirdName}}</a></li>
+      {% if location[2] == thirdPath %}
+        <ul class="fourth">
+        {% assign fourthPath = 'historische-entwicklung' %}
+        {% assign fourthName = 'Historische Entwicklung' %}
+        <li {% if location[3] == fourthPath and location.size == 4 %}class="active" {% endif %}><a href="/hintergrundwissen/{{secondPath}}/{{thirdPath}}/{{fourthPath}}/">{{fourthName}}</a></li>
+        {% assign fourthPath = 'vom-lehrpfad-zum-erlebnispfad' %}
+        {% assign fourthName = 'Vom Lehrpfad zum Erlebnispfad' %}
+        <li {% if location[3] == fourthPath and location.size == 4 %}class="active" {% endif %}><a href="/hintergrundwissen/{{secondPath}}/{{thirdPath}}/{{fourthPath}}/">{{fourthName}}</a></li>
+        {% assign fourthPath = 'definition-und-abgrenzung-des-erlebnispfades' %}
+        {% assign fourthName = 'Definition und Abgrenzung des Erlebnispfades' %}
+        <li {% if location[3] == fourthPath and location.size == 4 %}class="active" {% endif %}><a href="/hintergrundwissen/{{secondPath}}/{{thirdPath}}/{{fourthPath}}/">{{fourthName}}</a></li>
+        {% assign fourthPath = 'vermittlungsmethoden' %}
+        {% assign fourthName = 'Vermittlungs&shy;methoden' %}
+        <li {% if location[3] == fourthPath and location.size == 4 %}class="active" {% endif %}><a href="/hintergrundwissen/{{secondPath}}/{{thirdPath}}/{{fourthPath}}/">{{fourthName}}</a></li>
+        {% assign fourthPath = 'medien' %}
+        {% assign fourthName = 'Medien' %}
+        <li {% if location[3] == fourthPath and location.size == 4 %}class="active" {% endif %}><a href="/hintergrundwissen/{{secondPath}}/{{thirdPath}}/{{fourthPath}}/">{{fourthName}}</a></li>
+      </ul>
+      {% endif %}
+      {% assign thirdPath = 'konzeptschritte-eines-erlebnispfades' %}
+      {% assign thirdName = 'Konzeptschritte eines Erlebnispfades' %}
+      <li {% if location[2] == thirdPath and location.size == 3 %}class="active" {% endif %}><a href="/hintergrundwissen/{{secondPath}}/{{thirdPath}}/">{{thirdName}}</a></li>
+      {% if location[2] == thirdPath %}
+        <ul class="fourth">
+        {% assign fourthPath = 'thema' %}
+        {% assign fourthName = 'Thema' %}
+        <li {% if location[3] == fourthPath and location.size == 4 %}class="active" {% endif %}><a href="/hintergrundwissen/{{secondPath}}/{{thirdPath}}/{{fourthPath}}/">{{fourthName}}</a></li>
+        {% assign fourthPath = 'ziele' %}
+        {% assign fourthName = 'Ziele' %}
+        <li {% if location[3] == fourthPath and location.size == 4 %}class="active" {% endif %}><a href="/hintergrundwissen/{{secondPath}}/{{thirdPath}}/{{fourthPath}}/">{{fourthName}}</a></li>
+        {% assign fourthPath = 'zielgruppe' %}
+        {% assign fourthName = 'Zielgruppe' %}
+        <li {% if location[3] == fourthPath and location.size == 4 %}class="active" {% endif %}><a href="/hintergrundwissen/{{secondPath}}/{{thirdPath}}/{{fourthPath}}/">{{fourthName}}</a></li>
+        {% assign fourthPath = 'wegfuehrung' %}
+        {% assign fourthName = 'Wegführung' %}
+        <li {% if location[3] == fourthPath and location.size == 4 %}class="active" {% endif %}><a href="/hintergrundwissen/{{secondPath}}/{{thirdPath}}/{{fourthPath}}/">{{fourthName}}</a></li>
+        {% assign fourthPath = 'vermittlungsmethoden' %}
+        {% assign fourthName = 'Vermittlungs&shy;methoden' %}
+        <li {% if location[3] == fourthPath and location.size == 4 %}class="active" {% endif %}><a href="/hintergrundwissen/{{secondPath}}/{{thirdPath}}/{{fourthPath}}/">{{fourthName}}</a></li>
+      </ul>
+      {% endif %}
+    </ul>
+    {% endif %}
+  </ul>
+  <!-- Minutos -->
+  <ul class="second">
+    <li {% if location[1] == 'minutos' %}class="active" {% endif %}><a href="/hintergrundwissen/minutos/">Minutos</a></li>
+  </ul>
+  <!-- Suffizienz -->
   <ul class="second">
     <li {% if location[1] == 'suffizienz' %}class="active" {% endif %}><a href="/hintergrundwissen/suffizienz/">Suffizienz</a></li>
-    <li {% if location[1] == 'themenwege' %}class="active" {% endif %}><a href="/hintergrundwissen/themenwege/">Themenwege</a></li>
-    <li {% if location[1] == 'minutos' %}class="active" {% endif %}><a href="/hintergrundwissen/minutos/">Minutos</a></li>
   </ul>
 </ul>

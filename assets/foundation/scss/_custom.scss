@@ -31,7 +31,7 @@ aside ul.side-nav {
     border-top: 1px dotted #808080;
     margin-bottom: 0px;
   }
-  .second, .third {
+  .second, .third, .fourth {
     margin-left: rem-calc(10);
     margin-bottom: 0px;
     li {
@@ -40,6 +40,12 @@ aside ul.side-nav {
       margin-bottom: 0px;
     }
   }
+}
+
+/* ******************************************************************************************************* */
+/* leadimages */
+.leadimage {
+  margin: 5px;
 }
 
 /* ******************************************************************************************************* */
