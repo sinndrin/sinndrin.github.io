@@ -3,6 +3,6 @@ layout: two-columns
 title:  "Mit uns zusammen arbeiten"
 ---
 
-Wir möchten mit anderen gut zusammen arbeiten können. Um das dafür nötige kooperative Klima herzustellen und aufrecht zu erhalten, sind wir so transparent wir möglich.
+Die sinndrin genossenschaft ist offen für jeglich Anfragen zur Umsetzung deiner Idee, zur Unterstützung deines Projektes oder zur Mitgestaltung einer besseren Zukunft.
 
-Haben Sie ein Projekt das Ihnen schon lange im Kopf herum geistert und wollen, dass es verwirklicht wird. Kontaktieren Sie uns. Im gemeinsamen Gespräch können Ideen getasucht und Synergien gefunden werden.
+Scheue dich nicht uns zu kontakieren egal wie wild, verrückt oder simple deine Idee ist. Wir erfreuen uns jedweder neuen Zusammenarbeit und Herausforderung.
