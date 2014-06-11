@@ -2,4 +2,6 @@
 
 ## Bildformate
 
-* Angebote: 248x100
+* Angebote:
+  * 1 Spalte: 803x100
+  * 3 Spalten: 248x100

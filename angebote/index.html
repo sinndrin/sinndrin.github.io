@@ -2,15 +2,16 @@
 layout: two-columns
 title:  "Angebote"
 ---
+<!-- lead row -->
 <div class="row">
   <div class="small-12 columns">
     <div class="angebote-img mit-uns-zusammen-arbeiten"><h5><span>Mit uns zusammen arbeiten</span></h5></div>
     <p>
-      Die sinndrin genossenschaft ist offen für jeglich Anfragen zur Umsetzung deiner Idee, zur Unterstützung deines Projektes oder zur Mitgestaltung einer besseren Zukunft. Scheue dich nicht uns zu kontakieren egal wie wild, verrückt oder simple deine Idee ist. Wir erfreuen uns jedweder neuen Zusammenarbeit und Herausforderung.
+      Die sinndrin genossenschaft ist offen für Anfragen zur Umsetzung deiner Idee, zur Unterstützung deines Projektes oder zur Mitgestaltung einer besseren Zukunft. Scheue dich nicht uns zu kontakieren egal wie wild, verrückt oder simple deine Idee ist. Wir erfreuen uns jedweder neuen Zusammenarbeit und Herausforderung.
     </p>
   </div>
 </div>
-
+<!-- first row -->
 <div class="row" data-equalizer>
   <div class="large-4 columns" data-equalizer-watch>
     <div class="angebote-img bildung"><h5><span>Bildung</span></h5></div>
@@ -18,7 +19,7 @@ title:  "Angebote"
       <ul class="side-nav">
         {% for post in site.categories.angebote %}
         {% if post.tags[0] == "Bildung" %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        <li><a class="button expand small" href="{{ post.url }}">{{ post.title }}</a></li>
         {% endif %}
         {% endfor %}
       </ul>
@@ -30,7 +31,7 @@ title:  "Angebote"
       <ul class="side-nav">
         {% for post in site.categories.angebote %}
         {% if post.tags[0] == "Energie" %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        <li><a class="button expand small" href="{{ post.url }}">{{ post.title }}</a></li>
         {% endif %}
         {% endfor %}
       </ul>
@@ -42,51 +43,49 @@ title:  "Angebote"
       <ul class="side-nav">
         {% for post in site.categories.angebote %}
         {% if post.tags[0] == "Suffizienz" %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        <li><a class="button expand small" href="{{ post.url }}">{{ post.title }}</a></li>
         {% endif %}
         {% endfor %}
       </ul>
     </div>
   </div>
 </div>
-
 <!-- second row -->
-
 <div class="row" data-equalizer>
+  <div class="large-4 columns" data-equalizer-watch>
+    <div class="angebote-img administration-und-it"><h5><span>Administration und IT</span></h5></div>
+    <div class="angebote-administration-und-it">
+      <ul class="side-nav">
+        {% for post in site.categories.angebote %}
+        {% if post.tags[0] == "Administration-und-IT" %}
+        <li><a class="button expand small" href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
   <div class="large-4 columns" data-equalizer-watch>
     <a href="/angebote/fairphone/"><div class="angebote-img fairphone"><h5><span>Fairphone</span></h5></div></a>
     <div class="angebote-fairphone">
       <ul class="side-nav">
         {% for post in site.categories.angebote %}
         {% if post.tags[0] == "Fairphone" %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        <li><a class="button expand small" href="{{ post.url }}">{{ post.title }}</a></li>
         {% endif %}
         {% endfor %}
       </ul>
     </div>
   </div>
-  <div class="large-4 columns end" data-equalizer-watch>
+  <div class="large-4 columns" data-equalizer-watch>
     <a href="/angebote/fachbuecherboerse/"><div class="angebote-img fachbuecherboerse"><h5><span>Fachbücherbörse</span></h5></div></a>
     <div class="angebote-fachbuecherboerse">
       <ul class="side-nav">
         {% for post in site.categories.angebote %}
         {% if post.tags[0] == "Fachbuecherboerse" %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        <li><a class="button expand small" href="{{ post.url }}">{{ post.title }}</a></li>
         {% endif %}
         {% endfor %}
       </ul>
     </div>
   </div>
-  <!--<div class="large-4 columns" data-equalizer-watch>
-    <div class="angebote-img energie"></div>
-    <div class="angebote-suffizienz">
-      <ul class="side-nav">
-        {% for post in site.categories.angebote %}
-        {% if post.tags[0] == "Suffizienz" %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-        {% endif %}
-        {% endfor %}
-      </ul>
-    </div>
-  </div>-->
 </div>

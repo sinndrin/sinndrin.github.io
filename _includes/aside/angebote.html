@@ -41,5 +41,28 @@
       <li {% if location[2] == thirdPath and location.size == 3 %}class="active" {% endif %}><a href="/angebote/{{secondPath}}/{{thirdPath}}/">{{thirdName}}</a></li>
     </ul>
     {% endif %}
+    <!-- Administration und IT -->
+    {% assign secondPath = 'administration-und-it' %}
+    {% assign secondName = 'Administration und IT' %}
+    <li {% if location[1] == secondPath and location.size == 2 %}class="active" {% endif %}><a href="/angebote/{{secondPath}}/">{{secondName}}</a></li>
+    {% if location[1] == secondPath %}
+    <ul class="third">
+      {% assign thirdPath = 'geschaeftsprozesse-optimieren' %}
+      {% assign thirdName = 'Geschäftspro&shy;zes&shy;se optimieren' %}
+      <li {% if location[2] == thirdPath and location.size == 3 %}class="active" {% endif %}><a href="/angebote/{{secondPath}}/{{thirdPath}}/">{{thirdName}}</a></li>
+      {% assign thirdPath = 'webdesign' %}
+      {% assign thirdName = 'Webdesign' %}
+      <li {% if location[2] == thirdPath and location.size == 3 %}class="active" {% endif %}><a href="/angebote/{{secondPath}}/{{thirdPath}}/">{{thirdName}}</a></li>
+    </ul>
+    {% endif %}
+    <!-- Fairphone -->
+    {% assign secondPath = 'fairphone' %}
+    {% assign secondName = 'Fairphone' %}
+    <li {% if location[1] == secondPath and location.size == 2 %}class="active" {% endif %}><a href="/angebote/{{secondPath}}/">{{secondName}}</a></li>
+    <!-- Fachbücherbörse -->
+    {% assign secondPath = 'fachbuecherboerse' %}
+    {% assign secondName = 'Fachbücherbörse' %}
+    <li {% if location[1] == secondPath and location.size == 2 %}class="active" {% endif %}><a href="/angebote/{{secondPath}}/">{{secondName}}</a></li>
+
   </ul>
 </ul>
