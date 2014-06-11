@@ -11,10 +11,11 @@ div > h1 {
 /*  background-color: rgb(0, 138, 184);
   background-color: rgba(0, 138, 184, 0.80);
   color: white;*/
+  // TODO: fix this hack to display the title horizontally aligned to the text
   padding-left: rem-calc(12);
-  border-bottom: 1px solid #808080;
-  border-left: 1px solid #808080;
-  padding-top: rem-calc(24);
+  //padding-top: rem-calc(24);
+/*  border-bottom: 1px solid #808080;
+  border-left: 1px solid #808080;*/
 }
 body > div {
   background-image: url(/images/design/noise.png);
@@ -53,7 +54,7 @@ aside ul.side-nav {
 .angebote-img {
   position: relative;
   height: 100px;
-  widht: 100%;
+  width: 248px;
   h5 span {
     position: absolute;
     bottom: 0px;
@@ -66,15 +67,15 @@ aside ul.side-nav {
 }
 .angebote-img.bildung {
   background-image: url(/images/angebote/bildung.jpg);
-  background-repeat: none;
+  background-repeat: no-repeat;
 }
 .angebote-img.energie {
   background-image: url(/images/angebote/energie.jpg);
-  background-repeat: none;
+  background-repeat: no-repeat;
 }
 .angebote-img.suffizienz {
   background-image: url(/images/angebote/suffizienz.jpg);
-  background-repeat: none;
+  background-repeat: no-repeat;
 }
 /* ******************************************************************************************************* */
 /* blog */
