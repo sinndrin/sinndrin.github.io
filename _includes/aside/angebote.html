@@ -1,8 +1,8 @@
 {% assign location = page.url | remove_first:'/' | split:'/' %}
 <ul class="side-nav">
   <li {% if location.size == 1 %}class="active" {% endif %}><a href="/angebote/">Angebote</a></li>
-  <!-- Bildung -->
   <ul class="second">
+    <!-- Bildung -->
     {% assign secondPath = 'bildung' %}
     {% assign secondName = 'Bildung' %}
     <li {% if location[1] == secondPath and location.size == 2 %}class="active" {% endif %}><a href="/angebote/{{secondPath}}/">{{secondName}}</a></li>
@@ -10,29 +10,35 @@
     <ul class="third">
       {% assign thirdPath = 'bachelor-und-semsterarbeiten-begleiten' %}
       {% assign thirdName = 'Bachelor- und Semsterarbeiten begleiten' %}
-      <li {% if location[2] == thirdPath  and location.size == 3 %}class="active" {% endif %}><a href="/angebote/{{secondPath}}/{{thirdPath}}/">{{thirdName}}</a></li>
+      <li {% if location[2] == thirdPath and location.size == 3 %}class="active" {% endif %}><a href="/angebote/{{secondPath}}/{{thirdPath}}/">{{thirdName}}</a></li>
       {% assign thirdPath = 'schulbesuche' %}
       {% assign thirdName = 'Schulbesuche' %}
-      <li {% if location[2] == thirdPath  and location.size == 3 %}class="active" {% endif %}><a href="/angebote/{{secondPath}}/{{thirdPath}}/">{{thirdName}}</a></li>
+      <li {% if location[2] == thirdPath and location.size == 3 %}class="active" {% endif %}><a href="/angebote/{{secondPath}}/{{thirdPath}}/">{{thirdName}}</a></li>
     </ul>
     {% endif %}
-  </ul>
-  <!-- Energie -->
-  <ul class="second">
-    <li {% if location[1] == 'energie' %}class="active" {% endif %}><a href="/angebote/energie/">Energie</a></li>
-    {% if location[1] == 'energie' %}
+    <!-- Energie -->
+    {% assign secondPath = 'energie' %}
+    {% assign secondName = 'Energie' %}
+    <li {% if location[1] == secondPath and location.size == 2 %}class="active" {% endif %}><a href="/angebote/{{secondPath}}/">{{secondName}}</a></li>
+    {% if location[1] == secondPath %}
     <ul class="third">
-      <li {% if location[2] == 'energieberatung' %}class="active" {% endif %}><a href="/angebote/energie/energieberatung/">Energieberatung</a></li>
-      <li {% if location[2] == 'energieanzeigen' %}class="active" {% endif %}><a href="/angebote/energie/energieanzeigen/">Energieanzeigen</a></li>
+      {% assign thirdPath = 'energieanzeigen' %}
+      {% assign thirdName = 'Energieanzeigen' %}
+      <li {% if location[2] == thirdPath and location.size == 3 %}class="active" {% endif %}><a href="/angebote/{{secondPath}}/{{thirdPath}}/">{{thirdName}}</a></li>
+      {% assign thirdPath = 'energieberatung' %}
+      {% assign thirdName = 'Energieberatung' %}
+      <li {% if location[2] == thirdPath and location.size == 3 %}class="active" {% endif %}><a href="/angebote/{{secondPath}}/{{thirdPath}}/">{{thirdName}}</a></li>
     </ul>
     {% endif %}
-  </ul>
-  <!-- Suffizienz -->
-  <ul class="second">
-    <li {% if location[1] == 'suffizienz' %}class="active" {% endif %}><a href="/angebote/suffizienz/">Suffizienz</a></li>
-    {% if location[1] == 'suffizienz' %}
+    <!-- Suffizienz -->
+    {% assign secondPath = 'suffizienz' %}
+    {% assign secondName = 'Suffizienz' %}
+    <li {% if location[1] == secondPath and location.size == 2 %}class="active" {% endif %}><a href="/angebote/{{secondPath}}/">{{secondName}}</a></li>
+    {% if location[1] == secondPath %}
     <ul class="third">
-      <li {% if location[2] == 'suffizienz-in-zuerich-erleben' %}class="active" {% endif %}><a href="/angebote/suffizienz/suffizienz-in-zuerich-erleben/">Suffizienz in Zürich erleben</a></li>
+      {% assign thirdPath = 'suffizienz-in-zuerich-erleben' %}
+      {% assign thirdName = 'Suffizienz in Zürich erleben' %}
+      <li {% if location[2] == thirdPath and location.size == 3 %}class="active" {% endif %}><a href="/angebote/{{secondPath}}/{{thirdPath}}/">{{thirdName}}</a></li>
     </ul>
     {% endif %}
   </ul>

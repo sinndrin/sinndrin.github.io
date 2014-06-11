@@ -1,8 +1,8 @@
 {% assign location = page.url | remove_first:'/' | split:'/' %}
 <ul class="side-nav">
-  <li {% if location.size == 1 %}class="active" {% endif %}><a href="/hintergrundwissen/">Hintergrundgwissen</a></li>
-  <!-- Erlebnispfade -->
+  <li {% if location.size == 1 %}class="active" {% endif %}><a href="/hintergrundwissen/">Hintergrundwissen</a></li>
   <ul class="second">
+    <!-- Erlebnispfade -->
     {% assign secondPath = 'erlebnispfade' %}
     {% assign secondName = 'Erlebnispfade' %}
     <li {% if location[1] == secondPath and location.size == 2 %}class="active" {% endif %}><a href="/hintergrundwissen/{{secondPath}}/">{{secondName}}</a></li>
@@ -54,17 +54,11 @@
       {% endif %}
     </ul>
     {% endif %}
-  </ul>
-  <!-- Jobs im Umweltbereich -->
-  <ul class="second">
+    <!-- Jobs im Umweltbereich -->
     <li {% if location[1] == 'jobs-im-umweltbereich' %}class="active" {% endif %}><a href="/hintergrundwissen/jobs-im-umweltbereich/">Jobs im Umweltbereich</a></li>
-  </ul>
-  <!-- Minutos -->
-  <ul class="second">
+    <!-- Minutos -->
     <li {% if location[1] == 'minutos' %}class="active" {% endif %}><a href="/hintergrundwissen/minutos/">Minutos</a></li>
-  </ul>
-  <!-- Suffizienz -->
-  <ul class="second">
+    <!-- Suffizienz -->
     <li {% if location[1] == 'suffizienz' %}class="active" {% endif %}><a href="/hintergrundwissen/suffizienz/">Suffizienz</a></li>
   </ul>
 </ul>
