@@ -111,25 +111,28 @@ aside {
     color: white;
     background: rgb(0, 0, 0); /* fallback color */
     background: rgba(0, 0, 0, 0.8);
+    background-repeat: no-repeat;
     padding: 10px;
   }
 }
 .angebote-img.bildung {
   background-image: url(/images/angebote/bildung.jpg);
-  background-repeat: no-repeat;
 }
 .angebote-img.energie {
   background-image: url(/images/angebote/energie.jpg);
-  background-repeat: no-repeat;
 }
 .angebote-img.suffizienz {
   background-image: url(/images/angebote/suffizienz.jpg);
-  background-repeat: no-repeat;
+}
+.angebote-img.fachbuecherboerse {
+  background-image: url(/images/angebote/fachbuecherboerse.jpg);
+}
+.angebote-img.fairphone {
+  background-image: url(/images/angebote/fairphone.jpg);
 }
 .angebote-img.mit-uns-zusammen-arbeiten {
   width: 100%;
   background-image: url(/images/angebote/mit-uns-zusammen-arbeiten.jpg);
-  background-repeat: no-repeat;
 }
 /* ******************************************************************************************************* */
 /* blog */

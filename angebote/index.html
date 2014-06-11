@@ -49,34 +49,35 @@ title:  "Angebote"
     </div>
   </div>
 </div>
+
 <!-- second row -->
-    <!--
+
 <div class="row" data-equalizer>
   <div class="large-4 columns" data-equalizer-watch>
-    <div class="angebote-img suffizienz"></div>
-    <div class="angebote-bildung">
+    <a href="/angebote/fairphone/"><div class="angebote-img fairphone"><h5><span>Fairphone</span></h5></div></a>
+    <div class="angebote-fairphone">
       <ul class="side-nav">
         {% for post in site.categories.angebote %}
-        {% if post.tags[0] == "Bildung" %}
+        {% if post.tags[0] == "Fairphone" %}
         <li><a href="{{ post.url }}">{{ post.title }}</a></li>
         {% endif %}
         {% endfor %}
       </ul>
     </div>
   </div>
-  <div class="large-4 columns" data-equalizer-watch>
-    <div class="angebote-img bildung"></div>
-    <div class="angebote-energie">
+  <div class="large-4 columns end" data-equalizer-watch>
+    <a href="/angebote/fachbuecherboerse/"><div class="angebote-img fachbuecherboerse"><h5><span>Fachbücherbörse</span></h5></div></a>
+    <div class="angebote-fachbuecherboerse">
       <ul class="side-nav">
         {% for post in site.categories.angebote %}
-        {% if post.tags[0] == "Energie" %}
+        {% if post.tags[0] == "Fachbuecherboerse" %}
         <li><a href="{{ post.url }}">{{ post.title }}</a></li>
         {% endif %}
         {% endfor %}
       </ul>
     </div>
   </div>
-  <div class="large-4 columns" data-equalizer-watch>
+  <!--<div class="large-4 columns" data-equalizer-watch>
     <div class="angebote-img energie"></div>
     <div class="angebote-suffizienz">
       <ul class="side-nav">
@@ -87,6 +88,5 @@ title:  "Angebote"
         {% endfor %}
       </ul>
     </div>
-  </div>
+  </div>-->
 </div>
--->
