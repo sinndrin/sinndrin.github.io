@@ -8,3 +8,6 @@
 
 * Hintergrundwissen:
   * 132x264
+
+* Team:
+  * 150x150, rund
