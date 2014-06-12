@@ -27,13 +27,13 @@
         </li>
         <li class="divider hide-for-small"></li>
         <li
+        {% if location == 'ueber-uns' %}class="active" {% endif %}><a href="/ueber-uns/">
+        <i class="fi-plus"></i> Über uns</a></li>
+        <li class="divider hide-for-small"></li>
+        <li
         {% if location == 'angebote' %}class="active" {% endif %}>
         <a href="/angebote/">
           <i class="fi-book"></i> Angebote</a></li>
-        <li class="divider hide-for-small"></li>
-        <li
-        {% if location == 'ueber-uns' %}class="active" {% endif %}><a href="/ueber-uns/">
-        <i class="fi-plus"></i> Über uns</a></li>
         <li class="divider hide-for-small"></li>
         <li
         {% if location == 'hintergrundwissen' %}class="active" {% endif %}><a href="/hintergrundwissen/">

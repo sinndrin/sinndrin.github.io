@@ -4,10 +4,11 @@ title:  "Kontakt"
 ---
 <!-- Kontakt -->
 <ul class="side-nav">
-  <li><a href="mailto:info@sinndrin.ch"><i class="fi-mail"></i> info@sinndrin.ch</a></li>
+  <li><a href="#" data-reveal-id="addressModal"><i class="fi-map"></i> Alfred-Escher-Strasse 46<br>
+    <i class="fi-map" style="opacity:0.0; filter:alpha(opacity=00);"></i> CH-8002 Zürich<br>
+    <i class="fi-map" style="opacity:0.0; filter:alpha(opacity=00);"></i> Schweiz</a></li>
   <li><i class="fi-telephone"></i> 044 534 64 54</li>
-  <li><a href="#" data-reveal-id="addressModal"><i class="fi-map"></i> Alfred-Escher-Strasse 46 in
-    CH-8002 Zürich (Schweiz)</a></li>
+  <li><a href="mailto:info@sinndrin.ch"><i class="fi-mail"></i> info@sinndrin.ch</a></li>
 </ul>
 
 <!-- Reveal Modals begin -->
