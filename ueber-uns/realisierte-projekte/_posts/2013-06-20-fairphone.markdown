@@ -1,7 +1,7 @@
 ---
 layout: projekt
 categories: projekte
-permalink: /projekte/fairphone-sammelbestellung/
+permalink: /ueber-uns/realisierte-projekte/fairphone-sammelbestellung/
 image: /images/projekte/fairphone-sammelbestellung.jpg
 title: "Fairphone I"
 subtitle: "Sammelbestellung für die Schweiz"

@@ -1,7 +1,7 @@
 ---
 layout: projekt
 categories: projekte
-permalink: /projekte/präsentation-recycling/
+permalink: /ueber-uns/realisierte-projekte/praesentation-recycling/
 image: tbd
 title: "Präsentation Recycling"
 subtitle: "Präsentation über Recycling mit praktischer Umsetzung"

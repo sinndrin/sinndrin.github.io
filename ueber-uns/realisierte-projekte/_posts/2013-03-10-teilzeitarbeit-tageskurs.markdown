@@ -1,7 +1,7 @@
 ---
 layout: projekt
 categories: projekte
-permalink: /projekte/teilzeitarbeit-tageskurs/
+permalink: /ueber-uns/projekte/teilzeitarbeit-tageskurs/
 image: /images/projekte/teilzeitarbeit-tageskurs.jpg
 title: "Teilzeitarbeit"
 subtitle: "Tageskurs für die ZFH"

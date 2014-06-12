@@ -1,7 +1,7 @@
 ---
 layout: projekt
 categories: projekte
-permalink: /projekte/fairphone-logistik/
+permalink: /ueber-uns/realisierte-projekte/fairphone-logistik/
 image: tbd
 title: "Fairphone II"
 subtitle: "Logistik für zweiten Batch"

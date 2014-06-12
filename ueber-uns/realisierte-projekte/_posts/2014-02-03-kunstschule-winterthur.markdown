@@ -1,7 +1,7 @@
 ---
 layout: projekt
 categories: projekte
-permalink: /projekte/kunstschule-winterthur/
+permalink: /ueber-uns/realisierte-projekte/kunstschule-winterthur/
 image: tbd
 title: "Kunstschule Winterthur"
 subtitle: "tbd"
