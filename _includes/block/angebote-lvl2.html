@@ -6,7 +6,7 @@
       </div>
       <div class="medium-8 columns">
         <h3>{{ post.title }}</h3>
-        <p>{{ post.subtitle }}</p>
+        <p>{{ post.content | strip_html | truncatewords: 20 }} <span style="background-color: rgb(0, 140, 186); color: white; padding: 0px 4px 0px 4px;">&rarr; mehr</span></p>
       </div>
     </a>
     <div class="small-12 columns">
