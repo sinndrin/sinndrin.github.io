@@ -135,12 +135,19 @@ aside {
 }
 .angebote-img.mit-uns-zusammen-arbeiten {
   width: 100%;
+  max-width: 803px;
   background-image: url(/images/angebote/mit-uns-zusammen-arbeiten.jpg);
 }
-.side-nav a.button.expand {
+.side-nav a.button.expand, .side-nav a.panel {
+  /* panel */
+  text-align: center;
+  padding-right: 0px;
+  padding-left: 0px;
+  /* button & panel */
   margin-bottom: 7px;
   padding-top: 6px;
   padding-bottom: 7px;
+  max-width: 248px;
 }
 /* ******************************************************************************************************* */
 /* blog */
