@@ -11,3 +11,6 @@
 
 * Team:
   * 150x150, rund
+
+## Icons
+[Verfügbare Icons](http://zurb.com/playground/foundation-icon-fonts-3)
