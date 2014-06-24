@@ -12,5 +12,8 @@
 * Team:
   * 150x150, rund
 
+* Realisierte Projekte:
+  * 248x100
+
 ## Icons
 [Verfügbare Icons](http://zurb.com/playground/foundation-icon-fonts-3)
