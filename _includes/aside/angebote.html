@@ -8,8 +8,8 @@
     <li {% if location[1] == secondPath and location.size == 2 %}class="active" {% endif %}><a href="/angebote/{{secondPath}}/">{{secondName}}</a></li>
     {% if location[1] == secondPath %}
     <ul class="third">
-      {% assign thirdPath = 'bachelor-und-semsterarbeiten-begleiten' %}
-      {% assign thirdName = 'Bachelor- und Semsterarbeiten begleiten' %}
+      {% assign thirdPath = 'diplomarbeiten-begleiten' %}
+      {% assign thirdName = 'Diplomarbeiten begleiten' %}
       <li {% if location[2] == thirdPath and location.size == 3 %}class="active" {% endif %}><a href="/angebote/{{secondPath}}/{{thirdPath}}/">{{thirdName}}</a></li>
       {% assign thirdPath = 'schulbesuche' %}
       {% assign thirdName = 'Schulbesuche' %}
