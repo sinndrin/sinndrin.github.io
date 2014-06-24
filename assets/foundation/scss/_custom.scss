@@ -186,3 +186,8 @@ div.thumb {
   box-shadow: 0px 0px 6px white;
 }
 /* ******************************************************************************************************* */
+/* a links schriftfarbe schwärzen: hintergrundwissen, realisierte projekte,  */
+
+div.row.clearfix > a > div > p, div.realisiertes-projekt > a > div > p {
+  color: rgb(34, 34, 34);
+}
