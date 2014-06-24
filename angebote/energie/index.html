@@ -1,0 +1,11 @@
+---
+layout: two-columns
+title: Energie
+---
+<p>Aliquam quis placerat ipsum, sed convallis orci. Duis facilisis nulla eu molestie faucibus. Sed justo nisi, elementum id quam in, gravida consectetur risus. Pellentesque tempor sit amet mauris vitae consectetur [Einleitungstext]</p>
+<h2>Unsere Angebote</h2>
+{% for post in site.categories.angebote %}
+{% if post.tags[0] == "Energie" %}
+{% include block/angebote-lvl2.html %}
+{% endif %}
+{% endfor %}

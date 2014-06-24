@@ -4,6 +4,7 @@ categories: angebote
 tags:
   - Bildung
 permalink: /angebote/bildung/schulbesuche/
+image: http://placehold.it/248x100
 title: "Schulbesuche"
 ---
 
