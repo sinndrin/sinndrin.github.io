@@ -9,7 +9,9 @@ layout: default
 {% endfor %}
 <div class="large-9 columns content">
   <div id="blog">
-    <h1>{{ page.title }}</h1>
+    <div class="row">
+      <h1>{{ page.title }}</h1>
+    </div>
     <div class="meta"><i class="fi-marker"></i> <a href="{{currentpost.permalink}}">{{ page.tags[0] }}</a> |
       <!-- Whitespace added for readability -->
       {% assign m = page.date | date: "%-m" %}
@@ -31,6 +33,7 @@ layout: default
       {{ page.date | date: "%Y" }}</div>
 
     <div class="post">
+      <div class="thumb" style="background-image:url({{ page.image }})"></div>
       {{ content }}
     </div>
   </div>
@@ -39,7 +42,7 @@ layout: default
 <div class="large-3 columns aside">
   <br>
   <div class="byline">
-    <span class="thumb team" style="background-image:url({{currentpost.image-thumb}})"></span>
+    <span class="thumb team" style="background-image:url({{currentpost.image}})"></span>
     <span class="text team"><a href="{{currentpost.permalink}}">{{currentpost.title}}</a> {{currentpost.byline}}</span>
   </div>
 </div>

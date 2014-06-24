@@ -22,26 +22,23 @@
       <ul class="left">
         <li class="divider hide-for-small"></li>
         {% capture location %}{{ page.url | remove_first:'/' | split:'/' | first }}{% endcapture %}
-        <li>
-          <a href="/"><i class="fi-home"></i> Home</a>
-        </li>
+        <li><a href="/"><i class="fi-home"></i> Home</a></li>
         <li class="divider hide-for-small"></li>
         <li
-        {% if location == 'ueber-uns' %}class="active" {% endif %}><a href="/ueber-uns/">
-        <i class="fi-plus"></i> Über uns</a></li>
+          {% if location == 'ueber-uns' %}class="active" {% endif %}><a href="/ueber-uns/">
+          <i class="fi-plus"></i> Über uns</a></li>
         <li class="divider hide-for-small"></li>
         <li
-        {% if location == 'angebote' %}class="active" {% endif %}>
-        <a href="/angebote/">
-          <i class="fi-book"></i> Angebote</a></li>
+          {% if location == 'angebote' %}class="active" {% endif %}>
+          <a href="/angebote/"><i class="fi-book"></i> Angebote</a></li>
         <li class="divider hide-for-small"></li>
         <li
-        {% if location == 'hintergrundwissen' %}class="active" {% endif %}><a href="/hintergrundwissen/">
-        <i class="fi-list"></i> Hintergrundwissen</a></li>
+          {% if location == 'hintergrundwissen' %}class="active" {% endif %}><a href="/hintergrundwissen/">
+          <i class="fi-list"></i> Hintergrundwissen</a></li>
         <li class="divider hide-for-small"></li>
-        <!--        <li
-                {% if location == 'blog' %}class="active" {% endif %}><a href="/blog/">
-                <i class="fi-megaphone"></i> Blog</a></li>-->
+        <li
+          {% if location == 'blog' %}class="active" {% endif %}><a href="/blog/">
+          <i class="fi-megaphone"></i> Blog</a></li>
       </ul>
       <!-- Right Nav Section -->
       <ul class="right">
