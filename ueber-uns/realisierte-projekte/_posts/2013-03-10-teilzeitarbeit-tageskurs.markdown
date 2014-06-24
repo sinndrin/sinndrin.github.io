@@ -1,5 +1,5 @@
 ---
-layout: projekt
+layout: two-columns
 categories: projekte
 permalink: /ueber-uns/projekte/teilzeitarbeit-tageskurs/
 image: /images/projekte/teilzeitarbeit-tageskurs.jpg

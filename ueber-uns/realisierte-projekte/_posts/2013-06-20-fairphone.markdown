@@ -1,5 +1,5 @@
 ---
-layout: projekt
+layout: two-columns
 categories: projekte
 permalink: /ueber-uns/realisierte-projekte/fairphone-sammelbestellung/
 image: /images/projekte/fairphone-sammelbestellung.jpg

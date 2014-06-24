@@ -2,22 +2,21 @@
 layout: two-columns
 title: Realisierte Projekte
 ---
+{% for post in site.categories.realisierte-projekte %}
 <div class="row">
-  <div class="projekte">
-    {% for post in site.categories.realisierte-projekte %}
-    <div class="large-4 medium-6 small-12 columns">
-      <a href="{{ post.url }}">
-        <article>
-          <div class="project-thumb"><img src="{{ post.image }}"></div>
-          <div class="project-title">
-            <h1>{{ post.title }}</h1>
-          </div>
-          <div class="project-subtitle">
-            <h5>{{ post.subtitle }}</h5>
-          </div>
-        </article>
-      </a>
+  <div class="realisiertes-projekt">
+    <a href="{{ post.url }}">
+      <div class="medium-4 columns">
+        <img src="{{ post.image }}">
+      </div>
+      <div class="medium-8 columns">
+        <h3>{{ post.title }}</h3>
+        <h5>{{ post.subtitle }}</h5>
+      </div>
+    </a>
+    <div class="small-12 columns">
+      <hr>
     </div>
-    {% endfor %}
   </div>
 </div>
+{% endfor %}

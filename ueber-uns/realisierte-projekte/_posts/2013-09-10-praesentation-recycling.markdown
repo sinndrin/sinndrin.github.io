@@ -1,8 +1,8 @@
 ---
-layout: projekt
+layout: two-columns
 categories: projekte
 permalink: /ueber-uns/realisierte-projekte/praesentation-recycling/
-image: tbd
+image: http://placehold.it/248x100
 title: "Präsentation Recycling"
 subtitle: "Präsentation über Recycling mit praktischer Umsetzung"
 tags:

@@ -2,7 +2,7 @@
 layout: two-columns
 categories: projekte
 permalink: /ueber-uns/realisierte-projekte/el-sog/
-image: /images/projekte/el-sog.jpg
+image: /images/projekte/el-sog-2012.jpg
 title: "EL SOG 2012 / 2013"
 subtitle: "Speed Dating und Zeitgutscheine"
 tags:

@@ -1,8 +1,8 @@
 ---
-layout: projekt
+layout: two-columns
 categories: projekte
 permalink: /ueber-uns/realisierte-projekte/kunstschule-winterthur/
-image: tbd
+image: http://placehold.it/248x100
 title: "Kunstschule Winterthur"
 subtitle: "tbd"
 tags:
