@@ -17,3 +17,11 @@
 
 ## Icons
 [Verfügbare Icons](http://zurb.com/playground/foundation-icon-fonts-3)
+
+## Inhalte hinzufügen oder entfernen
+
+###Angebot hinzufügen
+
+1. neue Datei anlegen: /angebote/_posts/
+2. Menüeintrag hinzufügen: /_includes_aside_angebote.html
+3. Wenn Umlaute oder Sonderzeichen enthalten, replace in breadcrumbs: /_includes/breadcrumbs.html
