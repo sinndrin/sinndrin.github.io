@@ -149,6 +149,12 @@ aside {
   padding-bottom: 7px;
   max-width: 248px;
 }
+/* angebote underlined */
+.side-nav li {
+  border-color: rgb(128, 128, 128);
+  border-style: dotted;
+  border-width: 0px 0px 1px 0px;
+}
 /* ******************************************************************************************************* */
 /* blog */
 div.thumb {
