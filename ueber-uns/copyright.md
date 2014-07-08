@@ -6,7 +6,7 @@ Alle Werke bzw. Inhalte von [www.sinndrin.ch](/) die nicht andersweitig gekennze
 
 ## Namensnennung
 
-Die Namensnennung ist erfüllt, wenn mindestens der Wortlaut **sinndrin genossenschaft** verwendet wird. Bei digitalen Inhalten muss zudem der Wortlaut zur Adresse **http://www.sinndrin.ch** verlinkt werden.
+Die Namensnennung ist erfüllt, wenn mindestens der Wortlaut **sinndrin genossenschaft** verwendet wird. Bei digitalen Inhalten muss zudem der Wortlaut zur Adresse **http://www.sinndrin.ch** oder der zum Werk passenden Unterseite verlinkt werden.
 
 ## Einzelnachweise
 

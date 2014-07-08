@@ -8,7 +8,7 @@ title:  "Impressum"
 Alfred-Escher-Strasse 46<br>
 8002 Zürich<br>
 <i class="fi-telephone"></i> 044 534 64 54<br>
-<a href="mailto:info@sinndrin.ch"><i class="fi-mail"></i> webmaster@sinndrin.ch</a>
+<a href="mailto:webmaster@sinndrin.ch"><i class="fi-mail"></i> webmaster@sinndrin.ch</a>
 
 ### Konzeption, Usability Tests, Umsetzung und Betrieb
 

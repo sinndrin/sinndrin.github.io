@@ -25,3 +25,10 @@
 1. neue Datei anlegen: /angebote/_posts/
 2. Menüeintrag hinzufügen: /_includes_aside_angebote.html
 3. Wenn Umlaute oder Sonderzeichen enthalten, replace in breadcrumbs: /_includes/breadcrumbs.html
+
+## Inhaltsvorgaben
+
+###Einleitungsabsatz bei Angebotskategorien (z.B. "Bildung" oder "Energie")
+
+* Was wollen wir anbieten?
+* Warum wollen wir das tun? Was ist unsere Motivation dafür?
