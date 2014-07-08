@@ -2,7 +2,7 @@
 layout: two-columns
 categories: projekte
 permalink: /ueber-uns/projekte/teilzeitarbeit-tageskurs/
-image: /images/projekte/teilzeitarbeit-tageskurs.jpg
+image: /images/ueber-uns/realisierte-projekte/teilzeitarbeit-tageskurs.jpg
 title: "Teilzeitarbeit"
 subtitle: "Tageskurs für die ZFH"
 tags:

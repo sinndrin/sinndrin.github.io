@@ -2,8 +2,8 @@
 layout: two-columns
 categories: projekte
 permalink: /ueber-uns/realisierte-projekte/ik-kinesiologiepraxis-ch/
-image: http://placehold.it/248x100
-title: "ik-kinesiologiepraxis.ch"
+image: /images/ueber-uns/realisierte-projekte/webdesign-ik-kinesiologiepraxis-ch.jpg
+title: "Webdesign für die IK-Kinesiologiepraxis"
 subtitle: "Webdesign, Programmierung und Webhosting"
 tags:
   - Roger Schärer

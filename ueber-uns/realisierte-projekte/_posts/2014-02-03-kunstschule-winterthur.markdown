@@ -2,10 +2,10 @@
 layout: two-columns
 categories: projekte
 permalink: /ueber-uns/realisierte-projekte/kunstschule-winterthur/
-image: http://placehold.it/248x100
-title: "Kunstschule Winterthur"
+image: /images/ueber-uns/realisierte-projekte/kunstschule.jpg
+title: "Prozessoptimierung für die Kunstschule"
 subtitle: "tbd"
 tags:
   - Roger Schärer
 ---
- tbd
+ http://www.vorkurs-propaedeutikum.ch/

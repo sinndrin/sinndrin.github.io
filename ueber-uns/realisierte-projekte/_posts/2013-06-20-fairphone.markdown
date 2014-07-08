@@ -2,7 +2,7 @@
 layout: two-columns
 categories: projekte
 permalink: /ueber-uns/realisierte-projekte/fairphone-crowdfunding-unterstuetzung/
-image: /images/projekte/fairphone-sammelbestellung.jpg
+image: /images/ueber-uns/realisierte-projekte/fairphone-sammelbestellung.jpg
 title: "Fairphone Crowdfunding-Unterstützung"
 subtitle: "Sammelbestellung des ersten Fairphones in der Schweiz"
 tags:

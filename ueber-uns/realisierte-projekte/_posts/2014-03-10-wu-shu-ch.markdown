@@ -1,9 +1,9 @@
 ---
 layout: two-columns
 categories: projekte
-permalink: /ueber-uns/realisierte-projekte/wu-shu/
-image: http://placehold.it/248x100
-title: "www.wu-shu.ch"
+permalink: /ueber-uns/realisierte-projekte/wu-shu-center-oberland/
+image: /images/ueber-uns/realisierte-projekte/webdesign-wu-shu.jpg
+title: "Webdesign für das Wu Shu Center"
 subtitle: "Webdesign, Programmierung und Webhosting"
 tags:
   - Roger Schärer
