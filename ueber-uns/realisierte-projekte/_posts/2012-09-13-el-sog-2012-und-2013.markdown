@@ -1,10 +1,10 @@
 ---
 layout: two-columns
 categories: projekte
-permalink: /ueber-uns/realisierte-projekte/el-sog/
+permalink: /ueber-uns/realisierte-projekte/lernspiel-el-sog/
 image: /images/ueber-uns/realisierte-projekte/el-sog-2012.jpg
-title: "EL SOG 2012 / 2013"
-subtitle: "Speed Dating und Zeitgutscheine"
+title: "Lernspiel El Sog"
+subtitle: "Speed Dating mit Zeitgutscheinen"
 tags:
   - Felix Rusterholz
   - Georg Trapp
@@ -12,5 +12,8 @@ tags:
   - Raphael Hagmann
   - Roger Schärer
 ---
+Für die beiden ZHAW Startwochen 2012 und 2013 am Departement LSFM wurde ein (Lern-)Spiel konzipiert, welches spielerisch die Idee der Nachhaltigkeit den Studierenden nahe bringt. Dabei wurden, im Stile von Speeddating, Zeitgutscheine erstellt und zwischen den Studierenden ausgetauscht. Die Zeitgutscheine basieren auf dem Konzept von [Minutocash](http://www.minutocash.org/).
 
-Für die ZHAW Startwoche am Departement LSFM wurde ein (Lern-)Spiel konzipiert, welches spielerisch die Idee der Nachhaltigkeit den Studierenden nahe bringt. Es basiert auf dem Konzept der Zeitgutscheine Minutos (http://minutocash.org/). Die Startwoche ist eine Kennenlern- und Einführungswoche für neue Studierende, die an der ZHAW Wädenswil das Studium beginnen.
+Ziel war es den Studierenden aufzuzeigen wie man sich ohne finanzielle Mittel gegenseitig unterstützen und seine eigenen Fähigkeiten zum Einsatz bringen kann.
+
+Das Lernspiel wurde von jeweils ca. 450 Studierenden pro Jahr besucht.
