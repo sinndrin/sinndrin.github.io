@@ -21,9 +21,9 @@ Die Fachbücherbörse wurde das erste mal im Jahr 2014 in Wädenswil durchgefüh
 
 ##Konzept
 
-Vor dem Semester- oder Schuljahresende wird Schulintern eine Büchersammlung durchgeführt. Die gesammelten Fachbücher werden jeweils zu Beginn des neuen Semesters den Studierenden zum Verkauf angeboten. Nicht verkaufte Bücher werden weiterhin Online aufgelistet und können jederzeit gekauft werden.
+<img class="leadimage right" width="180" title="Fachbücherbörse" src="/images/angebote/fachbuecherboerse_sub_logo.jpg"> Vor dem Semester- oder Schuljahresende wird Schulintern eine Büchersammlung durchgeführt. Die gesammelten Fachbücher werden jeweils zu Beginn des neuen Semesters den Studierenden zum Verkauf angeboten. Nicht verkaufte Bücher werden weiterhin Online aufgelistet und können jederzeit gekauft werden.
 
-##Die sinndrin genossenschaft bietet
+##Unsere Dienstleistungen
 
 * Know-How und Beratung
 * Organisation der Sammlung
