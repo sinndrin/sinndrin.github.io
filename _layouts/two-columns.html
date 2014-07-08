@@ -8,8 +8,7 @@ layout: default
   </div>
   <div class="large-10 columns breadcrumb">
     <div class="hide-for-large-up right">
-      <a name="pagetop"></a> <!-- set anchor for back to page top link at bottom -->
-      <a href="#subnav"><small><i class="fi-arrow-down"></i> zum Inhaltsverzeichnis</small></a>
+      <a name="pagetop" href="#subnav"><small><i class="fi-arrow-down"></i> zum Inhaltsverzeichnis</small></a>
     </div>
     {% include breadcrumbs.html %}
   </div>
@@ -24,9 +23,8 @@ layout: default
 </div>
 <aside class="large-pull-10 large-2 columns">
   <div class="hide-for-large-up">
-    <div class="right"><a href="#pagetop"><small><i class="fi-arrow-up"></i> zum Seitenanfang</small></a></div>
+    <div class="right"><a name="subnav" href="#pagetop"><small><i class="fi-arrow-up"></i> zum Seitenanfang</small></a></div>
     <h3>Inhaltsverzeichnis</h3>
-    <a name="subnav"></a>
   </div>
   {% if location != "" %}
   {% assign asideLocation = location | append:'.html' | prepend:'aside/' %}
