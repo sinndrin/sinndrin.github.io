@@ -2,7 +2,7 @@
 layout: two-columns
 title:  "Erlebnispfade"
 ---
-<p>Erlebnispfade werden h&auml;ufig eingesetzt um Umweltbildung zu betreiben. Dieser Artikel gibt interessierten Personen einen wissenschaftlichen &Uuml;berblick &uuml;ber die Thematik der Erlebnispfade und behnadelt drei Aspekte: Darlegung der historischen Entwicklung vom Lehrpfad zum Erlebnispfad, Herleitung der Definition f&uuml;r den Begriff Erlebnispfad und Erkl&auml;rung der n&ouml;tigen Schritte f&uuml;r die Konzeption eines Erlebnispfades.</p>
+<p><img class="leadimage left" width="120" title="Erlebnispfade" src="/hintergrundwissen/erlebnispfade/erlebnispfade.jpg"> Erlebnispfade werden h&auml;ufig eingesetzt um Umweltbildung zu betreiben. Dieser Artikel gibt interessierten Personen einen wissenschaftlichen &Uuml;berblick &uuml;ber die Thematik der Erlebnispfade und behnadelt drei Aspekte: Darlegung der historischen Entwicklung vom Lehrpfad zum Erlebnispfad, Herleitung der Definition f&uuml;r den Begriff Erlebnispfad und Erkl&auml;rung der n&ouml;tigen Schritte f&uuml;r die Konzeption eines Erlebnispfades.</p>
 
 <p>Mit Hilfe der Recherche von Primär- und Sekundärliteratur zur Thematik der Lehrpfade und Erlebnispfade wurde die Theorie der Erlebnispfade dargelegt und die fünf didaktisch relevanten Schritte einer Erlebnispfadkonzeption durch das Darlegen der theoretischen Hintergr&uuml;nde abgehandelt.</p>
 
