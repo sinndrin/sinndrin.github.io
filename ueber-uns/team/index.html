@@ -2,53 +2,19 @@
 layout: two-columns
 title: Team
 ---
-<!-- Georg Trapp -->
+{% for post in site.categories.team %}
 <div class="row">
     <div class="small-4 medium-3 large-3 left columns">
-      <img src="/images/ueber-uns/team/georg.png">
+      <a href="{{post.url}}"><img src="{{ post.image }}"></a>
     </div>
     <div class="small-8 medium-9 large-9 columns">
-      <h2>Georg Trapp</h2>
-      <p>B. Sc. ZFH in Umweltingenieurwesen<br>
-        Weiterbildung<br>
-        Interessen<br>
-        Hobbies<br>
-        <a href="mailto:georg.trapp@sinndrin.ch"><i class="fi-mail"></i> georg.trapp@sinndrin.ch</a></p>
+      <a href="{{post.url}}"><h2>{{ post.title }}</h2></a>
+      <p><strong>{{ post.subtitle }}</strong><br>
+        {{ post.title}} {{ post.byline }}<br>
+        <a href="mailto:{{post.email}}"><i class="fi-mail"></i> {{post.email}}</a><br>
+        <a href="{{post.url}}"><i class="fi-arrow-right"></i> mehr erfahren</a>
+      </p>
     </div>
 </div>
 <hr>
-<!-- Roger Schärer -->
-<div class="row">
-    <div class="small-4 medium-3 large-3 left columns">
-      <img src="/images/ueber-uns/team/roger.png">
-    </div>
-    <div class="small-8 medium-9 large-9 columns">
-      <h2>Roger Schärer</h2>
-      <p>B. Sc. ZFH in Umweltingenieurwesen<br>
-        Betriebstechnologe FA und Elektroniker FA<br>
-        Roger entwickelt Projekte im Nach&shy;hal&shy;tig&shy;keits&shy;be&shy;reich. Er interessiert sich hauptsächlich für Umweltbildung, ist aber auch von Webdesign und Programmieren begeistert.<br>
-        Hobbies<br>
-        <a href="mailto:roger.schaerer@sinndrin.ch"><i class="fi-mail"></i> roger.schaerer@sinndrin.ch</a></p>
-    </div>
-</div>
-<hr>
-<!-- old layout with posts -->
-<!--{% for post in site.categories.team %}
-<div class="row">
-  <div class="large-12 columns">
-    <a href="{{ post.url }}">
-      <div class="team-image small-6 columns left">
-        <img src="{{ post.image }}">
-      </div>
-      <div class="small-6 columns right">
-        <div class="team-title">
-          <h4>{{ post.title }}</h4>
-        </div>
-        <div class="team-subtitle">
-          <h5>{{ post.subtitle }}</h5>
-        </div>
-      </div>
-    </a>
-  </div>
-</div>
-{% endfor %}-->
+{% endfor %}

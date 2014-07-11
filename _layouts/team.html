@@ -1,0 +1,17 @@
+---
+layout: two-columns
+---
+<div class="row">
+  <div class="small-4 medium-3 large-3 left columns">
+    <a href="{{ page.url }}"><img src="{{ page.image }}"></a>
+  </div>
+  <div class="small-8 medium-9 large-9 columns">
+    <a href="{{page.url}}"><h2>{{ page.title }}</h2></a>
+    <p>{{ page.subtitle }}<br>
+      <a href="mailto:{{page.email}}"><i class="fi-mail"></i> {{page.email}}</a></p>
+  </div>
+  <p>&nbsp;</p>
+  <div class="columns">
+    {{content}}
+  </div>
+</div>

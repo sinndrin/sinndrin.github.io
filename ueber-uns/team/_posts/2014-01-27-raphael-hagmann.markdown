@@ -4,8 +4,9 @@ category: team
 permalink: /ueber-uns/team/raphael-hagmann/
 
 title: "Raphael Hagmann"
-subtitle: Designer und Macher
+subtitle: B. Sc. ZFH in Umweltingenieurwesen
+email: raphael.hagmann@sinndrin.ch
 byline: "hat auch eine byline die nicht sehr lange ist."
-image: /images/ueber-uns/team/georg.png
+image: /images/ueber-uns/team/raphael.png
 ---
 Raphael not only heads our design team ...

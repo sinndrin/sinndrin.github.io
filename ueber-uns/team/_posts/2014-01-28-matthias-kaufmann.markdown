@@ -4,7 +4,8 @@ category: team
 permalink: /ueber-uns/team/matthias-kaufmann/
 
 title: "Matthias Kaufmann"
-subtitle: Mathologierer
-image: /images/ueber-uns/team/matthias.jpg
+subtitle: B. Sc.
+email: matthias.kaufmann@sinndrin.ch
+image: /images/ueber-uns/team/matthias.png
 ---
 Matthias not only heads our design team ...

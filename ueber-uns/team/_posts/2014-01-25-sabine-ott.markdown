@@ -4,7 +4,8 @@ category: team
 permalink: /ueber-uns/team/sabine-ott/
 
 title: "Sabine Ott"
-subtitle: Präsidentin
-image: /images/ueber-uns/team/sabine.jpg
+subtitle: "B. Sc. ZFH in Umweltingenieurwesen"
+email: sabine.ott@sinndrin.ch
+image: /images/ueber-uns/team/sabine.png
 ---
 Sabine not only heads our design team ...
