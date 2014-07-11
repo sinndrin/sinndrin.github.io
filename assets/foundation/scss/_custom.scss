@@ -5,6 +5,8 @@
 html {
   overflow-y:scroll;
 }
+/* anchors pushing to fix sticky header */
+a.anchor{display: block; position: relative; top: -45px; visibility: hidden;}
 /* ******************************************************************************************************* */
 /* small screens */
 // TODO: zusammenfügen von small und medium media queries
