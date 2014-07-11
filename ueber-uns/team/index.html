@@ -5,14 +5,14 @@ title: Team
 {% for post in site.categories.team %}
 <div class="row">
     <div class="small-4 medium-3 large-3 left columns">
-      <a href="{{post.url}}"><img src="{{ post.image }}"></a>
+      <a href="{{ post.url }}"><img src="{{ post.image }}"></a>
     </div>
     <div class="small-8 medium-9 large-9 columns">
-      <a href="{{post.url}}"><h2>{{ post.title }}</h2></a>
+      <a href="{{ post.url }}"><h2>{{ post.title }}</h2></a>
       <p><strong>{{ post.subtitle }}</strong><br>
-        {{ post.title}} {{ post.byline }}<br>
-        <a href="mailto:{{post.email}}"><i class="fi-mail"></i> {{post.email}}</a><br>
-        <a href="{{post.url}}"><i class="fi-arrow-right"></i> mehr erfahren</a>
+        {% if post.phone != "" %}<i class="fi-telephone"></i> {{ post.phone }}<br>{% endif %}
+        <a href="mailto:{{ post.email }}"><i class="fi-mail"></i> {{ post.email }}</a><br>
+        {{ post.title }} {{ post.byline }} <a href="{{ post.url }}"><i class="fi-arrow-right"></i> mehr</a>
       </p>
     </div>
 </div>
