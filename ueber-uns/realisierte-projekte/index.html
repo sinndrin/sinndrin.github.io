@@ -2,21 +2,8 @@
 layout: two-columns
 title: Realisierte Projekte
 ---
+<!-- BEGIN realisierte-projekte-list -->
 {% for post in site.categories.realisierte-projekte %}
-<div class="row">
-  <div class="realisiertes-projekt">
-    <a href="{{ post.url }}">
-      <div class="medium-4 columns">
-        <img src="{{ post.image }}">
-      </div>
-      <div class="medium-8 columns">
-        <h3>{{ post.title }}</h3>
-        <p>{{ post.subtitle }}</p>
-      </div>
-    </a>
-    <div class="small-12 columns">
-      <hr>
-    </div>
-  </div>
-</div>
+{% include block/realisierte-projekte-list.html %}
 {% endfor %}
+<!-- END realisierte-projekte-list -->

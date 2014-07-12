@@ -25,7 +25,7 @@ a.anchor{display: block; position: relative; top: -45px; visibility: hidden;}
 /* globals */
 div > h1 {
   // TODO: fix this hack to display the title horizontally aligned to the text
-  padding-left: rem-calc(12);
+  padding-left: rem-calc(10);
 }
 body > div {
   background-image: url(/images/design/noise.png);

@@ -14,78 +14,41 @@ layout: two-columns
     <br>
     {{content}}
   </div>
-  <!-- check if realisierte-projekte for the teammember exists -->
+  <!-- check if realisierte-projekte for the teammember exist -->
   {% for post in site.categories.realisierte-projekte %}
   {% if post.tags contains page.title %}
   {% assign hasProjectEntries = true %}
   {% endif %}
   {% endfor %}
-  <!-- populate blog entries if the teammember has some -->
-  {% if hasProjectEntries %}
+  {% if hasProjectEntries %} <!-- populate project entries if the teammember has some -->
   <div class="columns">
     <h2>Beteiligung an bisher realisierten Projekten</h2>
+    <!-- BEGIN realisierte-projekte-list -->
     {% for post in site.categories.realisierte-projekte %}
     {% if post.tags contains page.title %}
-    <div class="row">
-      <div class="realisiertes-projekt">
-        <a href="{{ post.url }}">
-          <div class="medium-4 columns">
-            <img src="{{ post.image }}">
-          </div>
-          <div class="medium-8 columns">
-            <h3>{{ post.title }}</h3>
-            <p>{{ post.subtitle }}</p>
-          </div>
-        </a>
-        <div class="small-12 columns">
-          <hr>
-        </div>
-      </div>
-    </div>
+    {% include block/realisierte-projekte-list.html %}
     {% endif %}
     {% endfor %}
+    <!-- END realisierte-projekte-list -->
   </div>
   {% endif %}
-  <!-- check if blog entries exist -->
+  <!-- check if blog entries for the teammember exist -->
   {% for post in site.categories.blog %}
   {% if post.tags contains page.title %}
   {% assign hasBlogEntries = true %}
   {% endif %}
   {% endfor %}
-  <!-- populate blog entries if the teammember has some -->
-  {% if hasBlogEntries %}
+  {% if hasBlogEntries %} <!-- populate blog entries if the teammember has some -->
   <div class="columns">
     <h2>Veröffentlichte Blogeinträge</h2>
     {% for post in site.categories.blog %}
     {% if post.tags contains page.title %}
-    <div class="large-12 columns">
-      <a href="{{ post.url }}">
-        <h2>{{ post.title }}</h2>
-
-        <div class="meta"><i class="fi-marker"></i> {{ post.tags }} |
-          <!-- Whitespace added for readability -->
-          {% assign m = post.date | date: "%-m" %}
-          {{ post.date | date: "%-d" }}
-          {% case m %}
-          {% when '1' %}Januar
-          {% when '2' %}Februar
-          {% when '3' %}M&auml;rz
-          {% when '4' %}April
-          {% when '5' %}Mai
-          {% when '6' %}Juni
-          {% when '7' %}Juli
-          {% when '8' %}August
-          {% when '9' %}September
-          {% when '10' %}Oktober
-          {% when '11' %}November
-          {% when '12' %}Dezember
-          {% endcase %}
-          {{ post.date | date: "%Y" }}
-        </div>
-        <div class="thumb" style="background-image:url({{ post.image }})"></div>
-        <h5>{{ post.subtitle }}</h5>
-      </a>
+    <div class="row">
+      <div id="blog">
+        {% include block/blog-list.html %}
+      </div>
     </div>
+    <hr>
     {% endif %}
     {% endfor %}
   </div>
