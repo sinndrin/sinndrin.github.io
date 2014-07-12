@@ -30,6 +30,11 @@
 
 ## Inhaltsvorgaben
 
+###Team Profil
+
+1. 1-2 Satz "byline" aus der 3. Person geschrieben. Z.B. "Maja Müller mag Mais."
+2. Auf der Profilseite kann der Text frei aus der 1. Person ausformuliert werden. Z.B. "Ich interessiere mich für Hunde."
+
 ###Einleitungsabsatz bei Angebotskategorien (z.B. "Bildung" oder "Energie")
 
 * Was wollen wir anbieten?

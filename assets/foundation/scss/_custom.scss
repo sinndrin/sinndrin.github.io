@@ -2,9 +2,7 @@
 /* main layout */
 /* ***************************************************** */
 /* fix centered layout for pages with and without vertical scroll */
-html {
-  overflow-y:scroll;
-}
+html{overflow-y:scroll;}
 /* anchors pushing to fix sticky header */
 a.anchor{display: block; position: relative; top: -45px; visibility: hidden;}
 /* ******************************************************************************************************* */
