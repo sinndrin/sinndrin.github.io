@@ -1,10 +1,28 @@
 /* ******************************************************************************************************* */
 /* main layout */
-/* ***************************************************** */
+
 /* fix centered layout for pages with and without vertical scroll */
 html{overflow-y:scroll;}
+
+/* noisy background */
+body {
+  background-image: url(/images/design/noise.png);
+  background-repeat: both;
+}
+
 /* anchors pushing to fix sticky header */
 a.anchor{display: block; position: relative; top: -45px; visibility: hidden;}
+
+/* abstand zwischen breadcrumbs und haupttitel*/
+.breadcrumbs {
+  margin-bottom: 20px;
+}
+
+/* display the title horizontally aligned to the text */
+div > h1 {
+  // TODO: fix this hack to display the title horizontally aligned to the text
+  padding-left: rem-calc(10);
+}
 /* ******************************************************************************************************* */
 /* small screens */
 // TODO: zusammenfügen von small und medium media queries
@@ -17,17 +35,6 @@ a.anchor{display: block; position: relative; top: -45px; visibility: hidden;}
   aside ul {
     background-color: lightgrey;
   }
-}
-
-/* ******************************************************************************************************* */
-/* globals */
-div > h1 {
-  // TODO: fix this hack to display the title horizontally aligned to the text
-  padding-left: rem-calc(10);
-}
-body > div {
-  background-image: url(/images/design/noise.png);
-  background-repeat: both;
 }
 /* ******************************************************************************************************* */
 /* side bar */
