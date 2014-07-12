@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<div id="blog" class="large-9 columns">
+  <div class="row">
+  <h1>{{ page.title }}</h1>
+  {% for post in site.categories.blog %}
+  {% include block/blog-list.html %}
+  {% endfor %}
+  </div>
+</div>
+<div class="large-3 columns aside">
+  <br>
+  <h4>Über die sinndrin genossenschaft</h4>
+  <div class="byline">
+    <span class="text team">Die sinndrin genossenschaft ist ein auf Nachhaltigkeit ausgerichtetes <a href="/ueber-uns/team/">Team</a> von Ingenieuren.
+
+    <br><br>Unsere Vision ist es <a href="/angebote/">sinnstiftende Projekte</a> umzusetzen, die der Gesellschaft von Nutzen sind. Dabei sind wir offen für <a href="/ueber-uns/realisierte-projekte/">alle Projekte</a> die unseren <a href="/ueber-uns/grundsaetze/">Grundsätzen</a> folgen. Die stetige Weiterentwicklung der Genossenschaft und ihrer <a href="/ueber-uns/team/">Mitglieder</a> ist uns wichtig, weshalb wir auch an der Bearbeitung neuer Themenbereiche interessiert.
+
+    <br><br>Neben der Realisierung von Projekten bieten wir eine Plattform für Menschen die nach den <a href="/ueber-uns/grundsaetze/">Grundsätzen</a> der Genossenschaft Aufträge und Projekte verwirklichen wollen.</span>
+  </div>
+</div>
