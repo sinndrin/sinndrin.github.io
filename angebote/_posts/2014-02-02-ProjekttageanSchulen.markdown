@@ -3,7 +3,7 @@ layout: two-columns
 categories: angebote
 tags:
   - Bildung
-permalink: /angebote/bildung/schulbesuche/
+permalink: /angebote/bildung/projekttage an schulen/
 image: http://placehold.it/248x100
 title: "Schulbesuche"
 ---
