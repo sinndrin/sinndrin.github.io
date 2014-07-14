@@ -5,7 +5,7 @@ tags:
   - Bildung
 permalink: /angebote/bildung/projekttage an schulen/
 image: http://placehold.it/248x100
-title: "Schulbesuche"
+title: "Projekttage an Schulen"
 ---
 
 Wir gestalten Umwelttage für Schulklassen aller Altersstufen. Ziel ist es, die junge Generation für Umweltbelange zu sensibilisieren. Wir erarbeiten die Sondertage individuell für jede Klasse und bieten zu verschiedensten Themen interessante Workshops. Im Vordergrund steht das Lernerlebnis. Den Schüler\_Innen wird eine möglichst interaktive Lernumgebung geboten. Es darf mit gestaltet, mit diskutiert, mit gebaut und mit gelacht werden. Unser Umweltbildungsangebot richtet sich nach ihrem Bedürfnis. Es ist uns wichtig, dass  Sondertage in den Lehrplan Ihres Unterrichtes passen. Aus diesem Grund wird vorab besprochen, welche Vorstellungen und Wünsche Sie haben und wie wir helfen können diese zu verwirklichen.
