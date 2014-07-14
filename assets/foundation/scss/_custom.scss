@@ -115,9 +115,9 @@ aside {
     position: absolute;
     bottom: 0px;
     left: 0px;
-    color: white;
+    color: black;
     background: rgb(0, 0, 0); /* fallback color */
-    background: rgba(0, 0, 0, 0.8);
+    background: rgba(255, 255, 255, 0.8);
     background-repeat: no-repeat;
     padding: 10px;
   }
@@ -161,6 +161,14 @@ aside {
   border-color: rgb(128, 128, 128);
   border-style: dotted;
   border-width: 0px 0px 1px 0px;
+}
+/* link zu realisierte projekte in angebot */
+a.realisierte-projekte-link-block {
+  color: rgb(34, 34, 34);
+  font-weight: bold;
+}
+a.realisierte-projekte-link-block:hover {
+  color: rgb(28, 202, 255);
 }
 /* ******************************************************************************************************* */
 /* blog */
