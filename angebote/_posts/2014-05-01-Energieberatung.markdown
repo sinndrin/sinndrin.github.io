@@ -3,12 +3,12 @@ layout: two-columns
 categories: angebote
 tags:
   - Energie
-permalink: /angebote/energie/energieberatung/
+permalink: /angebote/energie/anlagen/
 image: http://placehold.it/248x100
-title: "Energieberatung"
+title: "Planung und Beratung von Anlagen"
 ---
 
-Unser Team bietet ihnen Beratung, Planung und Beurteilungen zu erneuerbaren Energien und Energieeffizienzmassnahmen an. Um ihr Projekt zum Erfolg zu führen arbeiten wir auch mit externen Partnern zusammen.
+Unser Team bietet ihnen Beratung, Planung und Beurteilungen zu Anlagen im Bereich der erneuerbaren Energien an. Um ihr Projekt zum Erfolg zu führen arbeiten wir auch mit externen Partnern zusammen.
  
 Photovoltaik
 
@@ -26,15 +26,3 @@ Windenergieanlagen können im kleinen sowie im grossen Stil verwirklicht werden.
 Wasserkraft
 
 Dank neuen Technologien und ökologischen Ingenieurbauten wie Fischtreppen, lassen sich Wirtschaftlichkeit und Nachhaltigkeit vereinen. Wir beraten, planen und organisieren mit ihnen ihr Projekt von A bis Z.
-
-Negawatt
-
-Es ist günstiger eine Kilowattstunde einzusparen als eine zu produzieren. Darum bieten wir ihnen Energieberatungen für ihr Zuhause oder ihre Firma an.
-
-Heizungsersatz
-
-Ist ihre Heizung in die Jahre gekommen? Wir beraten sie gerne zu den neusten technischen Möglichkeiten um eine umweltfreundliche Wärme in ihr Haus zu bringen.
-
-Umbau
-
-Planen sie einen Umbau und möchten die energetische Effizienz mit berücksichtigen? Wir beraten sie gerne und geben Tipps und Tricks, die bei der Umsetzung angewendet werden können.
