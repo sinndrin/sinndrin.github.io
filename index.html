@@ -11,7 +11,6 @@ title: Home
       <p class="text-center"><br>...&nbsp;fördert faire Projekte.<br>
         ...&nbsp;setzt sich für die Energiewende ein.<br>
         ...&nbsp;unterstützt den effizienten Ressourceneinsatz.<br>
-        ...&nbsp;entrümpelt, entschleunigt, entflechtet und entkommerzialisiert.<br>
         ...&nbsp;sensibilisiert in Umweltthemen.<br>
         ...&nbsp;verbindet Menschen.</p>
       <h3 class="text-right">...&nbsp;macht alles was Sinn macht.</h3>
@@ -24,7 +23,7 @@ title: Home
       <div class="coulumns">
       <div class="panel">
         <a href="/angebote/">
-          <h2>Unsere Angebote</h2><br>
+          <h3>Unsere Angebote</h3><br>
           <!--<div class="angebote-img mit-uns-zusammen-arbeiten"><h5><span>Angebote</span></h5></div>-->
           <img src="/homepage-angebote.jpg">
         </a>
@@ -33,19 +32,44 @@ title: Home
       <div class="coulumns">
         <a href="/ueber-uns/realisierte-projekte/">
         <div class="panel">
-            <h2>Kürzlich abgeschlossene Projekte</h2><br>
-            <!-- BEGIN realisierte-projekte-list -->
-            {% for post in site.categories.realisierte-projekte limit:3 %}
-            {% include block/realisierte-projekte-list.html %}
-            {% endfor %}
-            <!-- END realisierte-projekte-list -->
+          <h3>Kürzlich abgeschlossene Projekte</h3><br>
+          <!-- BEGIN realisierte-projekte-list -->
+          {% for post in site.categories.realisierte-projekte limit:3 %}
+          {% include block/realisierte-projekte-list.html %}
+          {% endfor %}
+          <!-- END realisierte-projekte-list -->
+          <!-- BEGIN show a more entry with the number of entries -->
+          {% assign postsNum = 0 %}
+          {% for post in site.categories.realisierte-projekte %}
+          {% assign postsNum = postsNum | plus:1 %}
+          {% endfor %}
+          {% assign postsNum = postsNum | minus:3 %}
+          {% if postsNum > 0 %} <!-- only show if more than 3 entries exist -->
+          <div class="row">
+            <div class="realisiertes-projekt">
+              <a href="/ueber-uns/realisierte-projekte/">
+                <div class="medium-4 columns">
+                  <div class="panel callout show-for-large-up" style="width:206px; height: 83px;"><h1 class="text-center">+ {{postsNum}}</h1></div>
+                  <div class="panel callout show-for-medium-down" style="width:248px; height: 100px;"><h1 class="text-center">+ {{postsNum}}</h1></div>
+                </div>
+                <div class="medium-8 columns">
+                  <h4>... und {{postsNum}} weitere Projekte</h4>
+                </div>
+              </a>
+              <div class="small-12 columns">
+                <hr>
+              </div>
+            </div>
+          </div>
+          {% endif %}
+          <!-- END show a more entry with the number of entries -->
         </div>
         </a>
       </div>
   </div>
   <div class="large-3 columns">
     <div class="panel">
-      <h2>Blog</h2><br>
+      <h3>Blog</h3><br>
       <div class="row">
         <div id="blog">
           {% for post in site.categories.blog limit:3 %}
@@ -53,7 +77,7 @@ title: Home
             <a href="{{ post.url }}">
               <h4>{{ post.title }}</h4>
 
-              <div class="meta"><i class="fi-marker"></i> {{ post.tags }} |
+              <div class="meta"><i class="fi-marker"></i> {{ post.tags }}<br><i class="fi-clock"></i>
                 <!-- Whitespace added for readability -->
                 {% assign m = post.date | date: "%-m" %}
                 {{ post.date | date: "%-d" }}
@@ -78,6 +102,22 @@ title: Home
             <hr>
           </div>
           {% endfor %}
+          <!-- BEGIN show a more entry with the number of entries -->
+          {% assign blogNum = 0 %}
+          {% for post in site.categories.blog %}
+          {% assign blogNum = blogNum | plus:1 %}
+          {% endfor %}
+          {% assign blogNum = blogNum | minus:3 %}
+          {% if blogNum > 0 %} <!-- only show if more than 3 entries exist -->
+          <div class="large-12 columns">
+            <a href="/blog/">
+              <h4>... und {{blogNum}} weitere Blogeinträge</h4>
+              <div class="panel callout" style="width:178px; height: 72px;"><h1 class="text-center">+ {{blogNum}}</h1></div>
+            </a>
+            <hr>
+          </div>
+          {% endif %}
+          <!-- END show a more entry with the number of entries -->
         </div>
       </div>
     </div>
