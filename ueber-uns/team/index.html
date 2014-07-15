@@ -12,7 +12,7 @@ title: Team
       <p><strong>{{ post.subtitle }}</strong><br>
         {% if post.phone != "" %}<i class="fi-telephone"></i> {{ post.phone }}<br>{% endif %}
         <a href="mailto:{{ post.email }}"><i class="fi-mail"></i> {{ post.email }}</a><br>
-        {{ post.title }} {{ post.byline }} <a href="{{ post.url }}"><i class="fi-arrow-right"></i> mehr</a>
+        {{ post.title }} {{ post.byline }} <a href="{{ post.url }}"><span style="white-space: nowrap;"><i class="fi-arrow-right"></i> mehr</span></a>
       </p>
     </div>
 </div>
