@@ -4,9 +4,10 @@ categories: angebote
 tags:
   - Energie
 permalink: /angebote/energie/erneuerbare-energieanlagen/
-image: http://placehold.it/248x100
+image: /images/angebote/erneuerbare-energieanlagen.jpg
 title: "Erneuerbare Energieanlagen"
 ---
+<img class="leadimage" title="Erneuerbare Energieanlagen" src="/images/angebote/erneuerbare-energieanlagen_sub.jpg">
 
 Wir bieten Ihnen Beratung, Planung und Beurteilungen zu Anlagen im Bereich der erneuerbaren Energien an. Um Ihr Projekt zum Erfolg zu führen arbeiten wir auch mit externen Partnern zusammen. In einem persönlichen Gespräch können wir individuell auf Ihre Anliegen eingehen und gemeinsam eine Lösung finden.
  
