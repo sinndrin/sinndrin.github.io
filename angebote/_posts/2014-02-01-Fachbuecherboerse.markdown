@@ -9,7 +9,7 @@ title: "Fachbücherbörse"
 ---
 <img class="leadimage" width="803" title="Fachbücherbörse" src="/images/angebote/fachbuecherboerse_sub.jpg">
 
-Die Fachbücherbörse ermöglicht es Studierenden/ Schülern und Mitarbeitenden einer Schule vergünstigt Fachbücher zu kaufen und nicht mehr benötigte Bücher zu verkaufen. Wir übernehmen die gesamte Organisation und Koordination der Fachbücherbörse an ihrer Schule. Die [erste Fachbücherbörse](/angebote/fachbuecherboerse/zhaw-2014/) wurde im Jahr 2014 in an der ZHAW in Wädenswil durchgeführt.
+Die Fachbücherbörse ermöglicht es Studierenden/ Schülern und Mitarbeitenden einer Schule vergünstigt Fachbücher zu kaufen und nicht mehr benötigte Bücher zu verkaufen. Wir übernehmen die gesamte Organisation und Koordination der Fachbücherbörse an Ihrer Schule. Die [erste Fachbücherbörse](/angebote/fachbuecherboerse/zhaw-2014/) wurde im Jahr 2014 in an der ZHAW in Wädenswil durchgeführt.
 
 ##Laufende Fachbücherbörsen
 <a href="/angebote/fachbuecherboerse/zhaw-2014/" class="button">ZHAW Wädenswil</a>
@@ -23,7 +23,7 @@ Die Fachbücherbörse ermöglicht es Studierenden/ Schülern und Mitarbeitenden 
 * Bücher sollen gelesen und nicht gehortet werden
 * natürliche Ressourcen werden geschont
 * Studierende müssen nicht teure druckfrische Fachbücher kaufen
-* Studienabgänger_Innen können ihre Fachbücher einfach und sinnvoll weiter geben
+* Studienabgänger_Innen können Ihre Fachbücher einfach und sinnvoll weiter geben
 * die Schule unterstützt die Studierenden bei der Beschaffung von Lehrmitteln
 
 ###Unsere Dienstleistungen
@@ -33,10 +33,10 @@ Die Fachbücherbörse ermöglicht es Studierenden/ Schülern und Mitarbeitenden 
 * Organisation des Verkaufes
 * Erstellung und/oder Betreuung der Online-Bücherliste
 * Abrechnung der Finanzen
-* Koodination mit der Bibliothek an ihrer Schule zur weitervermittlung ausgeschiedener Bücher
+* Koodination mit der Bibliothek an Ihrer Schule zur Weitervermittlung ausgeschiedener Bücher
 
 ###Alternativen
 
 Wahlweise können auch andere Gegenstände wie Taschenrechner, Labormäntel, Schutzbrillen oder Werkzeuge gesammelt und weiterverkauft werden.
 
-Gerne beantworten wir ihre Fragen/ Anmerkungen oder erstellen für Sie eine unverbindliche Offerte, falls auch Sie eine Fachbücherbörse durchführen möchten.
+Gerne beantworten wir Ihre Fragen/ Anmerkungen oder erstellen für Sie eine unverbindliche Offerte, falls auch Sie eine Fachbücherbörse durchführen möchten.
