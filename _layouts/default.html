@@ -23,12 +23,12 @@
         <li class="divider hide-for-small"></li>
         {% capture location %}{{ page.url | remove_first:'/' | split:'/' | first }}{% endcapture %}
         <li
-          {% if location == 'ueber-uns' %}class="active" {% endif %}><a href="/ueber-uns/">
-          <i class="fi-results-demographics"></i> Über uns</a></li>
-        <li class="divider hide-for-small"></li>
-        <li
           {% if location == 'angebote' %}class="active" {% endif %}>
           <a href="/angebote/"><i class="fi-book"></i> Angebote</a></li>
+        <li class="divider hide-for-small"></li>
+        <li
+        {% if location == 'ueber-uns' %}class="active" {% endif %}><a href="/ueber-uns/">
+        <i class="fi-results-demographics"></i> Über uns</a></li>
         <li class="divider hide-for-small"></li>
         <li
           {% if location == 'hintergrundwissen' %}class="active" {% endif %}><a href="/hintergrundwissen/">
@@ -62,7 +62,7 @@
         <hr>
         <div class="row">
           <div class="large-12 columns">
-            <p class="text-center">sinndrin genossenschaft | Alfred-Escher-Strasse&nbsp;46 | CH-8002&nbsp;Zürich | <i class="fi-telephone"></i> 044&nbsp;534&nbsp;64&nbsp;54 | <a href="mailto:info@sinndrin.ch"><i class="fi-mail"></i> info@sinndrin.ch</a> | <a href="/ueber-uns/impressum/">Impressum</a> | <a href="/ueber-uns/copyright/">Copyright</a></p>
+            <p class="text-center"><span style="white-space: nowrap;">sinndrin genossenschaft</span> | <span style="white-space: nowrap;">Alfred-Escher-Strasse 46</span> | <span style="white-space: nowrap;">CH-8002 Zürich</span> | <span style="white-space: nowrap;"><i class="fi-telephone"></i> 044 534 64 54</span> | <span style="white-space: nowrap;"><a href="mailto:info@sinndrin.ch"><i class="fi-mail"></i> info@sinndrin.ch</a></span> | <a href="/ueber-uns/impressum/">Impressum</a> | <a href="/ueber-uns/copyright/">Copyright</a></p>
           </div>
         </div>
       </div>
