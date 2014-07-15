@@ -4,7 +4,7 @@ categories: angebote
 tags:
   - Suffizienz
 permalink: /angebote/suffizienz/suffizienz-in-ihr-tun-integrieren/
-image: /images/angebote/suffizienz-in-ihre-praxis-integrieren.jpg
+image: /images/angebote/suffizienz-in-ihr-tun-integrieren.jpg
 title: "Suffizienz in Ihr Tun integrieren"
 ---
 <img class="leadimage" title="Sufizienz" src="/images/angebote/suffizienz-in-ihr-tun-integrieren_sub.jpg">
