@@ -3,12 +3,12 @@ layout: two-columns
 title: Bildung
 ---
 <div class="panel">
-  <p>"Das grosse Ziel der Bildung ist nicht Wissen, sondern Handeln." - <small>Herbert Spencer (1820 - 1903), englischer Philosoph und Soziologe</small></p>
+  <p>"Das grosse Ziel der Bildung ist nicht Wissen, sondern Handeln."</p><p class="text-right">- <small>Herbert Spencer (1820 - 1903), englischer Philosoph und Soziologe</small></p>
 </div>
 <p>Im Sinne von Herbert Spencer, fördert die sinndrin genossenschaft mit ihren Bildungsangeboten die Sensibilisierung in Umweltfragen sowie die Bereitschaft zu Partizipation.</p>
 <p>&nbsp;</p>
 {% for post in site.categories.angebote %}
-{% if post.tags[0] == "Bildung" %}
+{% if post.tags contains "Bildung" %}
 {% include block/angebote-lvl2.html %}
 {% endif %}
 {% endfor %}
