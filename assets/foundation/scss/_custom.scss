@@ -100,11 +100,18 @@ aside {
 }
 
 /* ******************************************************************************************************* */
+/* frontpage */
+#welcome {
+  background-image: url(/images/frontpage/welcome.jpg);
+  background-position: center;
+}
+
+/* ******************************************************************************************************* */
 /* angebote */
 .angebote-img {
   position: relative;
   height: 100px;
-  width: 248px;
+  width: 247px;
   h5 span {
     position: absolute;
     bottom: 0px;
@@ -136,7 +143,7 @@ aside {
 }
 .angebote-img.mit-uns-zusammen-arbeiten {
   width: 100%;
-  max-width: 803px;
+  max-width: 800px;
   background-image: url(/images/angebote/mit-uns-zusammen-arbeiten.jpg);
 }
 .side-nav a.button.expand, .side-nav a.panel {
@@ -148,7 +155,7 @@ aside {
   margin-bottom: 7px;
   padding-top: 6px;
   padding-bottom: 7px;
-  max-width: 248px;
+  max-width: 247px;
 }
 /* angebote underlined */
 .side-nav li {
