@@ -27,11 +27,10 @@ title: Home
     </div>
   </div>
 </div>
-<div class="row">
+<div class="row" data-equalizer>
   <div class="large-8 columns">
-      <div class="coulumns">
         <a href="/ueber-uns/realisierte-projekte/">
-        <div class="panel" style="background-color: transparent;">
+        <div class="panel" style="background-color: transparent;" data-equalizer-watch>
           <h3>Kürzlich abgeschlossene Projekte</h3><br>
           <!-- BEGIN realisierte-projekte-list -->
           {% for post in site.categories.realisierte-projekte limit:3 %}
@@ -65,10 +64,9 @@ title: Home
           <!-- END show a more entry with the number of entries -->
         </div>
         </a>
-      </div>
   </div>
   <div class="large-4 columns">
-    <div class="panel">
+    <div class="panel" data-equalizer-watch>
       <h3>Blog</h3><br>
       <div class="row">
         <div id="blog">
