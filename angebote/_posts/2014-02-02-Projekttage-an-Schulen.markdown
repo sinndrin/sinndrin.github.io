@@ -8,7 +8,35 @@ image: http://placehold.it/248x100
 title: "Projekttage an Schulen"
 ---
 
-Wir gestalten Umwelttage für Schulklassen aller Altersstufen. Ziel ist es, die junge Generation für Umweltbelange zu sensibilisieren. Wir erarbeiten die Sondertage individuell für jede Klasse und bieten zu verschiedensten Themen interessante Workshops. Im Vordergrund steht das Lernerlebnis. Den Schüler\_Innen wird eine möglichst interaktive Lernumgebung geboten. Es darf mit gestaltet, mit diskutiert, mit gebaut und mit gelacht werden. Unser Umweltbildungsangebot richtet sich nach ihrem Bedürfnis. Es ist uns wichtig, dass  Sondertage in den Lehrplan Ihres Unterrichtes passen. Aus diesem Grund wird vorab besprochen, welche Vorstellungen und Wünsche Sie haben und wie wir helfen können diese zu verwirklichen.
+### - Wir gestalten Projekttage im Umweltbereich für Schulklassen aller Altersstufen.
+### - Wir bieten eine breite Auswahl von Workshops zu verschiedensten Themen. 
+### - Unser Ziel ist es, die junge Generation für Umweltbelange zu sensibilisieren. 
+
+Im Vordergrund steht das Lernerlebnis. Den Schüler und Schülerinnen wird eine möglichst interaktive Lernumgebung geboten, auf Frontalunterricht wird weitestgehend verzichtet. Es darf mit gestaltet, mit diskutiert, mit gebaut und mit gelacht werden. Es ist uns wichtig, dass die Projekttage in den Lehrplan ihres Unterrichtes passen.
+
+#### Mögliche Themen könnten sein
+
+- Energie: Was ist das? Energie im Alltag (Heizen, Strom, Verkehr, etc.). Energie sparen!
+
+- Wasser: Wasserkreislauf, Wasserreinigung, Wasserkraft, Wassersparen.
+
+- Abfall und Recycling: Was geschieht mit dem Abfall? Wie entsorgt man korrekt? Wie kann Abfall reduziert werden?
+
+- Naturgefahren: Lawinen, Murgänge, Hochwasser, Hitze und Dürre.
+
+- Biodiversität: Lebewesen in ihren Lebensräume. Lebensräume schützen und erhalten (Wildbienenhotel, Igelhütte).
+
+- Erneuerbare Energien: Warum erneuerbare Energien? Umweltbelastung, Energien der Zukunft, endliche Energieträger.
+
+- Erneuerbare Energien in der Praxis: Demonstrationsanlagen bauen (Biogasanlage, Windräder, Wasserkraftwerke, Solaranlage).
+
+- Essen: Konsum, was steckt dahinter? Ernährungsweise und ihre ökologische Auswirkung. Essensabfälle vermindern.
+
+- Klima: Treibhauseffekt, was ist CO<sub>2</sub>? Was verändert sich denn jetzt? In Zukunft?
+
+Im persönlichen Gespräch kann die Form, Länge und Thematik für die Projekttage besprochen und das passende Angebot für ihre Klasse zusammengestellt werden. Es besteht auch die Möglichkeit die Schülerinnen und Schüler entscheiden zu lassen, welche Themen sie behandeln möchten.
+
+**Für unverbindliche Informationen nehmen Sie mit uns [Kontakt](/ueber-uns/kontakt/) auf.**
 
 ###Solar-Workshop
 
@@ -28,26 +56,3 @@ Alternativen:
 - Solarkocher bauen
 - Solarofen bauen
 - solare Handyladestation bauen
-
-###Es ist vieles möglich
-
-Wir sind offen für eine individuelle Themenwahl. Falls Sie eine Sonderwoche planen zum Thema Umwelt, können wir gerne einen Workshop nach Wunsch gestalten. Die Themen könnten sein:
-
-- Energie: Was ist das? Energie im Alltag (Heizen, Strom, Verkehr, etc.) Energie sparen.
-- Wasser: Wasserkreislauf, Wasserreinigung, Wasserkraft, Wassersparen
-- Abfall und Recycling: Woher kommt unser Abfall und wohin geht er? Was wird wie korrekt entsorgt? Wie kann Abfall reduziert werden?
-- Naturgefahren: Lawinen, Murgänge, Hochwasser, Hitze und Dürre
-- Biodiversität: Lebewesen in ihren Lebensräume, Wildbienenhotel/Igelhütte bauen
-- Flusslebewesen: In einem Bachlauf nach Leben suchen.
-- Erneuerbare Energie: Warum erneuerbare Energien (Belastung Umwelt, Energie für Zukunft, endliche Energieträger) Biogasanlage bauen, Windräder bauen, Wasserkraftwerke bauen
-- Essen: Konsum was steckt dahinter? Fleisch, vegetarisch, vegan, regional, saisonal, Essensabfälle vermindern.
-- Klima: Treibhauseffekt, was ist CO<sub>2</sub>?, was verändert sich denn jetzt? In Zukunft?
-- Ihr Wunsch (z.B. Wir haben bei einer 10. Schuljahrklasse die Schülerinnen das Workshop-Thema wählen lassen. Dabei wurde das Thema Kosmetik gewählt. Wir haben dann Lektionen zu Naturkosmetik, Salben selber machen, natürliche Duftstoffe, was steckt hinter den Inhaltsstoffangaben, etc. gehalten.)
-
-**Für unverbindliche Informationen nehmen Sie mit uns [Kontakt](/ueber-uns/kontakt/) auf.**
-
-###So oder so gilt:
-
-- die Lehrkräfte werden mit einbezogen
-- das Erlebnis steht im Vordergrund und nur wenig Frontalunterricht
-- die Workshops können für alle Altersgruppen durchgeführt werden
