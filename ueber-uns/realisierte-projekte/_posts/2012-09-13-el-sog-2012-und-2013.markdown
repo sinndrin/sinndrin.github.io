@@ -11,6 +11,7 @@ tags:
   - Matthias Kaufmann
   - Raphael Hagmann
   - Roger Schärer
+  - Jonas Leimgruber
 ---
 Für die beiden ZHAW Startwochen 2012 und 2013 am Departement LSFM wurde ein (Lern-)Spiel konzipiert, welches spielerisch die Idee der Nachhaltigkeit den Studierenden nahe bringt. Dabei wurden, im Stile von Speeddating, Zeitgutscheine erstellt und zwischen den Studierenden ausgetauscht. Die Zeitgutscheine basieren auf dem Konzept von [Minutocash](http://www.minutocash.org/).
 
