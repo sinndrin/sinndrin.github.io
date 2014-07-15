@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: two-columns
 title: "Die Genossenschaft ist offiziell gegründet"
 subtitle: "Das Handelsregisteramt Zürich hat uns aufgenommen. Wir legen los."
 image: /images/blog/gruendung.jpg
