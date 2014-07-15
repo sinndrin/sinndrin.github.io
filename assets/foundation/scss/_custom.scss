@@ -17,12 +17,6 @@ a.anchor{display: block; position: relative; top: -45px; visibility: hidden;}
 .breadcrumbs {
   margin-bottom: 20px;
 }
-
-/* display the title horizontally aligned to the text */
-div > h1 {
-  // TODO: fix this hack to display the title horizontally aligned to the text
-  padding-left: rem-calc(10);
-}
 /* ******************************************************************************************************* */
 /* small screens */
 // TODO: zusammenfügen von small und medium media queries
