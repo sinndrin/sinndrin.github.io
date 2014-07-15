@@ -16,8 +16,6 @@ title:  "Grundsätze"
 - ebenso für den Staat und der Gesellschaft.
 
 <br>
-<br>
-<br>
 
 #### Unseren Beitrag dazu leisten wir in den Feldern:
 
