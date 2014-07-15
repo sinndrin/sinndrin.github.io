@@ -4,21 +4,19 @@ title:  "Grundsätze"
 ---
 
 
-#### Wir fördern Bestrebungen:
+#### Wir fördern Bestrebungen zu
 
-- zu Nachhaltigkeit und Umweltverträglichkeit,
-- ebenso wie zu Fairness, Transparenz und Partizipation
-- sowie zu persönlichem Wachstum und Gesundheit
+- Nachhaltigkeit und Umweltverträglichkeit.
+- Fairness, Transparenz und Partizipation.
+- persönlichem Wachstum und Gesundheit.
+
+#### Unseren Beitrag dazu leisten wir in den Feldern der:
+
+- Planung, Umsetzung und Begleitung von Projekten.
+- Bildung, Beratung und Information.
+- Intervention, Forschung, Produktion und Handel.
 
 #### Dies machen wir für: 
 
 - Einzelnen, Gruppierungen und in der Wirtschaft.
-- ebenso für den Staat und der Gesellschaft.
-
-<br>
-
-#### Unseren Beitrag dazu leisten wir in den Feldern:
-
-- der Planung, Umsetzung und Begleitung von Projekten
-- der Bildung, Beratung und Information
-- sowie in Intervention, Forschung, Produktion und Handel.
+- den Staat und die Gesellschaft.
