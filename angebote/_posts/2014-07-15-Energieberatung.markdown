@@ -8,7 +8,7 @@ image: http://placehold.it/248x100
 title: "Energieberatung"
 ---
 
-Wir beraten Sie rund ums Energiesparen, zeigen Möglichkeiten zur Steigerung der Energieeffizienz auf und lokalisieren und verringern Energieverluste.
+Wir beraten Sie rund ums Energiesparen, zeigen Möglichkeiten zur Steigerung der Energieeffizienz auf und lokalisieren und verringern Energieverluste. Auch mögliche Unterstützung durch Fördermassnahmen können wir Ihnen massgeschneidert auf Ihr Projekt aufzeigen.
 
 **Negawatt**
 
