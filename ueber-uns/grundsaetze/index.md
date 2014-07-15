@@ -18,5 +18,5 @@ title:  "Grundsätze"
 
 #### Dies machen wir für: 
 
-- Einzelnen, Gruppierungen und in der Wirtschaft.
+- Einzelne, Gruppierungen und der Wirtschaft.
 - den Staat und die Gesellschaft.
