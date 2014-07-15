@@ -4,7 +4,7 @@ title:  "Grundsätze"
 ---
 
 
-#### Wir fördern Bestrebungen zu
+#### Wir fördern Bestrebungen zu:
 
 - Nachhaltigkeit und Umweltverträglichkeit.
 - Fairness, Transparenz und Partizipation.
