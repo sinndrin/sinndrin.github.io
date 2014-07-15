@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Acht bis Fünf - Lebenslänglich!?"
+title: "Acht bis Fünf: Le&shy;bens&shy;läng&shy;lich!?"
 subtitle: "Fragen über die im Allgemeinen lieber nicht nachgedacht wird."
 image: /images/blog/acht-bis-fuenf-lebenslaenglich.jpg
 date: 2014-07-15 19:02:21
@@ -10,7 +10,9 @@ tags:
  - Raphael Hagmann
 ---
 
-Die Bloggerin Jelena Perovanovic fragt uns in Ihrem Artikel ["Fragst du dich manchmal wieso du im Büro sitzt?"][issu1]  aus der Juniausgabe der Zeitschrift Kult. Was wir als asozialer empfinden? Seine Mutter zu besuchen und dafür nicht bei der Arbeit zu erscheinen oder täglich bei der Arbeit zu erscheinen dafür aber soziale Kontakte zu vernachlässigen? Ob uns die Loyalität zum Arbeitgeber gesund, glücklich und gelassen macht? Oder ob wir unser Arbeitsplatz als Gefängnis wahrnehmen?
+**Was empfinden Sie als asozialer? Ihre Mutter zu besuchen und dafür nicht bei der Arbeit zu erscheinen oder täglich bei der Arbeit zu erscheinen, dafür aber private soziale Kontakte zu vernachlässigen? Macht Sie die Loyalität zum Arbeitgeber gesund, glücklich und gelassen? Nehmen Sie Ihren Arbeitsplatz als Gefängnis wahr?**
+
+Dies und anderes fragt uns die Bloggerin Jelena Perovanovic in Ihrem Artikel ["Fragst du dich manchmal wieso du im Büro sitzt?"][issu1] in der Juniausgabe der Zeitschrift Kult.
 
 Solche Fragen meiden wir im Allgemeinen lieber, da uns die Erkenntnisse schonungslos aufzeigen wie verkehrt die Welt ist, die wir mit unserem eigenen täglichen erscheinen am Arbeitsplatz aufrecht erhalten. Die gesellschaftlichen Erwartungshaltungen wie materieller Wohlstand, finanzielle Vorsorge oder berufliche Karriere lassen uns immer weiter machen, obwohl unser Inneres nach Natur, Abenteuer, Freundschaft, Liebe, Schlaf und Kreativität schreit.
 

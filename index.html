@@ -17,21 +17,21 @@ title: Home
     </div>
     </a>
   </div>
+  <div class="columns">
+    <div class="panel" style="background-color: transparent;">
+      <a href="/angebote/">
+        <h3>Unsere Angebote</h3><br>
+        <!--<div class="angebote-img mit-uns-zusammen-arbeiten"><h5><span>Angebote</span></h5></div>-->
+        <img src="/homepage-angebote.jpg">
+      </a>
+    </div>
+  </div>
 </div>
 <div class="row">
-  <div class="large-9 columns">
-      <div class="coulumns">
-      <div class="panel">
-        <a href="/angebote/">
-          <h3>Unsere Angebote</h3><br>
-          <!--<div class="angebote-img mit-uns-zusammen-arbeiten"><h5><span>Angebote</span></h5></div>-->
-          <img src="/homepage-angebote.jpg">
-        </a>
-      </div>
-      </div>
+  <div class="large-8 columns">
       <div class="coulumns">
         <a href="/ueber-uns/realisierte-projekte/">
-        <div class="panel">
+        <div class="panel" style="background-color: transparent;">
           <h3>Kürzlich abgeschlossene Projekte</h3><br>
           <!-- BEGIN realisierte-projekte-list -->
           {% for post in site.categories.realisierte-projekte limit:3 %}
@@ -67,7 +67,7 @@ title: Home
         </a>
       </div>
   </div>
-  <div class="large-3 columns">
+  <div class="large-4 columns">
     <div class="panel">
       <h3>Blog</h3><br>
       <div class="row">
