@@ -2,10 +2,12 @@
 layout: two-columns
 title: Suffizienz
 ---
-<p>Aliquam quis placerat ipsum, sed convallis orci. Duis facilisis nulla eu molestie faucibus. Sed justo nisi, elementum id quam in, gravida consectetur risus. Pellentesque tempor sit amet mauris vitae consectetur [Einleitungstext]</p>
+<p>Die Suffizienzstrategie scheint schwierig in der Praxis umsetzbar zu sein. Anders als bei Effizienz- und Konsistenzmassnhamen reichen für Suffizienzmassnahmen technologische Anpassungen nicht aus.</p>
+
+<p>Wir bieten, aufbauend auf einer fundierten <a href="/hintergrundwissen/suffizienz/">Theoretischen Grundlage</a>, Unterstützung bei der Integration der vier grundlegenden Suffizienzstrategien Entschleunigung, Entrümpelung, Entflechtung und Entkommerzialisierung. Damit können Sie genussvoll und mit Leichtigkeit das gute Mass wiedererlangen.</p>
 <p>&nbsp;</p>
 {% for post in site.categories.angebote %}
-{% if post.tags[0] == "Suffizienz" %}
+{% if post.tags contains "Suffizienz" %}
 {% include block/angebote-lvl2.html %}
 {% endif %}
 {% endfor %}
