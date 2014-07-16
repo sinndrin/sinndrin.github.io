@@ -7,7 +7,7 @@ permalink: /angebote/suffizienz/suffizienz-in-ihr-tun-integrieren/
 image: /images/angebote/suffizienz-in-ihr-tun-integrieren.jpg
 title: "Suffizienz in Ihr Tun integrieren"
 ---
-<img class="leadimage" title="Sufizienz" src="/images/angebote/suffizienz-in-ihr-tun-integrieren_sub.jpg">
+<img class="angebot-top-wide" title="Sufizienz" src="/images/angebote/suffizienz-in-ihr-tun-integrieren_sub.jpg">
 
 Wir bieten Beratung und Unterstützung bei der konkreten Umsetzung von praktisch lebbaren Suffizienzansätzen für Privatpersonen und Unternehmen.
 

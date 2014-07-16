@@ -7,7 +7,7 @@ permalink: /angebote/energie/energieanzeigen/
 image: /images/angebote/energieanzeigen.jpg
 title: "Energieanzeigen"
 ---
-<img class="leadimage" title="Energieanzeigen" src="/images/angebote/energieanzeigen_sub.jpg">
+<img class="angebot-top-wide" title="Energieanzeigen" src="/images/angebote/energieanzeigen_sub.jpg">
 
 Wie viel Energie produziert mein erneuerbares Kraftwerk? Was könnte ich damit alles machen? Wie funktioniert mein Kraftwerk? Wo kommt die Energie her? Wo geht sie hin?
 

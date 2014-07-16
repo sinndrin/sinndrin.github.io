@@ -7,7 +7,7 @@ permalink: /angebote/administration-und-it/geschaeftsprozesse-optimieren/
 image: /images/angebote/geschaeftsprozesse-optimieren.jpg
 title: "Geschäftsprozesse optimieren"
 ---
-<img class="leadimage" title="Geschäftsprozesse optimieren" src="/images/angebote/geschaeftsprozesse-optimieren_sub.jpg">
+<img class="angebot-top-wide" title="Geschäftsprozesse optimieren" src="/images/angebote/geschaeftsprozesse-optimieren_sub.jpg">
 
 Fragen Sie sich manchmal, wieso Sie schon wieder so lange im Büro sitzen um administrative Arbeiten zu erledigen?
 

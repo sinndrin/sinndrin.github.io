@@ -97,7 +97,6 @@ aside {
 /* leadimages */
 .leadimage {
   margin: 5px;
-  width: 800px;
 }
 
 /* ******************************************************************************************************* */
@@ -171,6 +170,10 @@ a.realisierte-projekte-link-block {
 }
 a.realisierte-projekte-link-block:hover {
   color: rgb(28, 202, 255);
+}
+/* top image auf angebotsseite*/
+.angebot-top-wide {
+  max-width: 800px;
 }
 /* ******************************************************************************************************* */
 /* blog */

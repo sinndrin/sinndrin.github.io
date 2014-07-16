@@ -7,7 +7,7 @@ permalink: /angebote/administration-und-it/webdesign/
 image: /images/angebote/webdesign.jpg
 title: "Webdesign"
 ---
-<img class="leadimage" title="Webdesign" src="/images/angebote/webdesign_sub.jpg">
+<img class="angebot-top-wide" title="Webdesign" src="/images/angebote/webdesign_sub.jpg">
 
 Wir bieten Ihnen einen kompletten Webseiten-Service vom Design über Programmierung bis hin zum Hosting Ihrer Webseite. Wir sind auf kleine bis mittelgrosse Seiten spezialisiert.
 

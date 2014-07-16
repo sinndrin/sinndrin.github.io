@@ -7,7 +7,7 @@ permalink: /angebote/fairphone/
 image: /images/angebote/fairphone.jpg
 title: "Fairphone"
 ---
-<img class="leadimage" title="Fairphone" src="/images/angebote/fairphone_sub.jpg">
+<img class="angebot-top-wide" title="Fairphone" src="/images/angebote/fairphone_sub.jpg">
 
 Die sinndrin genossenschaft unterstützt die Idee von Fairphone und tritt als Händler für das Fairphone im Schweizer Markt auf. Mit unserem Partner [faircustomer.ch](http://www.faircustomer.ch/fairphone_105) übernehmen wir die Logistik, Kommunikation und Abwicklung der Bestellungen.
 
