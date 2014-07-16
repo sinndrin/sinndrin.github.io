@@ -16,7 +16,7 @@ Die Fachbücherbörse ermöglicht es Studierenden/ Schülern und Mitarbeitenden 
 
 ##Konzept
 
-<img class="leadimage right" width="180" title="Fachbücherbörse" src="/images/angebote/fachbuecherboerse_sub_logo.jpg"> Vor dem Semester- oder Schuljahresende wird Schulintern eine Büchersammlung durchgeführt. Die gesammelten Fachbücher werden jeweils zu Beginn des neuen Semesters den Studierenden zum Verkauf angeboten. Nicht verkaufte Bücher werden weiterhin Online aufgelistet und können jederzeit gekauft werden.
+<img class="right" width="180" title="Fachbücherbörse" src="/images/angebote/fachbuecherboerse_sub_logo.jpg"> Vor dem Semester- oder Schuljahresende wird Schulintern eine Büchersammlung durchgeführt. Die gesammelten Fachbücher werden jeweils zu Beginn des neuen Semesters den Studierenden zum Verkauf angeboten. Nicht verkaufte Bücher werden weiterhin Online aufgelistet und können jederzeit gekauft werden.
 
 ###Ziel
 
