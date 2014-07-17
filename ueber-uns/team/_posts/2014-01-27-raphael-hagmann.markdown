@@ -10,7 +10,7 @@ phone: +41 78 847 89 62
 byline: "Die breit gestreuten Interessen von Raphael Hagmann ermöglichen ihm Feuer zu fangen sowie andauernde Motivation zu finden."
 image: /images/ueber-uns/team/raphael.png
 ---
-Die Harmonisierung von technologischem Fortschritt und Umweltfreundlichkeit sowie das Lehren und Lernen in diesen beiden Themenfelder, ergeben für mich beruflichen Sinn. 
+Die Harmonisierung von technologischem Fortschritt und Umweltfreundlichkeit sowie das Lehren und Lernen in diesen beiden Themenfelder ergeben für mich beruflichen Sinn. 
 
 Ausbildung:
 
