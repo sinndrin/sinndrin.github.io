@@ -14,3 +14,5 @@ Wir bieten Ihnen einen kompletten Webseiten-Service vom Design über Programmier
 Wir gestalten ausschliesslich Internetseiten, die sowohl auf dem PC/ Laptop als auch auf kleineren Bildschirmen von Smartphones und Tablets funktionieren.
 
 Bei der Umsetzung gehen wir auf Ihre persönlichen Wünsche ein und besitzen bezüglich Details und Raffinessen ein umfangreiches Repertoire. Es ist uns wichtig, dass Ihr Internetauftritt mit Ihrem Unternehmenskonzept harmonisiert.
+
+Wir verwenden und unterstützen freie Software mit offenem Quellcode (Open Source).
