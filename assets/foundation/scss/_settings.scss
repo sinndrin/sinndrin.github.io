@@ -41,7 +41,12 @@ $row-width: rem-calc(830);
 // We use these to control various global styles
 $body-bg: #fff;
 // $body-font-color: #222;
-@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans'), local('OpenSans'), url('opensans.ttf') format('truetype');
+}
 $body-font-family: "Open Sans", sans-serif;
 // $body-font-weight: normal;
 // $body-font-style: normal;
@@ -119,7 +124,12 @@ $large-range: (rem-calc(830), 90em);
 // $include-html-type-classes: $include-html-classes;
 
 // We use these to control header font styles
-@import url(http://fonts.googleapis.com/css?family=Ubuntu:500);
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Ubuntu'), url('ubuntu.ttf') format('truetype');
+}
 // $header-font-family: $body-font-family;
 $header-font-family: 'Ubuntu', sans-serif;
 // $header-font-weight: normal;
