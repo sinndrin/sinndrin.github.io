@@ -9,4 +9,4 @@ tags:
   - Roger Schärer
 ---
 
-tbd
+Für das [Wu Shu Center](http://www.wu-shu.ch/) haben wir die Webseite gestaltet und betreiben sie seither.
