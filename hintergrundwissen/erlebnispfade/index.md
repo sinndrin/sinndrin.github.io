@@ -6,8 +6,7 @@ title:  "Erlebnispfade"
 
 <p>Mit Hilfe der Recherche von Primär- und Sekundärliteratur zur Thematik der Lehrpfade und Erlebnispfade wurde die Theorie der Erlebnispfade dargelegt und die fünf didaktisch relevanten Schritte einer Erlebnispfadkonzeption durch das Darlegen der theoretischen Hintergr&uuml;nde abgehandelt.</p>
 
-<h3 class="likesectionHead">
-	Inhaltsverzeichnis</h3>
+<p><h3 class="likesectionHead">Inhaltsverzeichnis</h3>
 <div class="tableofcontents">
 	<span class="sectionToc">1 <a href="#x1-40001" id="QQ2-1-4">Einleitung</a></span><br />
 	<span class="sectionToc">2 <a href="#x1-50002" id="QQ2-1-5">Theorie Erlebnispfade</a></span><br />
