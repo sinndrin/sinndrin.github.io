@@ -12,6 +12,7 @@ Die Namensnennung ist erfüllt, wenn mindestens der Wortlaut **sinndrin genossen
 
 Auf der Webseite [www.sinndrin.ch](/) wurden die folgenden Werke von dritten erstellt:
 
+<!-- angebote -->
 <div class="row">
       <div class="medium-4 columns">
         <img src="/images/angebote/bildung.jpg" max-width="248px">
@@ -155,6 +156,42 @@ Auf der Webseite [www.sinndrin.ch](/) wurden die folgenden Werke von dritten ers
     <div class="small-12 columns">
       <hr>
     </div>
+</div>
+<div class="row">
+      <div class="medium-4 columns">
+        <img src="/images/angebote/geschaeftsprozesse-optimieren.jpg" max-width="248px">
+      </div>
+      <div class="medium-8 columns">
+        <a href="https://secure.flickr.com/photos/dullhunk/5221572088"><h3>Duncan Hall (CC BY 2.0)</h3></a>
+        <p>Verändert; Zugeschnitten.</p>
+      </div>
+    <div class="small-12 columns">
+      <hr>
+    </div>
+</div>
+<div class="row">
+      <div class="medium-4 columns">
+        <img src="/images/angebote/webdesign.jpg" max-width="248px">
+      </div>
+      <div class="medium-8 columns">
+        <a href="https://www.flickr.com/photos/nikio/3899114449"><h3>Marjan Krebelj (CC BY 2.0)</h3></a>
+        <p>Verändert; Zugeschnitten.</p>
+      </div>
+    <div class="small-12 columns">
+      <hr>
+    </div>
+</div>
+<div class="row">
+      <div class="medium-4 columns">
+        <img src="/images/angebote/webdesign.jpg" max-width="248px">
+      </div>
+      <div class="medium-8 columns">
+        <a href="https://www.flickr.com/photos/nikio/3899114449"><h3>Marjan Krebelj (CC BY 2.0)</h3></a>
+        <p>Verändert; Zugeschnitten.</p>
+      </div>
+    <div class="small-12 columns">
+      <hr>
+    </div>
 <!-- hintergrundwissen -->
 <div class="row">
       <div class="medium-4 columns">
@@ -204,3 +241,4 @@ Auf der Webseite [www.sinndrin.ch](/) wurden die folgenden Werke von dritten ers
       <hr>
     </div>
 </div>
+<!-- blog -->
