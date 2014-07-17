@@ -84,6 +84,77 @@ Auf der Webseite [www.sinndrin.ch](/) wurden die folgenden Werke von dritten ers
       <hr>
     </div>
 </div>
+<div class="row">
+      <div class="medium-4 columns">
+        <img src="/images/angebote/diplomarbeiten-begleiten.jpg" max-width="248px">
+      </div>
+      <div class="medium-8 columns">
+        <a href="https://secure.flickr.com/photos/gadgetdude/804190044"><h3>gadgeddude (CC BY 2.0)</h3></a>
+        <p>Verändert; Zugeschnitten.</p>
+      </div>
+    <div class="small-12 columns">
+      <hr>
+    </div>
+</div>
+<div class="row">
+      <div class="medium-4 columns">
+        <img src="/images/angebote/projekttage-an-schulen.jpg" max-width="248px">
+      </div>
+      <div class="medium-8 columns">
+        <a href="https://www.flickr.com/photos/wwworks/3164910901"><h3>woodleywonderworks (CC BY 2.0)</h3></a>
+        <p>Verändert; Zugeschnitten.</p>
+      </div>
+    <div class="small-12 columns">
+      <hr>
+    </div>
+</div>
+<div class="row">
+      <div class="medium-4 columns">
+        <img src="/images/angebote/erngieberatung.jpg" max-width="248px">
+      </div>
+      <div class="medium-8 columns">
+        <a href="https://www.flickr.com/photos/keoni101/7127698863"><h3>Keoni Cabral (CC BY 2.0)</h3></a>
+        <p>Verändert; Zugeschnitten.</p>
+      </div>
+    <div class="small-12 columns">
+      <hr>
+    </div>
+</div>
+<div class="row">
+      <div class="medium-4 columns">
+        <img src="/images/angebote/energieanzeigen.jpg" max-width="248px">
+      </div>
+      <div class="medium-8 columns">
+        <a href="https://www.flickr.com/photos/soycamo/8042051728"><h3>Cameron (CC BY-SA 2.0)</h3></a>
+        <p>Verändert; Zugeschnitten.</p>
+      </div>
+    <div class="small-12 columns">
+      <hr>
+    </div>
+</div>
+<div class="row">
+      <div class="medium-4 columns">
+        <img src="/images/angebote/erneuerbare-energieanlagen.jpg" max-width="248px">
+      </div>
+      <div class="medium-8 columns">
+        <a href="https://www.flickr.com/photos/87913776@N00/3903303437"><h3>futureatlas.com (CC BY 2.0)</h3></a>
+        <p>Verändert; Zugeschnitten.</p>
+      </div>
+    <div class="small-12 columns">
+      <hr>
+    </div>
+</div>
+<div class="row">
+      <div class="medium-4 columns">
+        <img src="/images/angebote/suffizienz-in-ihr-tun-integrieren.jpg" max-width="248px">
+      </div>
+      <div class="medium-8 columns">
+        <a href="https://secure.flickr.com/photos/eriatarka31/3738762979"><h3>Grégory Tonon (CC BY-SA 2.0)</h3></a>
+        <p>Verändert; Zugeschnitten.</p>
+      </div>
+    <div class="small-12 columns">
+      <hr>
+    </div>
 <!-- hintergrundwissen -->
 <div class="row">
       <div class="medium-4 columns">
