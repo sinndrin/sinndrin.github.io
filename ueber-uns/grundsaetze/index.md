@@ -14,9 +14,9 @@ title:  "Grundsätze"
 
 - Planung, Umsetzung und Begleitung von Projekten.
 - Bildung, Beratung und Information.
-- Intervention, Forschung, Produktion und Handel.
+- Intervention, Forschung, Produktion und dem Handel.
 
 #### Dies machen wir für: 
 
-- Einzelne, Gruppierungen und der Wirtschaft.
+- Einzelne, Gruppierungen und die Wirtschaft.
 - den Staat und die Gesellschaft.
