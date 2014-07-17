@@ -7,7 +7,7 @@ permalink: /angebote/fachbuecherboerse/zhaw-2014/
 image: /images/angebote/fachbuecherboerse.jpg
 title: "Fachbücherbörse ZHAW 2014"
 ---
-<img class="angebot-top-wide" width="803" title="Fachbücherbörse" src="/images/angebote/fachbuecherboerse_sub.jpg">
+<div class=angebot-top-wide"><img width="803" title="Fachbücherbörse" src="/images/angebote/fachbuecherboerse_sub.jpg"></div>
 
 Wir sammeln momentan via Sekretariat Grüental und Reidbach die abgegeben Fachbücher. Diese werden an zwei Verkaufstagen anfangs der zweiten Herbstesemsterwoche zum Verkauf angeboten. Die genauen Daten werden zur gegebenen Zeit per E-Mail an die Studierenden und Mitarbeitenden kommuniziert.
 
