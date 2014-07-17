@@ -3,7 +3,7 @@ layout: blog
 title: "Acht bis Fünf: Le&shy;bens&shy;läng&shy;lich!?"
 subtitle: "Fragen über die im Allgemeinen lieber nicht nachgedacht wird."
 image: /images/blog/acht-bis-fuenf-lebenslaenglich.jpg
-date: 2014-07-15 19:02:21
+date: 2014-07-17 10:32:21
 published: true
 categories: blog
 tags:
