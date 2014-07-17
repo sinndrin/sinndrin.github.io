@@ -110,7 +110,7 @@ aside {
 .angebote-img {
   position: relative;
   height: 100px;
-  width: 247px;
+  max-width: 247px;
   h5 span {
     position: absolute;
     bottom: 0px;
