@@ -230,4 +230,28 @@ Auf der Webseite [www.sinndrin.ch](/) wurden die folgenden Werke von dritten ers
       <hr>
     </div>
 </div>
-<!-- blog -->
+<!-- fonts -->
+<div class="row">
+      <div class="medium-4 columns">
+        <img src="/images/copyright/ubuntu-font.png" max-width="248px">
+      </div>
+      <div class="medium-8 columns">
+        <a href="http://font.ubuntu.com/licence/"><h3>Ubuntu (Ubuntu Font Licence)</h3></a>
+        <p>Benutzt.</p>
+      </div>
+    <div class="small-12 columns">
+      <hr>
+    </div>
+</div>
+<div class="row">
+      <div class="medium-4 columns">
+        <img src="/images/copyright/open-sans-font.png" max-width="248px">
+      </div>
+      <div class="medium-8 columns">
+        <a href="http://www.opensans.com/"><h3>Open Sans (Apache License version 2.0)</h3></a>
+        <p>Benutzt.</p>
+      </div>
+    <div class="small-12 columns">
+      <hr>
+    </div>
+</div>
