@@ -4,7 +4,7 @@ categories: angebote
 tags:
   - Bildung
 permalink: /angebote/bildung/projekttage-an-schulen/
-image: images/angebote/projekttage-an-schulen.jpg
+image: /images/angebote/projekttage-an-schulen.jpg
 title: "Projekttage an Schulen"
 ---
 <div class=angebot-top-wide"><img title="Projekttage an Schulen" src="/images/angebote/projekttage-an-schulen_sub.jpg"></div>
