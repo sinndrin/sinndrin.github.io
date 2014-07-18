@@ -4,7 +4,7 @@ categories: realisierte-projekte
 permalink: /ueber-uns/realisierte-projekte/lernspiel-el-sog/
 image: /images/ueber-uns/realisierte-projekte/el-sog-2012.jpg
 title: "Lernspiel El Sog"
-subtitle: "Speed Dating mit Zeitgutscheinen"
+subtitle: "Speed-Dating mit Zeitgutscheinen"
 tags:
   - Felix Rusterholz
   - Georg Trapp
@@ -12,9 +12,10 @@ tags:
   - Raphael Hagmann
   - Roger Schärer
   - Jonas Leimgruber
+  - Sabine Ott
 ---
-Für die beiden ZHAW Startwochen 2012 und 2013 am Departement LSFM wurde ein (Lern-)Spiel konzipiert, welches den Studierenden spielerisch die Idee der Nachhaltigkeit nahe bringt. Dabei wurden im Stil von Speeddating Zeitgutscheine erstellt und zwischen den Studierenden ausgetauscht. Die Zeitgutscheine basieren auf dem Konzept von [Minutocash](http://www.minutocash.org/).
+Für die [ZHAW Startwoche](http://www.lsfm.zhaw.ch/de/science/ueber-uns/aktuelles/news/startwoche.html) am Departement [LSFM](http://www.lsfm.zhaw.ch) wurde ein (Lern-)Spiel konzipiert, welches den neuen Studierenden spielerisch die Idee der Nachhaltigkeit nahe bringt. Dabei wurden im Stil von Speed-Dating Zeitgutscheine erstellt und zwischen den Studierenden ausgetauscht. Die Zeitgutscheine basieren auf dem Konzept von [Minutocash](http://www.minutocash.org/).
 
-Ziel war es, den Studierenden aufzuzeigen, wie man sich ohne finanzielle Mittel gegenseitig (im Studium) unterstützen und seine eigenen Fähigkeiten zum Einsatz bringen kann.
+Ziel war es, den Studierenden aufzuzeigen, wie man sich auf spielerische Weise und ohne finanzielle Mittel gegenseitig (im Studium) unterstützen und seine eigenen Fähigkeiten zum Einsatz bringen kann.
 
-Das Lernspiel wurde von jeweils ca. 450 Studierenden pro Jahr besucht.
+Das Lernspiel wurde über mehrere Jahre hinweg von jeweils ca. 450 Studierenden pro Jahr besucht.

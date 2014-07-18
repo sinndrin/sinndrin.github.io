@@ -5,6 +5,7 @@ permalink: /ueber-uns/realisierte-projekte/fairphone-crowdfunding-unterstuetzung
 image: /images/ueber-uns/realisierte-projekte/fairphone-sammelbestellung.jpg
 title: "Fairphone Crowdfunding-Unterstützung"
 subtitle: "Sammelbestellung des ersten Fairphones in der Schweiz"
+hideOnFrontpage: true
 tags:
   - Jonas Leimgruber
   - Sabine Ott

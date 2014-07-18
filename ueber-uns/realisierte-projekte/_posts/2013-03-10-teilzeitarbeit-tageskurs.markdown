@@ -5,6 +5,7 @@ permalink: /ueber-uns/realisierte-projekte/teilzeitarbeit-tageskurs/
 image: /images/ueber-uns/realisierte-projekte/teilzeitarbeit-tageskurs.jpg
 title: "Teilzeitarbeit"
 subtitle: "Tageskurs für die ZFH"
+hideOnFrontpage: true
 tags:
   - Roger Schärer
   - David Keel

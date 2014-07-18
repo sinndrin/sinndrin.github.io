@@ -56,8 +56,12 @@ title: Home
         <div class="panel" style="background-color: transparent;" data-equalizer-watch>
           <h3>Kürzlich abgeschlossene Projekte</h3><br>
           <!-- BEGIN realisierte-projekte-list -->
-          {% for post in site.categories.realisierte-projekte limit:3 %}
-          {% include block/realisierte-projekte-list.html %}
+          {% assign displayedProjekte = 0 %}
+          {% for post in site.categories.realisierte-projekte limit:20 %}
+            {% if displayedProjekte < 3 and post.hideOnFrontpage != true %}
+            {% include block/realisierte-projekte-list.html %}
+            {% assign displayedProjekte = displayedProjekte | plus:1 %}
+            {% endif %}
           {% endfor %}
           <!-- END realisierte-projekte-list -->
           <!-- BEGIN show a more entry with the number of entries -->
