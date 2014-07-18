@@ -14,7 +14,7 @@ tags:
 ---
 <img class="leadimage" width="803" title="Fairphone" src="/images/angebote/fairphone_sub.jpg"> Die sinndrin genossenschaft hat die Aufgabe übernommen die Bekanntheit des Fairphones in der Schweiz zu erhöhen. Das Ziel dabei war, die für den Beginn der Produktion benötigten Crowdfunding-Bestellmenge mit zusätzlichen Bestellungen aus der Schweiz schneller zu erreichen.
 
-Es wurde die Möglichkeit geschaffen das Smartphone für Schweizer Kunden durch eine Massenbestellung günstiger anzubieten. In Zusammenarbeit mit faircustomer.ch konnte ein zusätzlicher Verkaufskanal für die Geräte bereitgestellt werden. 
+Es wurde die Möglichkeit geschaffen, das Smartphone für Schweizer Kunden durch eine Massenbestellung günstiger anzubieten. In Zusammenarbeit mit faircustomer.ch konnte ein zusätzlicher Verkaufskanal für die Geräte bereitgestellt werden. 
 
 Während der einmonatigen Crowdfunding-Phase wurden durch die sinndrin genossenschaft 46 Geräte bestellt. Dies entsprach etwa 1&nbsp;% der vom Projekt benötigten 5'000 Vorbestellungen. Von den rund 25'000 Geräten die in der ersten Produktionsserie hergestellt wurden, sind gesamthaft 146 Stück über die sinndrin genossenschaft bestellt worden.
 
