@@ -5,7 +5,7 @@ permalink: /ueber-uns/team/sabine-ott/
 
 title: "Sabine Ott"
 subtitle: "B. Sc. ZFH in Umweltingenieurwesen"
-byline: "ist aktiv im Gartenbau und Parkpflege, der Pflanzplanung und in der Landwirtschaft. Sie hat Interesse und Freude an Gestaltung im weitesten Sinne."
+byline: "ist aktiv im Gartenbau, der Parkpflege, Pflanzplanung und in der Landwirtschaft. Sie hat Interesse und Freude an (Umwelt-) Gestaltung im weitesten Sinne."
 email: sabine.ott@sinndrin.ch
 phone: ""
 image: /images/ueber-uns/team/sabine.png
