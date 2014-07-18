@@ -9,7 +9,7 @@ title: "Fachbücherbörse ZHAW 2014"
 ---
 <div class=angebot-top-wide"><img width="803" title="Fachbücherbörse" src="/images/angebote/fachbuecherboerse_sub.jpg"></div>
 
-Wir sammeln momentan via Sekretariat Grüental und Reidbach die abgegeben Fachbücher. Diese werden an zwei Verkaufstagen anfangs der zweiten Herbstesemsterwoche zum Verkauf angeboten. Die genauen Daten werden zur gegebenen Zeit per E-Mail an die Studierenden und Mitarbeitenden kommuniziert.
+Wir sammeln momentan via Sekretariat Grüental und Reidbach die von Studierenden abgegeben "gebrauchten" Fachbücher und Unterrichtsmaterialien. Diese werden an zwei Verkaufstagen anfangs der zweiten Herbstesemsterwoche für neue Studierende zum Wiederverkauf angeboten. Die genauen Daten werden zur gegebenen Zeit per E-Mail an die Studierenden und Mitarbeitenden kommuniziert.
 
 <!--
 ### Kleine Auswahl bisher zum Verkauf stehender Bücher
