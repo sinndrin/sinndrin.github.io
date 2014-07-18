@@ -1,6 +1,6 @@
 ---
 layout: two-columns
-categories: projekte
+categories: realisierte-projekte
 permalink: /ueber-uns/realisierte-projekte/prozessoptimierung-kunstschule/
 image: /images/ueber-uns/realisierte-projekte/kunstschule.jpg
 title: "Prozessoptimierung für die Kunstschule"

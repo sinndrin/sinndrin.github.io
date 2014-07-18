@@ -1,6 +1,6 @@
 ---
 layout: two-columns
-categories: projekte
+categories: realisierte-projekte
 permalink: /ueber-uns/realisierte-projekte/wu-shu-center-oberland/
 image: /images/ueber-uns/realisierte-projekte/webdesign-wu-shu.jpg
 title: "Webdesign für das Wu Shu Center"

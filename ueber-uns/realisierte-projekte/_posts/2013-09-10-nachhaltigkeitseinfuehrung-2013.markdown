@@ -1,6 +1,6 @@
 ---
 layout: two-columns
-categories: projekte
+categories: realisierte-projekte
 permalink: /ueber-uns/realisierte-projekte/nachhaltigkeitseinfuehrung-2013/
 image: /images/ueber-uns/realisierte-projekte/zhaw-startowche-block-nachhaltigkeit.jpg
 title: "Einführung in das Thema Nachhaltigkeit"

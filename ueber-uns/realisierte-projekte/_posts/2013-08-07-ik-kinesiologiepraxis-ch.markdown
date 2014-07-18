@@ -1,6 +1,6 @@
 ---
 layout: two-columns
-categories: projekte
+categories: realisierte-projekte
 permalink: /ueber-uns/realisierte-projekte/ik-kinesiologiepraxis-ch/
 image: /images/ueber-uns/realisierte-projekte/webdesign-ik-kinesiologiepraxis-ch.jpg
 title: "Webdesign für die IK-Kinesiologiepraxis"

@@ -1,6 +1,6 @@
 ---
 layout: two-columns
-categories: projekte
+categories: realisierte-projekte
 permalink: /ueber-uns/realisierte-projekte/fairphone-reloaded/
 image: /images/ueber-uns/realisierte-projekte/fairphone-sammelbestellung.jpg
 title: "Fairphone Reloaded"

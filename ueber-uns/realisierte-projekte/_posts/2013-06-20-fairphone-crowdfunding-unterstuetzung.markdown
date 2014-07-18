@@ -1,6 +1,6 @@
 ---
 layout: two-columns
-categories: projekte
+categories: realisierte-projekte
 permalink: /ueber-uns/realisierte-projekte/fairphone-crowdfunding-unterstuetzung/
 image: /images/ueber-uns/realisierte-projekte/fairphone-sammelbestellung.jpg
 title: "Fairphone Crowdfunding-Unterstützung"

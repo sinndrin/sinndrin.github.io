@@ -1,6 +1,6 @@
 ---
 layout: two-columns
-categories: projekte
+categories: realisierte-projekte
 permalink: /ueber-uns/realisierte-projekte/teilzeitarbeit-tageskurs/
 image: /images/ueber-uns/realisierte-projekte/teilzeitarbeit-tageskurs.jpg
 title: "Teilzeitarbeit"

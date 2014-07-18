@@ -1,6 +1,6 @@
 ---
 layout: two-columns
-categories: projekte
+categories: realisierte-projekte
 permalink: /ueber-uns/realisierte-projekte/lernspiel-el-sog/
 image: /images/ueber-uns/realisierte-projekte/el-sog-2012.jpg
 title: "Lernspiel El Sog"
