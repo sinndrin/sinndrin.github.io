@@ -7,6 +7,11 @@ layout: default
 {% assign currentpost = {{post}} %}
 {% endif %}
 {% endfor %}
+<div class="row">
+  <div class="large-12 columns breadcrumb">
+    {% include breadcrumbs.html %}
+  </div>
+</div>
 <div class="large-8 columns content">
   <div id="blog">
     <div class="row">

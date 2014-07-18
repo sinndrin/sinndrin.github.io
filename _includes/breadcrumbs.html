@@ -2,8 +2,16 @@
   <a href="/">Home</a>
   {% assign crumbs = page.url | split: '/' %}
   {% assign previous="" %}
-  {% for crumb in crumbs offset:1 %}
-    {% capture previous %}{{ previous }}/{{ crumb }}{% endcapture %}
-    <a href="{{previous}}/" {% if crumbs.last == crumb %}class="current"{% endif %}>{{ crumb | remove: '.html' | replace: "-"," " | replace: "ueber uns","über uns" | replace: "suffizienz in zuerich erleben","suffizienz in zürich erleben" | replace: "wegfuehrung","wegführung" | replace: "fachbuecherboerse","fachbücherbörse" | replace: "geschaeftsprozesse optimieren","geschäftsprozesse optimieren" | replace: "grundsaetze","grundsätze" | replace: "fairphone crowdfunding unterstuetzung","Fairphone Crowdfunding-Unterstützung" }}</a>
-  {% endfor %}
+  {% assign crumbsSize = crumbs | size %}
+  {% if crumbsSize > 2 and crumbs[1] == "blog"  %}
+  {% comment %} BLOG CRUMBS {% endcomment %}
+    <a href="/blog">Blog</a>
+    <a href="" class="current">{{ crumbs[5] | remove: '.html' | replace: "-"," " | replace: "acht bis fuenf lebenslaenglich","Acht bis Fünf: Lebenslänglich!?" }}</a>
+  {% else %}
+    {% comment %} NOT BLOG CRUMBS {% endcomment %}
+    {% for crumb in crumbs offset:1 %}
+      {% capture previous %}{{ previous }}/{{ crumb }}{% endcapture %}
+      <a href="{{previous}}/" {% if crumbs.last == crumb %}class="current"{% endif %}>{{ crumb | remove: '.html' | replace: "-"," " | replace: "ueber uns","über uns" | replace: "suffizienz in zuerich erleben","suffizienz in zürich erleben" |  replace: "fachbuecherboerse","fachbücherbörse" | replace: "geschaeftsprozesse optimieren","geschäftsprozesse optimieren" | replace: "grundsaetze","grundsätze" | replace: "fairphone crowdfunding unterstuetzung","Fairphone Crowdfunding-Unterstützung" }}</a>
+    {% endfor %}
+  {% endif %}
 </nav>
