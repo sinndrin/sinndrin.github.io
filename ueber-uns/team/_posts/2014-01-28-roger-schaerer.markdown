@@ -10,11 +10,11 @@ phone: +41 76 451 71 31
 byline: "entwickelt gerne neue Projekte im Nach&shy;hal&shy;tig&shy;keits&shy;be&shy;reich. Er interessiert sich hauptsächlich für Umweltbildung, ist aber auch von Webdesign und Programmieren begeistert."
 image: /images/ueber-uns/team/roger.png
 ---
-Ich entwickle gerne neue Projekte im Nach&shy;hal&shy;tig&shy;keits&shy;be&shy;reich. Ich interessiere mich hauptsächlich für Umweltbildung, bin aber auch von Webdesign und Programmieren begeistert."
+Ich entwickle gerne neue Projekte im Nach&shy;hal&shy;tig&shy;keits&shy;be&shy;reich. Ich interessiere mich hauptsächlich für Umweltbildung, bin aber auch von Webdesign und Programmieren begeistert.
 
 Ausbildungen:
 
-- Bachelor of Science ZFH in **Umweltingenieurwesen** mit Vertiefungen Vertiefungen in "Umweltbildung" und "nachwachsende Rohstoffe und erneuerbare Energien".
+- Bachelor of Science ZFH in **Umweltingenieurwesen** mit Vertiefungen in "Umweltbildung" und "nachwachsende Rohstoffe und erneuerbare Energien".
 - **Betriebstechnologe** mit Eidg. Fähigkeitsausweis.
 - **Elektroniker** mit Eidg. Fähigkeitsausweis.
 
