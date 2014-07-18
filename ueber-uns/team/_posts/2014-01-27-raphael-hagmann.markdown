@@ -14,7 +14,5 @@ Die Harmonie zwischen technologischem Fortschritt und Umweltfreundlichkeit sowie
 
 ####Ausbildungen:
 
-- Bachelor of Science ZFH in Umweltingenieurwesen
-- Vertiefung "Nachwachsende Rohstoffe und Erneuerbare Energien"
-- Haustechnikplaner FA
-- Fachrichtung Sanitär
+- Bachelor of Science ZFH in Umweltingenieurwesen mit Vertiefung in "Nachwachsende Rohstoffe und Erneuerbare Energien"
+- Haustechnikplaner FA, Fachrichtung Sanitär
