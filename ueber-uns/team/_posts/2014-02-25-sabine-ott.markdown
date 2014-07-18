@@ -10,7 +10,7 @@ email: sabine.ott@sinndrin.ch
 phone: ""
 image: /images/ueber-uns/team/sabine.png
 ---
-Im Austausch mit sinndrin kann ich mein Können und mein Interesse an verschiedensten Themen Ausbauen, weiterentwickeln und Einbringen: Aspekte der Nachhaltigkeit, Stadtentwicklung, Mensch und Umwelt - um nur einige davon zu nennen. Zudem erhalte ich Einblick in Bereiche, die mir aufgrund meiner bisherigen Ausbildungen zwar nicht geläufig sind, mich aber nicht minder neugierig machen und die oft auch Anknüpfstellen zu meinen aktuellen Tätigkeiten bieten.
+Im Austausch mit sinndrin kann ich mein Können und mein Interesse an verschiedensten Themen ausbauen, weiterentwickeln und einbringen: Aspekte der Nachhaltigkeit, Stadtentwicklung, Partizipation und Umwelt - um nur einige davon zu nennen. Zudem erhalte ich Einblick in Bereiche, die mir aufgrund meiner bisherigen Ausbildungen zwar nicht geläufig sind, mich aber nicht minder neugierig machen und die oft auch Anknüpfstellen zu meinen aktuellen Tätigkeiten bieten.
 
 Ausbildungen:
 
