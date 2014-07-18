@@ -23,6 +23,6 @@
       {{ post.date | date: "%Y" }}
     </div>
     <div class="thumb" style="background-image:url({{ post.image }})"></div>
-    <h5>{{ post.subtitle }}</h5>
+    <h5>{{ post.subtitle }} {% include block/mehr-button.html %}</h5>
   </a>
 </div>
