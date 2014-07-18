@@ -14,7 +14,7 @@ Im Austausch mit sinndrin kann ich mein Können und mein Interesse an verschiede
 
 Ausbildungen:
 
-- Bachelor of Science ZFH in Umweltingenieurwesen mit Vertiefung "Urbaner Gartenbau"
+- Bachelor of Science ZFH in Umweltingenieurwesen mit Vertiefung in "Urbaner Gartenbau"
 - Innendekorateurin mit Eidgenössischem Fähigkeitszeugnis (EFZ) 
 - Permakultur Design Zertifikatskurs (72-h-Kurs nach Bill Mollison) 
 
