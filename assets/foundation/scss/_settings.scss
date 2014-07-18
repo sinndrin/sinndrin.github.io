@@ -40,7 +40,7 @@ $row-width: rem-calc(830);
 
 // We use these to control various global styles
 $body-bg: #fff;
-// $body-font-color: #222;
+$body-font-color: #222;
 @font-face {
   font-family: 'Open Sans';
   font-style: normal;
@@ -60,8 +60,8 @@ $body-font-family: "Open Sans", sans-serif;
 // $default-float: left;
 
 // We use these as default colors throughout
-// $primary-color: #008CBA;
-// $secondary-color: #e7e7e7;
+$primary-color: #008CBA;
+$secondary-color: #e7e7e7;
 // $alert-color: #f04124;
 // $success-color: #43AC6A;
 // $warning-color: #f08a24;
@@ -178,7 +178,7 @@ $header-font-color: rgb(0, 0, 0);
 // We use these to style anchors
 // $anchor-text-decoration: none;
 // $anchor-font-color: $primary-color;
-// $anchor-font-color-hover: scale-color($primary-color, $lightness: -14%);
+//$anchor-font-color-hover: scale-color($primary-color, $lightness: -14%);
 
 // We use these to style the <hr> element
 // $hr-border-width: 1px;
@@ -958,12 +958,12 @@ $crumb-border-style: none;
 // $side-nav-list-margin: rem-calc(0 0 7 0);
 
 // We use these to control link styles.
-$side-nav-link-color: rgb(34, 34, 34);
-$side-nav-link-color-active: white;
-$side-nav-link-color-hover: scale-color($header-font-color, $lightness: 30%);
+$side-nav-link-color: $body-font-color;
+// $side-nav-link-color-active: white;
+$side-nav-link-color-hover: scale-color($primary-color, $lightness: 30%);
 // $side-nav-font-size: rem-calc(14);
 // $side-nav-font-weight: normal;
-$side-nav-font-weight-active: inherit !important; // make active toplevels bold and minor levels not bold
+// $side-nav-font-weight-active: inherit !important; // make active toplevels bold and minor levels not bold
 // $side-nav-font-family: $body-font-family;
 // $side-nav-active-font-family: $side-nav-font-family;
 

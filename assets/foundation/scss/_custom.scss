@@ -1,3 +1,7 @@
+// Allows the use of rem-calc() or lower-bound() in your settings
+@import "foundation/functions";
+// Allows variables
+@import "settings";
 /* ******************************************************************************************************* */
 /* main layout */
 
@@ -10,89 +14,34 @@ body {
   background-repeat: both;
 }
 
-/* anchors pushing to fix sticky header */
-a.anchor{display: block; position: relative; top: -45px; visibility: hidden;}
-
 /* abstand zwischen breadcrumbs und haupttitel*/
 .breadcrumbs {
   margin-bottom: 20px;
 }
+/* ****** anchor colors ****** */
+/* anchor headings and paragrahps hover color */
+a {
+  h1:hover, h2:hover, h3:hover, h4:hover, h5:hover, h6:hover, p:hover {
+    color: $anchor-font-color-hover;
+  }
+  /* reset color of whole p anchors */
+  p {
+    color: $body-font-color;
+  }
+}
+/* don't chang hovered anchor color */
+.no-colorchange:hover {
+  color: $body-font-color;
+}
 /* ******************************************************************************************************* */
-/* small screens */
-// TODO: zusammenfügen von small und medium media queries
-@media #{$small-only} {
-  aside ul {
-    background-color: lightgrey;
-  }
+/* mehr-button */
+.mehr-button {
+  white-space: nowrap;
+  color: $anchor-font-color;
 }
-@media #{$medium-only} {
-  aside ul {
-    background-color: lightgrey;
-  }
+.mehr-button:hover {
+  color: $anchor-font-color-hover;
 }
-/* ******************************************************************************************************* */
-/* side bar */
-aside {
-  ul {
-    margin: 0px;
-    list-style: none;
-    li.active {
-      background-color: rgb(0, 140, 186);
-    }
-  }
-  a {
-    padding: 2px 0px 1px 0px;
-  }
-  .side-nav {
-    border-color: #808080;
-    border-style: solid;
-    border-width: 1px 0px 1px 0px;
-    padding: 0px;
-    a {
-      padding-left: rem-calc(2);
-    }
-    li {
-      margin: 0px;
-    }
-    > li {
-      font-weight: bold;
-      border-color: #808080;
-      border-style: solid;
-      border-width: 0px 0px 1px 0px;
-    }
-    .second > li {
-      font-weight: bold;
-      border-color: #808080;
-      border-style: dotted;
-      border-width: 0px 0px 1px 0px;
-      a {
-        padding-left: rem-calc(10);
-      }
-    }
-    .second > li:last-child {
-      border-width: 0px 0px 0px 0px;
-    }
-    .third > li {
-      font-weight: normal;
-      border-color: #808080;
-      border-style: dotted;
-      border-width: 0px 0px 1px 0px;
-      a {
-        padding-left: rem-calc(20);
-      }
-    }
-    .fourth > li {
-      font-weight: normal;
-      border-color: #808080;
-      border-style: dotted;
-      border-width: 0px 0px 1px 0px;
-      a {
-        padding-left: rem-calc(30);
-      }
-    }
-  }
-}
-
 /* ******************************************************************************************************* */
 /* leadimages */
 .leadimage {
@@ -145,32 +94,13 @@ aside {
   max-width: 800px;
   background-image: url(/images/angebote/mit-uns-zusammen-arbeiten.jpg);
 }
-.side-nav a.button.expand, .side-nav a.panel {
-  /* panel */
-  text-align: center;
-  padding-right: 0px;
-  padding-left: 0px;
-  /* button & panel */
-  margin-bottom: 7px;
-  padding-top: 6px;
-  padding-bottom: 7px;
-  max-width: 247px;
-}
 /* angebote underlined */
 .side-nav li {
   border-color: rgb(128, 128, 128);
   border-style: dotted;
   border-width: 0px 0px 1px 0px;
 }
-/* link zu realisierte projekte in angebot */
-a.realisierte-projekte-link-block {
-  color: rgb(34, 34, 34);
-  font-weight: bold;
-}
-a.realisierte-projekte-link-block:hover {
-  color: rgb(28, 202, 255);
-}
-/* top image auf angebotsseite*/
+/* top image auf angebotsseiten */
 .angebot-top-wide {
   max-width: 800px;
 }
@@ -212,10 +142,4 @@ div.thumb.singlepost {
   font-size: smaller;
   margin-top: 5px;
   box-shadow: 0px 0px 6px white;
-}
-/* ******************************************************************************************************* */
-/* a links schriftfarbe schwärzen: hintergrundwissen, realisierte projekte, angebote kategorien */
-
-div.row.clearfix > a > div > p, div.realisiertes-projekt > a > div > p, div.angebot > a > div > p {
-  color: rgb(34, 34, 34);
 }
