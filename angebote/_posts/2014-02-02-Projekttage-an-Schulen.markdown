@@ -34,11 +34,11 @@ Im persönlichen Gespräch kann die Form, Länge und Thematik für die Projektta
 <div class="panel">
 <h2>Ein konkretes Beispiel: Der Solar-Workshop</h2>
 
-<p>Solartage sollen den Schülern und Schülerinnen Wissen und ein Gespür über die Nutzung von Sonnenenergie vermitteln. Die Solartage dauern je nach Wunsch ein bis fünf Tage. Es wird den Schülerinnen und Schülern überlassen, ob sie lieber die Dächer der Umgebung nach deren Solarpotential abschätzen wollen oder ob sie bevorzugen eine Photovoltaikanlage zu erstellen.</p>
+<p>Solartage sollen den Schülern und Schülerinnen Wissen und ein Gespür für die Nutzung von Sonnenenergie vermitteln. Die Solartage dauern je nach Wunsch ein bis fünf Tage. Es wird den Schülerinnen und Schülern überlassen, ob sie lieber die Dächer der Umgebung nach deren Solarpotential abschätzen wollen oder ob sie bevorzugen, eine Photovoltaikanlage selber zu erstellen.</p>
 
 <h4>Solarpotential von Dächern abschätzen</h4>
 
-<p>Den Schülern und Schülerinnen werden Grundkenntnisse über die Solarenergie vermittelt, dabei lernen sie, welche Dächer geeignet sind und welche nicht, machen sich mit einem Kompass vertraut um die Südausrichtung eines Daches ausfindig zu machen, erfahren wie viel Energie auf den Dächern produziert und was mit dieser Energie alles gemacht werden könnte. Nach der Unterrichtseinheit werden die Schülerinnen und Schüler in Kleingruppen die Dächer in der Umgebung auf deren Solarpotential beurteilen. Wenn eine Gruppe ein geeignetes Dach gefunden und es untersucht hat, können die Schüler und Schülerinnen die Besitzer des Hauses direkt darüber informieren. Die Gruppen sind dabei mit Kompass, Messbänder (grobe Schätzung der Dachgrösse) und einem Hilfsblatt für die Energieberechnung ausgerüstet.</p>
+<p>Den Schülern und Schülerinnen werden Grundkenntnisse über die Solarenergie vermittelt. Dabei lernen sie, welche Dächer geeignet sind und welche nicht, machen sich mit einem Kompass vertraut um die Südausrichtung eines Daches ausfindig zu machen, erfahren wie viel Energie auf den Dächern produziert und was mit dieser Energie alles gemacht werden könnte. Nach der Unterrichtseinheit werden die Schülerinnen und Schüler in Kleingruppen die Dächer in der Umgebung auf deren Solarpotential beurteilen. Wenn eine Gruppe ein geeignetes Dach gefunden und es untersucht hat, können die Schüler und Schülerinnen die Besitzer des Hauses direkt darüber informieren. Die Gruppen sind dabei mit Kompass, Messbändern (grobe Schätzung der Dachgrösse) und einem Hilfsblatt für die Energieberechnung ausgerüstet.</p>
 
 <h4>Photovoltaikanlage bauen</h4>
 
@@ -47,9 +47,9 @@ Im persönlichen Gespräch kann die Form, Länge und Thematik für die Projektta
 <h4>Alternativen</h4>
 
 <ul>
-<li>Dörren von Früchten im Solarofen</li>
+<li>Dörren von Früchten/Kräutern/Blüten im Solardörrer</li>
 <li>Solarkocher bauen</li>
-<li>Solarofen bauen</li>
+<li>Solardörrer bauen</li>
 <li>Solare Handyladestation bauen</li>
 </ul>
 </div>
