@@ -9,4 +9,4 @@ tags:
   - Roger Schärer
 ---
 
-Für die [IK-Kinesiologiepraxis Sara Haab](http://www.ik-kinesiologiepraxis.ch/) haben wir die Webseite gestaltet und betreiben sie seither.
+Für die [IK-Kinesiologiepraxis von Sara Haab](http://www.ik-kinesiologiepraxis.ch/) haben wir die Webseite gestaltet und betreiben sie seither.
