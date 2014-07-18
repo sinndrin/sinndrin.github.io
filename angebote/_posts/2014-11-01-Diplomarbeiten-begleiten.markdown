@@ -9,7 +9,7 @@ title: "Diplomarbeiten begleiten"
 ---
 <div class=angebot-top-wide"><img title="Diplomarbeiten begleiten" src="/images/angebote/diplomarbeiten-begleiten_sub.jpg"></div>
 
-Sind Sie in ihrem Studium mit dem Verfassen einer Semester-, Bachelor- oder Diplomarbeit konfrontiert? Möchten Sie etwas erarbeiten, dass in der Praxis tatsächlich umgesetzt wird?
+Sind Sie in ihrem Studium mit dem Verfassen einer Semester-, Bachelor- oder Diplomarbeit konfrontiert? Möchten Sie etwas erarbeiten, das in der Praxis tatsächlich umgesetzt wird?
 
 Gemeinsam können wir für Ihr Interessengebiet ein praxistaugliches Exposé erstellen und die Aufgabenstellung mit Fokus auf eine baldige Umsetzung gestalten. Damit gleisen Sie die praktische Umsetzung Ihres erarbeiteten Wissens bereits in den Anfängen auf.
 
