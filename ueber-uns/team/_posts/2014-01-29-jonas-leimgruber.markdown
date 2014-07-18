@@ -14,7 +14,7 @@ Bei sinndrin arbeite ich gerne, weil es der Ort ist, wo ich meine vielfältigen 
 
 Ausbildungen:
 
-- Bachelor of Science ZFH in Umweltingenieurwesen mit Vertiefung in 'Nachwachsende Rohstoffe und Erneuerbare Energien'
+- Bachelor of Science ZFH in Umweltingenieurwesen mit Vertiefung "Nachwachsende Rohstoffe und Erneuerbare Energien"
 - Kaufmann mit Eidgenössischem Fähigkeitszeugnis (EFZ) 
 
 Interessen:
