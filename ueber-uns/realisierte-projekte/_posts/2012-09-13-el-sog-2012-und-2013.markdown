@@ -13,8 +13,8 @@ tags:
   - Roger Schärer
   - Jonas Leimgruber
 ---
-Für die beiden ZHAW Startwochen 2012 und 2013 am Departement LSFM wurde ein (Lern-)Spiel konzipiert, welches den Studierenden spielerisch die Idee der Nachhaltigkeit nahe bringt. Dabei wurden im Stile von Speeddating, Zeitgutscheine erstellt und zwischen den Studierenden ausgetauscht. Die Zeitgutscheine basieren auf dem Konzept von [Minutocash](http://www.minutocash.org/).
+Für die beiden ZHAW Startwochen 2012 und 2013 am Departement LSFM wurde ein (Lern-)Spiel konzipiert, welches den Studierenden spielerisch die Idee der Nachhaltigkeit nahe bringt. Dabei wurden im Stil von Speeddating Zeitgutscheine erstellt und zwischen den Studierenden ausgetauscht. Die Zeitgutscheine basieren auf dem Konzept von [Minutocash](http://www.minutocash.org/).
 
-Ziel war es, den Studierenden aufzuzeigen, wie man sich ohne finanzielle Mittel gegenseitig unterstützen und seine eigenen Fähigkeiten zum Einsatz bringen kann.
+Ziel war es, den Studierenden aufzuzeigen, wie man sich ohne finanzielle Mittel gegenseitig (im Studium) unterstützen und seine eigenen Fähigkeiten zum Einsatz bringen kann.
 
 Das Lernspiel wurde von jeweils ca. 450 Studierenden pro Jahr besucht.

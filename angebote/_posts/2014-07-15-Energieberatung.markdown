@@ -9,7 +9,7 @@ title: "Energieberatung"
 ---
 <div class=angebot-top-wide"><img title="Energieberatung" src="/images/angebote/erngieberatung_sub.jpg"></div>
 
-Wir beraten Sie rund ums Energiesparen, zeigen Möglichkeiten zur Steigerung der Energieeffizienz auf und lokalisieren und verringern Energieverluste. Auch mögliche Unterstützung durch Fördermassnahmen können wir Ihnen massgeschneidert auf Ihr Projekt aufzeigen.
+Wir beraten Sie rund ums Energiesparen, zeigen konkrete Möglichkeiten zur Steigerung der Energieeffizienz auf und lokalisieren und verringern Energieverluste, und sei dies durch kleine Anpassungen und Kniffe. Auch mögliche Unterstützung durch Fördermassnahmen können wir Ihnen massgeschneidert auf Ihr Projekt aufzeigen.
 
 ##Negawatt
 

@@ -8,6 +8,6 @@ subtitle: "Auftragswesen, Fakturierung, Notenerfassung uvm."
 tags:
   - Roger Schärer
 ---
-Für eine schweizweit an verschiedenen Standorten operierende Kunstschule haben wir diverse Prozessoptimierungen durchgeführt.
+Für eine schweizweit an verschiedenen Standorten operierende Kunstschule haben wir diverse Prozessoptimierungen durchgeführt oder begleitet.
 
-Die Bereiche umfassen im Speziellen das Auftragswesen, die Fakturierung sowie die Notenerfassung. Generelle administrative Prozesse wurden ebenfalls druchleuchtet und bei Bedarf angepasst.
+Die Bereiche umfassten im Speziellen das Auftragswesen, die Fakturierung sowie die Notenerfassung. Generelle administrative Prozesse wurden ebenfalls durchleuchtet und bei Bedarf angepasst.

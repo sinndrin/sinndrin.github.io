@@ -9,11 +9,11 @@ title: "Erneuerbare Energieanlagen"
 ---
 <div class=angebot-top-wide"><img title="Erneuerbare Energieanlagen" src="/images/angebote/erneuerbare-energieanlagen_sub.jpg"></div>
 
-Wir bieten Ihnen Beratung, Planung und Beurteilungen zu Anlagen im Bereich der erneuerbaren Energien an. Um Ihr Projekt zum Erfolg zu führen arbeiten wir auch mit externen Partnern zusammen. In einem persönlichen Gespräch können wir individuell auf Ihre Anliegen eingehen und gemeinsam eine Lösung finden.
+Wir bieten Ihnen Beratung, die Planung und Beurteilung zu Anlagen im Bereich der erneuerbaren Energien an. Um Ihr Projekt zum Erfolg zu führen ziehen wir bei Bedarf externe Partner bei. In einem persönlichen Gespräch können wir individuell auf Ihre Anliegen eingehen und gemeinsam eine Lösung finden.
  
 ###Photovoltaik
 
-Die sinndrin genossenschaft besitzt ein breites Fachwissen im Bereich der Photovoltaik. Wir bieten Ihnen Wirtschaftlichkeitsanalysen, Unterstützung Sie bei der KEV-Anmeldung, sowie bei der Planung und Organisation von Anlagen.
+Die sinndrin genossenschaft besitzt ein breites Fachwissen im Bereich der Photovoltaik. Wir bieten Ihnen Wirtschaftlichkeitsanalysen und unterstützen Sie bei der KEV-Anmeldung sowie bei der Planung und Organisation von Anlagen.
 
 ###Holz, Bio-Gas, Bio-Ethanol, Bio-Diesel
 
@@ -23,7 +23,7 @@ Wir erstellen für Sie Potentialabschätzungen für die Biomassenutzung, Machbar
 
 ###Windkraft
 
-Windenergieanlagen können im kleinen sowie im grossen Stil verwirklicht werden. Gerne unterstützen wir Sie bei der Verwirklichung Ihres eigenen Windenergieprojektes auf planerischer und organisatorischer Seite.
+Windenergieanlagen können im kleinen sowie im grossen Stil verwirklicht werden. Gerne begleiten wir Sie bei der Verwirklichung Ihres eigenen Windenergieprojektes auf planerischer und organisatorischer Seite.
 
 ###Wasserkraft
 
