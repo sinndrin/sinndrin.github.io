@@ -9,14 +9,14 @@ title: "Fachbücherbörse"
 ---
 <div class=angebot-top-wide"><img title="Fachbücherbörse" src="/images/angebote/fachbuecherboerse_sub.jpg"></div>
 
-Die Fachbücherbörse ermöglicht es Studierenden/ Schülern und Mitarbeitenden einer Schule vergünstigt Fachbücher zu kaufen und nicht mehr benötigte Bücher zu verkaufen. Wir übernehmen die gesamte Organisation und Koordination der Fachbücherbörse an Ihrer Schule. Die [erste Fachbücherbörse](/angebote/fachbuecherboerse/zhaw-2014/) wurde im Jahr 2014 in an der ZHAW in Wädenswil durchgeführt.
+Die Fachbücherbörse ermöglicht es Studierenden/ Schülern und Mitarbeitenden einer (Hoch-)Schule vergünstigt Fachbücher zu kaufen und nicht mehr benötigte Bücher wiederum zu verkaufen. Wir übernehmen die gesamte Organisation und Koordination der Fachbücherbörse an Ihrer Schule. Die [erste Fachbücherbörse](/angebote/fachbuecherboerse/zhaw-2014/) wurde im Jahr 2014 an der ZHAW in Wädenswil durchgeführt.
 
 ##Laufende Fachbücherbörsen
 <a href="/angebote/fachbuecherboerse/zhaw-2014/" class="button">ZHAW Wädenswil</a>
 
 ##Konzept
 
-<img class="right" width="180" title="Fachbücherbörse" src="/images/angebote/fachbuecherboerse_sub_logo.jpg"> Vor dem Semester- oder Schuljahresende wird Schulintern eine Büchersammlung durchgeführt. Die gesammelten Fachbücher werden jeweils zu Beginn des neuen Semesters den Studierenden zum Verkauf angeboten. Nicht verkaufte Bücher werden weiterhin Online aufgelistet und können jederzeit gekauft werden.
+<img class="right" width="180" title="Fachbücherbörse" src="/images/angebote/fachbuecherboerse_sub_logo.jpg"> Vor dem Semester- oder Schuljahresende wird schulintern eine Büchersammlung durchgeführt. Die gesammelten Fachbücher werden jeweils zu Beginn des neuen Semesters den Studierenden zum Verkauf angeboten. Nicht verkaufte Bücher werden online aufgelistet und können jederzeit bezogen werden.
 
 ###Ziel
 
@@ -33,7 +33,7 @@ Die Fachbücherbörse ermöglicht es Studierenden/ Schülern und Mitarbeitenden 
 * Organisation des Verkaufes
 * Erstellung und/oder Betreuung der Online-Bücherliste
 * Abrechnung der Finanzen
-* Koodination mit der Bibliothek an Ihrer Schule zur Weitervermittlung ausgeschiedener Bücher
+* Koordination mit der Bibliothek an Ihrer Schule bezüglich Weitervermittlung ausgeschiedener Bücher
 
 ###Alternativen
 
