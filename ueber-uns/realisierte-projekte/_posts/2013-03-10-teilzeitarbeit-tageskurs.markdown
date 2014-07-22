@@ -11,7 +11,7 @@ tags:
   - David Keel
 ---
 
-Für das [ZFH Mentoring-Programm](http://www.zfh.ch/dienstleistungen/mentoring-zfh.html) 2013 wurde ein Tageskurs zum Thema Teilzeitarbeit durchgeführt. Der Tag wurde nach den Grundsätzen der themenzentrierten Interaktion konzipiert und durchgeführt.
+Für das [ZFH Mentoring-Programm](http://www.zfh.ch/dienstleistungen/mentoring-zfh.html) 2013 wurde ein Tageskurs zum Thema Teilzeitarbeit durchgeführt. Der Tag wurde nach den Grundsätzen der themenzentrierten Interaktion konzipiert und durchgeführt. Die Co-Leitungspersonen waren [Roger Schärer](/ueber-uns/team/roger-schaerer/) und [David Keel](http://www.einfachkomplex.ch/).
 
 Die Einleitung der Kursausschreibung lautete: "Wer nicht das übliche 100%-Pensum arbeitet, der oder die arbeitet nicht mit Leidenschaft." Durch diesen Gedanken machen wir uns zu Sklaven unserer Arbeitsmoral. Der Trend geht jedoch dahin, dass Individuen zwar hoch motiviert arbeiten, aber sich dennoch aus verschiedensten Gründen (nicht nur familiären) eine Teilzeitstelle wünschen.
 
