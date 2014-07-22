@@ -15,7 +15,7 @@
 * Realisierte Projekte:
   * 248x100
 
-* Blog: 970x480
+* Blog: 800x300
 
 ## Icons
 [Verfügbare Icons](http://zurb.com/playground/foundation-icon-fonts-3)
