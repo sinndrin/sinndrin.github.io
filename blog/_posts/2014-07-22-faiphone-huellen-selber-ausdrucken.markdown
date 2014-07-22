@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Fairphone Hüllen selber ausdrucken"
-subtitle: "Georg und Roger gehen am Donnerstag ins Fablab in Zürich um eine Fairphone Hülle selbst zu drucken. Wer kommt mit?"
+subtitle: "Georg und Roger gehen am Donnerstag ins Fablab Zürich um eine Fairphone Hülle selbst zu drucken. Wer kommt mit?"
 image: /images/blog/fairphone-3d-drucker-fablab.jpg
 date: 2014-07-22 17:12:21
 published: true
@@ -10,7 +10,7 @@ tags:
  - Roger Schärer
 ---
 
-[Georg](/ueber-uns/team/georg-trapp/) und [Roger](/ueber-uns/team/roger-schaerer/) gehen am Donnerstag ins Fablab in Zürich um eine Fairphone Hülle selbst zu drucken. Wer kommt mit?
+[Georg](/ueber-uns/team/georg-trapp/) und [Roger](/ueber-uns/team/roger-schaerer/) gehen am Donnerstag ins [Fablab Zürich](http://zurich.fablab.ch/) um eine Fairphone Hülle selbst zu drucken. Wer kommt mit?
 
 Gemacht wird es mit einem [Ultimaker 3D-Drucker](http://zurich.fablab.ch/ultimaker) und einer [fixfertigen Druckdatei](http://shop.fairphone.com/catalog/category/view/id/7) von Fairphone.
 
