@@ -21,3 +21,12 @@ Trotz sorgfältiger Kontrolle übernehmen wir keine Haftung für die Inhalte ext
 
 ### Copyright
 Siehe [Copyright](/ueber-uns/copyright/).
+
+### Privacy
+Ihr Datenschut ist uns ein wichtiges Anliegen. Deshalb werden beim Ihrem Besuch von sinndrin.ch so wenig Daten wie möglich an dritte weitergegeben. Dies realisieren wir mit folgenden Massnahmen:
+
+##### Analyse (Analytics)
+Zu Analysezwecken wird [Piwik (Open Analytics Platform)](http://piwik.org/) auf sinndrin.ch verwendet. Dieser Dienst läuft auf einem eigenen Server der sinndrin genossenschaft und dehalb werden keine Daten an dritte weitergegeben. Wir berücksichtigen dabei die *Do Not Track* Einstellungen in Ihrem Browser. Wenn Sie generell möchten, dass weniger Tracking Daten von Ihnen erhoben werden, benutzen Sie den Browser [Firefox](http://firefox.org/) und installieren Sie diese einfach zu benutzenden Plugins: [Ghostery](https://addons.mozilla.org/de/firefox/addon/ghostery/), [Adblock Plus](https://addons.mozilla.org/de/firefox/addon/adblock-plus/), [Self-Destructing Cookies](https://addons.mozilla.org/de/firefox/addon/self-destructing-cookies/) und [RefControl](https://addons.mozilla.org/de/firefox/addon/refcontrol/). Es dauert nur wenige Minuten, dafür sind sie nicht mehr so einfach [nachverfolgbar](http://panopticlick.eff.org/). Weitere Informationen zu diesem Thema finden sie auf der Webseite der [Swiss Privacy Foundation](http://www.privacyfoundation.ch/de/service/browserspuren.html).
+
+##### Like, share, tweet, g+1 und empfehlen Buttons
+Standardmässig werden keine externen Plugins auf sinndrin.ch geladen. Die "Like-Buttons" am Ende jeder Seite werden nur geladen, wenn Sie explizit darauf klicken. Realisiert wurde dies mit dem [2 Klicks für mehr Datenschutz](http://www.heise.de/ct/artikel/2-Klicks-fuer-mehr-Datenschutz-1333879.html) Plugin von heise.de.

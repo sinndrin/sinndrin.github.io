@@ -56,6 +56,14 @@
     </div>
     <!-- Content end -->
 
+    <!-- BEGIN Social Share Button -->
+    <div class="row">
+      <div class="columns">
+        <div id="socialshareprivacy"></div>
+      </div>
+    </div>
+    <!-- END Social Share Button -->
+
     <!-- Footer -->
     <footer class="row">
       <div class="large-12 columns">
@@ -71,8 +79,9 @@
   </div>
 </div>
 <!-- Script loading -->
-<script src="/assets/foundation/bower_components/jquery/dist/jquery.min.js"></script>
 <script src="/assets/foundation/bower_components/foundation/js/foundation.min.js"></script>
+<script src="/assets/foundation/bower_components/jquery/dist/jquery.min.js"></script>
+{% include block/socialshareprivacy.html %}
 <script>$(document).foundation();</script>
 {% include block/piwik-tracking.html %}
 </body>

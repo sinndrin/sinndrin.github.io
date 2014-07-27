@@ -255,3 +255,16 @@ Auf der Webseite [www.sinndrin.ch](/) wurden die folgenden Werke von dritten ers
       <hr>
     </div>
 </div>
+<!-- apps -->
+<div class="row">
+      <div class="medium-4 columns">
+        <img src="/assets/jquery.socialshareprivacy/2-klick-logo_min.jpg" max-width="248px">
+      </div>
+      <div class="medium-8 columns">
+        <a href="http://www.heise.de/extras/socialshareprivacy/"><h3>heise.de (MIT)</h3></a>
+        <p>Benutzt.</p>
+      </div>
+    <div class="small-12 columns">
+      <hr>
+    </div>
+</div>

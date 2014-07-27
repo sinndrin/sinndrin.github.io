@@ -1,0 +1,25 @@
+<!-- BEGIN http://www.heise.de/extras/socialshareprivacy/ -->
+<script type="text/javascript" src="/assets/jquery.socialshareprivacy/jquery.socialshareprivacy.min.js"></script>
+<script type="text/javascript">
+  jQuery(document).ready(function($){
+    if($('#socialshareprivacy').length > 0){
+      $('#socialshareprivacy').socialSharePrivacy({
+        services : {
+          facebook: {
+            'dummy_img': '/assets/jquery.socialshareprivacy/socialshareprivacy/images/dummy_facebook.png'
+          },
+          twitter : {
+            'dummy_img' : '/assets/jquery.socialshareprivacy/socialshareprivacy/images/dummy_twitter.png'
+          },
+          gplus : {
+            'dummy_img' : '/assets/jquery.socialshareprivacy/socialshareprivacy/images/dummy_gplus.png'
+          }
+        },
+        "css_path"  : "/assets/jquery.socialshareprivacy/socialshareprivacy/socialshareprivacy.css",
+        "lang_path" : "/assets/jquery.socialshareprivacy/socialshareprivacy/lang/",
+        "language"  : "de"
+      });
+    }
+  });
+</script>
+<!-- END http://www.heise.de/extras/socialshareprivacy/ -->
