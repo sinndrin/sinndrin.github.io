@@ -106,18 +106,12 @@ a {
 }
 /* ******************************************************************************************************* */
 /* blog */
-div.thumb {
-  width: 100%;
-  @media #{$medium-up} { height: 300px; }
-  @media #{$small-only} { height: 180px; }
+.blog-leadimage {
+  max-width: 800px;
   margin: 20px auto;
   background: none no-repeat scroll 50% 0% / 100% auto rgb(255, 255, 255);
   box-shadow: 0px 0px 10px rgb(204, 204, 204);
   display: block;
-}
-div.thumb.singlepost {
-  @media #{$medium-up} { height: 200px; }
-  @media #{$small-only} { height: 150px; }
 }
 #blog h5, #blog .meta, .byline .text.team, footer {
   color: rgb(136, 136, 136);

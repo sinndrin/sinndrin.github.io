@@ -40,7 +40,9 @@ layout: default
       {{ page.date | date: "%Y" }}</div>
 
     <div class="post">
-      <div class="thumb singlepost" style="background-image:url({{ page.image }})"></div>
+      <div class="blog-leadimage">
+        <img src="{{ page.image }}" alt="Leadimage zum Post {{ page.title }}">
+      </div>
       {{ content }}
     </div>
   </div>
