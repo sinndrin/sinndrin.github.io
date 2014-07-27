@@ -6,6 +6,7 @@ image: /images/blog/acht-bis-fuenf-lebenslaenglich.jpg
 date: 2014-07-17 10:32:21
 published: true
 categories: blog
+comments: true
 tags:
  - Raphael Hagmann
 ---

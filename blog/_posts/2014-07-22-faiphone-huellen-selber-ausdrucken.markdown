@@ -6,6 +6,7 @@ image: /images/blog/fairphone-3d-drucker-fablab.jpg
 date: 2014-07-22 17:12:21
 published: true
 categories: blog
+comments: true
 tags:
  - Roger Schärer
 ---
