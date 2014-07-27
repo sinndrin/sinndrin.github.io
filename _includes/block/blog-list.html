@@ -1,5 +1,6 @@
 <div class="large-12 columns">
   <a href="{{ post.url }}">
+    <div id="blog" class="post">
     <h4>{{ post.title }}</h4>
 
     <div class="meta"><i class="fi-marker"></i> {{ post.tags }} |
@@ -27,5 +28,6 @@
     </div>
     <h5>{{ post.subtitle }} {% include block/mehr-button.html %}</h5>
     <div class="border-bottom"></div>
+    </div>
   </a>
 </div>
