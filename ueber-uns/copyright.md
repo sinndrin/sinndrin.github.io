@@ -181,6 +181,151 @@ Auf der Webseite [www.sinndrin.ch](/) wurden die folgenden Werke von dritten ers
       <hr>
     </div>
 </div>
+<!-- fairphone zubehör produkte -->
+<div class="row">
+      <div class="medium-4 columns">
+        <img src="/images/angebote/fairphone/3D_cases-20.jpg" max-width="248px">
+      </div>
+      <div class="medium-8 columns">
+        <a href="http://shop.fairphone.com/accessories-1.html"><h3>Fairphone.com (Copyright Fairphone)</h3></a>
+        <p>Verändert; Zugeschnitten.</p>
+      </div>
+    <div class="small-12 columns">
+      <hr>
+    </div>
+</div>
+<div class="row">
+      <div class="medium-4 columns">
+        <img src="/images/angebote/fairphone/battery.jpg" max-width="248px">
+      </div>
+      <div class="medium-8 columns">
+        <a href="http://shop.fairphone.com/spareparts/battery.html"><h3>Fairphone.com (Copyright Fairphone)</h3></a>
+        <p>Verändert; Zugeschnitten.</p>
+      </div>
+    <div class="small-12 columns">
+      <hr>
+    </div>
+</div>
+<div class="row">
+      <div class="medium-4 columns">
+        <img src="/images/angebote/fairphone/motive/branded1.png" max-width="248px">
+      </div>
+      <div class="medium-8 columns">
+        <a href="http://shop.fairphone.com/catalog/category/view/id/7"><h3>Fairphone.com (Copyright Fairphone)</h3></a>
+        <p>Verändert; Zugeschnitten.</p>
+      </div>
+    <div class="small-12 columns">
+      <hr>
+    </div>
+</div>
+<div class="row">
+      <div class="medium-4 columns">
+        <img src="/images/angebote/fairphone/motive/day01_bicycle_webshop.png" max-width="248px">
+      </div>
+      <div class="medium-8 columns">
+        <a href="http://shop.fairphone.com/catalog/category/view/id/7"><h3>Fairphone.com (&copy; Fairphone)</h3></a>
+        <p>Verändert; Zugeschnitten.</p>
+      </div>
+    <div class="small-12 columns">
+      <hr>
+    </div>
+</div>
+<div class="row">
+      <div class="medium-4 columns">
+        <img src="/images/angebote/fairphone/motive/day02_world_tool.png" max-width="248px">
+      </div>
+      <div class="medium-8 columns">
+        <a href="http://shop.fairphone.com/catalog/category/view/id/7"><h3>Fairphone.com (&copy; Fairphone)</h3></a>
+        <p>Verändert; Zugeschnitten.</p>
+      </div>
+    <div class="small-12 columns">
+      <hr>
+    </div>
+</div>
+<div class="row">
+      <div class="medium-4 columns">
+        <img src="/images/angebote/fairphone/motive/day04_azulejos_shop.png" max-width="248px">
+      </div>
+      <div class="medium-8 columns">
+        <a href="http://shop.fairphone.com/catalog/category/view/id/7"><h3>Fairphone.com (&copy; Fairphone)</h3></a>
+        <p>Verändert; Zugeschnitten.</p>
+      </div>
+    <div class="small-12 columns">
+      <hr>
+    </div>
+</div>
+<div class="row">
+      <div class="medium-4 columns">
+        <img src="/images/angebote/fairphone/motive/day05_cogs2_tool.png" max-width="248px">
+      </div>
+      <div class="medium-8 columns">
+        <a href="http://shop.fairphone.com/catalog/category/view/id/7"><h3>Fairphone.com (&copy; Fairphone)</h3></a>
+        <p>Verändert; Zugeschnitten.</p>
+      </div>
+    <div class="small-12 columns">
+      <hr>
+    </div>
+</div>
+<div class="row">
+      <div class="medium-4 columns">
+        <img src="/images/angebote/fairphone/motive/day_03_tree_tool.png" max-width="248px">
+      </div>
+      <div class="medium-8 columns">
+        <a href="http://shop.fairphone.com/catalog/category/view/id/7"><h3>Fairphone.com (&copy; Fairphone)</h3></a>
+        <p>Verändert; Zugeschnitten.</p>
+      </div>
+    <div class="small-12 columns">
+      <hr>
+    </div>
+</div>
+<div class="row">
+      <div class="medium-4 columns">
+        <img src="/images/angebote/fairphone/motive/lucky_cat1.png" max-width="248px">
+      </div>
+      <div class="medium-8 columns">
+        <a href="http://shop.fairphone.com/catalog/category/view/id/7"><h3>Fairphone.com (&copy; Fairphone)</h3></a>
+        <p>Verändert; Zugeschnitten.</p>
+      </div>
+    <div class="small-12 columns">
+      <hr>
+    </div>
+</div>
+<div class="row">
+      <div class="medium-4 columns">
+        <img src="/images/angebote/fairphone/motive/manifesto1.png" max-width="248px">
+      </div>
+      <div class="medium-8 columns">
+        <a href="http://shop.fairphone.com/catalog/category/view/id/7"><h3>Fairphone.com (&copy; Fairphone)</h3></a>
+        <p>Verändert; Zugeschnitten.</p>
+      </div>
+    <div class="small-12 columns">
+      <hr>
+    </div>
+</div>
+<div class="row">
+      <div class="medium-4 columns">
+        <img src="/images/angebote/fairphone/motive/pattern1.png" max-width="248px">
+      </div>
+      <div class="medium-8 columns">
+        <a href="http://shop.fairphone.com/catalog/category/view/id/7"><h3>Fairphone.com (&copy; Fairphone)</h3></a>
+        <p>Verändert; Zugeschnitten.</p>
+      </div>
+    <div class="small-12 columns">
+      <hr>
+    </div>
+</div>
+<div class="row">
+      <div class="medium-4 columns">
+        <img src="/images/angebote/fairphone/motive/technologic1.png" max-width="248px">
+      </div>
+      <div class="medium-8 columns">
+        <a href="http://shop.fairphone.com/catalog/category/view/id/7"><h3>Fairphone.com (&copy; Fairphone)</h3></a>
+        <p>Verändert; Zugeschnitten.</p>
+      </div>
+    <div class="small-12 columns">
+      <hr>
+    </div>
+</div>
 <!-- hintergrundwissen -->
 <div class="row">
       <div class="medium-4 columns">
