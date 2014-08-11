@@ -31,7 +31,7 @@ Der Druck eines der 10 Motive in einer von 14 Farben dauert ca. 90 Minuten und b
 
 #### Qualität
 
-Die Qualität eines 3D-Drucks ist heutzutage ganz gut. Trotzdem ist es die Regel, dass ästhetische "Mängel" gut sichtbar sind. Anders ausgedrückt kann dies auch eine Qualität sein: Es sieht selbst gemacht und individuell aus. So sind der obere und untere Rand nicht ganz glatt und es ist eine feine Naht in der horizontalen sichtbar (siehe Produktbild der grünen Hülle). Weiter ist der obere Rand der Aussparung für die Kamera nicht ganz gerade, weil dies druckbedingt nicht realisierbar ist. Falls sie unsicher sind ob die Qualität ihrem Geschmack entspricht, besichtigen Sie unsere Hüllenausdrucke an der Alfred-Escher-Strasse 46 in 8002 Zürich. Eine Telefonische Voranmeldung unter 044 534 64 54 ist notwendig.
+<img class="leadimage left" width="420px" src='/images/angebote/fairphone/selbst-gedruckt-gruen.jpg' alt='Fairphone Hülle grün selbst gedruckt'> Die Qualität eines 3D-Drucks ist heutzutage ganz gut. Trotzdem ist es die Regel, dass ästhetische "Mängel" gut sichtbar sind. Anders ausgedrückt kann dies auch eine Qualität sein: Es sieht selbst gemacht und individuell aus. So sind der obere und untere Rand nicht ganz glatt und es ist eine feine Naht in der horizontalen sichtbar (siehe Produktbild der grünen Hülle). Weiter ist der obere Rand der Aussparung für die Kamera nicht ganz gerade, weil dies druckbedingt nicht realisierbar ist. Falls sie unsicher sind ob die Qualität ihrem Geschmack entspricht, besichtigen Sie unsere Hüllenausdrucke an der Alfred-Escher-Strasse 46 in 8002 Zürich. Eine Telefonische Voranmeldung unter 044 534 64 54 ist notwendig.
 
 <a name="huellenmotive"></a>
 #### Designs
