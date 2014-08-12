@@ -9,6 +9,12 @@ CH-8002 Zürich<br></a>
 <i class="fi-telephone"></i> 044 534 64 54<br>
 <a href="mailto:info@sinndrin.ch"><i class="fi-mail"></i> info@sinndrin.ch</a>
 
+<p>
+  <a href="https://www.facebook.com/sinndrin" target="_blank" rel="sinndrin genossenschaft"><img src="/images/design/contact-icons/icon-facebook.png" alt="sinndrin genossenschaft auf Facebook" height="50" width="50"></a>
+  <a href="https://www.xing.com/companies/sinndringenossenschaft" target="_blank" rel="sinndrin genossenschaft"><img src="/images/design/contact-icons/icon-xing.png" alt="sinndrin genossenschaft auf Xing" height="50" width="50"></a>
+  <a href="https://twitter.com/sinndrin" target="_blank" rel="sinndrin genossenschaft"><img src="/images/design/contact-icons/icon-twitter.png" alt="sinndrin genossenschaft auf Twitter" height="50" width="50"></a>
+</p>
+
 <a href="http://zh.powernet.ch/webservices/inet/HRG/HRG.asmx/getHRGHTML?chnr=0205000489&amp;amt=020&amp;toBeModified=0&amp;validOnly=0&amp;lang=1&amp;sort=0">Handelsregistereintrag</a>
 
 
