@@ -13,11 +13,11 @@ Die sinndrin genossenschaft unterstützt die Idee von Fairphone und tritt als H�
 
 <a href="http://www.faircustomer.ch/fairphone_105" class="button"><i class="fi-arrow-right"></i> hier geht's direkt zur Bestellung</a>
 
-Dank der erfolgreichen Zusammenarbeit mit den holländischen Initiatoren beim [ersten Fairphone](/ueber-uns/realisierte-projekte/fairphone-crowdfunding-unterstuetzung/) das im Winter 13/14 ausgeliefert wurde, bekommen wir einen Mengenrabatt, der es uns erlaubt das Fairphone ohne Aufschlag anzubieten. Im Vergleich zu einer Direktbestellung aus Amsterdam, sparen Schweizer Kunden zudem eine Importpauschale von 25 CHF pro Telefon. In Absprache mit Fairphone empfehlen wir diese Einsparung in eines von zwei [Förderprojekten](http://blog.faircustomer.ch/?p=2387) zu investieren, die uns am Herzen liegen. Alle Informationen dazu finden Sie auf der [Fairphone Produkte-Seite auf faircustomer.ch](http://www.faircustomer.ch/fairphone_105).
+Dank der erfolgreichen Zusammenarbeit mit den holländischen Initiatoren beim [ersten Fairphone](/ueber-uns/realisierte-projekte/fairphone-crowdfunding-unterstuetzung/) das im Winter 13/14 ausgeliefert wurde, bekommen wir einen Mengenrabatt, der es uns erlaubt das Fairphone ohne Aufschlag anzubieten. Im Vergleich zu einer Direktbestellung aus Amsterdam sparen Schweizer Kunden zudem eine Importpauschale von 25 CHF pro Telefon. In Absprache mit Fairphone empfehlen wir diese Einsparung in eines von zwei [Förderprojekten](http://blog.faircustomer.ch/?p=2387) zu investieren, die uns am Herzen liegen. Alle Informationen dazu finden Sie auf der [Fairphone Produkte-Seite auf faircustomer.ch](http://www.faircustomer.ch/fairphone_105).
 
 <a name="zubehoer"></a>
 ## Zubehör
-Als Zubehör biten wir die [Fairphone Hülle aus dem 3D-Drucker](#huelle) und den [Original Fairphone Akku](#akku) an.
+Als Zubehör bieten wir die [Fairphone Hülle aus dem 3D-Drucker](#huelle) und den [Original Fairphone Akku](#akku) an.
 
 <a name="huelle"></a>
 ### Fairphone Hülle aus dem 3D-Drucker
@@ -31,7 +31,7 @@ Der Druck eines der 10 Motive in einer von 14 Farben dauert ca. 90 Minuten und b
 
 #### Qualität
 
-<img class="leadimage left" width="420px" src='/images/angebote/fairphone/selbst-gedruckt-gruen.jpg' alt='Fairphone Hülle grün selbst gedruckt'> Die Qualität eines 3D-Drucks ist heutzutage ganz gut. Trotzdem ist es die Regel, dass ästhetische "Mängel" gut sichtbar sind. Anders ausgedrückt kann dies auch eine Qualität sein: Es sieht selbst gemacht und individuell aus. So sind der obere und untere Rand nicht ganz glatt und es ist eine feine Naht in der horizontalen sichtbar (siehe Produktbild der grünen Hülle). Weiter ist der obere Rand der Aussparung für die Kamera nicht ganz gerade, weil dies druckbedingt nicht realisierbar ist. Falls sie unsicher sind ob die Qualität ihrem Geschmack entspricht, besichtigen Sie unsere Hüllenausdrucke an der Alfred-Escher-Strasse 46 in 8002 Zürich. Eine Telefonische Voranmeldung unter 044 534 64 54 ist notwendig.
+<img class="leadimage left" width="420px" src='/images/angebote/fairphone/selbst-gedruckt-gruen.jpg' alt='Fairphone Hülle grün selbst gedruckt'> Die Qualität eines 3D-Drucks ist heutzutage ganz gut. Trotzdem ist es die Regel, dass ästhetische "Mängel" gut sichtbar sind. Anders ausgedrückt kann dies auch eine Qualität sein: Es sieht selbst gemacht und individuell aus. So sind der obere und untere Rand nicht ganz glatt und es ist eine feine Naht in der Horizontalen sichtbar (siehe Produktbild der grünen Hülle). Weiter ist der obere Rand der Aussparung für die Kamera nicht ganz gerade, weil dies druckbedingt nicht realisierbar ist. Falls sie unsicher sind ob die Qualität ihrem Geschmack entspricht, besichtigen Sie unsere Hüllenausdrucke an der Alfred-Escher-Strasse 46 in 8002 Zürich. Eine Telefonische Voranmeldung unter 044 534 64 54 ist notwendig.
 
 <a name="huellenmotive"></a>
 #### Designs
