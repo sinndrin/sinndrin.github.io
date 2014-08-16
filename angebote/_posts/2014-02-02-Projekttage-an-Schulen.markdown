@@ -13,12 +13,12 @@ title: "Projekttage an Schulen"
 - **Wir bieten eine breite Auswahl von Workshops zu verschiedensten Themen.**
 - **Unser Ziel ist es, die junge Generation für Umweltbelange zu sensibilisieren.**
 
-Im Vordergrund steht das Lernerlebnis. Den Schülern und Schülerinnen wird eine möglichst interaktive Lernumgebung geboten, auf Frontalunterricht wird wo möglich verzichtet. Es darf mit gestaltet, mit diskutiert, mit gebaut und mit gelacht werden. Es ist uns wichtig, dass die Projekttage in den Lehrplan Ihres Unterrichtes passen.
+Im Vordergrund steht das Lernerlebnis. Den Schülern und Schülerinnen wird eine möglichst interaktive Lernumgebung geboten, auf Frontalunterricht wird wo möglich verzichtet. Es darf mitgestaltet, mitdiskutiert, mitgebaut und mitgelacht werden. Es ist uns wichtig, dass die Projekttage in den Lehrplan Ihres Unterrichtes passen.
 
 ###Mögliche Themen könnten sein
 
 - Energie: Was ist das? Energie im Alltag (Heizen, Strom, Verkehr, etc.). Energie sparen!
-- Wasser: Wasserkreislauf, Wasserreinigung, Wasserkraft, Wassersparen.
+- Wasser: Wasserkreislauf, Wasserreinigung, Wasserkraft, Wasser sparen.
 - Abfall und Recycling: Was geschieht mit dem Abfall? Wie entsorgt man korrekt? Wie kann Abfall reduziert werden?
 - Naturgefahren: Lawinen, Murgänge, Hochwasser, Hitze und Dürre.
 - Biodiversität: Lebewesen in ihren Lebensräume. Lebensräume schützen und erhalten (Wildbienenhotel, Igelhütte).
@@ -27,7 +27,7 @@ Im Vordergrund steht das Lernerlebnis. Den Schülern und Schülerinnen wird eine
 - Essen: Konsum, was steckt dahinter? Ernährungsweise und ihre ökologische Auswirkung. Essensabfälle vermindern.
 - Klima: Was ist CO<sub>2</sub>? Was verändert sich denn jetzt? Und in Zukunft?
 
-Im persönlichen Gespräch kann die Form, Länge und Thematik für die Projekttage besprochen und das passende Angebot für Ihre Klasse zusammengestellt werden. Es besteht auch die Möglichkeit die Schülerinnen und Schüler entscheiden zu lassen, welche Themen sie behandeln möchten.
+Im persönlichen Gespräch kann die Form, Länge und Thematik für die Projekttage besprochen und das passende Angebot für Ihre Klasse zusammengestellt werden. Es besteht auch die Möglichkeit, die Schülerinnen und Schüler entscheiden zu lassen, welche Themen sie behandeln möchten.
 
 **Für unverbindliche Informationen nehmen Sie mit uns [Kontakt](/ueber-uns/kontakt/) auf.**
 
@@ -38,7 +38,7 @@ Im persönlichen Gespräch kann die Form, Länge und Thematik für die Projektta
 
 <h4>Solarpotential von Dächern abschätzen</h4>
 
-<p>Den Schülern und Schülerinnen werden Grundkenntnisse über die Solarenergie vermittelt. Dabei lernen sie, welche Dächer geeignet sind und welche nicht, machen sich mit einem Kompass vertraut um die Südausrichtung eines Daches ausfindig zu machen, erfahren wie viel Energie auf den Dächern produziert und was mit dieser Energie alles gemacht werden könnte. Nach der Unterrichtseinheit werden die Schülerinnen und Schüler in Kleingruppen die Dächer in der Umgebung auf deren Solarpotential beurteilen. Wenn eine Gruppe ein geeignetes Dach gefunden und es untersucht hat, können die Schüler und Schülerinnen die Besitzer des Hauses direkt darüber informieren. Die Gruppen sind dabei mit Kompass, Messbändern (grobe Schätzung der Dachgrösse) und einem Hilfsblatt für die Energieberechnung ausgerüstet.</p>
+<p>Den Schülern und Schülerinnen werden Grundkenntnisse über die Solarenergie vermittelt. Dabei lernen sie, welche Dächer geeignet sind und welche nicht, machen sich mit einem Kompass vertraut um die Südausrichtung eines Daches ausfindig zu machen und erfahren, wie viel Energie auf den Dächern produziert und was mit dieser Energie alles gemacht werden könnte. Nach der Unterrichtseinheit werden die Schülerinnen und Schüler in Kleingruppen die Dächer in der Umgebung auf deren Solarpotential beurteilen. Wenn eine Gruppe ein geeignetes Dach gefunden und es untersucht hat, können die Schüler und Schülerinnen die Besitzer des Hauses direkt darüber informieren. Die Gruppen sind dabei mit Kompass, Messbändern (grobe Schätzung der Dachgrösse) und einem Hilfsblatt für die Energieberechnung ausgerüstet.</p>
 
 <h4>Photovoltaikanlage bauen</h4>
 
