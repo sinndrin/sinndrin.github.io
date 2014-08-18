@@ -17,6 +17,16 @@ CH-8002 Zürich<br></a>
 
 <a href="http://zh.powernet.ch/webservices/inet/HRG/HRG.asmx/getHRGHTML?chnr=0205000489&amp;amt=020&amp;toBeModified=0&amp;validOnly=0&amp;lang=1&amp;sort=0">Handelsregistereintrag</a>
 
+# Kontoinformationen
+
+IBAN CH43 0839 0032 4370 1000 1 <br>
+
+**Informationen über die Alternative Bank Schweiz:** <br>
+Kontonummer sinndrin: 324.370.100-01 <br>
+PC: 46-110-7 <br>
+BC: 8390 <br>
+Swift: ALSWCH2 <br>
+
 
 <!-- Reveal Modals begin -->
 <div id="addressModal" class="reveal-modal" data-reveal>
