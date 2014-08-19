@@ -6,7 +6,7 @@
   {% if crumbsSize > 2 and crumbs[1] == "blog"  %}
   {% comment %} BLOG CRUMBS {% endcomment %}
     <a href="/blog">Blog</a>
-    <a href="" class="current">{{ crumbs[5] | remove: '.html' | replace: "-"," " | replace: "acht bis fuenf lebenslaenglich","Acht bis Fünf: Lebenslänglich!?" | replace: "faiphone huellen selber ausdrucken","faiphone hüllen selber ausdrucken" }}</a>
+    <a href="" class="current">{{ crumbs[5] | remove: '.html' | replace: "-"," " | replace: "acht bis fuenf lebenslaenglich","Acht bis Fünf: Lebenslänglich!?" | replace: "faiphone huellen selber ausdrucken","faiphone hüllen selber ausdrucken" | replace: "fairphone versand neun stunden spaeter","Fairphone Versand: Neun Stunden später" }}</a>
   {% else %}
     {% comment %} NOT BLOG CRUMBS {% endcomment %}
     {% for crumb in crumbs offset:1 %}
