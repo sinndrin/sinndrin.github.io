@@ -2,30 +2,97 @@
 layout: two-columns
 title:  "Kontakt"
 ---
-<!-- Kontakt -->
+<!-- BEGIN script loading -->
+<!-- BEGIN facebook -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/de_DE/sdk.js#xfbml=1&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!-- END facebook -->
+<!-- END script loading -->
+
+<!-- BEGIN Kontakt -->
 **sinndrin genossenschaft**<br>
 <a href="#" data-reveal-id="addressModal">Alfred-Escher-Strasse 46<br>
 CH-8002 Zürich<br></a>
 <i class="fi-telephone"></i> 044 534 64 54<br>
-<a href="mailto:info@sinndrin.ch"><i class="fi-mail"></i> info@sinndrin.ch</a>
-
-<p>
-  <a href="https://www.facebook.com/sinndrin" target="_blank" rel="sinndrin genossenschaft"><img src="/images/design/contact-icons/icon-facebook.png" alt="sinndrin genossenschaft auf Facebook" height="50" width="50"></a>
-  <a href="https://www.xing.com/companies/sinndringenossenschaft" target="_blank" rel="sinndrin genossenschaft"><img src="/images/design/contact-icons/icon-xing.png" alt="sinndrin genossenschaft auf Xing" height="50" width="50"></a>
-  <a href="https://twitter.com/sinndrin" target="_blank" rel="sinndrin genossenschaft"><img src="/images/design/contact-icons/icon-twitter.png" alt="sinndrin genossenschaft auf Twitter" height="50" width="50"></a>
-</p>
-
+<a href="mailto:info@sinndrin.ch"><i class="fi-mail"></i> info@sinndrin.ch</a><br><br>
 <a href="http://zh.powernet.ch/webservices/inet/HRG/HRG.asmx/getHRGHTML?chnr=0205000489&amp;amt=020&amp;toBeModified=0&amp;validOnly=0&amp;lang=1&amp;sort=0">Handelsregistereintrag</a>
 
-# Kontoinformationen
+<!-- BEGIN Social Profiles -->
+<div class="row">
+  <div class="columns">
+    <h2>Soziale Netzwerke</h2>
+  </div>
+</div>
 
-IBAN CH43 0839 0032 4370 1000 1 <br>
+<div class="row">
+  <!-- BEGIN Facebook -->
+  <div class="large-6 columns">
+    <h3><a href="https://www.facebook.com/sinndrin" target="_blank" rel="sinndrin genossenschaft"><i class="fi-social-facebook"></i> Facebook</a></h3>
+    <div class="fb-like-box" data-href="https://www.facebook.com/sinndrin" data-colorscheme="light" data-show-faces="true" data-header="true" data-stream="false" data-show-border="false"></div>
+  </div>
+  <!-- END Facebook -->
 
-**Informationen über die Alternative Bank Schweiz:** <br>
-Kontonummer sinndrin: 324.370.100-01 <br>
-PC: 46-110-7 <br>
-BC: 8390 <br>
-Swift: ALSWCH2 <br>
+  <!-- BEGIN Google+ -->
+  <div class="large-6 columns">
+    <h3><a style="color: red;" href="https://plus.google.com/+sinndringenossenschaftZürich" target="_blank" rel="sinndrin genossenschaft"><i class="fi-social-google-plus"></i> Google+</a></h3>
+    <!-- BEGIN Google+ Code -->
+    <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+    <g:page href="https://plus.google.com/+sinndringenossenschaftZürich"></g:page>
+    <!-- END Google+ Code -->
+  </div>
+  <!-- END Google+ -->
+</div>
+
+<!-- ugly spacing -->
+<br><br>
+
+<div class="row">
+<!-- BEGIN Twitter -->
+<div class="large-6 columns">
+<h3><a href="https://twitter.com/sinndrin" target="_blank" rel="sinndrin genossenschaft"><i class="fi-social-twitter"></i> Twitter</a></h3>
+<!-- BEGIN Twitter Code -->
+<a class="twitter-timeline"  href="https://twitter.com/sinndrin"  data-widget-id="502772720589746176">Tweets von @sinndrin</a>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+
+<!-- >END Twitter Code -->
+</div>
+<!-- END Twitter -->
+
+<!-- BEGIN Weitere -->
+<div class="large-6 columns">
+<h3>Weitere Profile</h3>
+
+<ul>
+  <!-- BEGIN XING -->
+  <li><h4><a style="color: green;" href="https://www.xing.com/companies/sinndringenossenschaft" target="_blank" rel="sinndrin genossenschaft">Xing</a></h4></li>
+  <!-- >END XING -->
+  <!-- BEGIN Github -->
+  <li><h4><a href="https://github.com/sinndrin" target="_blank" rel="sinndrin genossenschaft"><i class="fi-social-github"></i> GitHub</a></h4></li>
+   <!-- >END Github -->
+  </ul>
+</div>
+<!-- END Weitere -->
+</div>
+
+<a name="bankverbidung"></a>
+# Bankverbindung
+
+* IBAN: **CH43 0839 0032 4370 1000 1** <br>
+
+##Daten unserer Bank
+
+* Name: **Alternative Bank Schweiz (ABS)**
+* Kontonummer der sinndrin genossenschaft: **324.370.100-01**
+* Postkonto: **46-110-7**
+* Bankclearing: **8390**
+* Swift Code: **ABSOCH22**
 
 
 <!-- Reveal Modals begin -->
