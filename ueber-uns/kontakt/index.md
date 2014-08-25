@@ -21,7 +21,8 @@ title:  "Kontakt"
 CH-8002 Zürich<br></a>
 <i class="fi-telephone"></i> 044 534 64 54<br>
 <a href="mailto:info@sinndrin.ch"><i class="fi-mail"></i> info@sinndrin.ch</a><br><br>
-<a href="http://zh.powernet.ch/webservices/inet/HRG/HRG.asmx/getHRGHTML?chnr=0205000489&amp;amt=020&amp;toBeModified=0&amp;validOnly=0&amp;lang=1&amp;sort=0">Handelsregistereintrag</a>
+<a href="http://zh.powernet.ch/webservices/inet/HRG/HRG.asmx/getHRGHTML?chnr=0205000489&amp;amt=020&amp;toBeModified=0&amp;validOnly=0&amp;lang=1&amp;sort=0"><i class="fi-info"></i> Handelsregistereintrag</a><br>
+<a href="#bankverbindung"><i class="fi-bitcoin-circle"></i> Bankverbindung</a>
 
 <!-- BEGIN Social Profiles -->
 <div class="row">
@@ -81,7 +82,7 @@ CH-8002 Zürich<br></a>
 <!-- END Weitere -->
 </div>
 
-<a name="bankverbidung"></a>
+<a name="bankverbindung"></a>
 # Bankverbindung
 
 * IBAN: **CH43 0839 0032 4370 1000 1** <br>
