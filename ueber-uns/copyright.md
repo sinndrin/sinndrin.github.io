@@ -181,6 +181,18 @@ Auf der Webseite [www.sinndrin.ch](/) wurden die folgenden Werke von dritten ers
       <hr>
     </div>
 </div>
+<div class="row">
+      <div class="medium-4 columns">
+        <img src="/images/angebote/restenessen.jpg" max-width="248px">
+      </div>
+      <div class="medium-8 columns">
+        <a href="https://secure.flickr.com/photos/kubina/6122735488"><h3> Jeff Kubina (CC BY-SA 2.0)</h3></a>
+        <p>Verändert; Zugeschnitten.</p>
+      </div>
+    <div class="small-12 columns">
+      <hr>
+    </div>
+</div>
 <!-- fairphone zubehör produkte -->
 <div class="row">
       <div class="medium-4 columns">
