@@ -9,7 +9,7 @@ title: "RestenEssen 2014 ZHAW"
 ---
 <div class=angebot-top-wide"><img title="Fachbücherbörse" src="/images/angebote/restenessen_sub.jpg"></div>
 
-Im Rahmen der ZHAW Startwoche 2014 veranstalten wir wie an der Plenumsveranstaltung vom 8. September 2014 angekündigt ein "Restenessen".
+Im Rahmen der ZHAW Startwoche 2014 veranstalten wir wie an der Plenumsveranstaltung vom 8. September 2014 angekündigt ein "RestenEssen".
 
 Eine Anmeldung ist obligatorisch und verpflichtet zur Teilnahme. Detaillierte Informationen folgen nach der Anmeldung via E-Mail.
 
