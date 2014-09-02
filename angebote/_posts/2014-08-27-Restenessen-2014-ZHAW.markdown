@@ -31,7 +31,7 @@ Die Teilnehmendenzahl ist auf total 40 Personen beschränkt. Melde dich also umg
 <div id="mc_embed_signup">
 <form action="//sinndrin.us9.list-manage.com/subscribe/post?u=83105c74f080e716ae13ad0d7&amp;id=6d6eeba30d" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 
-<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+<div class="indicates-required"><span class="asterisk">*</span> Pflichtfelder</div>
 <div class="mc-field-group">
 	<label for="mce-FNAME">Vorname  <span class="asterisk">*</span>
 </label>
