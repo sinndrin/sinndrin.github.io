@@ -48,7 +48,7 @@ Die Teilnehmendenzahl ist auf total 40 Personen beschränkt. Melde dich also umg
     <ul><li><input type="radio" value="Ich kann an beiden Daten." name="DATEWUNSCH" id="mce-DATEWUNSCH-0"><label for="mce-DATEWUNSCH-0">Ich kann an beiden Daten.</label></li>
 <li><input type="radio" value="Dienstag, 30. September 2014" name="DATEWUNSCH" id="mce-DATEWUNSCH-1"><label for="mce-DATEWUNSCH-1">Dienstag, 30. September 2014</label></li>
 <li><input type="radio" value="Montag, 6. Oktober 2014" name="DATEWUNSCH" id="mce-DATEWUNSCH-2"><label for="mce-DATEWUNSCH-2">Montag, 6. Oktober 2014</label></li>
-<li><input type="radio" value="Ich kann dann leider nicht und würde gerne an einem anderen Tag teilnehmen." name="DATEWUNSCH" id="mce-DATEWUNSCH-3"><label for="mce-DATEWUNSCH-3">Ich kann dann leider nicht und würde gerne an einem anderen Tag teilnehmen.</label></li>
+<li><input type="radio" value="Ich kann dann leider nicht und würde gerne an einem anderen Tag teilnehmen." name="DATEWUNSCH" id="mce-DATEWUNSCH-3"><label for="mce-DATEWUNSCH-3">Ich kann dann leider nicht und würde gerne an einem anderen Tag teilnehmen. Bei genügend Interesse versuchen wir weitere RestenEssen anzubieten.</label></li>
 </ul>
 </div>
 <div id="mce-responses" class="clear">
