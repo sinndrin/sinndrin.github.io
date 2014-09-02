@@ -5,7 +5,7 @@ tags:
   - none
 permalink: /angebote/restenessen-2014-zhaw/
 image: /images/angebote/restenessen.jpg
-title: "Restenessen 2014 ZHAW"
+title: "RestenEssen 2014 ZHAW"
 ---
 <div class=angebot-top-wide"><img title="Fachbücherbörse" src="/images/angebote/restenessen_sub.jpg"></div>
 
