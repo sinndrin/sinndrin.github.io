@@ -31,4 +31,5 @@ Weitere Angaben zu meinen Ausbildungen, praktischen Erfahrungen und extracurricu
 
   <a style="font-size: 55px; display:inline-block; vertical-align:middle;" href="https://github.com/rschaerer" target="_blank" rel="Roger Schärer"><i class="fi-social-github"></i></a>
 
+  <a style="font-size: 55px; display:inline-block; vertical-align:middle;" href="https://stackoverflow.com/users/3068252/mindestens" target="_blank" rel="Roger Schärer"><i class="fi-stack-overflow"></i></a>
 </p>
