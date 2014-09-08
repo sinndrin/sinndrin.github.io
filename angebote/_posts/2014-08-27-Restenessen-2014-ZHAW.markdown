@@ -66,3 +66,15 @@ Die Teilnehmendenzahl ist auf total 40 Personen beschränkt. Melde dich also umg
 </div>
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='DATEWUNSCH';ftypes[2]='radio';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
+
+<div class="panel callout"> <h5>Weiterführende Links zu Lebensmittelverschwendung</h5>
+<p>
+<ul>
+<li><a href="https://moodle.zhaw.ch/enrol/index.php?id=5423">Kollektives Gärtnern KoGä (ZHAW Moodle Kurs)</a></li>
+<li><a href="http://www.slowfood.ch">Slow Food</a></li>
+<li><a href="http://ch.myfoodsharing.org/">Food Sharing</a></li>
+<li><a href="http://mundraub.org">Mundraub</a></li>
+<li><a href="http://www.restessbar.ch/">Restessbar</a></li>
+</ul>
+</p>
+</div>
