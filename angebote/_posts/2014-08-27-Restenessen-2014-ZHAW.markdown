@@ -71,6 +71,7 @@ Die Teilnehmendenzahl ist auf total 40 Personen beschränkt. Melde dich also umg
 <p>
 <ul>
 <li><a href="https://moodle.zhaw.ch/enrol/index.php?id=5423">Kollektives Gärtnern KoGä (ZHAW Moodle Kurs)</a></li>
+<li><a href="http://www.waedichoerbli.ch/">Wädichörbli</a></li>
 <li><a href="http://www.slowfood.ch">Slow Food</a></li>
 <li><a href="http://ch.myfoodsharing.org/">Food Sharing</a></li>
 <li><a href="http://mundraub.org">Mundraub</a></li>
