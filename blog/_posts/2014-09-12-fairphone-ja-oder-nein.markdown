@@ -17,7 +17,7 @@ Vor wenigen Tagen haben das Fastenopfer und Brot für alle unter dem Titel Wie v
 
 Schon im Mai hat Rank a Brand ein ähnliches Ranking erstellt von 20 Elektronikanbietern. Dabei wurde auch Fairphone untersucht und hat klar am besten abgeschnitten. Das Ranking und die Ausführungen dazu sind unter [http://blog.rankabrand.org/2014/05/fairphone-shakes-up-electronics-brands/][issu3] zu finden.
 
-Überzeugt vom Fairphone? Bei uns kann man das Fairphone auch [kaufen][ angebote/fairphone/].
+Überzeugt vom Fairphone? Bei uns kann man das Fairphone auch [kaufen][fairphone].
 
 
 [issu1]: http://www.hightech-rating.ch/
