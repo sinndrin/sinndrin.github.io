@@ -21,3 +21,5 @@ title: "SAE Webdev September 2014"
 <h2>Wie weiter?</h2>
 
 <a href="https://trello.com/b/FiHaDErW/webdev-september-2014">Besuch unser Trello Board und probier dieses mindset:<img title="Fish" src="/images/angebote/sae-webdev-september-2014.jpg"></a>
+
+<h1>Danke Jasmin und Simon!</h1>
