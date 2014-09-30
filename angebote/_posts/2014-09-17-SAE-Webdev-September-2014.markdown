@@ -7,7 +7,7 @@ permalink: /angebote/sae-webdev-september-2014/
 image: /images/angebote/webdesign.jpg
 title: "SAE Webdev September 2014"
 ---
-<div class=angebot-top-wide"><img title="SAE Webdev September 2014" src="/images/angebote/webdesign_sub.jpg"></div>
+<div class="angebot-top-wide"><img title="SAE Webdev September 2014" src="/images/angebote/webdesign_sub.jpg"></div>
 
 <h2>Get up and running in minutes.<sup><a href="http://jekyllrb.com/">1</a></sup></h2>
 

@@ -7,22 +7,13 @@ permalink: /angebote/fairphone/kaufen/
 image: /images/angebote/fairphone.jpg
 title: "Fairphone kaufen"
 ---
-<div class=angebot-top-wide"><img title="Fairphone" src="/images/angebote/fairphone_sub.jpg"></div>
+<div class="angebot-top-wide"><img title="Fairphone" src="/images/angebote/fairphone_sub.jpg"></div>
+
+{% include block/fairphone-crosslinks.html %}
 
 Dank der erfolgreichen Zusammenarbeit mit den holländischen Initiatoren beim [ersten Fairphone](/ueber-uns/realisierte-projekte/fairphone-crowdfunding-unterstuetzung/), das im Winter 13/14 ausgeliefert wurde, bekommen wir einen Mengenrabatt, der es uns erlaubt das Fairphone ohne Aufschlag anzubieten. Im Vergleich zu einer Direktbestellung aus Amsterdam sparen Schweizer Kunden zudem eine Importpauschale von 25 CHF pro Telefon. In Absprache mit Fairphone empfehlen wir diese Einsparung in eines von zwei [Förderprojekten](http://blog.faircustomer.ch/?p=2387) zu investieren, die uns am Herzen liegen. Alle Informationen dazu finden Sie auf der [Fairphone Produkte-Seite auf faircustomer.ch](http://www.faircustomer.ch/fairphone_105).
 
 <a href="http://www.faircustomer.ch/fairphone_105" class="button"><i class="fi-arrow-right"></i> hier geht's direkt zur Fairphone-Bestellung</a>
-
-<a name="reparatur"></a>
-## Reparatur
-Wir reparieren defekte Fairphones.
-
-<a href="/angebote/fairphone/reparatur/" class="button"><i class="fi-arrow-right"></i> hier geht's zu unserer Reparatur-Seite</a>
-
-
-<a name="zubehoer"></a>
-## Zubehör
-Als Zubehör bieten wir den [Original Fairphone Akku](#akku) an. Die die Fairphone Hülle aus dem 3D-Drucker bieten wir vorübergehend nicht an. In Kürze sollte diese aber wieder in unserem Sortiment sein (Stand: 26. August 2014).
 
 <!--
 <a name="huelle"></a>
@@ -86,14 +77,6 @@ Alle Designs sind in 14 verschiedenen Farben lieferbar:
 
 Wer selber Zugang zu einem 3D-Drucker hat, kann die Druckdateien auf <a href="https://fairphone.zendesk.com/hc/en-us/articles/201194477">Fairphone</a> herunterladen und die Hülle selber ausdrucken.
 -->
-
-<a name="akku"></a>
-### Akku für das Fairphone (Original)
-<img src='/images/angebote/fairphone/battery.jpg' alt='Fairphone Akku original' max-width='380px'>
-
-Original Akku für das Fairphone.
-
-<a href="http://www.faircustomer.ch/akku_fuer_fairphone_original_4" class="button"><i class="fi-arrow-right"></i> hier geht's direkt zur Akku-Bestellung</a>
 
 ## Über Fairphone
 Die holländische Firma "Fairphone" ist bestrebt, ein Smartphone anbieten zu können, welches auf der gesamten Produktionslinie fair und ressourcenschonend produziert wird. Sie stellen die ethischen Bedürfnisse und Transparenz an erste Stelle und erst an zweite den finanziellen Profit. Auf diese Weise will Fairphone das Bewusstsein der Konsumenten über den sozialen und ökologischen Einfluss der Produktion von Elektroprodukten erhöhen, sowie die Messlatte für die gesamte Elektronikindustrie erhöhen. Ein Versprechen, das nicht nur propagiert sondern auch umgesetzt wird, wie der Bericht von [Rankabrand.de](http://blog.rankabrand.de/2014/06/03/elektronik-report-2014-fairphone-top/) zeigt.

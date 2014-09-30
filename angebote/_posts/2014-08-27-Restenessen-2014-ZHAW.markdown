@@ -7,7 +7,7 @@ permalink: /angebote/restenessen-2014-zhaw/
 image: /images/angebote/restenessen.jpg
 title: "RestenEssen 2014 ZHAW"
 ---
-<div class=angebot-top-wide"><img title="Fachbücherbörse" src="/images/angebote/restenessen_sub.jpg"></div>
+<div class="angebot-top-wide"><img title="Fachbücherbörse" src="/images/angebote/restenessen_sub.jpg"></div>
 
 Im Rahmen der ZHAW Startwoche 2014 veranstalten wir, wie an der Plenumsveranstaltung vom
 8. September 2014 angekündigt, ein "RestenEssen".

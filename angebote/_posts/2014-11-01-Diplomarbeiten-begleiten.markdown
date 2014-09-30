@@ -7,7 +7,7 @@ permalink: /angebote/bildung/diplomarbeiten-begleiten/
 image: /images/angebote/diplomarbeiten-begleiten.jpg
 title: "Diplomarbeiten begleiten"
 ---
-<div class=angebot-top-wide"><img title="Diplomarbeiten begleiten" src="/images/angebote/diplomarbeiten-begleiten_sub.jpg"></div>
+<div class="angebot-top-wide"><img title="Diplomarbeiten begleiten" src="/images/angebote/diplomarbeiten-begleiten_sub.jpg"></div>
 
 Sind Sie in ihrem Studium mit dem Verfassen einer Semester-, Bachelor- oder Diplomarbeit konfrontiert? Möchten Sie etwas erarbeiten, das in der Praxis tatsächlich umgesetzt wird?
 

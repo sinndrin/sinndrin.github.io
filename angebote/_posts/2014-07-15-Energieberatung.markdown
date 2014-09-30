@@ -7,7 +7,7 @@ permalink: /angebote/energie/energieberatung/
 image: /images/angebote/erngieberatung.jpg
 title: "Energieberatung"
 ---
-<div class=angebot-top-wide"><img title="Energieberatung" src="/images/angebote/erngieberatung_sub.jpg"></div>
+<div class="angebot-top-wide"><img title="Energieberatung" src="/images/angebote/erngieberatung_sub.jpg"></div>
 
 Wir beraten Sie rund ums Energiesparen, zeigen konkrete Möglichkeiten zur Steigerung der Energieeffizienz auf und lokalisieren und verringern Energieverluste - und sei dies durch kleine Anpassungen und Kniffe. Auch können wir Ihnen eine auf Ihr Projekt massgeschneiderte Unterstützung durch Fördermassnahmen aufzeigen.
 

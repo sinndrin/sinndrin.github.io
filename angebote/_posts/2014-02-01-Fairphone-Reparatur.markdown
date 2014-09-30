@@ -7,7 +7,7 @@ permalink: /angebote/fairphone/reparatur/
 image: /images/angebote/fairphone.jpg
 title: "Fairphone Reparatur"
 ---
-<div class=angebot-top-wide"><img title="Fairphone" src="/images/angebote/fairphone_sub.jpg"></div>
+<div class="angebot-top-wide"><img title="Fairphone" src="/images/angebote/fairphone_sub.jpg"></div>
 
 Wir reparieren Ihr Fairphone in Zürich. [Kontaktieren](/ueber-uns/kontakt/) Sie uns für eine unverbindliche Offerte. Wir verrechnen die selben Preise wie Fairphone.
 
