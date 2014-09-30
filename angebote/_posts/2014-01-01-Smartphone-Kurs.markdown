@@ -3,6 +3,7 @@ layout: two-columns
 categories: angebote
 tags:
   - Bildung
+  - Fairphone
 permalink: /angebote/bildung/smartphone-kurs/
 image: /images/angebote/fairphone.jpg
 title: "Smartphone Kurs"

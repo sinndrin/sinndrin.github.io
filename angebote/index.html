@@ -9,7 +9,7 @@ title:  "Angebote"
     <div class="angebote-bildung">
       <ul class="side-nav">
         {% for post in site.categories.angebote %}
-        {% if post.tags[0] == "Bildung" %}
+        {% if post.tags contains "Bildung" %}
         <li><a class="angebot" href="{{ post.url }}"><i class="fi-arrow-right"></i> {{ post.title }}</a></li>
         {% endif %}
         {% endfor %}
@@ -21,7 +21,7 @@ title:  "Angebote"
     <div class="angebote-energie">
       <ul class="side-nav">
         {% for post in site.categories.angebote %}
-        {% if post.tags[0] == "Energie" %}
+        {% if post.tags contains "Energie" %}
         <li><a class="angebot" href="{{ post.url }}"><i class="fi-arrow-right"></i> {{ post.title }}</a></li>
         {% endif %}
         {% endfor %}
@@ -33,7 +33,7 @@ title:  "Angebote"
     <div class="angebote-suffizienz">
       <ul class="side-nav">
         {% for post in site.categories.angebote %}
-        {% if post.tags[0] == "Suffizienz" %}
+        {% if post.tags contains "Suffizienz" %}
         <li><a class="angebot" href="{{ post.url }}"><i class="fi-arrow-right"></i> {{ post.title }}</a></li>
         {% endif %}
         {% endfor %}
@@ -48,7 +48,7 @@ title:  "Angebote"
     <div class="angebote-administration-und-it">
       <ul class="side-nav">
         {% for post in site.categories.angebote %}
-        {% if post.tags[0] == "Administration-und-IT" %}
+        {% if post.tags contains "Administration-und-IT" %}
         <li><a class="angebot" href="{{ post.url }}"><i class="fi-arrow-right"></i> {{ post.title }}</a></li>
         {% endif %}
         {% endfor %}
@@ -60,7 +60,7 @@ title:  "Angebote"
     <div class="angebote-fairphone">
       <ul class="side-nav">
         {% for post in site.categories.angebote %}
-        {% if post.tags[0] == "Fairphone" %}
+        {% if post.tags contains "Fairphone" %}
         <li><a class="angebot" href="{{ post.url }}"><i class="fi-arrow-right"></i> {{ post.title }}</a></li>
         {% endif %}
         {% endfor %}
@@ -72,7 +72,7 @@ title:  "Angebote"
     <div class="angebote-fachbuecherboerse">
       <ul class="side-nav">
         {% for post in site.categories.angebote %}
-        {% if post.tags[0] == "Fachbuecherboerse" %}
+        {% if post.tags contains "Fachbuecherboerse" %}
         <li><a class="angebot" href="{{ post.url }}"><i class="fi-arrow-right"></i> {{ post.title }}</a></li>
         {% endif %}
         {% endfor %}

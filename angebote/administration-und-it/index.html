@@ -6,7 +6,7 @@ title: Administration und IT
 <p>Wir bieten für Unternehmen mit ähnlichen <a href="/ueber-uns/grundsaetze/">Grundsätzen wie unseren</a> Unterstützung bei der Optimierung administrativer Geschäftsprozesse wie Rechnungsstellung, einheitliches Offert- und Auftragswesen, Lohnbuchhaltung und der Erstellung einer zeitgemässen Internetseite.</p>
 <p>&nbsp;</p>
 {% for post in site.categories.angebote %}
-{% if post.tags[0] == "Administration-und-IT" %}
+{% if post.tags contains "Administration-und-IT" %}
 {% include block/angebote-lvl2.html %}
 {% endif %}
 {% endfor %}
