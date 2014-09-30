@@ -22,5 +22,5 @@ Wann:
 04. November 2014, Eintreffen um 16.00 Uhr, Dauer ca. 1 bis 2 Stunden.
 Eintritt frei (Kollekte)
 
-Wir freuen uns über Ihr spontanes oder vor angemeldetes Vorbeikommen.
+Wir freuen uns über Ihr spontanes oder vorangemeldetes Vorbeikommen.
 Fakultative Anmeldung: Mail roger.schaerer@sinndrin.ch / Tel. 044 534 64 54
