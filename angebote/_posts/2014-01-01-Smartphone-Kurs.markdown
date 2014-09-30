@@ -15,7 +15,7 @@ Haben sie Schwierigkeiten oder Fragen zu Ihrem Mobiltelefon mit Android-Betriebs
 Wir bieten Ihnen Gelegenheit Ihre Fragen zu stellen und von den Problemstellungen anderer Teilnehmenden zu profitieren. Wir beantworten Ihre Fragen rund um Software (App-, Mail-, Kontaktverwaltung, SMS/MMS, Multimedia, Musik und Internet) und Hardware (Hüllen, Akku, Simkarte und Kamera). Gemeinsam lösen wir in entspannter Atmosphäre unter fachlicher Anleitung Ihre Smartphone-Probleme.
 
 ##Daten
-* 4. November 2014, Eintreffen um 18.00 Uhr, Dauer ca. 2 Stunden. Eintritt frei (Kollekte).
+* 4. November 2014, Eintreffen ab 17.00 Uhr, Dauer je nach Bedarf ca. 2 - 3 Stunden. Eintritt frei (Kollekte).
 * Weitere Daten auf Anfrage. Individuelle Arrangements (andere Standort, Zeiten, etc.) arbeiten wir nach Absprache mit Ihnen gerne aus.
 
 ##Veranstaltungsort
