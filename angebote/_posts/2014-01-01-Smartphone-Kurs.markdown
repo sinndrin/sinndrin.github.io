@@ -23,4 +23,4 @@ Wann:
 Eintritt frei (Kollekte)
 
 Wir freuen uns über Ihr spontanes oder vorangemeldetes Vorbeikommen.
-Fakultative Anmeldung: Mail roger.schaerer@sinndrin.ch / Tel. 044 534 64 54
+<br>Die Anmeldung ist fakultativ: Mail roger.schaerer@sinndrin.ch / Tel. 044 534 64 54
