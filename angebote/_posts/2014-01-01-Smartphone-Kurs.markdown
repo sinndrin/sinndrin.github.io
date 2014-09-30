@@ -13,7 +13,7 @@ title: "Smartphone Kurs"
 Haben sie Schwierigkeiten oder Fragen zu Ihrem Mobiltelefon mit Androidbetriebssystem.
 
 Was:
-<b>Wir bieten Ihnen Gelegenheit Ihre Fragen zu stellen und von den Problemen anderer zu profitieren. Am 04. November möchten wir Ihre Fragen rund um Software (App-, Mail-, Kontaktverwaltung, SMS/MMS, Multimedia, Musik und Internet) und Hardware (Hüllen, Akku, Simkarte und Kamera) beantworten.
+<br>Wir bieten Ihnen Gelegenheit Ihre Fragen zu stellen und von den Problemen anderer zu profitieren. Am 04. November möchten wir Ihre Fragen rund um Software (App-, Mail-, Kontaktverwaltung, SMS/MMS, Multimedia, Musik und Internet) und Hardware (Hüllen, Akku, Simkarte und Kamera) beantworten.
 
 Wo:
 <br>sinndrin genossenschaft, Alfred-Escher-Strasse 46, 8002 Zürich
