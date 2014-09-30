@@ -2,17 +2,17 @@
 layout: two-columns
 categories: angebote
 tags:
-  - Fachbuecherboerse
-permalink: /angebote/fachbuecherboerse/
+  - Suffizienz
+permalink: /angebote/suffizienz/fachbuecherboerse/
 image: /images/angebote/fachbuecherboerse.jpg
 title: "Fachbücherbörse"
 ---
 <div class="angebot-top-wide"><img title="Fachbücherbörse" src="/images/angebote/fachbuecherboerse_sub.jpg"></div>
 
-Die Fachbücherbörse ermöglicht es Studierenden/ Schülern und Mitarbeitenden einer (Hoch-)Schule vergünstigt Fachbücher zu kaufen und nicht mehr benötigte Bücher wiederum zu verkaufen. Wir übernehmen die gesamte Organisation und Koordination der Fachbücherbörse an Ihrer Schule. Die [erste Fachbücherbörse](/angebote/fachbuecherboerse/zhaw-2014/) wurde im Jahr 2014 an der ZHAW in Wädenswil durchgeführt.
+Die Fachbücherbörse ermöglicht es Studierenden/ Schülern und Mitarbeitenden einer (Hoch-)Schule vergünstigt Fachbücher zu kaufen und nicht mehr benötigte Bücher wiederum zu verkaufen. Wir übernehmen die gesamte Organisation und Koordination der Fachbücherbörse an Ihrer Schule. Die [erste Fachbücherbörse](/angebote/suffizienz/fachbuecherboerse/zhaw-2014/) wurde im Jahr 2014 an der ZHAW in Wädenswil durchgeführt.
 
 ##Laufende Fachbücherbörsen
-<a href="/angebote/fachbuecherboerse/zhaw-2014/" class="button">ZHAW Wädenswil</a>
+<a href="/angebote/suffizienz/fachbuecherboerse/zhaw-2014/" class="button">ZHAW Wädenswil</a>
 
 ##Konzept
 

@@ -3,7 +3,7 @@ layout: two-columns
 categories: angebote
 tags:
   - Unterkategorie
-permalink: /angebote/fachbuecherboerse/zhaw-2014/
+permalink: /angebote/suffizienz/fachbuecherboerse/zhaw-2014/
 image: /images/angebote/fachbuecherboerse.jpg
 title: "Fachbücherbörse ZHAW 2014"
 ---

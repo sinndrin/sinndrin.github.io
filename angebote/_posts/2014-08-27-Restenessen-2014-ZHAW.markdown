@@ -12,8 +12,8 @@ title: "RestenEssen 2014 ZHAW"
 Im Rahmen der ZHAW Startwoche 2014 veranstalten wir, wie an der Plenumsveranstaltung vom
 8. September 2014 angekündigt, ein "RestenEssen".
 
-<a href="/angebote/fachbuecherboerse/zhaw-2014/"><div class="panel callout large-4 right columns"> <h5>Fachbücherbörse</h5> <p>Die Fachbücherbörse findet am Di, 23.9.14 und am Mo, 29.9.14 statt.
-<br><br><a href="/angebote/fachbuecherboerse/zhaw-2014/" class="button"><i class="fi-arrow-right"></i> Fachbücherbörse</a>
+<a href="/angebote/suffizienz/fachbuecherboerse/zhaw-2014/"><div class="panel callout large-4 right columns"> <h5>Fachbücherbörse</h5> <p>Die Fachbücherbörse findet am Di, 23.9.14 und am Mo, 29.9.14 statt.
+<br><br><a href="/angebote/suffizienz/fachbuecherboerse/zhaw-2014/" class="button"><i class="fi-arrow-right"></i> Fachbücherbörse</a>
 </p> </div></a>
 
 Eine Anmeldung bis zum 15. September 2014 ist zwingend und verpflichtet zur Teilnahme. Detaillierte Informationen folgen nach der Anmeldung via E-Mail.
