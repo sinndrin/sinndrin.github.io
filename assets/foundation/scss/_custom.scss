@@ -95,7 +95,8 @@ a {
   background-image: url(/images/angebote/mit-uns-zusammen-arbeiten.jpg);
 }
 /* angebote underlined */
-.side-nav li {
+.side-nav li, .angebot-link {
+  color: #222;
   border-color: rgb(128, 128, 128);
   border-style: dotted;
   border-width: 0px 0px 1px 0px;
