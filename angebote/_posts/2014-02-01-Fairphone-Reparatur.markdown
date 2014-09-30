@@ -16,3 +16,5 @@ Sie können Ihr defektes Fairphone entweder vorbei bringen und wir reparieren es
 Die Reparatur wird in unserer voll ausgestatteten Werkstatt durchgeführt. Die Arbeit wird in einem ESD (Elektrostatische Entladung) geschützten Umfeld und durch einen Mitarbeiter mit beruflicher Erfahrung im Elektronikbereich ausgeführt. Ein Lager an Ersatzteilen erlaubt uns eine rasche Abwicklung des Auftrages. 
 
 Wichtig zu wissen ist, dass (momentan) der Garantieanspruch des Herstellers bei der Reparatur des Gerätes entfällt. Wir sind diesbezüglich mit Fairphone in Kontakt, um in Zukunft auch Garantiereparaturen anbieten zu können.
+
+{% include block/fairphone-crosslinks.html %}
