@@ -10,7 +10,7 @@ comments: true
 tags:
  - Georg Trapp
 ---
-Heute um 11:45 sind weitere 150 Fairphones bei uns eingetroffen. Wir werden diese noch heute an unsere Kunden weiterleiten.
+Heute um 11:45 sind weitere 150 Fairphones bei uns eingetroffen. Wir werden diese morgen an unsere Kunden weiterleiten.
 
 <div class="panel callout">
 <h5>Möchten Sie ihre Fähigkeiten im Umgang mit dem Fairphone erweitern?</h5>
