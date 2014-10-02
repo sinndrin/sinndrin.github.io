@@ -12,9 +12,10 @@ tags:
 ---
 Heute um 11:45 sind weitere 150 Fairphones bei uns eingetroffen. Wir werden diese noch heute an unsere Kunden weiterleiten.
 
-### Wollen Sie Ihre Fähigkeiten im Umgang mit dem Fairphone erweitern?
-
-Dann prüfen sie unser [Smartphone Kurs Angebot](/angebote/bildung/smartphone-kurs/). Wir würden uns freuen, Sie persönlich kennen zu lernen!
+<div class="panel callout">
+<h5>Möchten Sie ihre Fähigkeiten im Umgang mit dem Fairphone erweitern?</h5>
+<p>Dann prüfen sie unser <a href="/angebote/bildung/smartphone-kurs/">Smartphone Kurs Angebot</a>. Wir würden uns freuen, Sie persönlich kennen zu lernen!</p>
+</div>
 
 <a name="selbstabholung"></a>
 ## Selbstabholung
