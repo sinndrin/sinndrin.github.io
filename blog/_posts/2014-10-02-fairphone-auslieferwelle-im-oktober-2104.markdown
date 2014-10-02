@@ -12,12 +12,12 @@ tags:
 ---
 Heute um 11:45 sind weitere 150 Fairphones bei uns eingetroffen. Wir werden diese noch heute an unsere Kunden weiterleiten.
 
-## Wollen Sie Ihre Fähigkeiten im Umgang mit dem Fairphone erweitern?
+### Wollen Sie Ihre Fähigkeiten im Umgang mit dem Fairphone erweitern?
 
 Dann prüfen sie unser [Smartphone Kurs Angebot](/angebote/bildung/smartphone-kurs/). Wir würden uns freuen, Sie persönlich kennen zu lernen!
 
 <a name="selbstabholung"></a>
-### Selbstabholung
+## Selbstabholung
 Selbstabholer_innen können Ihre Geräte ab Mittwoch 8. Oktober 2014 in der gewählten Filiale abholen. Bitte beachten Sie dafür die Öffnungszeiten und Abholbedingungen:
 
 * [Sürprisen][su], Öffnungszeiten: **Bitte Übergabe telefonisch vereinbaren: Tel. 031 931 25 52**, Zentweg 17, 3006 Bern
