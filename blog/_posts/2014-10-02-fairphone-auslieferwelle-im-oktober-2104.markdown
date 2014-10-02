@@ -21,7 +21,7 @@ Heute um 11:45 sind weitere 150 Fairphones bei uns eingetroffen. Wir werden dies
 ## Selbstabholung
 Selbstabholer_innen können Ihre Geräte ab Freitag 3. Oktober 2014 in der gewählten Filiale abholen. Bitte beachten Sie dafür die Öffnungszeiten und Abholbedingungen:
 
-* [Sürprisen][su], Öffnungszeiten: Freitag, 3.10. 10 - 13 Uhr oder Samstag 4.10. 10 - 11 Uhr ansonsten **Bitte Übergabe telefonisch vereinbaren: Tel. 031 931 25 52**, Zentweg 17, 3006 Bern
+* [Sürprisen][su], Öffnungszeiten: Freitag, 3.10. 10 - 13 Uhr oder Samstag 4.10. 10 - 11 Uhr ansonsten Bitte Übergabe telefonisch vereinbaren: Tel. 031 931 25 52, Zentweg 17, 3006 Bern
 * [Marktlücke][ml],  Öffnungszeiten: Mo - Fr 10 - 19 h, Sa 10 - 17 h, Schipfe 24, 8001 Zürich , 044 212 77 25
 * [Just Bottle][jb], Öffnungszeiten: Di - Fr 10.30 - 19 h, Sa 10.30 - 16 h, Boulevard Lilienthal 27, 8152 Glattpark, 044 810 05 71
 
