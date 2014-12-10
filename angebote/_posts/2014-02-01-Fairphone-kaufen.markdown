@@ -14,6 +14,8 @@ Dank der erfolgreichen Zusammenarbeit mit den holländischen Initiatoren beim [e
 
 <a href="http://www.faircustomer.ch/fairphone_105" class="button"><i class="fi-arrow-right"></i> Ausverkauft! </a>
 
+Die Fairphones sind bei Fairphone praktisch ausverkauft daher werden wir vom aktuellen Fairphone keine Sammelbestellung in die Schweiz mehr organisieren.
+
 {% include block/fairphone-crosslinks.html %}
 
 <!--
