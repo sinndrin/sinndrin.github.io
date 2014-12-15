@@ -3,7 +3,7 @@ layout: blog
 title: "Fachbücherbörse 2014 an der ZHAW Wädenswil"
 subtitle: "Das Stöbern und Finden von geeigneter Fachliteratur stand im Vordergrund"
 image: /images/blog/fachbuecherboerse-zhaw-2014.jpg
-date: 2014-12-15 13:00:00
+date: 2014-09-30 13:00:00
 published: true
 categories: blog
 comments: true
