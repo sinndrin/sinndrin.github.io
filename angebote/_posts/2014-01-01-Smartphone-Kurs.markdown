@@ -15,8 +15,8 @@ Haben sie Schwierigkeiten oder Fragen zu Ihrem Mobiltelefon mit Android-Betriebs
 Wir bieten Ihnen Gelegenheit Ihre Fragen zu stellen und von den Problemstellungen anderer Teilnehmenden zu profitieren. Wir beantworten Ihre Fragen rund um Software (App-, Mail-, Kontaktverwaltung, SMS/MMS, Multimedia, Musik und Internet) und Hardware (Hüllen, Akku, Simkarte und Kamera). Gemeinsam lösen wir in entspannter Atmosphäre unter fachlicher Anleitung Ihre Smartphone-Probleme.
 
 ##Daten
-* 3. Dezember 2014, Eintreffen ab 16.00 Uhr, Dauer je nach Bedarf bis spätestens 19.00 Uhr. Eintritt frei (Kollekte).
-* Weitere Daten auf Anfrage. Individuelle Arrangements (andere Standort, Zeiten, etc.) arbeiten wir nach Absprache mit Ihnen gerne aus.
+<!--* 3. Dezember 2014, Eintreffen ab 16.00 Uhr, Dauer je nach Bedarf bis spätestens 19.00 Uhr. Eintritt frei (Kollekte).-->
+* Daten auf Anfrage. Individuelle Arrangements (andere Standort, Zeiten, etc.) arbeiten wir nach Absprache mit Ihnen gerne aus.
 
 ##Veranstaltungsort
 [sinndrin genossenschaft, Alfred-Escher-Strasse 46, 8002 Zürich](https://www.google.ch/maps/preview?q=sinndrin+genossenschaft&hl=de&sll=47.377455,8.536715&sspn=0.174132,0.346756&hq=sinndrin+genossenschaft&t=m&z=12&iwloc=A&source=newuser-ws)
