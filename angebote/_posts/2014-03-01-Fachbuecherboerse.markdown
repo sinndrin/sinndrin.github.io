@@ -9,7 +9,7 @@ title: "Fachbücherbörse"
 ---
 <div class="angebot-top-wide"><img title="Fachbücherbörse" src="/images/angebote/fachbuecherboerse_sub.jpg"></div>
 
-Die Fachbücherbörse ermöglicht es Studierenden/ Schülern und Mitarbeitenden einer (Hoch-)Schule vergünstigt Fachbücher zu kaufen und nicht mehr benötigte Bücher wiederum zu verkaufen. Wir übernehmen die gesamte Organisation und Koordination der Fachbücherbörse an Ihrer Schule. Die [erste Fachbücherbörse](blog/2014/09/30/fachbuecherboerse-2014-an-der-zhaw-waedenswil/) wurde im Jahr 2014 an der ZHAW in Wädenswil durchgeführt.
+Die Fachbücherbörse ermöglicht es Studierenden/ Schülern und Mitarbeitenden einer (Hoch-)Schule vergünstigt Fachbücher zu kaufen und nicht mehr benötigte Bücher wiederum zu verkaufen. Wir übernehmen die gesamte Organisation und Koordination der Fachbücherbörse an Ihrer Schule. Die [erste Fachbücherbörse][bfbb] wurde im Jahr 2014 an der ZHAW in Wädenswil durchgeführt.
 
 ##Verfügbare Fachbücher
 <a href="/angebote/suffizienz/fachbuecherboerse/zhaw-2014/" class="button">ZHAW Wädenswil</a>
@@ -40,3 +40,5 @@ Die Fachbücherbörse ermöglicht es Studierenden/ Schülern und Mitarbeitenden 
 Wahlweise können auch andere Gegenstände wie Taschenrechner, Labormäntel, Schutzbrillen oder Werkzeuge gesammelt und weiterverkauft werden.
 
 Gerne beantworten wir Ihre Fragen/ Anmerkungen oder erstellen für Sie eine unverbindliche Offerte, falls auch Sie eine Fachbücherbörse durchführen möchten.
+
+[bfbb]: /blog/2014/09/30/fachbuecherboerse-2014-an-der-zhaw-waedenswil/
