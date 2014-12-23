@@ -12,7 +12,7 @@ title: "Fairphone kaufen"
 
 <a href="http://www.faircustomer.ch/fairphone_105" class="button"><i class="fi-arrow-right"></i> Ausverkauft! </a>
 
-<br>Die Fairphones sind ausverkauft.<\br> Da die Fairphones auch bei Fairphone praktisch ausverkauft sind werden wir vom aktuellen Fairphone <br>keine Sammelbestellung in die Schweiz mehr organisieren<\br>.
+**Die Fairphones sind ausverkauft.** Da die Fairphones auch bei Fairphone praktisch ausverkauft sind werden wir vom aktuellen Fairphone **keine Sammelbestellung in die Schweiz** mehr organisieren.
 
 Fairphone wird voraussichtlich im Herbst 2015 das nächste Fairphone zum Verkauf anbieten. Ob wir dann auch wieder Fairphones in die Schweiz importieren werden ist noch nicht geklärt. Sobald wir mehr wissen werden Sie an dieser Stelle informiert.
 
