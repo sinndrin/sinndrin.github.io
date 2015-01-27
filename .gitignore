@@ -1,3 +1,4 @@
 _site
 assets/foundation/node_modules/*
 projectFilesBackup
+.rvmrc
