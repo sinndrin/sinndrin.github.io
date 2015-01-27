@@ -11,7 +11,6 @@ html{overflow-y:scroll;}
 /* noisy background */
 body {
   background-image: url(/images/design/noise.png);
-  background-repeat: both;
 }
 
 /* abstand zwischen breadcrumbs und haupttitel*/
@@ -52,8 +51,7 @@ a {
 /* ******************************************************************************************************* */
 /* frontpage */
 #welcome {
-  background-image: url(/images/frontpage/welcome.jpg);
-  background-position: center;
+  background: url(/images/frontpage/welcome.jpg) center;
 }
 /* ******************************************************************************************************* */
 /* angebote */
@@ -63,8 +61,8 @@ a {
   max-width: 247px;
   h5 span {
     position: absolute;
-    bottom: 0px;
-    left: 0px;
+    bottom: 0;
+    left: 0;
     color: black;
     background: rgb(0, 0, 0); /* fallback color */
     background: rgba(255, 255, 255, 0.8);
@@ -113,7 +111,7 @@ a {
   max-width: 800px;
   margin: 20px auto;
   background: none no-repeat scroll 50% 0% / 100% auto rgb(255, 255, 255);
-  box-shadow: 0px 0px 10px rgb(204, 204, 204);
+  box-shadow: 0 0 10px rgb(204, 204, 204);
   display: block;
 }
 #blog h5, #blog .meta, .byline .text.team, footer {
@@ -132,11 +130,11 @@ a {
   float: left;
   width: 70px;
   height: 70px;
-  margin: 5px 10px 0px 0px;
+  margin: 5px 10px 0 0;
   background-size: 100% auto;
 }
 .byline .text.team {
   font-size: smaller;
   margin-top: 5px;
-  box-shadow: 0px 0px 6px white;
+  box-shadow: 0 0 6px white;
 }
