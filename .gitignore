@@ -2,3 +2,4 @@ _site
 assets/foundation/node_modules/*
 projectFilesBackup
 .rvmrc
+npm-debug.log

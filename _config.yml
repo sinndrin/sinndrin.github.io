@@ -1,4 +1,4 @@
 name: sinndrin genossenschaft
 markdown: redcarpet
-pygments: true
+highlighter: pygments
 permalink: pretty
