@@ -579,22 +579,10 @@ Die folgenden Bücher wurden an der Fachbücherbörse 2014 nicht verkauft, und k
   </thead>
   <tbody>
     <tr>
-      <td>Das Rechnungswesen als Führungsinstrument, 5.Auflage</td>
-      <td>Jürg Leimgruber, Urs Prochinig</td>
-      <td>978-3-286-33095-5</td>
-      <td align="right" sdval="25" sdnum="2055;">25</td>
-    </tr>
-    <tr>
       <td>Das Rechnungswesen als Führungsinstrument, 6.Auflage</td>
       <td>Jürg Leimgruber, Urs Prochinig</td>
       <td>978-3-286-33096-2</td>
       <td align="right" sdval="35" sdnum="2055;">35</td>
-    </tr>
-    <tr>
-      <td>Das Rechnungswesen als Führungsinstrument, Lösungen 5.Auflage</td>
-      <td>Jürg Leimgruber, Urs Prochinig</td>
-      <td>978-3-286-33105-1</td>
-      <td align="right" sdval="45" sdnum="2055;">45</td>
     </tr>
   </tbody>
 </table>
