@@ -10,7 +10,7 @@ comments: true
 tags:
  - Jonas Leimgruber
 ---
-Im IUNR intern Magazin haben wir einen zweiseitigen Aritkel über die aktuellen Tatägikeiten und Ziele unserer Genossenschaft veröffentlicht. Er ist als [PDF (S. 12-13)][pdf] und als [ISSUU][issuu] Ausgabe abrufbar.
+Im IUNR intern Magazin haben wir einen zweiseitigen Aritkel über die aktuellen Tätigkeiten und Ziele unserer Genossenschaft veröffentlicht. Er ist als [PDF (S. 12-13)][pdf] und als [ISSUU][issuu] Ausgabe abrufbar.
 
 [issuu]: http://issuu.com/zhawlifesciences/docs/iunr_intern_1_2015/12
 [pdf]: /files/sinndrin_genossenschaft-seite_12-im-iunr_intern_1_2015.pdf
