@@ -6,6 +6,7 @@ tags:
 permalink: /angebote/sae-webdev-november-2014/
 image: /images/angebote/webdesign.jpg
 title: "SAE Webdev November 2014"
+published: false
 ---
 <div class="angebot-top-wide"><img title="" src="/images/angebote/webdesign_sub.jpg"></div>
 

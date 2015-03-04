@@ -11,7 +11,7 @@
     {% comment %} NOT BLOG CRUMBS {% endcomment %}
     {% for crumb in crumbs offset:1 %}
       {% capture previous %}{{ previous }}/{{ crumb }}{% endcapture %}
-      <a href="{{previous}}/" {% if crumbs.last == crumb %}class="current"{% endif %}>{{ crumb | remove: '.html' | replace: "-"," " | replace: "ueber uns","über uns" | replace: "suffizienz in zuerich erleben","suffizienz in zürich erleben" |  replace: "fachbuecherboerse","fachbücherbörse" | replace: "geschaeftsprozesse optimieren","geschäftsprozesse optimieren" | replace: "grundsaetze","grundsätze" | replace: "fairphone crowdfunding unterstuetzung","Fairphone Crowdfunding-Unterstützung" }}</a>
+      <a href="{{previous}}/" {% if crumbs.last == crumb %}class="current"{% endif %}>{{ crumb | remove: '.html' | replace: "-"," " | replace: "ueber uns","über uns" | replace: "suffizienz in zuerich erleben","suffizienz in zürich erleben" |  replace: "fachbuecherboerse","fachbücherbörse" | replace: "geschaeftsprozesse optimieren","geschäftsprozesse optimieren" | replace: "grundsaetze","grundsätze" | replace: "fairphone crowdfunding unterstuetzung","Fairphone Crowdfunding-Unterstützung" | replace: "html css grundlagen","html & css grundlagen" }}</a>
     {% endfor %}
   {% endif %}
 </nav>
