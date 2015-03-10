@@ -16,7 +16,19 @@ title:  "HTML & CSS Grundlagen"
 <li>Stelle jederzeit Fragen (an mich, <a href="https://www.startpage.com/">deine Suchmaschine</a>, <a href="https://stackoverflow.com/">stackoverflow</a>, etc.)!</li>
 </ul>
 
-<h2>Slides</h2>
+<h2>Slides / Unterrichtsmaterialien</h2>
+<p>Hier sind alle Slides und Unterlagen aufgelistet, die nicht im <a href="https://trello.com/b/hlArimBF/kunstschule-html-css-2015">Trello-Board</a> aufgeführt sind.</p>
+
+<h3>Tag 1</h3>
 <ul>
-<li><a href="tag-1/">Tag 1</a></li>
+<li><a href="tag-1/">Slides vom 1. Tag</a></li>
+</ul>
+
+<h3>Tag 2</h3>
+<p>"Expretengruppen" Unterlagen:</p>
+<ul>
+<li><a href="/hintergrundwissen/html-css-grundlagen/tag-2/elemente-gruppieren-div-und-span.pdf">Elemente gruppieren mit div und span</a></li>
+<li><a href="/hintergrundwissen/html-css-grundlagen/tag-2/horizontales-menü.pdf">Horizontale Menüs erstellen</a></li>
+<li><a href="/hintergrundwissen/html-css-grundlagen/tag-2/inhalt-zentrieren.pdf">Inhalte zentrieren</a></li>
+<li><a href="/hintergrundwissen/html-css-grundlagen/tag-2/schriftarten-von-google-fonts-einbinden.pdf">Schriftarten mit Google Fonts einbinden</a></li>
 </ul>
