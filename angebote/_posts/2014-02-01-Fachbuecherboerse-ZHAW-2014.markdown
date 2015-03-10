@@ -11,7 +11,7 @@ title: "Fachbücherbörse ZHAW 2014"
 
 <!-- Wir sammeln momentan via Sekretariat Grüental und Reidbach die von Studierenden abgegeben "gebrauchten" Fachbücher und Unterrichtsmaterialien. Diese werden am **Dienstag, 23. September 2014** und am **Montag, 29. September 2014** für neue Studierende zum Wiederverkauf angeboten. Alle weiteren Informationen finden Sie auf dem unten abgebildeten Poster. -->
 
-Die folgenden Bücher wurden an der Fachbücherbörse 2014 nicht verkauft, und können per E-Mail bei [Jonas Leimgruber](mailto:jonas.leimgruber@sinndrin.ch) bestellt werden. Alle auf diesem Weg nicht verkauften Bücher, werden an der nächstjährigen Fachbücherbörse erneut zum Verkauf stehen.
+Die folgenden Bücher wurden an der Fachbücherbörse 2014 nicht verkauft, und können per E-Mail bei [Jonas Leimgruber](mailto:jonas.leimgruber@sinndrin.ch) reserviert werden. Der angegebene Preis gilt bei Abholung in Zürich. Für den Versand müssen zusätzlich Porto und eine Aufwandsentschädigung bezahlt werden. Alle auf diesem Weg nicht verkauften Bücher, werden an der nächstjährigen Fachbücherbörse erneut zum Verkauf stehen.
 
 ## Biologie und Ökologie
 <table>
