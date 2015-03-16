@@ -4,6 +4,8 @@ categories: angebote
 tags:
   - Bildung
   - Fairphone
+  - Jonas Leimgruber
+  - Roger Schärer
 permalink: /angebote/bildung/smartphone-kurs/
 image: /images/angebote/fairphone.jpg
 title: "Smartphone Kurs"
