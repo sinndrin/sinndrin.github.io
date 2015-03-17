@@ -717,8 +717,6 @@ Die folgenden Bücher wurden an der Fachbücherbörse 2014 nicht verkauft, und k
   </tbody>
 </table>
 
-## Poster der Fachbücherbörse ZHAW 2014
-<div class=angebot-top-wide"><img width="793" title="Fachbücherbörse Poster" src="/images/angebote/fachbuecherboerse_sub_poster_verkauf.jpg"></div>
 
 <!-- Die genauen Daten werden zur gegebenen Zeit per E-Mail an die Studierenden und Mitarbeitenden kommuniziert. -->
 
