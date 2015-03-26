@@ -25,3 +25,5 @@ Wir bieten Ihnen Gelegenheit Ihre Fragen zu stellen und von den Problemstellunge
 
 ##Anmeldung
 Wir freuen uns über Ihr spontanes oder vorangemeldetes Erscheinen. Die freiwillige Anmeldung können Sie bei [Georg Trapp](/ueber-uns/team/georg-trapp/) via [E-Mail](mailto:georg.trapp@sinndrin.ch) oder Telefon 044 534 64 54 vornehmen.
+
+{% include block/fairphone-crosslinks.html %}
