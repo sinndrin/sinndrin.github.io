@@ -15,14 +15,14 @@ Wenn bei Ihrem Gerät ein Problem auftaucht, können Sie folgende Schritte durch
 
 Haben die oben genannten Schritte keine Lösung des Problem gebracht und konnten auch keine anderen hier aufgeführten Tipps weiterhelfen, [kontaktieren Sie uns][kontakt] per E-Mail und teilen Sie uns folgende Informationen mit:
 
-* Besondere Vorkommnisse als Auslöser? (Heruntergefallen, Wasserschaden, Update etc.)
+* Besondere Vorkommnisse als Auslöser (Heruntergefallen, Wasserschaden, Update etc.)?
 * Kaufdatum des Gerätes?
 * Sind die Probleme von Anfang an, plötzlich oder schleichend aufgetreten?
 * Beschreibung des Problems?
 
 ## <a name="update"></a> Updaten auf neueste Software-Version
 
-Um Ihr Gerät mit der neusten Software Version auszustatten brauchen Sie eine aktivierte W-Lan Verbindung. Danach gehen Sie auf die App "Fairphone Updater" und wählen dort das Feld "Fairphone OS". Dann haben Sie die zur Verfügung stehenden Updates zur Auswahl. Durch darauf klicken wird die Software nun installiert.
+Um Ihr Gerät mit der neusten Software Version auszustatten brauchen Sie eine aktivierte W-Lan Verbindung. Danach gehen Sie auf die App *Fairphone Updater* und wählen dort das Feld *Fairphone OS*. Dann haben Sie die zur Verfügung stehenden Updates zur Auswahl. Durch darauf klicken wird die Software nun installiert.
 
 <a name="hard-reset"></a>
 ## Durchführen eines Hard-Reset
@@ -32,10 +32,10 @@ Bei einem Hard-Reset am Fairphone wird das Smartphone auf die Werkseinstellungen
 ### Schritt 1: Vorbereitung
 Dieser Schritt gilt nur für Nutzer von FP1 Smartphones. Für Nutzer von FP1U Smartphones kann dieser Schritt übersprungen werden.
 
-* *System-Einstellungen* aufrufen
-* *Sichern & Zurücksetzen* wählen
-* *Auf Werkszustand zurück* wählen
-* runter scrollen und *Telefon zurücksetzen* anwählen. <br />Das Telefon wird nun von selbst neu starten und löscht allen Inhalt
+* `System-Einstellungen` aufrufen
+* `Sichern & Zurücksetzen` wählen
+* `Auf Werkszustand zurück` wählen
+* runter scrollen und `Telefon zurücksetzen` anwählen. <br />Das Telefon wird nun von selbst neu starten und löscht allen Inhalt
 * Weiter mit *Schritt 2*
 
 ### Schritt 2: Durchführen des Hard-Reset
@@ -86,7 +86,7 @@ Mit der Taste `Volumen nach unten` die Zeile `Reboot` anwählen und mit der `Ein
 ## <a name="backup"></a> Datensicherung
 
 ### Manuelle Datensicherung - Bilder
-Verbinden Sie das Gerät mit dem Computer. Sobald es mit dem Computer verbunden ist wird ein Fenster erscheinen. Dort können Sie zum Ordner "DCIM" navigieren und dort Ihre Bilder auf den Computer kopieren.
+Verbinden Sie das Gerät mit dem Computer. Sobald es mit dem Computer verbunden ist wird ein Fenster erscheinen. Dort können Sie zum Ordner *DCIM* navigieren und dort Ihre Bilder auf den Computer kopieren.
 
 ### Manuelle Datensicherung - Kontakte und Kalender
 Am einfachsten können Sie die Kontakte mit ihrem Google-Konto sichern. Dabei können Sie bei dem Google App auf Einstellungen und dort auf Importieren / Exportieren klicken. Als nächstes könne Sie wählen an welchem Ort ihre Daten abgespeichert sind (SIM oder Telefonspeicher). Auf `Weiter` klicken und Google Konto auswählen, erneut auf `Weiter` klicken und wählen welche Kontakte gespeichert werden sollen. Mit `OK` abschliessen.
@@ -99,10 +99,24 @@ Die bereits heruntergeladenen Apps werden automatisch von Google gespeichert. Da
 ### Datensicherung mit SD-Karte
 Der einfachste Weg für ein Backup von Ihrem Gerät ist mit einer SD-Karte. Dafür brauchen Sie eine Micro-SD Karte mit einem Speichervolumen von 64 GB. Das bereits vorinstalliert App *Sicherung und Wiederherstellung* speichert alles auf Ihre SD-Karte. Jedoch werden die Apps und die Einstellungen, die Sie bei Ihrem Gerät gemacht haben nicht gesichert.
 
-## Ihr Gerät zu Fairphone nach Holland senden
+## <a name="send-to-fairphone"></a> Ihr Gerät zu Fairphone nach Holland senden
+
 Wenn bei Ihrem Gerät etwas nicht stimmt und Sie weder in der Betriebsanleitung noch auf der Fairphone Webseite unter Support keine Lösung finden oder wir Ihnen raten das Gerät an Fairphone zu senden, gehen Sie wie folgt vor.
 
 Gehen Sie auf die Webseite https://fairphone.zendesk.com/hc/en-us/requests/new und füllen Sie die Felder entsprechend aus. Vergewissern Sie sich, dass Sie bei dem Feld *Select a category* die Beschreibung *Repair / Replace Product* aktivieren. Nachdem Sie alle Felder ausgefüllt haben und Sie die Anfrage abgeschickt haben wird für ihren Fall eine sogenannte RMA-Nummer generiert. Diese benötigen Sie beim ausfüllen der [Repair Form][repair-form] (Reparatur Formular) und gilt als Identifikationsnummer Ihres Gerätes im Reparaturcenter bei Fairphone.
+
+## Probleme mit Ladebuchse
+Wenn Sie bemerken, dass bei Ihrem Gerät die Batterie nicht mehr richtig geladen wird, überprüfen Sie ob die Steckverbindung zwischen Gerät und Kabel eventuell einen Wackelkontakt hat. Die Ladebuchse kann durch unsachgemässe Behandlung schnell kaputt gehen und Probleme beim Laden der Batterie verursachen.
+Überprüfen Sie ebenfalls, ob sich bei der Buchse eine grössere Staubansammlung gebildet hat. Diese kann dazu führen, dass der Stecker nicht mehr weit genug eingeführt werden kann und dadurch der Kontakt nicht mehr funktioniert.
+
+Ist die Ladebuchse beschädigt muss sie ersetzt werden, um eine Reibungslose Ladung der Batterie wieder zu gewährleisten. Für die Reparatur der Ladebuchse müssen Sie das Gerät an [Fairphone schicken][send-to-fairphone] und kann nicht von uns durchgeführt werden.
+
+Wenn die Ladebuchse nicht die Ursache des Problems darstellt kann es sein, dass sich ihre [Batterie aufgeblasen][batterie] hat.
+
+## Wasserschaden
+Hat Ihr Gerät einen Wasserschaden erlitten oder ist sonst hoher Feuchtigkeit ausgesetzt gewesen. Dann müssen Sie das Gerät sofort ausschalten und die Batterie entfernen. Um die Feuchtigkeit im Gerät zu entfernen legen Sie das Gerät während zwei bis drei Tagen in Reis ein. Nach der Einlagerung im Reis können Sie die Batterie wieder einlegen und versuchen das Gerät neu zu starten.
+
+Wasserschäden an elektronischen Geräten sind extrem heikel. Es kann daher nicht gesagt werden ob die oben erwähnte Variante tatsächlich funktioniert. Wenn Ihr Gerät nach der Einlagerung im Reis immer noch nicht richtig funktioniert, kommen Sie um eine Reparatur nicht herum. Die Reparatur eines Wasserschaden können wir selber nicht übernehmen, da man nicht genau weiss, welche Teile durch die Feuchtigkeit kaputt gegangen sind. Daher müssen Sie das Gerät an [Fairphone senden][send-to-fairphone].
 
 [update]: /hintergrundwissen/selbststaendige-fairphone-fehlerbehebung-und-diagnose-faq/#update
 [hard-reset]: /hintergrundwissen/selbststaendige-fairphone-fehlerbehebung-und-diagnose-faq/#hard-reset
@@ -112,3 +126,4 @@ Gehen Sie auf die Webseite https://fairphone.zendesk.com/hc/en-us/requests/new u
 [backup]: /hintergrundwissen/selbststaendige-fairphone-fehlerbehebung-und-diagnose-faq/#backup
 [request]: https://fairphone.zendesk.com/hc/en-us/requests/new
 [repair-form]: https://fairphone.zendesk.com/hc/en-us/article_attachments/200943649/Fairphone_repair_form.pdf
+[send-to-fairphone]: /hintergrundwissen/selbststaendige-fairphone-fehlerbehebung-und-diagnose-faq/#send-to-fairphone
