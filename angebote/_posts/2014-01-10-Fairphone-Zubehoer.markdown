@@ -9,7 +9,7 @@ title: "Fairphone Zubehör"
 ---
 <div class="angebot-top-wide"><img title="Fairphone" src="/images/angebote/fairphone_zubehoer_sub.jpg"></div>
 
-Als Zubehör bieten wir den [Original Fairphone Akku](#akku) an. Die die Fairphone Hülle aus dem 3D-Drucker bieten wir vorübergehend nicht an. In Kürze sollte diese aber wieder in unserem Sortiment sein (Stand: 24. Februar 2015).
+Als Zubehör bieten wir den [Original Fairphone Akku](#akku) an. Die die Fairphone Hülle aus dem 3D-Drucker bieten wir vorübergehend nicht an. In Kürze sollte diese aber wieder in unserem Sortiment sein (Stand: 26. März 2015).
 
 <a name="akku"></a>
 ### Akku für das Fairphone (Original)
