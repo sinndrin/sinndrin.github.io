@@ -22,12 +22,12 @@ Haben die oben genannten Schritte keine Lösung des Problem gebracht und konnten
 
 ## <a name="update"></a> Updaten auf neueste Software-Version
 
-Um Ihr Gerät mit der neusten Software Version auszustatten brauchen Sie eine aktivierte W-Lan Verbindung. Danach gehen Sie auf die App *Fairphone Updater* und wählen dort das Feld *Fairphone OS*. Dann haben Sie die zur Verfügung stehenden Updates zur Auswahl. Durch darauf klicken wird die Software nun installiert.
+Um Ihr Gerät mit der neusten Software Version auszustatten brauchen Sie eine aktivierte W-Lan Verbindung. Danach öffnen Sie die App *Fairphone Updater* und wählen dort das Feld *Fairphone OS*. Dann haben Sie die zur Verfügung stehenden Updates zur Auswahl. Durch darauf klicken wird die Software nun installiert.
 
 <a name="hard-reset"></a>
 ## Durchführen eines Hard-Reset
 
-Bei einem Hard-Reset am Fairphone wird das Smartphone auf die Werkseinstellungen zurück gesetzt. Dabei werden alle Daten, die auf dem Gerät sind gelöscht. Daher wird empfohlen eine [Sicherung der Daten][backup] vor der Durchführung eines Hard-Reset vorzunehmen.
+**Bei einem Hard-Reset des Fairphones wird das Smartphone auf die Werkseinstellungen zurück gesetzt. Dabei werden alle Daten, die auf dem Gerät sind, gelöscht. Daher ist eine [Sicherung der Daten][backup] vor der Durchführung eines Hard-Reset empfohlen.**
 
 ### Schritt 1: Vorbereitung
 Dieser Schritt gilt nur für Nutzer von FP1 Smartphones. Für Nutzer von FP1U Smartphones kann dieser Schritt übersprungen werden.

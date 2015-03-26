@@ -4,7 +4,7 @@ title: "Unsere Fairphone Reparaturwerkstatt in Zürich"
 subtitle: "Informationen zur ersten Fairphone Reparaturwerkstatt der Schweiz und weitere nützliche Tipps rund ums Fairphone."
 image: /images/blog/unsere-fairphone-reparaturwerkstatt.jpg
 date: 2015-03-26 16:00:00
-published: false
+published: true
 categories: blog
 comments: true
 tags:
