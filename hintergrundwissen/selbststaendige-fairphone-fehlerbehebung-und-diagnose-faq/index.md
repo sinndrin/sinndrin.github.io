@@ -85,6 +85,9 @@ Mit der Taste `Volumen nach unten` die Zeile `Reboot` anwählen und mit der `Ein
 
 ## <a name="backup"></a> Datensicherung
 
+### Datensicherung mit SD-Karte
+Der einfachste Weg für ein Backup von Ihrem Gerät ist mit einer SD-Karte. Für diese Sicherung brauchen Sie eine Micro-SD Karte. Das bereits vorinstalliert App *Sicherung und Wiederherstellung* speichert alles auf Ihre SD-Karte. Jedoch werden die Apps und die Einstellungen, die Sie bei Ihrem Gerät gemacht haben nicht gesichert.
+
 ### Manuelle Datensicherung - Bilder
 Verbinden Sie das Gerät mit dem Computer. Sobald es mit dem Computer verbunden ist wird ein Fenster erscheinen. Dort können Sie zum Ordner *DCIM* navigieren und dort Ihre Bilder auf den Computer kopieren.
 
@@ -95,9 +98,6 @@ Am einfachsten können Sie die Kontakte mit ihrem Google-Konto sichern. Dabei k�
 
 ### Manuelle Datensicherung - Apps
 Die bereits heruntergeladenen Apps werden automatisch von Google gespeichert. Daher braucht es kein separates Backup für die Apps.
-
-### Datensicherung mit SD-Karte
-Der einfachste Weg für ein Backup von Ihrem Gerät ist mit einer SD-Karte. Dafür brauchen Sie eine Micro-SD Karte mit einem Speichervolumen von 64 GB. Das bereits vorinstalliert App *Sicherung und Wiederherstellung* speichert alles auf Ihre SD-Karte. Jedoch werden die Apps und die Einstellungen, die Sie bei Ihrem Gerät gemacht haben nicht gesichert.
 
 ## <a name="send-to-fairphone"></a> Ihr Gerät zu Fairphone nach Holland senden
 
