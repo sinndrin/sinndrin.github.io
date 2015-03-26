@@ -5,7 +5,7 @@ title:  "Selbstständige Fairphone Fehlerbehebung und Diagnose (FAQ)"
 <div class="angebot-top-wide"><img title="Selbstständig durchführbahre Fehlerbehebungen und Diagnosen zu ihrem Fairphone" src="/images/angebote/fairphone-reparaturwerkstatt.jpg"></div>
 
 <div class="panel">
-<h5>Inhaltsverzeichnis:</h5>
+<h5>Themen:</h5>
 <ul>
 <li><a href="#vorabklaerung">Erste Schritte zur Vorabklärung</a></li>
 <li><a href="#update">Updaten auf neueste Software-Version</a></li>
