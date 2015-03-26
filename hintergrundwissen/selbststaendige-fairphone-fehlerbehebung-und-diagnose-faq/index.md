@@ -2,7 +2,7 @@
 layout: two-columns
 title:  "Selbstständige Fairphone Fehlerbehebung und Diagnose (FAQ)"
 ---
-<div class="angebot-top-wide"><img title="Selbstständig durchführbahre Fehlerbehebungen und Diagnosen zu ihrem Fairphone" src="fairphone-reparaturwerkstatt.jpg"></div>
+<div class="angebot-top-wide"><img title="Selbstständig durchführbahre Fehlerbehebungen und Diagnosen zu ihrem Fairphone" src="/images/angebote/fairphone-reparaturwerkstatt.jpg"></div>
 
 ## Erste Schritte zur Vorabklärung
 Wenn bei Ihrem Gerät ein Problem auftaucht, können Sie folgende Schritte durchführen, um das Problem möglicherweise zu beheben oder uns die Vorabklärung und dadurch Zeit zu ersparen.
@@ -13,20 +13,19 @@ Wenn bei Ihrem Gerät ein Problem auftaucht, können Sie folgende Schritte durch
 * Überprüfen Sie die Form der Batterie ([aufgeblasene Batterie][batterie]).
 * Führen Sie einen [Screen Test][screen-test] durch.
 
-Haben die oben genannten Schritte keine Lösung des Problem gebracht und konnten auch keine anderen hier aufgeführten Tipps weiterhelfen [kontaktieren Sie uns][kontakt] am besten per E-Mail und geben Sie dabei folgende Punkte an:
+Haben die oben genannten Schritte keine Lösung des Problem gebracht und konnten auch keine anderen hier aufgeführten Tipps weiterhelfen, [kontaktieren Sie uns][kontakt] per E-Mail und teilen Sie uns folgende Informationen mit:
 
 * Besondere Vorkommnisse als Auslöser? (Heruntergefallen, Wasserschaden, Update etc.)
-* Kaufdatum des Gerätes
-* Sind die Probleme von Anfang an, plötzlich oder schleichend aufgetreten
-* Beschreibung des Problems
+* Kaufdatum des Gerätes?
+* Sind die Probleme von Anfang an, plötzlich oder schleichend aufgetreten?
+* Beschreibung des Problems?
 
-## Updaten auf neueste Software-Version
-<a name="update"></a>
+## <a name="update"></a> Updaten auf neueste Software-Version
 
 Um Ihr Gerät mit der neusten Software Version auszustatten brauchen Sie eine aktivierte W-Lan Verbindung. Danach gehen Sie auf die App "Fairphone Updater" und wählen dort das Feld "Fairphone OS". Dann haben Sie die zur Verfügung stehenden Updates zur Auswahl. Durch darauf klicken wird die Software nun installiert.
 
-## Durchführen eines Hard-Reset
 <a name="hard-reset"></a>
+## Durchführen eines Hard-Reset
 
 Bei einem Hard-Reset am Fairphone wird das Smartphone auf die Werkseinstellungen zurück gesetzt. Dabei werden alle Daten, die auf dem Gerät sind gelöscht. Daher wird empfohlen eine [Sicherung der Daten][backup] vor der Durchführung eines Hard-Reset vorzunehmen.
 
@@ -54,21 +53,19 @@ Dieser Schritt gilt nur für Nutzer von FP1 Smartphones. Für Nutzer von FP1U Sm
 * Mit der Taste `Volumen nach unten` den Text `Reboot system now` markieren
 Mit der Taste `Volumen nach oben` den markierten Text anwählen <br />Dieser Schritt wird nun ausgeführt und kann einen Moment dauern. Das Gerät startet danach neu.
 
-## Aufgeblasene Batterie (Bloated Battery)
-<a name="batterie"></a>
+## <a name="batterie"></a> Aufgeblasene Batterie (Bloated Battery)
 
 Wenn sich Ihre Batterie geschwollen anfühlt und / oder die Batterieabdeckung nicht mehr richtig geschlossen werden kann handelt es sich dabei voraussichtlich um einen Garantiefall der von Fairphone übernommen wird. Bitte schicken Sie uns ein Bild ihrer aufgeblasenen Batterie zu und geben uns zudem folgende Informationen:
 
 * Vor- und Nachname
-* Postleitzahl
-* Wo haben Sie das Gerät gekauft (Fairphone direkt oder über Faircustomer)
+* Adresse
+* Wo haben Sie das Gerät gekauft (direkt bei Fairphone oder über Faircustomer.ch)
 * Bestellnummer
-* Welches Ladegerät haben Sie am meisten verwendet?
+* Welches Ladegerät haben Sie am häufigsten verwendet?
 * Die Serienummer ihres Gerätes (befindet sich unter der Batterie)
 * Die Serienummer der Batterie
 
-## Bildschirm reagiert in gewissen Bereichen nicht
-<a name="bildschirm"></a>
+## <a name="bildschirm"></a> Bildschirm reagiert in gewissen Bereichen nicht
 
 Hat der Bildschirm Bereiche, die nicht reagieren und Sie können sich nicht erklären wie es zustande gekommen ist? Es ist weder heruntergefallen noch einer Feuchtigkeit ausgesetzt gewesen oder durch andere Umstände zu diesem Zustand gekommen. Dann könnten Sie mit den nachfolgenden Anweisungen den nicht reagierenden Bereich erkenntlich machen.
 
@@ -85,8 +82,8 @@ Eine Reparatur dieses Falles ist möglich. Schicken Sie uns ein Bild des Bildsch
 Mit der Taste `Volumen nach unten` die Zeile `Reboot` anwählen und mit der `Einschalttaste` bestätigen.
 * Das Gerät startet nun neu.
 
-## Datensicherung
-<a name="backup"></a>
+
+## <a name="backup"></a> Datensicherung
 
 ### Manuelle Datensicherung - Bilder
 Verbinden Sie das Gerät mit dem Computer. Sobald es mit dem Computer verbunden ist wird ein Fenster erscheinen. Dort können Sie zum Ordner "DCIM" navigieren und dort Ihre Bilder auf den Computer kopieren.
