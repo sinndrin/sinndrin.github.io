@@ -15,7 +15,7 @@ Vor einem Displaybruch durch herunterfallen ist kein Smartphone sicher, auch nic
 
 Doch zum Glück gibt es die [Reparaturwerkstatt][fairphone-reparatur] der sinndrin genossenschaft. Hier haben schon zahlreiche Fairphones das alte Aussehen verloren und die volle Funktionsfähigkeit zurück erhalten.
 
-Dank der engen Zusammenarbeit mit Fairphone und unseren bisherigen Reparatur- und Supporterfahrungen  können wir Ihr Smartphone schnell und zuverlässig wieder einsatzfähig machen.
+Dank der engen Zusammenarbeit mit Fairphone und unseren bisherigen Reparatur- und Supporterfahrungen können wir Ihr Smartphone schnell und zuverlässig wieder einsatzfähig machen.
 
 Zur [selbstständigen Fehlerbehebung und Diagnose][faq] haben wir eine Themensammlung zusammengestellt. So ersparen Sie sich und uns die Zeit für lange Abklärungen und Internetrecherchen.
 
