@@ -11,8 +11,10 @@ title: "Fairphone kaufen"
 
 **Die Fairphones der ersten Generation sind ausverkauft.**
 
-Das Fairphone der nächsten Generation wird voraussichtlich ab Herbst 2015 erhältlich sein. Wir werden auch dieses Fairphone wieder in der Schweiz zum Verkauf anbieten. Auf Faircustomer können Sie eine [unverbindliche Vorreservation](http://www.faircustomer.ch/reservation_fuer_fairphone_2_9) vornehmen und erfahren dadurch als erstes, sobald genaueres zum Verkaufsstart und den Spezifikationen bekannt sind.
+Das Fairphone der nächsten Generation wird voraussichtlich ab Herbst 2015 erhältlich sein. Wir werden auch dieses Fairphone wieder in der Schweiz zum Verkauf anbieten.
 
-<a href="http://www.faircustomer.ch/reservation_fuer_fairphone_2_9" class="button"><i class="fi-arrow-right"></i> Unverbindlichen Vorreservation für das Fairphone 2</a>
+Auf Faircustomer können Sie eine [unverbindliche Vorreservation](http://www.faircustomer.ch/reservation_fuer_fairphone_2_9) vornehmen und erfahren dadurch als erste/r, sobald genaueres zum Verkaufsstart und den Spezifikationen bekannt ist.
+
+<a href="http://www.faircustomer.ch/reservation_fuer_fairphone_2_9" class="button"><i class="fi-arrow-right"></i> Unverbindliche Vorreservation für das Fairphone 2</a>
 
 {% include block/fairphone-crosslinks.html %}
