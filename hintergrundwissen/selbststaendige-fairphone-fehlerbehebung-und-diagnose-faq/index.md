@@ -118,6 +118,8 @@ Hat Ihr Gerät einen Wasserschaden erlitten oder ist sonst hoher Feuchtigkeit au
 
 Wasserschäden an elektronischen Geräten sind extrem heikel. Es kann daher nicht gesagt werden ob die oben erwähnte Variante tatsächlich funktioniert. Wenn Ihr Gerät nach der Einlagerung im Reis immer noch nicht richtig funktioniert, kommen Sie um eine Reparatur nicht herum. Die Reparatur eines Wasserschaden können wir selber nicht übernehmen, da man nicht genau weiss, welche Teile durch die Feuchtigkeit kaputt gegangen sind. Daher müssen Sie das Gerät an [Fairphone senden][send-to-fairphone].
 
+{% include block/fairphone-crosslinks.html %}
+
 [update]: /hintergrundwissen/selbststaendige-fairphone-fehlerbehebung-und-diagnose-faq/#update
 [hard-reset]: /hintergrundwissen/selbststaendige-fairphone-fehlerbehebung-und-diagnose-faq/#hard-reset
 [batterie]: /hintergrundwissen/selbststaendige-fairphone-fehlerbehebung-und-diagnose-faq/#batterie
