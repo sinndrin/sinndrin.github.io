@@ -46,5 +46,4 @@ Wir haben für Sie eine [Sammlung von Fehlerbehebungen und Diagnosen][faq] zusam
 
 [faq]: /hintergrundwissen/selbststaendige-fairphone-fehlerbehebung-und-diagnose-faq/
 [kontakt]: /ueber-uns/kontakt/
-<!-- TODO: fix link -->
 [backup]: /hintergrundwissen/selbststaendige-fairphone-fehlerbehebung-und-diagnose-faq#backup
