@@ -24,6 +24,6 @@ Wir bieten Ihnen Gelegenheit Ihre Fragen zu stellen und von den Problemstellunge
 [sinndrin genossenschaft, Alfred-Escher-Strasse 46, 8002 Zürich](https://www.google.ch/maps/preview?q=sinndrin+genossenschaft&hl=de&sll=47.377455,8.536715&sspn=0.174132,0.346756&hq=sinndrin+genossenschaft&t=m&z=12&iwloc=A&source=newuser-ws)
 
 ##Anmeldung
-Wir freuen uns über Ihr spontanes oder vorangemeldetes Erscheinen. Die freiwillige Anmeldung können Sie bei [Georg Trapp](/ueber-uns/team/georg-trapp/) via [E-Mail](mailto:georg.trapp@sinndrin.ch) oder Telefon 044 534 64 54 vornehmen.
+Wir freuen uns über Ihr spontanes oder vorangemeldetes Erscheinen. Die freiwillige Anmeldung können Sie bei [Roger Schärer](/ueber-uns/team/roger-schaerer/) via [E-Mail](mailto:roger.schaerer@sinndrin.ch ) oder Telefon 044 534 64 54 vornehmen.
 
 {% include block/fairphone-crosslinks.html %}
