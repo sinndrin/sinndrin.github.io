@@ -7,7 +7,7 @@ tags:
   - Jonas Leimgruber
   - Roger Schärer
 permalink: /angebote/bildung/smartphone-kurs/
-image: /images/angebote/fairphone.jpg
+image: /images/angebote/smartphone-kurs.jpg
 title: "Smartphone Kurs"
 ---
 <div class="angebot-top-wide"><img title="Smartphone Kurs" src="/images/angebote/fairphone_sub.jpg"></div>

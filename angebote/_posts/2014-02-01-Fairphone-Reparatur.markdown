@@ -4,10 +4,10 @@ categories: angebote
 tags:
   - Fairphone
 permalink: /angebote/fairphone/reparatur/
-image: /images/angebote/fairphone.jpg
+image: /images/angebote/fairphone-reparatur.jpg
 title: "Fairphone Reparatur"
 ---
-<div class="angebot-top-wide"><img title="Fairphone" src="/images/angebote/fairphone-reparaturwerkstatt.jpg"></div>
+<div class="angebot-top-wide"><img title="Fairphone Reparatur" src="/images/angebote/fairphone-reparaturwerkstatt.jpg"></div>
 
 In unserem [Büro in Zürich][kontakt] bieten wir einen Reparaturservice für Ihr Fairphone. [Kontaktieren][kontakt] Sie uns für eine unverbindliche Offerte. Egal ob es sich um ein kaputtes Display, Softwareprobleme oder anderweitige Anliegen handelt. Wir stehen eng mit dem Reparaturcenter von Fairphone in Kontakt, um eine schnelle Abwicklung ihres Falles zu ermöglichen. Bei den Reparaturen orientieren sich unsere Preise an denen von Fairphone.
 
