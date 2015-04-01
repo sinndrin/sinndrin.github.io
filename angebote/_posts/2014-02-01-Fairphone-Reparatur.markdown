@@ -18,7 +18,7 @@ Die Reparatur wird in unserer voll ausgestatteten Werkstatt durchgeführt. Die A
 
 ## Reparaturabwicklung
 
-Wenn Sie ihr Fairphone von uns repariren lassen möchten, können sie das Gerät entweder persönlich bei uns in Zürich vorbei bringen oder per Post an uns senden. **[Kontaktieren][kontakt] Sie uns in jedem Fall vorgängig.**
+Wenn Sie ihr Fairphone von uns repariren lassen möchten, können sie das Gerät entweder persönlich bei uns in Zürich vorbei bringen oder per Post an uns senden. **[Kontaktieren][kontakt] Sie uns in jedem Fall vorgängig damit das Vorgehen geklärt werden kann.**
 
 ### Wenn Sie das Gerät vorbei bringen
 
