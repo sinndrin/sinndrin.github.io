@@ -9,7 +9,7 @@ title: "Fairphone kaufen"
 ---
 <div class="angebot-top-wide"><img title="Fairphone" src="/images/angebote/fairphone_sub.jpg"></div>
 
-**Noch 4 Fairphone FP1U erhältlich. Bei Interesse kontaktieren[kontakt] Sie uns.**
+**Noch 4 Fairphone FP1U erhältlich. Bei Interesse [kontaktieren][kontakt] Sie uns.**
 
 Das Fairphone der nächsten Generation wird voraussichtlich ab Herbst 2015 erhältlich sein. Wir werden auch dieses Fairphone wieder in der Schweiz zum Verkauf anbieten.
 
