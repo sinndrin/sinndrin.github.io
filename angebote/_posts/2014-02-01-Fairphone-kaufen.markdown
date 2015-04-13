@@ -9,7 +9,7 @@ title: "Fairphone kaufen"
 ---
 <div class="angebot-top-wide"><img title="Fairphone" src="/images/angebote/fairphone_sub.jpg"></div>
 
-**Noch 4 Fairphone FP1U erhältlich. Bei Interesse [kontaktieren][kontakt] Sie uns.**
+**Die Fairphones der ersten Generation sind ausverkauft.**
 
 Das Fairphone der nächsten Generation wird voraussichtlich ab Herbst 2015 erhältlich sein. Wir werden auch dieses Fairphone wieder in der Schweiz zum Verkauf anbieten.
 
@@ -18,5 +18,3 @@ Auf Faircustomer können Sie eine [unverbindliche Vorreservation](http://www.fai
 <a href="http://www.faircustomer.ch/reservation_fuer_fairphone_2_9" class="button"><i class="fi-arrow-right"></i> Unverbindliche Vorreservation für das Fairphone 2</a>
 
 {% include block/fairphone-crosslinks.html %}
-
-[kontakt]: /ueber-uns/kontakt/
