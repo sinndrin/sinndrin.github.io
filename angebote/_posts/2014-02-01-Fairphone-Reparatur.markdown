@@ -22,11 +22,13 @@ Wenn Sie ihr Fairphone von uns repariren lassen möchten, können sie das Gerät
 
 ### Wenn Sie das Gerät vorbei bringen
 
+* Füllen Sie das [Reparaturformular][reparaturformular] aus und bringen es an die Reparatur mit.
 * Bitte [sichern][backup] Sie alle Ihre Daten, bevor Sie das Gerät vorbei bringen. Im Normalfall gehen keine Daten verloren, Vorsicht ist jedoch besser als Nachsicht.
 * Nach erfolgreicher Reparatur des Fairphone können Sie den Betrag Bar bezahlen oder wir stellen Ihnen eine Rechnung aus.
 
 ### Wenn Sie das Gerät per Post zusenden
 
+* Füllen Sie das [Reparaturformular][reparaturformular] aus und legen Sie eine Kopie zum Gerät dazu und schicken Sie uns eine eingescannt Version per Email.
 * Bitte [sichern][backup] Sie alle Ihre Daten. Im Normalfall gehen keine Daten verloren, Vorsicht ist jedoch besser als Nachsicht.
 * Entfernen Sie Ihre SIM-Karte(n) aus dem Gerät.
 * Um das Gerät nach der Reparatur zu testen ist es hilfreich, wenn das Gerät nicht durch eine Code-Sperre gesperrt ist. Bitte entfernen Sie die Sperre oder legen den Code dem Gerät bei.
@@ -47,3 +49,4 @@ Wir haben für Sie eine [Sammlung von Fehlerbehebungen und Diagnosen][faq] zusam
 [faq]: /hintergrundwissen/selbststaendige-fairphone-fehlerbehebung-und-diagnose-faq/
 [kontakt]: /ueber-uns/kontakt/
 [backup]: /hintergrundwissen/selbststaendige-fairphone-fehlerbehebung-und-diagnose-faq#backup
+[reparaturformular]: /assets/files/fairphone/Fairphone-Reparaturformular-sinndrin-genossenschaft.pdf
