@@ -16,15 +16,34 @@ title:  "Kontakt"
 <!-- END script loading -->
 
 <!-- BEGIN Kontakt -->
-**sinndrin genossenschaft**<br>
-<a href="#" data-reveal-id="addressModal">Alfred-Escher-Strasse 46<br>
-CH-8002 Zürich<br></a>
-<i class="fi-telephone"></i> 044 534 64 54<br>
-<a href="mailto:info@sinndrin.ch"><i class="fi-mail"></i> info@sinndrin.ch</a><br><br>
-Die beste Chance uns zu erreichen, ist am Montag und Dienstag während den Büroöffnungszeiten.
+<div class="row">
+  <div class=" large-6 columns">
+  <p>
+  <b>sinndrin genossenschaft</b><br>
+  <a href="#" data-reveal-id="addressModal">Alfred-Escher-Strasse 46<br>
+  CH-8002 Zürich<br></a>
+  <i class="fi-telephone"></i> 044 534 64 54<br>
+  <a href="mailto:info@sinndrin.ch"><i class="fi-mail"></i> info@sinndrin.ch</a><br><br>
 
-<a href="http://zh.powernet.ch/webservices/inet/HRG/HRG.asmx/getHRGHTML?chnr=0205000489&amp;amt=020&amp;toBeModified=0&amp;validOnly=0&amp;lang=1&amp;sort=0"><i class="fi-info"></i> Handelsregistereintrag</a><br>
-<a href="#bankverbindung"><i class="fi-bitcoin-circle"></i> Bankverbindung</a>
+  <a href="http://zh.powernet.ch/webservices/inet/HRG/HRG.asmx/getHRGHTML?chnr=0205000489&amp;amt=020&amp;toBeModified=0&amp;validOnly=0&amp;lang=1&amp;sort=0"><i class="fi-info"></i> Handelsregistereintrag</a><br>
+  <a href="#bankverbindung"><i class="fi-bitcoin-circle"></i> Bankverbindung</a><br><br>
+
+  Wir sind am Montag und Dienstag während den üblichen Büroöffnungszeiten am besten erreichbar.
+  </p>
+  </div>
+<!-- BEGIN Team -->
+  <div class="large-6 columns">
+  <h2 class="show-for-medium-down"><a href="/ueber-uns/team/">Team</a></h2>
+  <a href="/ueber-uns/team/">
+  {% for post in site.categories.team %}
+  <img width=100 src="{{ post.image }}">
+  {% endfor %}
+  </a>
+  </div>
+<!-- END Team -->
+  </div>
+<!-- END Kontakt -->
+
 
 <!-- BEGIN Social Profiles -->
 <div class="row">
@@ -52,7 +71,7 @@ Die beste Chance uns zu erreichen, ist am Montag und Dienstag während den Büro
   <!-- END Google+ -->
 </div>
 
-<!-- ugly spacing -->
+<!-- TODO: ugly spacing -->
 <br><br>
 
 <div class="row">
