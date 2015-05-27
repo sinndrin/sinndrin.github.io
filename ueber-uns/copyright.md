@@ -218,6 +218,19 @@ Auf der Webseite [www.sinndrin.ch](/) wurden die folgenden Werke von dritten ers
       <hr>
     </div>
 </div>
+<!-- blog -->
+<div class="row">
+      <div class="medium-4 columns">
+        <img src="/images/blog/workshop-wir-machen-unser-eigenes-geld-mit-minutocash.jpg" max-width="248px">
+      </div>
+      <div class="medium-8 columns">
+        <a href="https://www.flickr.com/photos/76657755@N04/7214596024/"><h3>Tax Credits (CC BY 2.0)</h3></a>
+        <p>Verändert; Zugeschnitten.</p>
+      </div>
+    <div class="small-12 columns">
+      <hr>
+    </div>
+</div>
 <!-- hintergrundwissen -->
 <div class="row">
       <div class="medium-4 columns">
