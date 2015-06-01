@@ -20,10 +20,10 @@ Im Rahmen des Projekts ["Lern Dich Frei!"][ldf] denken wir uns gemeinsam in die 
 Die Co-Leiter [Roger Schärer][rs] (sinndrin genossenschaft) und [Matthias Brück][mb] (permatur.org) verwenden Minutocash bereits beruflich sowie privat und haben an ihren Workshops bereits über 1000 Personen in dieses vielversprechende Konzept eingeführt.
 
 ## Daten
+
+* **Kosten:** keine (gratis).
 * **Ort:** [Zollikerstrasse 74, Foyer, 8008 Zürich](http://map.search.ch/Z%C3%BCrich,Zollikerstr.74)
-
 * **Zeit:** 17. Juni 2015 17:30 - 20:00
-
 * **Teilnehmeranzahl/ Anmeldung:** max. 30 TN. Anmeldung per E-Mail an [365@lerndichfrei.ch](mailto:365@lerndichfrei.ch)
 
 
