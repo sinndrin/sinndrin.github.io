@@ -441,12 +441,6 @@ Alle auf diesem Weg nicht verkauften Bücher, werden an der nächstjährigen Fac
   </thead>
   <tbody>
 	<tr>
-		<td>Accounting An Introduction</td>
-		<td>Eddie McLaney, Peter Atrill</td>
-		<td>0-273-73365-6</td>
-		<td>45</td>
-	</tr>
-	<tr>
 		<td>AutoCAD 2011 Grundlagen 1. Ausgabe</td>
 		<td>Dietmar Strobel</td>
 		<td><br></td>
