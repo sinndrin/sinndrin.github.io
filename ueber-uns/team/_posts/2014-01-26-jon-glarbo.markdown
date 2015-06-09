@@ -15,7 +15,7 @@ Ich gestaltet vielseitige visuelle Projekte mit grossem Interesse fürs Detail. 
 Ausbildungen:
 
 - Master of Arts HBO. Type and Media – Royal Academy of Art, KABK, Holland.
-- Bachelor für visuelle Kommunikation & Grafikdesign.Den Grafiske Højskole, Dänemark
+- Bachelor für visuelle Kommunikation & Grafikdesign. Den Grafiske Højskole, Dänemark
 
 Interessen:
 
