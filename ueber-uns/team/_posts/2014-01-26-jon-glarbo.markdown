@@ -3,7 +3,7 @@ layout: team
 category: team
 permalink: /ueber-uns/team/jon-glarbo/
 
-title: "Jonas Leimgruber"
+title: "Jon Glarbo"
 subtitle: B. Sc. ZFH in Umweltingenieurwesen
 email: jonas.leimgruber@sinndrin.ch
 phone: ""
