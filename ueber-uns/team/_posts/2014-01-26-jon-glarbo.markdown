@@ -4,23 +4,15 @@ category: team
 permalink: /ueber-uns/team/jon-glarbo/
 
 title: "Jon Glarbo"
-subtitle: B. Sc. ZFH in Umweltingenieurwesen
-email: jonas.leimgruber@sinndrin.ch
+subtitle: B. of Arts. DGH. Visual Kom. M. of Arts. Type and Media KABK 
+email: jon.glarbo@sinndrin.ch
 phone: ""
-byline: "entwickelt Projekte im Nachhaltigkeitsbereich und erledigt die Buchhaltung. Energieeffizienz und Erneuerbare Energien sind ihm besonders wichtig. Er jongliert gerne mit Zahlen und erfreut sich an quantifizierbarem Nutzen."
+byline: "gestaltet vielseitige visuelle Projekte mit grossem Interesse fürs Detail. Ein wichtiger Teil seiner Arbeit besteht darin den richtigen Ausdruck für jedes einzelne Projekt zu finden und umzusetzen, denn Nachhaltigkeit gilt für ihn auch beim Auftritt und bei Druckmedien."
 image: /images/ueber-uns/team/jon.png
 ---
-Bei sinndrin arbeite ich gerne, weil es der Ort ist, wo ich meine vielfältigen Interessen und mein breites Wissen anwenden kann. Meinen Ideen und Projekten werden kaum Grenzen gesteckt und sie werden von interessierten Mitarbeitenden mitgetragen.
+Ich gestaltet vielseitige visuelle Projekte mit grossem Interesse fürs Detail. Ein wichtiger Teil meiner Arbeit besteht darin den richtigen Ausdruck für jedes einzelne Projekt zu finden und umzusetzen, denn Nachhaltigkeit gilt für mich auch beim Auftritt und bei Druckmedien.
 
 Ausbildungen:
 
-- Bachelor of Science ZFH in Umweltingenieurwesen mit Vertiefung in "Nachwachsende Rohstoffe und Erneuerbare Energien"
-- Kaufmann mit Eidgenössischem Fähigkeitszeugnis (EFZ) 
-
-Interessen:
-
-- Energieeffizienz
-- Erneuerbare Energien
-- Nachhaltige Siedlungsentwicklung
-- Ressourcenmanagement
-
+- Master of Arts HBO. Type and Media – Royal Academy of Art, KABK, Holland.
+- Bachelor für visuelle Kommunikation & Grafikdesign. Den Grafiske Højskole, Dänemark
