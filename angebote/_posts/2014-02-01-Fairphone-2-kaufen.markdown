@@ -18,6 +18,7 @@ Wir werden auch das Fairphone 2 in der Schweiz via [Faircustomer](http://www.fai
 <iframe width="803" height="452" src="https://www.youtube.com/embed/6DW733G76BY" frameborder="0" allowfullscreen></iframe>
 
 <br>
+<a name="spezifikationen"></a>
 ##Technische Spezifikationen des Fairphone 2
 <div class="row">
 <div class="large-6 columns">
