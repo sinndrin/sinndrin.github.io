@@ -17,4 +17,4 @@ Ausbildungen:
 - Bachelor of Science ZFH in Umweltingenieurwesen mit Vertiefung in "Urbaner Gartenbau"
 - Innendekorateurin mit Eidgenössischem Fähigkeitszeugnis (EFZ) 
 - Permakultur Design Zertifikatskurs (72-h-Kurs nach Bill Mollison) 
-
+- Freitagskurs Biolandbau 2014/2015 (Strickhof) mit Sachkundenachweis Tierhaltung
