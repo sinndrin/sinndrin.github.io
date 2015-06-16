@@ -90,4 +90,8 @@ Wir werden auch das Fairphone 2 in der Schweiz via [Faircustomer](http://www.fai
 
 Quelle: [https://www.fairphone.com/technical-specifications/](https://www.fairphone.com/technical-specifications/)
 
+##Weiterführende Informationen
+<a href="https://www.fairphone.com/phone/"><img src="/images/angebote/fairphone/fairphone-2-interaktive-webseite.jpg" alt="Interaktive Webseite für das Fairphone 2" /></a>
+Weitere Informationen können auf der interaktiven [Fairphone 2](https://www.fairphone.com/phone/) Webseite abgerufen werden.
+
 {% include block/fairphone-crosslinks.html %}
