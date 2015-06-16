@@ -16,6 +16,6 @@ Wir finden das ganze eine sehr vielversprechende Weiterentwicklung in Richtung d
 
 Damit das Glas aber gar nicht erst bricht, ist die Schutzhülle in das Fairphone integriert. Dabei bleibt die Aussenhülle, sowie auch die Elektronik einfach auszutauschen und wird in Zukunft wohl auch Modular erneuerbar sein.
 
-Schlussendlich machen auch die [Fairphone 2 Spezifikationen](/angebote/fairphone-2/kaufen/#spezifikationen) einen sehr Zeitgemässen und Sinnvollen Eindruck.
+Schlussendlich machen auch die [Fairphone 2 Spezifikationen](/angebote/fairphone-2/kaufen/#spezifikationen) einen sehr zeitgemässen und sinnvollen Eindruck.
 
 [infos]: /angebote/fairphone-2/kaufen/
