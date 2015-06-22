@@ -2,7 +2,7 @@
 layout: two-columns
 title:  "Suffizienz"
 ---
-<img class="leadimage right" width="250" title="Ausgewogenheit (&copy; Benedikt Notter - http://www.benediktnotter.ch/)" src="leadimage-benedikt-notter-ausgewogenheit.jpg"> Dieser Artikel stellt die Bachelorarbeit (Bachelor-Thesis) "Suffizienzstrategie als Weg zur nachhaltigen Entwicklung" von Roger Schärer aus seinem Studium "Bachelor of Science in Umweltingenierwesen" vor. Sie wurde mit dem Prädikat *gut bis hervorragend* bewertet und kann im [Volltext (PDF)](Suffizienzstrategie-als-Weg-zur-nachhaltigen-Entwicklung-Schaerer-Roger-Bachelor-Thesis.pdf) heruntergeladen werden.
+<img class="leadimage right" width="250" title="Ausgewogenheit (&copy; Benedikt Notter - http://www.benediktnotter.ch/)" src="leadimage-benedikt-notter-ausgewogenheit.jpg"> Dieser Artikel stellt die Bachelorarbeit (Bachelor-Thesis) "Suffizienzstrategie als Weg zur nachhaltigen Entwicklung" von [Roger Schärer](/ueber-uns/team/roger-schaerer/) aus seinem Studium "Bachelor of Science in Umweltingenierwesen" vor. Sie wurde mit dem Prädikat *gut bis hervorragend* bewertet und kann im [Volltext (PDF)](Suffizienzstrategie-als-Weg-zur-nachhaltigen-Entwicklung-Schaerer-Roger-Bachelor-Thesis.pdf) heruntergeladen werden.
 
 Nachfolgend gibt das Abstract einen Überblick über die Arbeit. Die im Kolloquium gezeigte [Präsentation (PDF)](Suffizienzstrategie-als-Weg-zur-nachhaltigen-Entwicklung-Schaerer-Roger-Abschlusspraesentation.pdf) bietet eine erweiterte Einsicht.
 
