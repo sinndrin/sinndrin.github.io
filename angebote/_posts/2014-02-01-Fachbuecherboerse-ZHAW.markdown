@@ -118,6 +118,12 @@ Alle auf diesem Weg nicht verkauften Bücher, werden an der nächstjährigen Fac
 		<td>3-464-01517-3</td>
 		<td>19</td>
 	</tr>
+		<tr>
+  		<td>Integriertes Küstenzonenmanagement</td>
+  		<td>Gerald Schernewski</td>
+  		<td>keine</td>
+  		<td>2</td>
+  	</tr>
 	<tr>
 		<td>Kurzes Lehrbuch der Zoologie, 8. Auflage</td>
 		<td>Volker Storch, Ulrich Welsch</td>
@@ -530,6 +536,12 @@ Alle auf diesem Weg nicht verkauften Bücher, werden an der nächstjährigen Fac
 		<td>978-3-540-95935-9</td>
 		<td>21</td>
 	</tr>
+		<tr>
+  		<td>Geologie der Schweiz</td>
+  		<td>Toni P. Labhart</td>
+  		<td>3-444-50175-7</td>
+  		<td>10</td>
+  	</tr>
 	<tr>
 		<td>Gewaltfreie Kommunikation, Eine Sprache des Lebens</td>
 		<td>Marshall B., Rosenberg</td>
