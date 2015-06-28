@@ -18,7 +18,7 @@ Ausbildungen:
 - **Betriebstechnologe** mit Eidg. Fähigkeitsausweis.
 - **Elektroniker** mit Eidg. Fähigkeitsausweis.
 
-Weitere Angaben zu meinen Ausbildungen, praktischen Erfahrungen und extracurricularen Aktivitäten finden sie in meinem [CV](/assets/files/Schaerer_Roger_CV.pdf) sowie auf [XING](https://www.xing.com/profile/Roger_Schaerer3), [Facebook](https://www.facebook.com/uruch), [Google+](https://plus.google.com/+RogerSchärer), [GitHub](https://github.com/rschaerer), [Stack Overflow](https://stackoverflow.com/users/3068252/mindestens) und [Twitter](https://twitter.com/uru_ch) oder bei einem Bier am See.
+Weitere Angaben zu meinen Ausbildungen, praktischen Erfahrungen und extracurricularen Aktivitäten finden sie in meinem [CV](/assets/files/Schaerer_Roger_CV.pdf) sowie auf [XING](https://www.xing.com/profile/Roger_Schaerer3), [Facebook](https://www.facebook.com/uruch), [Google+](https://plus.google.com/+RogerSchärer), [GitHub](https://github.com/rschaerer), [Stack Overflow](https://stackoverflow.com/users/3068252/mindestens), [Thingiverse](https://www.thingiverse.com/rschaerer/) und [Twitter](https://twitter.com/uru_ch) oder bei einem Bier am See.
 
 <p>
   <a style="font-size: 55px; display:inline-block; vertical-align:middle;" href="https://www.facebook.com/uruch" target="_blank" rel="Roger Schärer"><i class="fi-social-facebook"></i></a>
@@ -32,5 +32,7 @@ Weitere Angaben zu meinen Ausbildungen, praktischen Erfahrungen und extracurricu
   <a style="font-size: 55px; display:inline-block; vertical-align:middle;" href="https://github.com/rschaerer" target="_blank" rel="Roger Schärer"><i class="fi-social-github"></i></a>
 
   <a style="font-size: 55px; display:inline-block; vertical-align:middle;" href="https://stackoverflow.com/users/3068252/mindestens" target="_blank" rel="Roger Schärer"><i class="fi-social-stack-overflow"></i></a>
-  
+
+  <a href="https://www.thingiverse.com/rschaerer/" target="_blank" rel="Roger Schärer"><img src="/images/design/contact-icons/icon-thingiverse.png" alt="" height="50" width="50"></a>
+
 </p>
