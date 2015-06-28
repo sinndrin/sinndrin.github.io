@@ -6,7 +6,6 @@ permalink: /ueber-uns/team/jonas-leimgruber/
 title: "Jonas Leimgruber"
 subtitle: B. Sc. ZFH in Umweltingenieurwesen
 email: jonas.leimgruber@sinndrin.ch
-phone: ""
 byline: "entwickelt Projekte im Nachhaltigkeitsbereich und erledigt die Buchhaltung. Energieeffizienz und Erneuerbare Energien sind ihm besonders wichtig. Er jongliert gerne mit Zahlen und erfreut sich an quantifizierbarem Nutzen."
 image: /images/ueber-uns/team/jonas.png
 ---

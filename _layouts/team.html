@@ -8,7 +8,9 @@ layout: two-columns
   <div class="small-8 medium-9 large-9 columns">
     <p>{{ page.subtitle }}<br>
       <a href="mailto:{{page.email}}"><i class="fi-mail"></i> {{page.email}}</a>
-      {% if page.phone != "" %}<br><i class="fi-telephone"></i> {{page.phone}}</p>{% endif %}
+      {% if page.pgpkeyid %}<br><a target="_blank" href="http://pool.sks-keyservers.net/pks/lookup?search={{ page.pgpkeyid }}&fingerprint=on&op=index"><i class="fi-lock"></i> GPG/PGP E-Mail Schlüssel: {{ page.pgpkeyid }}</a>
+      <br><i style="visibility: hidden;" class="fi-mail"></i> Fingerprint: {{ page.pgpkeyfingerprint }}{% endif %}
+      {% if page.phone %}<br><i class="fi-telephone"></i> {{page.phone}}</p>{% endif %}
   </div>
   <div class="columns">
     <br>
