@@ -9,7 +9,7 @@ title: "Fairphone 2 kaufen"
 ---
 <div class="angebot-top-wide"><img title="Fairphone" src="/images/angebote/fairphone_sub.jpg"></div>
 
-Das Design und das Grundkonzpet für das Fairphone 2 sind nun bekannt und der Produktionsbeginn ist für Herbst 2015 geplant.
+Das Design und das Grundkonzept für das Fairphone 2 sind nun bekannt und der Produktionsbeginn ist für Herbst 2015 geplant.
 
 Wir werden auch das Fairphone 2 in der Schweiz via [Faircustomer](http://www.faircustomer.ch/reservation_fuer_fairphone_2_9) zum Verkauf anbieten. Eine [unverbindliche Vorreservation](http://www.faircustomer.ch/reservation_fuer_fairphone_2_9) ist bereits jetzt möglich. Dadurch erhalten sie zukünfigte Details zum Fairphone 2 Verkauf in der Schweiz bequem via E-Mail.
 
