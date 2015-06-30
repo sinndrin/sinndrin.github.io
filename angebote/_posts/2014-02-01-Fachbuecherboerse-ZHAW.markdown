@@ -536,12 +536,6 @@ Alle auf diesem Weg nicht verkauften Bücher, werden an der nächstjährigen Fac
 		<td>978-3-540-95935-9</td>
 		<td>21</td>
 	</tr>
-		<tr>
-  		<td>Geologie der Schweiz</td>
-  		<td>Toni P. Labhart</td>
-  		<td>3-444-50175-7</td>
-  		<td>10</td>
-  	</tr>
 	<tr>
 		<td>Gewaltfreie Kommunikation, Eine Sprache des Lebens</td>
 		<td>Marshall B., Rosenberg</td>
