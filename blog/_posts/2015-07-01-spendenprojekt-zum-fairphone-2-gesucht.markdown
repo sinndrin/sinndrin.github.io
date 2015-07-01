@@ -10,7 +10,7 @@ comments: true
 tags:
  - Jonas Leimgruber
 ---
-Die sinndrin genossenschaft möchte auch beim Verkauft vom Fairphone 2 wieder ein freiwilliges Spendenprojekt anbieten. Im Blog von [Faircustomer][faircustomer] seht ihr die Spendenprojekte vom ersten Fairphone. 
+Die sinndrin genossenschaft möchte auch beim Verkauft vom Fairphone 2 in der Schweiz wieder ein freiwilliges Spendenprojekt anbieten. Im Blog von [Faircustomer][faircustomer] seht ihr die Spendenprojekte vom ersten Fairphone.
 
 Als kleines [Team](http://www.sinndrin.ch/ueber-uns/team/) kommen weniger Ideen zusammen als wenn sich viele Leute Gedanken machen. Daher wollen wir eure Ideen wissen.
 
