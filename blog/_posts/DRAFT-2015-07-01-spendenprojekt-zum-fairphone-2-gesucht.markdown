@@ -4,7 +4,7 @@ title: "Spendenprojekt zum Fairphone 2 gesucht"
 subtitle: "Wir suchen ein neues Spendenprojekt welches beim Verkauf vom Fairphone 2 angeboten werden kann."
 image: /images/angebote/fairphone/fairphone-2-interaktive-webseite.jpg
 date: 2015-07-01 16:00:00
-published: true
+published: false
 categories: blog
 comments: true
 tags:
