@@ -255,6 +255,18 @@ Auf der Webseite [www.sinndrin.ch](/) wurden die folgenden Werke von dritten ers
       <hr>
     </div>
 </div>
+<div class="row">
+      <div class="medium-4 columns">
+        <img src="/images/blog/urban-mining-workshop.jpg" max-width="248px">
+      </div>
+      <div class="medium-8 columns">
+        <a href="https://flic.kr/p/dTdxPY"><h3>Fairphone (CC BY-NC-SA 2.0)</h3></a>
+        <p>Verändert; Zugeschnitten.</p>
+      </div>
+    <div class="small-12 columns">
+      <hr>
+    </div>
+</div>
 <!-- hintergrundwissen -->
 <div class="row">
       <div class="medium-4 columns">

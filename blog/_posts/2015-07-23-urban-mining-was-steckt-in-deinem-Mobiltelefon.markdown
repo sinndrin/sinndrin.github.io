@@ -8,7 +8,7 @@ published: true
 categories: blog
 comments: true
 tags:
- - Roger Schärer
+ - Georg Trapp
 ---
 Urban Mining bedeutet übersetzt Bergbau im städtischen Bereich. Es beschreibt die Tatsache, dass in Städten eine grosse Menge an ungenutzten Ressourcen in hoher Dichte vorhanden sind. Diese kostbaren Ressourcen sind zum Beispiel in alten, nicht mehr benötigten elektronischen Geräten gebunden.
 
