@@ -28,7 +28,7 @@ title:  "Kontakt"
   <a href="http://zh.powernet.ch/webservices/inet/HRG/HRG.asmx/getHRGHTML?chnr=0205000489&amp;amt=020&amp;toBeModified=0&amp;validOnly=0&amp;lang=1&amp;sort=0"><i class="fi-info"></i> Handelsregistereintrag</a><br>
   <a href="#bankverbindung"><i class="fi-bitcoin-circle"></i> Bankverbindung</a><br><br>
 
-  Wir sind am Montag und Dienstag während den üblichen Büroöffnungszeiten am besten erreichbar.
+  Wir sind von Montag bis Mittwoch während den üblichen Büroöffnungszeiten am besten erreichbar.
   </p>
   </div>
 <!-- BEGIN Team -->
