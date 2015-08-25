@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Ausflug der sinndrin genossenschaft ans Energiewendefestival mit GWÖ Workshop"
+title: "Ausflug von sinndrin ans Energiewendefestival mit Gemeinwohlökonomie Workshop"
 subtitle: "Die sinndrin genossenschaft unterstützt das Energiewendefestival und gibt einen Workshop zum Thema Gemeinwohlbilanz"
 image: /images/blog/energiewendefestival-2015.jpg
 date: 2015-08-24 18:00:00
