@@ -2,11 +2,11 @@
 layout: blog
 title: "Firmenausflug der sinndrin genossenschaft am Energiewendefestival mit Gemeinwohlökonomie Workshop"
 subtitle: "Die sinndrin genossenschaft unterstützt das Energiewendefestival und gibt einen Workshop zum Thema Gemeinwohlbilanz"
-image: /images/blog/urban-mining-workshop.jpg
+image: /images/blog/energiewendefestival-2015.jpg
 date: 2015-08-24 18:00:00
-published: fals
+published: true
 categories: blog
-comments: fals
+comments: false
 tags:
  - Georg Trapp
 ---
