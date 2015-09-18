@@ -9,6 +9,7 @@ Alfred-Escher-Strasse 46<br>
 8002 Zürich<br>
 <i class="fi-telephone"></i> 044 534 64 54<br>
 <a href="mailto:webmaster@sinndrin.ch"><i class="fi-mail"></i> webmaster@sinndrin.ch</a><br><br>
+MWST-Nr.: **CHE-259.799.074 MWST**<br>
 <a href="http://zh.powernet.ch/webservices/inet/HRG/HRG.asmx/getHRGHTML?chnr=0205000489&amp;amt=020&amp;toBeModified=0&amp;validOnly=0&amp;lang=1&amp;sort=0"><i class="fi-info"></i> Handelsregistereintrag</a><br>
 <a href="/ueber-uns/kontakt/#bankverbindung"><i class="fi-bitcoin-circle"></i> Bankverbindung</a>
 
