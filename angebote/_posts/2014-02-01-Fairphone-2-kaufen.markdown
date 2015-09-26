@@ -15,6 +15,8 @@ title: "Fairphone 2 kaufen"
 <li><a href="#fairphonebestellen">Fairphone bestellen</a></li>
 <li><a href="#überfairphone">Über Fairphone</a></li>
 <li><a href="#kostenaufstellung">Kostenaufstellung</a></li>
+<li><a href="#spezifikationen">Technische Spezifikationen des Fairphone 2</a></li>
+<li><a href="#weiterführendeinformationen">Weiterführende Informationen</a></li>
 </ul>
 </div>
 
@@ -26,6 +28,7 @@ Das Fairphone 2 bringt Innovationen, welche die Lebensspanne des Telefons verlä
 
 <iframe width="803" height="452" src="https://www.youtube.com/embed/6DW733G76BY" frameborder="0" allowfullscreen></iframe>
 
+<br>
 ## <a name="überfairphone"></a> Über Fairphone
 
 Fairphone ist ein social Enterprise aus den Niederlanden, welches sich für mehr Nachhaltigkeit in der IT-Welt einsetzt. Als erstes Smartphone enthält das Fairphone die Mineralien, Zinn und Coltan aus konfliktfreien Gebieten der Demokratischen Republik Kongo.
@@ -37,12 +40,10 @@ Analog zum [Costbreakdown](https://www.fairphone.com/wp-content/uploads/2015/09/
 Wir rechnen mit einem Kaufpreis wenn man bei Fairphone einkauft von ca. 620 CHF (Eurokurs 1.12, inkl. Versand, Zollgebühren und MWST)
 Dank Resesellerrabatt, einsparungen beim Versand und den Zollgebühren ist es uns möglich das Fairphone 2 für 600 CHF inkl. Förderprojekt anzubieten. Wie die Kosten aufgeteilt sind entnehmen Sie bitte der nachfolgenden Infographik.
 
+Hier folgt demnächst die Infographik
 
 
-
-<br>
-<a name="spezifikationen"></a>
-##Technische Spezifikationen des Fairphone 2
+##<a name="spezifikationen"></a> Technische Spezifikationen des Fairphone 2
 <div class="row">
 <div class="large-6 columns">
   <h3>Display</h3>
@@ -114,7 +115,7 @@ Dank Resesellerrabatt, einsparungen beim Versand und den Zollgebühren ist es un
 
 Quelle: [https://www.fairphone.com/technical-specifications/](https://www.fairphone.com/technical-specifications/)
 
-##Weiterführende Informationen
+##<a name="weiterführendeinformationen"></a> Weiterführende Informationen
 <a href="https://www.fairphone.com/phone/"><img src="/images/angebote/fairphone/fairphone-2-interaktive-webseite.jpg" alt="Interaktive Webseite für das Fairphone 2" /></a>
 Weitere Informationen können auf der interaktiven [Fairphone 2](https://www.fairphone.com/phone/) Webseite abgerufen werden.
 
