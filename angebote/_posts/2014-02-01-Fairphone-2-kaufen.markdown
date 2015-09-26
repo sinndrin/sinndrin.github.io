@@ -8,15 +8,25 @@ image: /images/angebote/fairphone.jpg
 title: "Fairphone 2 kaufen"
 ---
 <div class="angebot-top-wide"><img title="Fairphone" src="/images/angebote/fairphone_sub.jpg"></div>
+
+<div class="panel">
+<h5>Themen:</h5>
+<ul>
+<li><a href="#fairphonebestellen">Fairphone bestellen</a></li>
+<li><a href="#überfairphone">Über Fairphone</a></li>
 <li><a href="#kostenaufstellung">Kostenaufstellung</a></li>
+</ul>
+</div>
 
-Ab sofort können Sie das Fairphone 2 bestellen.
+## <a name="fairphonebestellen"></a> Ab sofort können Sie das Fairphone 2 bestellen.
 
-<a href="http://fairphone.faircustomer.ch/" class="button"><i class="fi-arrow-right"></i> Fairphone 2 kaufen</a>
+<a href="http://fairphone.faircustomer.ch/" class="button"><i class="fi-arrow-right"></i> Fairphone 2 bestellen</a>
 
 Das Fairphone 2 bringt Innovationen, welche die Lebensspanne des Telefons verlängern. Neben dem Full HD 5 Zoll Display, der Qualcomm® Snapdragon™ 801 Plattform und der Dual-SIM-Funktion, verfügt die neuartige Telefonrückseite über eine integrierte Schutzhülle, die das Gerät ohne zusätzliche Aussenhülle schützt. Das Gerät lässt sich einfach öffnen, Nutzer können die Batterie entfernen, die unterschiedlichen „Schichten“ des Telefons erkunden und defekte Bauteile selber reparieren.
 
-##Über Fairphone
+<iframe width="803" height="452" src="https://www.youtube.com/embed/6DW733G76BY" frameborder="0" allowfullscreen></iframe>
+
+## <a name="überfairphone"></a> Über Fairphone
 
 Fairphone ist ein social Enterprise aus den Niederlanden, welches sich für mehr Nachhaltigkeit in der IT-Welt einsetzt. Als erstes Smartphone enthält das Fairphone die Mineralien, Zinn und Coltan aus konfliktfreien Gebieten der Demokratischen Republik Kongo.
 Fairphone setzt sich für faire Arbeitsbedingungen bei der Produktion ein. Deshalb wurde, um einen Dialog über bessere Arbeitsbedingungen zu ermöglichen, bei der neuen Produktionsfirma Hi-P ein «Workers Welfare Fund» gegründet, in den Geld fliesst (je zur Hälfte von Fairphone und der Produktionsfirma). Über deren Verwendung bestimmt ein demokratisch gewählter Ausschuss. Fairphone hat sich dazu verpflichtet, transparent über Stücklisten, Kosten und Lieferanten zu informieren.
@@ -28,7 +38,7 @@ Wir rechnen mit einem Kaufpreis wenn man bei Fairphone einkauft von ca. 620 CHF 
 Dank Resesellerrabatt, einsparungen beim Versand und den Zollgebühren ist es uns möglich das Fairphone 2 für 600 CHF inkl. Förderprojekt anzubieten. Wie die Kosten aufgeteilt sind entnehmen Sie bitte der nachfolgenden Infographik.
 
 
-<iframe width="803" height="452" src="https://www.youtube.com/embed/6DW733G76BY" frameborder="0" allowfullscreen></iframe>
+
 
 <br>
 <a name="spezifikationen"></a>
