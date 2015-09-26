@@ -37,8 +37,8 @@ Fairphone setzt sich für faire Arbeitsbedingungen bei der Produktion ein. Desha
 ## <a name="kostenaufstellung"></a> Kostenaufstellung
 Analog zum [Costbreakdown](https://www.fairphone.com/wp-content/uploads/2015/09/Cost-Breakdown-Fairphone-2-German-1.pdf) von Fairphone wollen auch wir transparent aufzeigen wie sich die Kosten verteilen.
 
-Wir rechnen mit einem Kaufpreis wenn man bei Fairphone einkauft von ca. 620 CHF (Eurokurs 1.12, inkl. Versand, Zollgebühren und MWST)
-Dank Resesellerrabatt, einsparungen beim Versand und den Zollgebühren ist es uns möglich das Fairphone 2 für 600 CHF inkl. Förderprojekt anzubieten. Wie die Kosten aufgeteilt sind entnehmen Sie bitte der nachfolgenden Infographik.
+Wir rechnen mit einem Kaufpreis direkt bei Fairphone von ca. 620 CHF (Eurokurs 1.12, inkl. Versand, Zollgebühren und MWST)
+Dank Resesellerrabatt, Einsparungen bei Versand und Zollgebühren ist es uns möglich das Fairphone 2 für 600 CHF inkl. Förderprojekt anzubieten. Wie die Kosten aufgeteilt sind entnehmen Sie bitte der nachfolgenden Infographik.
 
 Hier folgt demnächst die Infographik
 
