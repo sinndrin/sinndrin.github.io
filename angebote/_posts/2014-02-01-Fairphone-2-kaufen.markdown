@@ -40,8 +40,7 @@ Analog zum [Costbreakdown](https://www.fairphone.com/wp-content/uploads/2015/09/
 Wir rechnen mit einem Kaufpreis direkt bei Fairphone von ca. 620 CHF (Eurokurs 1.12, inkl. Versand, Zollgebühren und MWST).
 Dank Resesellerrabatt sowie Einsparungen bei Versand und Zollgebühren ist es uns möglich das Fairphone 2 für 600 CHF inkl. Förderprojekt anzubieten. Wie die Kosten aufgeteilt sind entnehmen Sie bitte der nachfolgenden Infographik.
 
-Hier folgt demnächst die Infographik
-
+<img src="/images/angebote/fairphone/cost_breakdown_fairphone2_sinndrin.jpg" alt=""sinndrin genossenschaft Fairphone 2 cost breakdown" />
 
 ##<a name="spezifikationen"></a> Technische Spezifikationen des Fairphone 2
 <div class="row">
