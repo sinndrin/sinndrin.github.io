@@ -13,6 +13,7 @@ Weitere Stellenseiten werden gerne in die Liste [aufgenommen][kontakt]. Ebenso s
 - [agroverde][41]
 - [ALIS, Alumniorganisation der Absolventinnen und Absolventen der Hochschule für Agrar-, Forst- und Lebensmittelwissenschaften HAFL][44]
 - [Arban Personal][27]
+- [careerjet][45]
 - [Jardin Suisse][31]
 - [kampajobs des kampagnenforum][9]
 - [naturschutz.ch][11]
@@ -104,3 +105,4 @@ Weitere Stellenseiten werden gerne in die Liste [aufgenommen][kontakt]. Ebenso s
 [42]: http://www.econcept.ch/de/portrait/offene-stellen.html
 [43]: https://www.jobagent.ch/component/jobagent/category/BrancheUmwelttechnik.html
 [44]: http://www.alis.ch/index.php?id=5
+[45]: http://www.careerjet.ch/umwelt-jobs.html
