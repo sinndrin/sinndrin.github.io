@@ -9,7 +9,7 @@ email: michael.tanner@sinndrin.ch
 byline: "ist dieses Jahr weniger an Kampagnen und anderen erwachsenenbildnerischen Aktivitäten beteiligt. Im Blog schreibt er u.a. über seine Segelschiff-Reise über den Atlantik."
 image: /images/ueber-uns/team/michael.png
 
-published: false
+published: true
 ---
 Michael Tanner ist dieses Jahr weniger an Kampagnen und anderen erwachsenenbildnerischen Aktivitäten beteiligt. Im [Blog][mtblog] schreibt er u.a. über seine Segelschiff-Reise über den Atlantik.
 
