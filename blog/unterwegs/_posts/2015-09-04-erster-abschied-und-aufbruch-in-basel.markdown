@@ -11,7 +11,7 @@ tags:
  - Michael Tanner
 ---
 
-Unsere Obertöne erfüllen das Gewölbe der Krpta. Martin, Marlies, Peter und ich, wir haben uns in der Leonhardskirche zur Freitagsandacht eingefunden. Marlies liest ein Gedicht für Martin. Und Martin seinerseits, liest ein Gedicht zu meinem Abschied:
+Unsere Obertöne erfüllen das Gewölbe der Krypta. Martin, Marlies, Peter und ich, wir haben uns in der Leonhardskirche zur Freitagsandacht eingefunden. Marlies liest ein Gedicht für Martin. Und Martin seinerseits, liest ein Gedicht zu meinem Abschied:
 
 <i>Für ein Kind
 
@@ -35,4 +35,7 @@ Anschliessend bin ich zum Zmittag eingeladen. Ich hatte bereits bei der Hinreise
 
 Im Nu ist es später Nachmittag, Zeit sich zu verabschieden. Mit der Fähre überquere ich den Rhein und begebe mich zu Fuss über die Münstertreppe in Richtung Bahnhof. Mit jedem Abschied ist ein Neuanfang verbunden. So habe ich mich schon heute quasi auf die Reise begeben. Und ich weiss es dauert noch sechs Wochen bis zum Aufbruch Richtung Portugal.
 
-Am Abend treffe ich mich mit Roger und Sabine und erzähle ihnen von meiner Idee, jeweils über die Reise zu schreiben. Die Sinndrin Genossenschaft arbeitet im Zeichen der Nachhaltigkeit und der Menschlichkeit. Diese Haltung entspricht der meinigen. So entscheide ich mich, gleich Genossenschafter zu werden. Sabine erklärt sich bereit, jeweils meine Texte zu korrigieren und aufs Netz zu stellen. Roger bietet mir Platz auf der Website und bereitet die Struktur vor. Ich freue mich riesig auf unsere Zusammenarbeit. Mein Herz ist trunken vor Freude und Dankbarkeit. Der ZEN-Anteil in mir rät zur Gelassenheit.
+Am Abend treffe ich mich mit [Roger][roger] und [Sabine][sabine] und erzähle ihnen von meiner Idee, jeweils über die Reise zu schreiben. Die sinndrin genossenschaft arbeitet im Zeichen der Nachhaltigkeit und der Menschlichkeit. Diese Haltung entspricht der meinigen. So entscheide ich mich, gleich Genossenschafter zu werden. [Sabine][sabine] erklärt sich bereit, jeweils meine Texte zu korrigieren und aufs Netz zu stellen. [Roger][roger] bietet mir Platz auf der Website und bereitet die Struktur vor. Ich freue mich riesig auf unsere Zusammenarbeit. Mein Herz ist trunken vor Freude und Dankbarkeit. Der ZEN-Anteil in mir rät zur Gelassenheit.
+
+[sabine]: /ueber-uns/team/sabine-ott/
+[roger]: /ueber-uns/team/roger-schaerer/
