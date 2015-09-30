@@ -11,8 +11,10 @@ image: /images/ueber-uns/team/michael.png
 
 published: true
 ---
-Michael Tanner ist dieses Jahr weniger an Kampagnen und anderen erwachsenenbildnerischen Aktivitäten beteiligt. Im [Blog][mtblog] schreibt er u.a. über seine Segelschiff-Reise über den Atlantik.
+Menschen vernetzen, Projekte auf die Beine stellen und koordinieren, Erwachsene weiterbilden und begleiten, Zivilcourage lehren, mit und für die Erde arbeiten sind einige meiner Lieblingsbeschäftigungen. Dieser Zeit bin ich weniger direkt an Kampagnen oder anderen erwachsenenbildnerischen Aktivitäten beteiligt. Im [Blog][mtblog] schreibe u.a. über meine Segelschiff-Reise über den Atlantik.
 
-Nach dem KV habe ich zwei Jahre lang in einem grossen Handelsunternehmen gearbeitet. Anschliessend ans Betriebswirtschafts-Studium bin ich von Winterthur nach Portugal und zurück geradelt. Dabei hat mich beeindruckt und bedrückt, wie die vorherrschende Ökonomie die Erde verändert. Nach elf Sommer als Pächter einer Bio-Alp und elf Winter als Kampagner und Erwachsenenbildner ist es Zeit für eine Reise zu Freundinnen und Freunden in Mexiko. Da ich in meinem Leben mehr als genug CO<sub>2</sub> in die Welt gepustet habe, verweigere ich mich weitgehend PKWs und Flugzeugen. Eine Reise mit einem Segelschiff ist relativ langsam und lebendig. Ende Oktober 2015 stechen wir in Vilamoura bei Faro, Portugal, in See. Im [Blog][mtblog] erzähle ich davon.
+Kurz-CV: Nach dem KV habe ich zwei Jahre lang in einem grossen Handelsunternehmen gearbeitet. Anschliessend ans Betriebswirtschafts-Studium bin ich von Winterthur nach Portugal und zurück geradelt. Dabei hat mich beeindruckt und bedrückt, wie die vorherrschende Ökonomie die Erde verändert. Nach elf Sommer als Pächter einer Bio-Alp und elf Winter als Kampagner und Erwachsenenbildner ist es Zeit für eine Reise zu Freundinnen und Freunden in Mexiko. Da ich meine, in meinem Leben bisher mehr als genug CO<sub>2</sub> in die Welt gepustet zu haben, verweigere ich mich weitgehend PKWs und Flugzeugen. 
+
+Eine Reise auf einem Segelschiff ist relativ langsam und lebendig. Ende Oktober 2015 stechen wir in Vilamoura bei Faro, Portugal, in See. Weiter unten erzähle ich davon.
 
 [mtblog]: /blog/unterwegs/
