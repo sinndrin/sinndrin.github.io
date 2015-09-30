@@ -11,10 +11,10 @@ image: /images/ueber-uns/team/michael.png
 
 published: true
 ---
-Menschen vernetzen, Projekte auf die Beine stellen und koordinieren, Erwachsene weiterbilden und begleiten, Zivilcourage lehren, mit und für die Erde arbeiten sind einige meiner Lieblingsbeschäftigungen. Dieser Zeit bin ich weniger direkt an Kampagnen oder anderen erwachsenenbildnerischen Aktivitäten beteiligt. Im [Blog][mtblog] schreibe u.a. über meine Segelschiff-Reise über den Atlantik.
+Menschen vernetzen und ermächtigen, Projekte auf die Beine stellen und koordinieren, Erwachsene weiterbilden und begleiten, Zivilcourage üben und lehren, versuchen die Erde zu bereichern und pflegen sind einige meiner Lieblingsbeschäftigungen. Dieser Zeit bin ich unterwegs. Im [Blog][mtblog] erfahren Sie / erfährst Du u.a. von meiner Segelschiff-Reise über den Atlantik sowie von Aufenthalt und Reisen in Mexiko und anderen Ländern (Oktober 2015 - Mai 2016).
 
-Kurz-CV: Nach dem KV habe ich zwei Jahre lang in einem grossen Handelsunternehmen gearbeitet. Anschliessend ans Betriebswirtschafts-Studium bin ich von Winterthur nach Portugal und zurück geradelt. Dabei hat mich beeindruckt und bedrückt, wie die vorherrschende Ökonomie die Erde verändert. Nach elf Sommer als Pächter einer Bio-Alp und elf Winter als Kampagner und Erwachsenenbildner ist es Zeit für eine Reise zu Freundinnen und Freunden in Mexiko. Da ich meine, in meinem Leben bisher mehr als genug CO<sub>2</sub> in die Welt gepustet zu haben, verweigere ich mich weitgehend PKWs und Flugzeugen. 
+Kurz-CV: Nach dem KV habe ich während zwei Jahren in einem grossen Handelsunternehmen gearbeitet. Anschliessend ans Betriebswirtschafts-Studium bin ich von Winterthur nach Portugal und zurück geradelt. Dabei hat mich beeindruckt und bedrückt, wie die vorherrschende Ökonomie die Erde verändert. Nach elf Sommer als Pächter einer Bio-Alp und elf Winter als Kampagner und Erwachsenenbildner ist es Zeit für eine Reise zu Freundinnen und Freunden in Mexiko. Da ich meine, in meinem Leben bisher mehr als genug CO<sub>2</sub> in die Welt gepustet zu haben, verweigere ich mich weitgehend PKWs und Flugzeugen. 
 
-Eine Reise auf einem Segelschiff ist relativ langsam und lebendig. Ende Oktober 2015 stechen wir in Vilamoura bei Faro, Portugal, in See. Weiter unten erzähle ich davon.
+Eine Reise auf einem Segelschiff ist relativ langsam und lebendig. Ende Oktober 2015 stechen wir in Vilamoura bei Faro, Portugal, in See. Bei Interesse klicken Sie unten auf die Berichte dazu.
 
 [mtblog]: /blog/unterwegs/
