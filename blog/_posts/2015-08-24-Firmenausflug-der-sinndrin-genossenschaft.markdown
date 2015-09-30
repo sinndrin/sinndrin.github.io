@@ -7,7 +7,6 @@ date: 2015-08-24 18:00:00
 published: true
 categories:
  - blog
- - homepagefeature
 comments: false
 tags:
  - Georg Trapp

@@ -94,7 +94,7 @@ title: Home
       <h3>Blog</h3><br>
       <div class="row">
         <div id="blog">
-          {% for post in site.categories.homepagefeature limit:3 %}
+          {% for post in site.categories.blog limit:3 %}
           <div class="large-12 columns">
             <a href="{{ post.url }}">
               <h4>{{ post.title }}</h4>
