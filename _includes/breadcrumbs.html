@@ -3,8 +3,14 @@
   {% assign crumbs = page.url | split: '/' %}
   {% assign previous="" %}
   {% assign crumbsSize = crumbs | size %}
-  {% if crumbsSize > 2 and crumbs[1] == "blog"  %}
   {% comment %} BLOG CRUMBS {% endcomment %}
+  {% if crumbsSize > 2 and crumbs[2] == "unterwegs"  %}
+  {% comment %} SUB-BLOG UNTERWEGS {% endcomment %}
+  <a href="/blog">Blog</a>
+  <a href="/blog/unterwegs">Unterwegs</a>
+  <a href="" class="current">{{ crumbs[6] | remove: '.html' | replace: "-"," " }}</a>
+  {% elsif crumbsSize > 2 and crumbs[1] == "blog"  %}
+  {% comment %} MAIN BLOG {% endcomment %}
     <a href="/blog">Blog</a>
     <a href="" class="current">{{ crumbs[5] | remove: '.html' | replace: "-"," " | replace: "acht bis fuenf lebenslaenglich","Acht bis Fünf: Lebenslänglich!?" | replace: "faiphone huellen selber ausdrucken","faiphone hüllen selber ausdrucken" | replace: "fairphone versand neun stunden spaeter","Fairphone Versand: Neun Stunden später" }}</a>
   {% else %}
