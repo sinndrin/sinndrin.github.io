@@ -5,7 +5,9 @@ subtitle: "Die ersten Informationen zum Fairphone 2 sind erhältlich."
 image: /images/angebote/fairphone/fairphone-2-interaktive-webseite.jpg
 date: 2015-06-16 16:00:00
 published: true
-categories: blog
+categories:
+ - blog
+ - homepagefeature
 comments: true
 tags:
  - Roger Schärer

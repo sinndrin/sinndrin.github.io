@@ -5,7 +5,9 @@ subtitle: "Workshop mit Praxisanwendung"
 image: /images/blog/urban-mining-workshop.jpg
 date: 2015-07-23 16:00:00
 published: true
-categories: blog
+categories:
+ - blog
+ - homepagefeature
 comments: true
 tags:
  - Georg Trapp

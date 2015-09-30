@@ -5,7 +5,9 @@ subtitle: "Die sinndrin genossenschaft unterstützt das Energiewendefestival und
 image: /images/blog/energiewendefestival-2015.jpg
 date: 2015-08-24 18:00:00
 published: true
-categories: blog
+categories:
+ - blog
+ - homepagefeature
 comments: false
 tags:
  - Georg Trapp
