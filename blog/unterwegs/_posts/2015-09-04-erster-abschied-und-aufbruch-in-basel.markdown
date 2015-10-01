@@ -41,5 +41,5 @@ Am Abend treffe ich mich mit [Roger][roger] und [Sabine][sabine] und erzähle ih
 [roger]: /ueber-uns/team/roger-schaerer/
 [martin]: http://www.martinvosseler.ch/
 [buecher]: http://www.martinvosseler.ch/Bücher
-[soloarkatamaran]: http://www.transatlantic21.org/
+[solarkatamaran]: http://www.transatlantic21.org/
  
