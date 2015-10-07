@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Workshop &quot;Wir machen unser eigenes Geld mit Minutocash&quot; am 17. Juni 2015 von 17:30 - 20:00"
+title: "Workshop &quot;Wir machen unser eigenes Geld mit Minutocash&quot; am 27. Oktober 2015 von 17:30 - 20:00"
 subtitle: "Zeit ist Geld? Nicht wirklich, aber es scheint die vorherrschende Meinung zu sein. Wie gehen wir also damit um?"
 image: /images/blog/workshop-wir-machen-unser-eigenes-geld-mit-minutocash.jpg
 date: 2015-10-07 16:00:00
