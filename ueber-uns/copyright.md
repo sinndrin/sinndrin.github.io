@@ -316,6 +316,18 @@ Auf der Webseite [www.sinndrin.ch](/) wurden die folgenden Werke von dritten ers
       <hr>
     </div>
 </div>
+<div class="row">
+      <div class="medium-4 columns">
+        <img src="/images/ueber-uns/realisierte-projekte/nachhaltig-gesund-durchs-studium.jpg" max-width="248px">
+      </div>
+      <div class="medium-8 columns">
+        <a href="https://www.flickr.com/photos/luisjromero/18004698585/"><h3>Luis Romero (CC BY 2.0)</h3></a>
+        <p>Verändert; Zugeschnitten.</p>
+      </div>
+    <div class="small-12 columns">
+      <hr>
+    </div>
+</div>
 <!-- fonts -->
 <div class="row">
       <div class="medium-4 columns">
