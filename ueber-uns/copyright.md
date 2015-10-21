@@ -328,19 +328,31 @@ Auf der Webseite [www.sinndrin.ch](/) wurden die folgenden Werke von dritten ers
       <hr>
     </div>
 </div>
-<!-- fonts -->
 <div class="row">
       <div class="medium-4 columns">
-        <img src="/images/copyright/ubuntu-font.png" max-width="248px">
+        <img src="/images/angebote/fairphone.jpg" max-width="248px">
       </div>
       <div class="medium-8 columns">
-        <a href="http://font.ubuntu.com/licence/"><h3>Ubuntu (Ubuntu Font Licence)</h3></a>
-        <p>Benutzt.</p>
+        <a href="https://www.flickr.com/photos/fairphone/18833593356/in/album-72157654222299268/"><h3>Fairphone (CC BY-NC-SA 2.0)</h3></a>
+        <p>Verändert; Zugeschnitten.</p>
       </div>
     <div class="small-12 columns">
       <hr>
     </div>
 </div>
+<div class="row">
+      <div class="medium-4 columns">
+        <img src="/images/angebote/fairphone_sub.jpg" max-width="248px">
+      </div>
+      <div class="medium-8 columns">
+        <a href="https://www.flickr.com/photos/fairphone/18826723676/in/album-72157654222299268/"><h3>Fairphone (CC BY-NC-SA 2.0)</h3></a>
+        <p>Verändert; Zugeschnitten.</p>
+      </div>
+    <div class="small-12 columns">
+      <hr>
+    </div>
+</div>
+<!-- fonts -->
 <div class="row">
       <div class="medium-4 columns">
         <img src="/images/copyright/open-sans-font.png" max-width="248px">
