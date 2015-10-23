@@ -30,4 +30,4 @@ Um neun Uhr abends halten wir an einer Raststätte in Blois, zwischen Orléans u
 
 Die 35 Minuten Pause vergehen im Fluge. Bei der Weiterfahrt wird bereits der zweite (mir nicht sehr zusagende) Action-Sci-Fi gezeigt. Diesmal gelingt mir das Wegschauen besser. Die Haarsträubende Schlussszene vom Film davor hängt mir noch immer nach. Zum Glück habe ich Musik und das Buch von M. Scott Peck dabei. Im Kapitel zum Thema Unternehmen und Konkurrenz lese ich, wie viel besser Unternehmen funktionieren könnten, wenn sie sich vor ihren Verhandlungen - und nicht nur dann - um Gemeinschaftsbildung kümmern würden. Peck meint, damit könnte viel Leid verhindert werden. Er hat meine Zustimmung.
 
-Es ist vier Minuten vor Mitternacht. Der Film ist spielt soeben den Abspann. Zeit, das Gerät zu verräumen, das Licht zu löschen und zu schlafen.
+Es ist vier Minuten vor Mitternacht. Der Film spielt soeben den Abspann. Zeit, das Gerät zu verräumen, das Licht zu löschen und zu schlafen.
