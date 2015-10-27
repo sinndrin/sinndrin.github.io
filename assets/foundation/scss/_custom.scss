@@ -63,8 +63,8 @@ a {
     position: absolute;
     bottom: 0;
     left: 0;
-    color: black;
-    background: rgb(0, 0, 0); /* fallback color */
+    color: $body-font-color;
+    background: rgb(255, 255, 255); /* fallback color */
     background: rgba(255, 255, 255, 0.8);
     background-repeat: no-repeat;
     padding: 10px;
@@ -95,7 +95,7 @@ a {
 }
 /* angebote underlined */
 .side-nav li, .angebot-link {
-  color: #222;
+  color: $body-font-color;
   border-color: rgb(128, 128, 128);
   border-style: dotted;
   border-width: 0px 0px 1px 0px;

@@ -55,7 +55,7 @@ title:  "Kontakt"
 <div class="row">
   <!-- BEGIN Facebook -->
   <div class="large-6 columns">
-    <h3><a href="https://www.facebook.com/sinndrin" target="_blank" rel="sinndrin genossenschaft"><i class="fi-social-facebook"></i> Facebook</a></h3>
+    <h3><a style="color:#3b5998;" href="https://www.facebook.com/sinndrin" target="_blank" rel="sinndrin genossenschaft"><i class="fi-social-facebook"></i> Facebook</a></h3>
     <div class="fb-like-box" data-href="https://www.facebook.com/sinndrin" data-colorscheme="light" data-show-faces="true" data-header="true" data-stream="false" data-show-border="false"></div>
   </div>
   <!-- END Facebook -->
@@ -77,7 +77,7 @@ title:  "Kontakt"
 <div class="row">
 <!-- BEGIN Twitter -->
 <div class="large-6 columns">
-<h3><a href="https://twitter.com/sinndrin" target="_blank" rel="sinndrin genossenschaft"><i class="fi-social-twitter"></i> Twitter</a></h3>
+<h3><a style="color:#55acee;" href="https://twitter.com/sinndrin" target="_blank" rel="sinndrin genossenschaft"><i class="fi-social-twitter"></i> Twitter</a></h3>
 <!-- BEGIN Twitter Code -->
 <a class="twitter-timeline"  href="https://twitter.com/sinndrin"  data-widget-id="502772720589746176">Tweets von @sinndrin</a>
     <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
@@ -96,7 +96,7 @@ title:  "Kontakt"
   <li><h4><a style="color: green;" href="https://www.xing.com/companies/sinndringenossenschaft" target="_blank" rel="sinndrin genossenschaft">Xing</a></h4></li>
   <!-- >END XING -->
   <!-- BEGIN Github -->
-  <li><h4><a href="https://github.com/sinndrin" target="_blank" rel="sinndrin genossenschaft"><i class="fi-social-github"></i> GitHub</a></h4></li>
+  <li><h4><a style="color:#222;" href="https://github.com/sinndrin" target="_blank" rel="sinndrin genossenschaft"><i class="fi-social-github"></i> GitHub</a></h4></li>
    <!-- >END Github -->
   </ul>
 </div>
