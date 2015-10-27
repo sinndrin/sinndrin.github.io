@@ -7,7 +7,7 @@ title: "Fachbücherbörse"
 subtitle: "Bücher sollen gelesen und nicht gehortet werden."
 tags:
   - Raphael Hagmann
-  - Roger Schärer
+  - Jonas Leimgruber
 ---
 Zusammen mit der Arbeitsgruppe Nachhaltigkeit haben wir an der ZHAW die zweite [Fachbücherbörse](/angebote/suffizienz/fachbuecherboerse/) erfolgreich abgeschlossen. Es konnten Bücher im Wert von über 1200.- SFr. weiter verkauft werden. Ganz nach dem Motto "Bücher sollen gelesen und nicht gehortet werden".
 
