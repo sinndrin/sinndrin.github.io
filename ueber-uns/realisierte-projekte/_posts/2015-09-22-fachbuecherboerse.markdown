@@ -1,7 +1,7 @@
 ---
 layout: two-columns
 categories: realisierte-projekte
-permalink: /ueber-uns/realisierte-projekte/urban-mining-workshop-bei-lern-dich-frei/
+permalink: /ueber-uns/realisierte-projekte/fachbuecherboerse/
 image: /images/ueber-uns/realisierte-projekte/fachbuecherboerse-2015.png
 title: "Fachbücherbörse"
 subtitle: "Bücher sollen gelesen und nicht gehortet werden."

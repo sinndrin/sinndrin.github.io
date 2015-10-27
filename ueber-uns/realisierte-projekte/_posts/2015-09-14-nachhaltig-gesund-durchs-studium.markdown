@@ -1,7 +1,7 @@
 ---
 layout: two-columns
 categories: realisierte-projekte
-permalink: /ueber-uns/realisierte-projekte/urban-mining-workshop-bei-lern-dich-frei/
+permalink: /ueber-uns/realisierte-projekte/nachhaltig-gesund-durchs-studium/
 image: /images/ueber-uns/realisierte-projekte/nachhaltig-gesund-durchs-studium.jpg
 title: "Nachhaltig Gesund durchs Studium"
 subtitle: "Ausgeglichenheit auch im Studium bewahren. Eine Lernveranstaltung."
