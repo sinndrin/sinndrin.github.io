@@ -72,7 +72,7 @@ Dieser Schritt gilt nur für Nutzer von FP1 Smartphones. Für Nutzer von FP1U Sm
 
 ## <a name="batterie"></a> Aufgeblasene Batterie (Bloated Battery)
 
-Wenn sich Ihre Batterie geschwollen anfühlt und/ oder die Batterieabdeckung nicht mehr richtig geschlossen werden kann handelt es sich dabei voraussichtlich um einen Garantiefall der von Fairphone übernommen wird. Wenn Sie nicht sicher sind dann können Sie den Spintest nach folgender [Anleitung](https://www.youtube.com/watch?v=o8wxsV0hc-Y&feature=youtu.be) machen. (Linker Akku intakt, Rechter aufgeblasen) Bitte schicken Sie uns ein Bild ihrer aufgeblasenen Batterie zu und geben uns zudem folgende Informationen:
+Wenn sich Ihre Batterie geschwollen anfühlt und/ oder die Batterieabdeckung nicht mehr richtig geschlossen werden kann handelt es sich dabei voraussichtlich um einen Garantiefall der von Fairphone übernommen wird. Wenn Sie nicht sicher sind dann können Sie den Spintest nach folgender [Anleitung](https://www.youtube.com/watch?v=o8wxsV0hc-Y&feature=youtu.be) (Linker Akku intakt, Rechter aufgeblasen) machen.  Bitte schicken Sie uns ein Bild ihrer aufgeblasenen Batterie zu und geben uns zudem folgende Informationen:
 
 * Vor- und Nachname
 * Adresse
