@@ -5,7 +5,7 @@ subtitle: "24 heftige Stunden - Wenn ich liege geht es."
 image: /images/blog/unterwegs/2015-11-01-spritzt.JPG
 date: 2015-11-01 23:10:00
 published: true
-categories: blog
+categories: unterwegs
 comments: false
 tags:
  - Michael Tanner
