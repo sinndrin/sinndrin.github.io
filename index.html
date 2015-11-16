@@ -93,7 +93,7 @@ title: Home
       <a href="/blog/"><h3>Blog</h3></a><br>
       <div class="row">
         <div id="blog">
-          {% for post in site.categories.blog limit:14 %}
+          {% for post in site.categories.blog limit:17 %}
           {% comment %} CHECK IF BLOGPOST IS PART OF SUBBLOG UNTERWEGS {% endcomment %}
           {% assign identifier = post.url | split: '/' %}
           {% if identifier[2] != "unterwegs" %}
