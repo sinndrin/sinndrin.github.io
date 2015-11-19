@@ -5,7 +5,7 @@ subtitle: "Bei dreissig Stunden Carfahrt stelle ich mir grundsätzliche Fragen."
 image: /images/blog/unterwegs/2015-10-21-kaffeepause.JPG
 date: 2015-10-21 23:10:00
 published: true
-categories: blog
+categories: unterwegs
 comments: false
 tags:
  - Michael Tanner
