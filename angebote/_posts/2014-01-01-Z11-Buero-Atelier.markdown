@@ -45,7 +45,7 @@ title: "Z11 Coworking, Bürogemeinschaft, Atelierräume"
 <a target="_blank" href="http://map.search.ch/Glattbrugg,Zunstr.11">Zunstrasse 11<br>8152 Glattbrugg</a><br>
 044 534 64 54<br>
 <a href="mailto:info@baz11.ch">info@baz11.ch</a><br>
-<a href="http//www.baz11.ch">www.baz11.ch</a><br>
+<a href="http://www.baz11.ch">www.baz11.ch</a><br>
 </p>
 
 </div>
