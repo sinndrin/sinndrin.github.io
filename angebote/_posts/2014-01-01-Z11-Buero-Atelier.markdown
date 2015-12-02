@@ -60,7 +60,7 @@ title: "Z11 Coworking, Bürogemeinschaft, Atelierräume"
 <b>Apero:</b><br> So, 21.12.15 13-16 Uhr<br>So, 31.01.16 13-16 Uhr<br><br>
 <b>Finissage:</b><br> So, 21.02.16 13-16 Uhr<br><br>
 <b>Generelle Öffnungszeiten:</b><br> Montag - Mittwoch 10-17 Uhr<br><br>
-<b>Ort:</b><br>In den Räumlichkeiten der neuen Büro- & Ateliergemeinschaft <i>Z11 Büro Atelier</i> an der Zunstrasse 11 in 8152 Glattbrugg.<br><br>
+<b>Ort:</b><br>In den Räumlichkeiten der Büro- & Ateliergemeinschaft <i>Z11 Büro Atelier</i> an der Zunstrasse 11 in 8152 Glattbrugg.<br><br>
 <b>Eintritt frei.</b></p>
 </a>
 </div>
