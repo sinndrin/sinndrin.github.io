@@ -64,7 +64,7 @@ title: Home
           <h3>Kürzlich abgeschlossene Projekte</h3><br>
           <!-- BEGIN realisierte-projekte-list -->
           {% assign displayedProjekte = 0 %}
-          {% for post in site.categories.realisierte-projekte limit:20 %}
+          {% for post in site.categories.realisierte-projekte limit:19 %}
             {% if displayedProjekte < 3 and post.hideOnFrontpage != true %}
             {% include block/realisierte-projekte-list.html %}
             {% assign displayedProjekte = displayedProjekte | plus:1 %}
