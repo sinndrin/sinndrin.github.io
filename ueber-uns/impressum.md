@@ -5,8 +5,9 @@ title:  "Impressum"
 ### Herausgeber
 
 **sinndrin genossenschaft**<br>
-Alfred-Escher-Strasse 46<br>
-8002 Zürich<br>
+c/o Z11 Büro Atelier<br>
+Zunstrasse 11<br>
+CH-8152 Glattbrugg<br>
 <i class="fi-telephone"></i> 044 534 64 54<br>
 <a href="mailto:webmaster@sinndrin.ch"><i class="fi-mail"></i> webmaster@sinndrin.ch</a><br><br>
 MWST-Nr.: CHE-259.799.074 MWST<br>
@@ -15,7 +16,7 @@ MWST-Nr.: CHE-259.799.074 MWST<br>
 
 ### Konzeption, Usability Tests, Umsetzung und Betrieb
 
-sinndrin genossenschaft, Zürich
+sinndrin genossenschaft, Glattbrugg
 
 ### Haftungshinweis
 

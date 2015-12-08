@@ -20,8 +20,9 @@ title:  "Kontakt"
   <div class=" large-6 columns">
   <p>
   <b>sinndrin genossenschaft</b><br>
-  <a href="#" data-reveal-id="addressModal">Alfred-Escher-Strasse 46<br>
-  CH-8002 Zürich<br></a>
+  c/o Z11 Büro Atelier<br>
+  <a href="#" data-reveal-id="addressModal">Zunstrasse 11<br>
+  CH-8152 Glattbrugg<br></a>
   <i class="fi-telephone"></i> 044 534 64 54<br>
   <a href="mailto:info@sinndrin.ch"><i class="fi-mail"></i> info@sinndrin.ch</a><br><br>
   MWST-Nr.: CHE-259.799.074 MWST<br>
@@ -121,7 +122,7 @@ title:  "Kontakt"
 <div id="addressModal" class="reveal-modal" data-reveal>
   <h2>Adresse der sinndrin genossenschaft</h2>
 
-  <p>Alfred-Escher-Strasse 46, CH-8002 Zürich, Schweiz</p>
+  <p>c/o Z11 Büro Atelier, Zunstrasse 11, CH-8152 Glattbrugg, Schweiz</p>
   <!-- data-interchange begin -->
   <div
       data-interchange="[/ueber-uns/kontakt/default.html, (small)], [/ueber-uns/kontakt/medium.html, (medium)], [/ueber-uns/kontakt/large.html, (large)]">
