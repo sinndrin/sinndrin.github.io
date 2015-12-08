@@ -25,7 +25,7 @@ tags:
 <li>Sitzungsraum</li>
 <li>WLAN, Drucker, Kopierer, Scanner</li>
 <li>Gemeinschaftsraum mit Terrasse</li>
-<li>Kleine Küche mit Kühlschrank und vorhandenem Geschirr</li>
+<li>Kleine Küche mit Kühlschrank, Geschirrspüler und vorhandenem Geschirr</li>
 <li>Vielfältige ÖV Anbindung mit Tram 10, 11, 12 und Bus 761, 759, 781</li>
 </ul>
 
