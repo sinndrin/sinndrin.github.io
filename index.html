@@ -64,7 +64,7 @@ title: Home
           <h3>Kürzlich abgeschlossene Projekte</h3><br>
           <!-- BEGIN realisierte-projekte-list -->
           {% assign displayedProjekte = 0 %}
-          {% for post in site.categories.realisierte-projekte limit:19 %}
+          {% for post in site.categories.realisierte-projekte limit:3 %}
             {% if displayedProjekte < 3 and post.hideOnFrontpage != true %}
             {% include block/realisierte-projekte-list.html %}
             {% assign displayedProjekte = displayedProjekte | plus:1 %}
@@ -101,7 +101,7 @@ title: Home
       <a href="/blog/"><h3>Blog</h3></a><br>
       <div class="row">
         <div id="blog">
-          {% for post in site.categories.blog limit:19 %}
+          {% for post in site.categories.blog limit:30 %}
           {% comment %} CHECK IF BLOGPOST IS PART OF SUBBLOG UNTERWEGS {% endcomment %}
           {% assign identifier = post.url | split: '/' %}
           {% if identifier[2] != "unterwegs" %}
