@@ -1186,7 +1186,7 @@ $topbar-bg-color: $secondary-color;
 $topbar-bg: $topbar-bg-color;
 
 // Height and margin
-$topbar-height: 63px;
+$topbar-height: rem-calc(63);
 // $topbar-margin-bottom: 0;
 
 // Controlling the styles for the title in the top bar
@@ -1216,7 +1216,7 @@ $topbar-link-bg-active: $topbar-bg-color;
 $topbar-link-bg-active-hover: scale-color($topbar-bg-color, $lightness: -14%);
 // $topbar-link-font-family: $body-font-family;
 // $topbar-link-text-transform: none;
-$topbar-link-padding: 15px; //$topbar-height / 3;
+$topbar-link-padding: rem-calc(15); //$topbar-height / 3;
 
 // $topbar-button-font-size: 0.75rem;
 // $topbar-button-top: 7px;
