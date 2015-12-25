@@ -3,3 +3,5 @@ assets/foundation/node_modules/*
 projectFilesBackup
 .rvmrc
 npm-debug.log
+.idea
+assets/foundation-icons/.DS_Store
