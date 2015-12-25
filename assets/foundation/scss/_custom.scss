@@ -49,11 +49,6 @@ a {
 }
 
 /* ******************************************************************************************************* */
-/* frontpage */
-#welcome {
-  background: url(/images/frontpage/welcome.jpg) center;
-}
-/* ******************************************************************************************************* */
 /* angebote */
 .angebote-img {
   position: relative;
@@ -99,6 +94,10 @@ a {
   border-color: rgb(128, 128, 128);
   border-style: dotted;
   border-width: 0px 0px 1px 0px;
+
+  a:not(.button) {
+    padding: 0;
+  }
 }
 /* top image auf angebotsseiten */
 .angebot-top-wide {
