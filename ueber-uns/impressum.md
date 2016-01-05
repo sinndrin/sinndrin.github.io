@@ -2,7 +2,7 @@
 layout: two-columns
 title:  "Impressum"
 ---
-### Herausgeber.
+### Herausgeber
 
 **sinndrin genossenschaft**<br>
 c/o Z11 Büro Atelier<br>
