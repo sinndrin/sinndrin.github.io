@@ -14,6 +14,8 @@ image: /images/ueber-uns/team/raphael.png
 ---
 Die Harmonie zwischen technologischem Fortschritt und Umweltfreundlichkeit sowie das Lehren und Lernen in diesen beiden Bereichen ist für mich sinnstiftend und beruflich erfüllend.
 
+Ich verfüge über breit gestreute Interessen, von fairem Handel über Umwelt- und Erwachsenenbildung bis hin zur Technik der erneuerbaren Energien. Meine Kreativität und Motivation bringte ich in verschiedene Projekte der sinndrin genossenschaft ein.
+
 ####Ausbildungen:
 
 - Bachelor of Science ZFH in Umweltingenieurwesen mit Vertiefung in "Nachwachsende Rohstoffe und Erneuerbare Energien"
