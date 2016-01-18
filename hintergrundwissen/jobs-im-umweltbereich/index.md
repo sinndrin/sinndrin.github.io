@@ -61,7 +61,7 @@ Weitere Stellenseiten werden gerne in die Liste [aufgenommen][kontakt]. Ebenso s
 
 
 [0]: /blog/2012/01/17/webseiten-taeglich-automatisch-auf-aenderungen-pruefen/
-[1]: http://www.feuervogel.ch/icc.asp?oid=6978&his=0
+[1]: http://www.feuervogel.ch/jobboerse/
 [2]: http://www.bafu.admin.ch/org/00831/index.html?lang=de
 [3]: http://www.birdlife.ch/de/content/jobs
 [4]: http://internet1.refline.ch/655298/search.html?lang=de
