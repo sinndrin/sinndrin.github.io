@@ -10,7 +10,7 @@ permalink: /angebote/fairphone/support-und-hilfe/
 image: /images/angebote/smartphone-kurs.jpg
 title: "Fairphone Support und Hilfe"
 ---
-<div class="angebot-top-wide"><img title="Fairphone Support und Hilfe" src="/images/angebote/fairphone_sub.jpg"></div>
+<div class="angebot-top-wide"><img title="Fairphone Support und Hilfe" src="/images/angebote/fairphone-support-und-hilfe-sub.png"></div>
 
 ##Was möchten Sie tun?
 
