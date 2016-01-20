@@ -9,16 +9,15 @@ title: "Fairphone Reparatur"
 ---
 <div class="angebot-top-wide"><img title="Fairphone Reparatur" src="/images/angebote/fairphone-reparaturwerkstatt.jpg"></div>
 
-In unserem [Büro in Zürich][kontakt] bieten wir einen Reparaturservice für Ihr Fairphone. [Kontaktieren][kontakt] Sie uns für eine unverbindliche Offerte. Egal ob es sich um ein kaputtes Display, Softwareprobleme oder anderweitige Anliegen handelt. Wir stehen eng mit dem Reparaturcenter von Fairphone in Kontakt, um eine schnelle Abwicklung ihres Falles zu ermöglichen. Bei den Reparaturen orientieren sich unsere Preise an denen von Fairphone.
+In unserem [Büro in Glattbrugg][kontakt] bieten wir einen Reparaturservice für Ihr Fairphone. [Kontaktieren][kontakt] Sie uns für eine unverbindliche Offerte. Egal ob es sich um ein kaputtes Display, Softwareprobleme oder anderweitige Anliegen handelt. Wir stehen eng mit dem Reparaturcenter von Fairphone in Kontakt, um eine schnelle Abwicklung ihres Falles zu ermöglichen. Bei den Reparaturen orientieren sich unsere Preise an denen von Fairphone.
 
 **Vielleicht können Sie Ihr Problem auch selbständig durch einen der [zahlreichen Tipps][faq] beheben und eine Kontaktaufnahme mit uns erübrigt sich.**
 
-## Ausstattung unserer Werkstatt
-Die Reparatur wird in unserer voll ausgestatteten Werkstatt durchgeführt. Die Arbeit wird in einem ESD (Elektrostatische Entladung) geschützten Umfeld und durch einen Mitarbeitenden mit beruflicher Erfahrung und Ausbildung im Elektronikbereich ausgeführt. Das hausinterne Ersatzteillager erlaubt uns eine rasche Abwicklung Ihres Auftrages.
+**Weiter finden sie auf [iFixit][ifixit] Anleitungen, wie sie selbst eine Reparatur an Ihrem Gerät durchführen können.**
 
 ## Reparaturabwicklung
 
-Wenn Sie ihr Fairphone von uns repariren lassen möchten, können sie das Gerät entweder persönlich bei uns in Zürich vorbei bringen oder per Post an uns senden. **[Kontaktieren][kontakt] Sie uns in jedem Fall vorgängig damit das Vorgehen geklärt werden kann.**
+Wenn Sie ihr Fairphone von uns repariren lassen möchten, können sie das Gerät entweder persönlich bei uns in Glattbrugg vorbei bringen oder per Post an uns senden. **[Kontaktieren][kontakt] Sie uns in jedem Fall vorgängig damit das Vorgehen geklärt werden kann.**
 
 ### Wenn Sie das Gerät vorbei bringen
 
@@ -34,7 +33,7 @@ Wenn Sie ihr Fairphone von uns repariren lassen möchten, können sie das Gerät
 * Um das Gerät nach der Reparatur zu testen ist es hilfreich, wenn das Gerät nicht durch eine Code-Sperre gesperrt ist. Bitte entfernen Sie die Sperre oder legen den Code dem Gerät bei.
 * Schalten Sie das Gerät für den Transport aus.
 * Verpacken Sie das Gerät sicher gepolstert.
-* Senden Sie das Gerät an unsere [Werkstatt in Zürich][kontakt].
+* Senden Sie das Gerät an unsere [Werkstatt in Glattbrugg][kontakt].
 * Wir reparieren das Gerät sofort nach Erhalt und senden es normalerweise gleich am nächsten Tag wieder per B-Post Einschreiben an Sie zurück.
 * Mit dem Gerät erhalten Sie die Rechnung.
 
@@ -42,7 +41,10 @@ Wenn Sie ihr Fairphone von uns repariren lassen möchten, können sie das Gerät
 Bei der Reparatur Ihres Gerätes bleibt der Garantieanspruch gegenüber Fairphone bestehen. Auf die Reparatur selbst haben Sie eine zwei wöchige Garantie. Selbstverständlich wird nach jeder Reparatur ein Funktionstest durchgeführt.
 
 ## Selbstständige Fairphone Fehlerbehebung und Diagnose (FAQ)
-Wir haben für Sie eine [Sammlung von Fehlerbehebungen und Diagnosen][faq] zusammen gestellt, die Ihnen helfen kann die Probleme Ihres Gerätes selbstständig zu lösen. 
+Wir haben für Sie eine [Sammlung von Fehlerbehebungen und Diagnosen][faq] zusammen gestellt, die Ihnen helfen kann die Probleme Ihres Gerätes selbstständig zu lösen.
+
+## Ausstattung unserer Werkstatt
+Die Reparatur wird in unserer voll ausgestatteten Werkstatt durchgeführt. Die Arbeit wird in einem ESD (Elektrostatische Entladung) geschützten Umfeld und durch einen Mitarbeitenden mit beruflicher Erfahrung und Ausbildung im Elektronikbereich ausgeführt. Das hausinterne Ersatzteillager erlaubt uns eine rasche Abwicklung Ihres Auftrages.
 
 {% include block/fairphone-crosslinks.html %}
 
@@ -50,3 +52,4 @@ Wir haben für Sie eine [Sammlung von Fehlerbehebungen und Diagnosen][faq] zusam
 [kontakt]: /ueber-uns/kontakt/
 [backup]: /hintergrundwissen/selbststaendige-fairphone-fehlerbehebung-und-diagnose-faq#backup
 [reparaturformular]: /assets/files/fairphone/Fairphone-Reparaturformular-sinndrin-genossenschaft.pdf
+[ifixit]: https://de.ifixit.com/Device/Fairphone

@@ -119,7 +119,28 @@ sizingmethod='scale'); width: 95px; display: inline-block; height: 46px; top: 2p
 <script src="/assets/foundation/bower_components/jquery/dist/jquery.min.js"></script>
 <script src="/assets/foundation/bower_components/foundation/js/foundation.min.js"></script>
 {% include block/socialshareprivacy.html %}
-<script>$(document).foundation();</script>
+<script>
+  $(document).foundation({
+  accordion: {
+    callback : function (el) {
+      var containerPos = $(el).parent().offset().top;
+      $('html, body').animate({ scrollTop: containerPos }, 600);
+    }
+  }
+  });
+
+  /* function for /support page to select the clicked date in the registry form and make the accordion form visible */
+  var clickAnmelden = function () {
+
+    /* set the date */
+    dateWorkshop = dateWorkshop.replace(/\./g, '');
+    document.getElementById('datum').value = dateWorkshop;
+
+    /* make form visible */
+    document.getElementById('anmeldeformular').className += ' active';
+    document.getElementById('anmeldeformular-li').className += ' active';
+  }
+</script>
 {% include block/piwik-tracking.html %}
 </body>
 </html>
