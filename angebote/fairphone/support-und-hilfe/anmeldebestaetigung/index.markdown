@@ -15,7 +15,7 @@ Vielen Dank für Ihre Anmeldung zu einem unserer Fairphone-Workshops!
 * **Bern**: Wird im Bestätigungs-E-Mail ca. 4 Tage vor dem Anlass bekannt gegeben
 * **Glattbrugg**: [sinndrin genossenschaft, c/o Z11 Büro Atelier, Zunstrasse 11, 8152 Glattbrugg][kontakt]
 * **Stadt Zürich**: sinndrin genossenschaft, Alfred-Escher-Strasse 46, 8002 Zürich
-* **Wädenswil**: wird im Bestätigungs-E-Mail ca. 4 Tage vor dem Anlass bekannt gegeben
+* **Wädenswil**: Stoffelweg 59, 8804 Au
 * **Winterthur**: Bahnstrasse 17, 8400 Winterthur
 
 # Wie es weiter geht
