@@ -97,7 +97,7 @@ Wir beantworten Ihre Fragen rund um Software (App-, Mail-, Kontaktverwaltung, SM
   <li class="title" style="font-size: 2.6875rem;"><i class="fi-torsos-all"></i><i class="fi-torsos-all"></i><br>Fair&shy;phone-Work&shy;shop</li>
   <li class="price">CHF 35.- bis 50.-<br>für 2 Stunden<sup>4</sup></li>
   <li class="description"><p>Mit fachkundiger Unterstützung lösen Sie Ihre persönliche Fragestellung in der Gruppe. Pro 3-5 Teilnehmenden ist mindestens ein Experte vor Ort.</p></li>
-  <li class="bullet-item">Kursorte: Glattbrugg, Stadt Zürich, Wädenswil und Winterthur.</li>
+  <li class="bullet-item">Kursorte: Bern, Glattbrugg, Stadt Zürich, Wädenswil und Winterthur.</li>
   <!-- FIXME: termine box with floating content does not expand to correct height -->
   <div class=row">
       <li class="bullet-item" style="min-width: 200px;"><h4>Termine</h4>
