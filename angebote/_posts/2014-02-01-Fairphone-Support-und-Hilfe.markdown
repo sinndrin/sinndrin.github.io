@@ -104,7 +104,7 @@ Wir beantworten Ihre Fragen rund um Software (App-, Mail-, Kontaktverwaltung, SM
               <div class="large-2 columns">
                 <ul>
                   <li><h5>Bern</h5></li>
-                  <li><span data-tooltip aria-haspopup="true" class="has-tip" title="Dieser Workshop kostet unabhängig der Gruppengrösse immer CHF 50.- pro Person.">Daten folgen in Kürze.</span></li>
+                  <li><span data-tooltip aria-haspopup="true" class="has-tip" title="Dieser Workshop kostet aufgrund der langen Reisezeit der Experten unabhängig von der Gruppengrösse immer CHF 50.- pro Person.">Daten folgen in Kürze.</span></li>
                 </ul>
               </div>
         <div class="large-3 columns">
