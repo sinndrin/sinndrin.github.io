@@ -104,7 +104,8 @@ Wir beantworten Ihre Fragen rund um Software (App-, Mail-, Kontaktverwaltung, SM
               <div class="large-2 columns">
                 <ul>
                   <li><h5>Bern</h5></li>
-                  <li><span data-tooltip aria-haspopup="true" class="has-tip" title="Dieser Workshop kostet aufgrund der langen Reisezeit der Experten unabhängig von der Gruppengrösse immer CHF 50.- pro Person.">Daten folgen in Kürze.</span></li>
+                  <li><span data-tooltip aria-haspopup="true" class="has-tip" title="Dieser Workshop kostet aufgrund der langen Reisezeit der Experten unabhängig von der Gruppengrösse immer CHF 50.- pro Person."><a href="#anmeldeformular" onClick="dateWorkshop = $(this).html(); clickAnmelden();">23.02.2016</a></span></li>
+                  <li><span data-tooltip aria-haspopup="true" class="has-tip" title="Dieser Workshop kostet aufgrund der langen Reisezeit der Experten unabhängig von der Gruppengrösse immer CHF 50.- pro Person."><a href="#anmeldeformular" onClick="dateWorkshop = $(this).html(); clickAnmelden();">15.03.2016</a></span></li>
                 </ul>
               </div>
         <div class="large-3 columns">
@@ -201,10 +202,12 @@ Wir beantworten Ihre Fragen rund um Software (App-, Mail-, Kontaktverwaltung, SM
                 <option value="11022016">11.02.16</option>
                 <option value="16022016">16.02.16</option>
                 <option value="17022016">17.02.16</option>
+                <option value="23022016">23.02.16</option>
                 <option value="02032016">02.03.16</option>
                 <option value="08032016">08.03.16</option>
                 <option value="11032016">11.03.16</option>
                 <option value="14032016">14.03.16</option>
+                <option value="15032016">15.03.16</option>
                 <option value="22032016">22.03.16</option>
                 <option value="01042016">01.04.16</option>
                 <option value="05042016">05.04.16</option>
