@@ -101,6 +101,12 @@ Wir beantworten Ihre Fragen rund um Software (App-, Mail-, Kontaktverwaltung, SM
   <!-- FIXME: termine box with floating content does not expand to correct height -->
   <div class=row">
       <li class="bullet-item" style="min-width: 200px;"><h4>Termine</h4>
+              <div class="large-2 columns">
+                <ul>
+                  <li><h5>Bern</h5></li>
+                  <li><span data-tooltip aria-haspopup="true" class="has-tip" title="Dieser Workshop kostet unabhängig der Gruppengrösse immer CHF 50.- pro Person.">Daten folgen in Kürze.</span></li>
+                </ul>
+              </div>
         <div class="large-3 columns">
           <ul>
             <li><h5>Glattbrugg</h5></li>
@@ -112,9 +118,9 @@ Wir beantworten Ihre Fragen rund um Software (App-, Mail-, Kontaktverwaltung, SM
             <li><a href="#anmeldeformular" onClick="dateWorkshop = $(this).html(); clickAnmelden();">14.06.2016</a></li>
           </ul>
         </div>
-        <div class="large-3 columns">
+        <div class="large-2 columns">
           <ul>
-            <li><h5>Stadt Zürich</h5></li>
+            <li><h5>Zürich (Stadt)</h5></li>
             <li><a href="#anmeldeformular" onClick="dateWorkshop = $(this).html(); clickAnmelden();">05.02.2016</a></li>
             <li><a href="#anmeldeformular" onClick="dateWorkshop = $(this).html(); clickAnmelden();">17.02.2016</a></li>
             <li><a href="#anmeldeformular" onClick="dateWorkshop = $(this).html(); clickAnmelden();">01.04.2016</a></li>
@@ -133,7 +139,7 @@ Wir beantworten Ihre Fragen rund um Software (App-, Mail-, Kontaktverwaltung, SM
             <li><a href="#anmeldeformular" onClick="dateWorkshop = $(this).html(); clickAnmelden();">28.06.2016</a></li>
           </ul>
         </div>
-        <div class="large-3 columns">
+        <div class="large-2 columns">
           <ul>
             <li><h5>Winterthur</h5></li>
             <li><a href="#anmeldeformular" onClick="dateWorkshop = $(this).html(); clickAnmelden();">16.02.2016</a></li>
