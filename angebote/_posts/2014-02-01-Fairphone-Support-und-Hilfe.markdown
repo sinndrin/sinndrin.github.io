@@ -76,7 +76,7 @@ Wir beantworten Ihre Fragen rund um Software (App-, Mail-, Kontaktverwaltung, SM
       <li class="description"><p>Supportstandorte in Glattbrugg, Stadt Zürich, Wädenswil und Winterthur oder bei Ihnen vor Ort.<sup>2</sup></p></li>
       <li class="cta-button"><a class="button" href="/ueber-uns/kontakt/">Jetzt anfordern</a></li>
       <li class="bullet-item">
-        <sup>1</sup> für Firmenkunden CHF 120.- pro Stunde.<br>
+        <sup>1</sup> Für Firmenkunden CHF 120.- pro Stunde.<br>
         <sup>2</sup> Für die Anfahrt zu Ihnen verrechnen wir den halben Stundensatz.
       </li>
     </ul>
@@ -87,7 +87,7 @@ Wir beantworten Ihre Fragen rund um Software (App-, Mail-, Kontaktverwaltung, SM
       <li class="price">CHF 35.-<br>pro Fall<sup>3</sup></li>
       <li class="description"><p>Ihre erste Kontaktaufnahme und eine kurze Vorabklärung ist kostenlos.<br>&nbsp;</p></li>
       <li class="cta-button"><a class="button" href="/ueber-uns/kontakt/" style="position: relative;">Jetzt anfordern</a></li>
-      <li class="bullet-item"><sup>3</sup> ab 30 Minuten CHF 70.- pro Stunde.</li>
+      <li class="bullet-item"><sup>3</sup> Ab 30 Minuten CHF 70.- pro Stunde.</li>
     </ul>
   </div>
 </div>
