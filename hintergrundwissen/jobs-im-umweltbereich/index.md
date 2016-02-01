@@ -24,6 +24,7 @@ Weitere Stellenseiten werden gerne in die Liste [aufgenommen][kontakt]. Ebenso s
 ## Private Arbeitgeber und NGO's
 
 <!-- - [Bioterra][39] -->
+- [BirdLife Zürich][3]
 - [CIPRA International][37]
 - [econcept AG][42]
 - [ETH Zürich][35]
@@ -40,7 +41,6 @@ Weitere Stellenseiten werden gerne in die Liste [aufgenommen][kontakt]. Ebenso s
 - [sanu][36]
 - [Silviva][14]
 - [Stiftung Umweltbildung Schweiz][18]
-- [SVS/BirdLife][3]
 - [Umweltnetz-Schweiz][40]
 - [Waldkindergarten St. Gallen][19]
 - [WWF Schweiz, Stellen und Praktika][20]
@@ -63,7 +63,7 @@ Weitere Stellenseiten werden gerne in die Liste [aufgenommen][kontakt]. Ebenso s
 [0]: /blog/2012/01/17/webseiten-taeglich-automatisch-auf-aenderungen-pruefen/
 [1]: http://www.feuervogel.ch/jobboerse/
 [2]: http://www.bafu.admin.ch/org/00831/index.html?lang=de
-[3]: http://www.birdlife.ch/de/content/jobs
+[3]: http://www.birdlife-zuerich.ch/wir-ueber-uns/offene-stellen/
 [4]: http://internet1.refline.ch/655298/search.html?lang=de
 [5]: http://www.greenpeace.org/switzerland/de/Uber-uns/Jobs/
 [7DOWN]: http://www.greenpeace.org/switzerland/de/Aktiv-werden/Ein-Praktikum-bei-Greenpeace-Schweiz/
