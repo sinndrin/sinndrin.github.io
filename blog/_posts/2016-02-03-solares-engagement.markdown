@@ -14,6 +14,7 @@ Für jedes über die sinndrin genossenschaft verkaufte Fairphone 2 unterstützen
 
 ##Wie funktioniert eine Solarstrombörse wie die 100proSOLAR?
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LgR6MwzIX9A" frameborder="0" allowfullscreen></iframe>
+
 Quelle: [Stromallmend der Energie Genossenschaft](http://www.energiegenossenschaft.ch/wp2/stromallmend-2/)
 
 ##Wie haben wir das berechnet?
