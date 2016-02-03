@@ -1,4 +1,4 @@
 name: sinndrin genossenschaft
-markdown: redcarpet
+markdown: kramdown
 highlighter: rouge
 permalink: pretty
