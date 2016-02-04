@@ -1,9 +1,9 @@
 ---
 layout: blog
-title: "Solares Engagement"
+title: "Solares Engagement!"
 subtitle: "Die sinndrin genossenschaft sponsert den Solarstrom für die von uns verkauften Fairphone 2."
 image: /images/blog/solares-engagement.png
-date: 2016-02-04 16:00:00
+date: 2016-02-03 16:00:00
 published: true
 categories: blog
 comments: true
