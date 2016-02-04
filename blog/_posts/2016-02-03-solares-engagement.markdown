@@ -10,7 +10,7 @@ comments: true
 tags:
  - Raphael Hagmann
 ---
-Für jedes über die sinndrin genossenschaft verkaufte Fairphone 2 unterstützen wir die Energiewende. Dafür arbeiten wir mit der [Energie Genossenschaft](http://www.energiegenossenschaft.ch/) zusammen. Über das Angebot [100proSOLAR](http://www.energiegenossenschaft.ch/wp2/produkte/solarstrom-kaufen/) kaufen wir Herkunftsnachweise (HKN) verschiedenster kleiner Solarstromproduzenten ein. Als Kundin und Kunde der sinndrin genossenschaft garantieren wir Ihnen somit, dass Sie ihr Fairphone 2 in den nächsten 5 Jahren immer mit Solarstrom aufladen werden, egal welche Steckdose Sie dafür benutzen.
+Für jedes von uns im [Faircustomer.ch Shop](http://fairphone.faircustomer.ch/) verkaufte Fairphone 2 unterstützen wir die Energiewende. Dafür arbeiten wir mit der [Energie Genossenschaft](http://www.energiegenossenschaft.ch/) zusammen. Über das Angebot [100proSOLAR](http://www.energiegenossenschaft.ch/wp2/produkte/solarstrom-kaufen/) kaufen wir Herkunftsnachweise (HKN) verschiedenster kleiner Solarstromproduzenten ein. Als Kundin und Kunde der sinndrin genossenschaft garantieren wir Ihnen somit, dass Sie ihr Fairphone 2 in den nächsten 5 Jahren immer mit Solarstrom aufladen werden, egal welche Steckdose Sie dafür benutzen.
 
 ##Wie funktioniert eine Solarstrombörse wie die 100proSOLAR?
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LgR6MwzIX9A" frameborder="0" allowfullscreen></iframe>
