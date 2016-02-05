@@ -37,7 +37,7 @@ title:  "Kontakt"
   <h2 class="show-for-medium-down"><a href="/ueber-uns/team/">Team</a></h2>
   <a href="/ueber-uns/team/">
   {% for post in site.categories.team %}
-  <img width=100 src="{{ post.image }}">
+  <img alt="{{ post.title }}" width="100" src="{{ post.image }}">
   {% endfor %}
   </a>
   </div>
