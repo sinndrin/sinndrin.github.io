@@ -104,12 +104,11 @@ title:  "Kontakt"
 <!-- END Weitere -->
 </div>
 
-<a name="bankverbindung"></a>
-# Bankverbindung
+# <a name="bankverbindung"></a> Bankverbindung
 
 * IBAN: **CH43 0839 0032 4370 1000 1** <br>
 
-##Daten unserer Bank
+## Daten unserer Bank
 
 * Name: **Alternative Bank Schweiz (ABS)**
 * Kontonummer der sinndrin genossenschaft: **324.370.100-01**
