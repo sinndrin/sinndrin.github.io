@@ -59,8 +59,8 @@ title: "Fairphone Support und Hilfe"
   </div>
 </div>
 
-<a name="fairphone-support"></a>
-## Persönliche Hilfe und Gruppen-Workshops
+
+## <a name="fairphone-support"></a> Persönliche Hilfe und Gruppen-Workshops
 
 Haben Sie Schwierigkeiten oder Fragen zu Ihrem Fairphone? Egal ob Sie zum ersten Mal ein Smartphone besitzen oder bereits erfahren im Umgang mit Smartphones sind: wir bieten Ihnen eine professionelle und menschliche Hilfestellung bei Ihren Fragen.
 
@@ -99,7 +99,7 @@ Wir beantworten Ihre Fragen rund um Software (App-, Mail-, Kontaktverwaltung, SM
   <li class="description"><p>Mit fachkundiger Unterstützung lösen Sie Ihre persönliche Fragestellung in der Gruppe. Pro 3-5 Teilnehmenden ist mindestens ein Experte vor Ort.</p></li>
   <li class="bullet-item">Kursorte: Bern, Glattbrugg, Stadt Zürich, Wädenswil und Winterthur.</li>
   <!-- FIXME: termine box with floating content does not expand to correct height -->
-  <div class=row">
+
       <li class="bullet-item" style="min-width: 200px;"><h4>Termine</h4>
               <div class="large-2 columns">
                 <ul>
@@ -150,7 +150,7 @@ Wir beantworten Ihre Fragen rund um Software (App-, Mail-, Kontaktverwaltung, SM
           </ul>
         </div>
       </li>
-  </div>
+  
   <li class="bullet-item" style="clear: both;">&nbsp;</li>
   <li class="bullet-item">Zeit: jeweils von 18:00 - 20:00 Uhr. Freies kommen und gehen während dieser Zeit möglich.</li>
   <li class="bullet-item">Anmeldung bis spätestens fünf Tage im Voraus. Eine kurze Schilderung Ihrer Fragestellung ist erwünscht. Die exakte Adresse des Kurslokals senden wir Ihnen nach ihrer Anmeldung zu.</li>

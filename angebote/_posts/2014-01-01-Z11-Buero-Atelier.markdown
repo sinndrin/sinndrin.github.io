@@ -12,7 +12,7 @@ title: "Z11 Coworking, Bürogemeinschaft, Atelierräume"
 <div class="large-8 columns">
 <img alt="Z11 Büro Atelier" src="/images/angebote/z11-buero-atelier/angebot/z11-1.jpg" /><br><br>
 <img alt="Z11 Büro Atelier" src="/images/angebote/z11-buero-atelier/angebot/z11-2.jpg" />
-<p><br>Wir vom <i>Z11 Büro Atelier</i> bieten dir eine anregende, flexible Arbeitsumgebung ab 220.- Fr./Mt.</p>
+<p><br>Wir vom <i>Z11 Büro Atelier</i> bieten dir eine anregende, flexible Arbeitsumgebung ab 220.- Fr./Monat.</p>
 <p>Nebst dem kreativen, unternehmerischen Umfeld profitierst du ausserdem von der komplett ausgebauten Büro und IT-Infrastruktur.</p>
 <p>Wechselnde Kunstausstellungen und ein kleines Lebensmittelsortiment (Bio) kreieren eine inspirierende Arbeitsatmosphäre.</p>
 
