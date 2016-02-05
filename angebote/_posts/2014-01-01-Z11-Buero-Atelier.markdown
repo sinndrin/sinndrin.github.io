@@ -55,7 +55,7 @@ title: "Z11 Coworking, Bürogemeinschaft, Atelierräume"
 <h4>Aktuelle Ausstellung von mome</h4>
 <h5>vom 13.12.15 bis 21.2.16</h5>
 <img width="207" alt="mome" src="/images/angebote/z11-buero-atelier/mome/mome1.jpg" />
-<h5><span class="mehr-button"><i class="fi-arrow-right"></i> mehr über mome</br>und Ihre Werke</span></h5>
+<h5><span class="mehr-button"><i class="fi-arrow-right"></i> mehr über mome <br> und Ihre Werke</span></h5>
 <p><b>Vernissage:</b><br>So, 13.12.15 13-16 Uhr<br><br>
 <b>Apero:</b><br> So, 21.12.15 13-16 Uhr<br>So, 31.01.16 13-16 Uhr<br><br>
 <b>Finissage:</b><br> So, 21.02.16 13-16 Uhr<br><br>
