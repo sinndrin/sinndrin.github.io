@@ -12,7 +12,7 @@ title: "Fairphone Support und Hilfe"
 ---
 <div class="angebot-top-wide"><img title="Fairphone Support und Hilfe" src="/images/angebote/fairphone-support-und-hilfe-sub.png"></div>
 
-##Was möchten Sie tun?
+## Was möchten Sie tun?
 
 <div class="row" data-equalizer>
   <div class="small-6 medium-4 large-4 columns" data-equalizer-watch>
