@@ -29,6 +29,7 @@ Das Fairphone 2 bringt Innovationen, welche die Lebensspanne des Telefons verlä
 <iframe width="803" height="452" src="https://www.youtube.com/embed/6DW733G76BY" frameborder="0" allowfullscreen></iframe>
 
 <br>
+
 ## <a name="überfairphone"></a> Über Fairphone
 
 Fairphone ist ein social Enterprise aus den Niederlanden, welches sich für mehr Nachhaltigkeit in der IT-Welt einsetzt. Als erstes Smartphone enthält das Fairphone die Mineralien, Zinn und Coltan aus konfliktfreien Gebieten der Demokratischen Republik Kongo.
@@ -40,7 +41,7 @@ Analog zum [Costbreakdown](https://www.fairphone.com/wp-content/uploads/2015/09/
 Wir rechnen mit einem Kaufpreis direkt bei Fairphone von ca. 620 CHF (Eurokurs 1.12, inkl. Versand, Zollgebühren und MWST).
 Dank Resesellerrabatt sowie Einsparungen bei Versand und Zollgebühren ist es uns möglich das Fairphone 2 für 600 CHF inkl. Förderprojekt anzubieten. Wie die Kosten aufgeteilt sind entnehmen Sie bitte der nachfolgenden Infographik.
 
-<img src="/images/angebote/fairphone/cost_breakdown_fairphone2_sinndrin.jpg" alt=""sinndrin genossenschaft Fairphone 2 cost breakdown" />
+<img src="/images/angebote/fairphone/cost_breakdown_fairphone2_sinndrin.jpg" alt="sinndrin genossenschaft Fairphone 2 cost breakdown" />
 
 ##<a name="spezifikationen"></a> Technische Spezifikationen des Fairphone 2
 <div class="row">

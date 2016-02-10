@@ -138,7 +138,7 @@ Alle auf diesem Weg nicht verkauften Bücher, werden an der nächstjährigen Fac
     <td>25</td>
   </tr>
   <tr>
-    <td>Natura 3, Biologie für die gymnasiale Oberstufe</p>
+    <td>Natura 3, Biologie für die gymnasiale Oberstufe
     </td>
     <td>Beyer et al.</td>
     <td>978-3-264-04530-7</td>
@@ -160,14 +160,13 @@ Alle auf diesem Weg nicht verkauften Bücher, werden an der nächstjährigen Fac
   <tr>
     <td>Campbell Essential Biology with Physiology.
       International Edition, forth edition</td>
-    <td>Simon, Eric J.; Dickey, Jean L.; Reece, Jane B. </p>
-    </td>
+    <td>Simon, Eric J.; Dickey, Jean L.; Reece, Jane B.</td>
     <td>978-0-321-82700-5</td>
     <td>10</td>
   </tr>
   <tr>
     <td>Biotechnologie für Einsteiger, 3. Auflage</td>
-    <td>Renneberg, Reinhard; Berkling, Viola; Süssbier</p>
+    <td>Renneberg, Reinhard; Berkling, Viola; Süssbier
     </td>
     <td>978-3-8274-2045-9</td>
     <td>20</td>
@@ -186,7 +185,7 @@ Alle auf diesem Weg nicht verkauften Bücher, werden an der nächstjährigen Fac
   </tr>
   <tr>
     <td>Der Bartgeier</td>
-    <td>Klaus Robin, Jürg Paul Müller, Thomas Pachlatko</p>
+    <td>Klaus Robin, Jürg Paul Müller, Thomas Pachlatko
     </td>
     <td>3-9522874-0-7</td>
     <td>7</td>
@@ -194,7 +193,7 @@ Alle auf diesem Weg nicht verkauften Bücher, werden an der nächstjährigen Fac
   <tr>
     <td>Der Ornothologische Beobachter Band 105 (2008) bis
       112 (2015), 26 Hefte</td>
-    <td>CH-Gesellschaft für Vogelkunde und Vogelschutz</p>
+    <td>CH-Gesellschaft für Vogelkunde und Vogelschutz
     </td>
     <td>www.vogelwarte.ch</td>
     <td>8</td>
@@ -244,7 +243,7 @@ Alle auf diesem Weg nicht verkauften Bücher, werden an der nächstjährigen Fac
     <td>43</td>
   </tr>
   <tr>
-    <td>Anorgamische Chemie 2. aktualisierte Auflage</p>
+    <td>Anorgamische Chemie 2. aktualisierte Auflage
     </td>
     <td>Catherine E. Housecroft, Alan G. Sharpe</td>
     <td>978-3-8273-7192-8</td>
@@ -269,7 +268,7 @@ Alle auf diesem Weg nicht verkauften Bücher, werden an der nächstjährigen Fac
     <td>20</td>
   </tr>
   <tr>
-    <td>Basiswissen Physikalische Chemie, 4. Auflage</p>
+    <td>Basiswissen Physikalische Chemie, 4. Auflage
     </td>
     <td>Claus Czeslik, Heiko Seemann, Roland Winter</td>
     <td>978-3-8348-0937-7</td>
@@ -436,8 +435,7 @@ Alle auf diesem Weg nicht verkauften Bücher, werden an der nächstjährigen Fac
   </tr>
   <tr>
     <td>Chemistry, forth edition</td>
-    <td>Housecroft, Catherine E.; Constable, Edwin C. </p>
-    </td>
+    <td>Housecroft, Catherine E.; Constable, Edwin C.</td>
     <td>978-0-273-73308-9 </td>
     <td>50</td>
   </tr>
@@ -512,7 +510,7 @@ Alle auf diesem Weg nicht verkauften Bücher, werden an der nächstjährigen Fac
     <td>17</td>
   </tr>
   <tr>
-    <td>Basiswissen Controlling, Instrumente für die Praxis</p>
+    <td>Basiswissen Controlling, Instrumente für die Praxis
     </td>
     <td>Volker Schultz</td>
     <td>978-3-423-50907-7</td>
@@ -579,7 +577,7 @@ Alle auf diesem Weg nicht verkauften Bücher, werden an der nächstjährigen Fac
   <tr>
     <td>To Kill a Mockingbird</td>
     <td>Vintage Lee</td>
-    <td style="text-align:right; width:5.366cm; " class="Default"><p>9780099466734</td>
+    <td>9780099466734</td>
     <td>7</td>
   </tr>
   <tr>
@@ -592,7 +590,7 @@ Alle auf diesem Weg nicht verkauften Bücher, werden an der nächstjährigen Fac
   <tr>
     <td>Professionelle Gesprächsführung, Ein praxisnahes
       Lese- und Übungssbuch 7.Auflage</td>
-    <td>Christian-Rainer Weisbach, Petra Sonne-Neubacher</p>
+    <td>Christian-Rainer Weisbach, Petra Sonne-Neubacher
     </td>
     <td>978-3-423-05845-2</td>
     <td>10</td>
@@ -604,7 +602,7 @@ Alle auf diesem Weg nicht verkauften Bücher, werden an der nächstjährigen Fac
     <td>6</td>
   </tr>
   <tr>
-    <td>Lernen, Gehirnforschung und Schule des Lebens</p>
+    <td>Lernen, Gehirnforschung und Schule des Lebens
     </td>
     <td>Manfred Spitzer</td>
     <td>978-3-8274-1723-7</td>
@@ -649,8 +647,7 @@ Alle auf diesem Weg nicht verkauften Bücher, werden an der nächstjährigen Fac
     <td>15</td>
   </tr>
   <tr>
-    <td>Sozialstrukturanalyse, Eine kompakte Einführung</p>
-    </td>
+    <td>Sozialstrukturanalyse, Eine kompakte Einführung</td>
     <td>Jörg Rössel</td>
     <td>978-3-531-14997-4</td>
     <td>20</td>
@@ -705,8 +702,7 @@ Alle auf diesem Weg nicht verkauften Bücher, werden an der nächstjährigen Fac
   <tr>
     <td>Globale Klimatologie: Meteorologie,
       Wetterinformation und Klimatologie</td>
-    <td>Schertenleib, Markus-Hermann; Egli-Broz, Helena</p>
-    </td>
+    <td>Schertenleib, Markus-Hermann; Egli-Broz, Helena</td>
     <td>978-3-7155-9123-4</td>
     <td>19</td>
   </tr>
@@ -738,8 +734,7 @@ Alle auf diesem Weg nicht verkauften Bücher, werden an der nächstjährigen Fac
   <tr>
     <td>Professionelle Gesprächsführung, Ein praxisnahes
       Lese- und Übungssbuch 8.Auflage</td>
-    <td>Christian-Rainer Weisbach, Petra Sonne-Neubacher</p>
-    </td>
+    <td>Christian-Rainer Weisbach, Petra Sonne-Neubacher</td>
     <td>978-3-423-50936-7</td>
     <td>12</td>
   </tr>
@@ -771,8 +766,7 @@ Alle auf diesem Weg nicht verkauften Bücher, werden an der nächstjährigen Fac
   </tr>
   <tr>
     <td>Phytomedizin grundwissen bachelor</td>
-    <td>J. Hallmann; A. Quadt-Hallmann; A. von Tiedemann</p>
-    </td>
+    <td>J. Hallmann; A. Quadt-Hallmann; A. von Tiedemann</td>
     <td>978-3-8252-2863-7</td>
     <td>20</td>
   </tr>
@@ -821,8 +815,7 @@ Alle auf diesem Weg nicht verkauften Bücher, werden an der nächstjährigen Fac
     <td>9</td>
   </tr>
   <tr>
-    <td>Project Management for Building Construction </p>
-    </td>
+    <td>Project Management for Building Construction</td>
     <td>Sommer, Hans </td>
     <td>978-3-642-10873-0 </td>
     <td>0</td>
@@ -847,7 +840,7 @@ Alle auf diesem Weg nicht verkauften Bücher, werden an der nächstjährigen Fac
     <td>15</td>
   </tr>
   <tr>
-    <td>Miteinander Reden 1, Störungen und Klärungen</p>
+    <td>Miteinander Reden 1, Störungen und Klärungen
     </td>
     <td>Friedemann Schulz von Thun</td>
     <td>978-3-499-17489-6</td>
@@ -1056,14 +1049,13 @@ Alle auf diesem Weg nicht verkauften Bücher, werden an der nächstjährigen Fac
   <tr>
     <td>Physik Abitur, m. DVD-ROM - Duden Basiswissen
       Schule</td>
-    <td>Hrsg. v. Lothar Meyer u. Gerd-Dietrich Schmidt </p>
+    <td>Hrsg. v. Lothar Meyer u. Gerd-Dietrich Schmidt
     </td>
     <td>978-3-411-71753-8 </td>
     <td>15</td>
   </tr>
   <tr>
-    <td>Physik 2. Energie, Wärmelehre, Strahlenoptik </p>
-    </td>
+    <td>Physik 2. Energie, Wärmelehre, Strahlenoptik</td>
     <td>Schild, Hansruedi Dumm, T. </td>
     <td>978-3-7155-9088-2 </td>
     <td>15</td>
@@ -1221,8 +1213,7 @@ Alle auf diesem Weg nicht verkauften Bücher, werden an der nächstjährigen Fac
     <td>16.5</td>
   </tr>
   <tr>
-    <td>Duden, Deutsches Universalwörterbuch, 6. Auflage</p>
-    </td>
+    <td>Duden, Deutsches Universalwörterbuch, 6. Auflage</td>
     <td> </td>
     <td>978-3-411-05506-7</td>
     <td>35</td>
@@ -1263,8 +1254,7 @@ Alle auf diesem Weg nicht verkauften Bücher, werden an der nächstjährigen Fac
     <td>15</td>
   </tr>
   <tr>
-    <td>Schülergrammatik Französisch, 4. Auflage 2007</p>
-    </td>
+    <td>Schülergrammatik Französisch, 4. Auflage 2007</td>
     <td>Kessler et al.</td>
     <td>978-3-292-00268-0</td>
     <td>15</td>
@@ -1283,7 +1273,7 @@ Alle auf diesem Weg nicht verkauften Bücher, werden an der nächstjährigen Fac
     <td>15</td>
   </tr>
   <tr>
-    <td>Geschichte der deutschen Literatur in Beispielen</p>
+    <td>Geschichte der deutschen Literatur in Beispielen
     </td>
     <td>Rainer Madsen</td>
     <td>3-14-022260-2</td>
@@ -1309,8 +1299,7 @@ Alle auf diesem Weg nicht verkauften Bücher, werden an der nächstjährigen Fac
   </tr>
   <tr>
     <td>Captain Corelli's Mandolin </td>
-    <td>Bernières, Louis de; Hopkins, Andy (Nacherz.) </p>
-    </td>
+    <td>Bernières, Louis de; Hopkins, Andy (Nacherz.)</td>
     <td>978-1-4058-8260-6 </td>
     <td>10</td>
   </tr>
@@ -1335,10 +1324,8 @@ Alle auf diesem Weg nicht verkauften Bücher, werden an der nächstjährigen Fac
     <td>40</td>
   </tr>
   <tr>
-    <td>DELF pour adolescents A1, A2, A3, A4 - DELF </p>
-    </td>
-    <td>Lescure R.; Grandet E.; Parizet M; Rausch A. </p>
-    </td>
+    <td>DELF pour adolescents A1, A2, A3, A4 - DELF</td>
+    <td>Lescure R.; Grandet E.; Parizet M; Rausch A.</td>
     <td>978-2-09-033743-5</td>
     <td>15</td>
   </tr>
@@ -1365,8 +1352,7 @@ Alle auf diesem Weg nicht verkauften Bücher, werden an der nächstjährigen Fac
   <tbody>
   <!--------------------------------------------------- BEGIN ------------------------------------------------------>
   <tr>
-    <td>Aktuelle Volkswirtschaftslehre Ausgabe 2012/2013</p>
-    </td>
+    <td>Aktuelle Volkswirtschaftslehre Ausgabe 2012/2013</td>
     <td>Peter Eisenhut</td>
     <td>978-3-7253-0999-3</td>
     <td>25</td>
@@ -1392,8 +1378,7 @@ Alle auf diesem Weg nicht verkauften Bücher, werden an der nächstjährigen Fac
     <td>15</td>
   </tr>
   <tr>
-    <td>Aktuelle Volkswirtschaftslehre Ausgabe 2012/2013</p>
-    </td>
+    <td>Aktuelle Volkswirtschaftslehre Ausgabe 2012/2013</td>
     <td>Peter Eisenhut</td>
     <td>978-3-7253-0999-3</td>
     <td>25</td>
@@ -1405,8 +1390,7 @@ Alle auf diesem Weg nicht verkauften Bücher, werden an der nächstjährigen Fac
     <td>50</td>
   </tr>
   <tr>
-    <td>Aktuelle Volkswirtschaftslehre Ausgabe 2014/2015</p>
-    </td>
+    <td>Aktuelle Volkswirtschaftslehre Ausgabe 2014/2015</td>
     <td>Peter Eisenhut</td>
     <td>978-3-7253-1018-0</td>
     <td>40</td>

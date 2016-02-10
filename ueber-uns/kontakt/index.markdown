@@ -37,7 +37,7 @@ title:  "Kontakt"
   <h2 class="show-for-medium-down"><a href="/ueber-uns/team/">Team</a></h2>
   <a href="/ueber-uns/team/">
   {% for post in site.categories.team %}
-  <img width=100 src="{{ post.image }}">
+  <img alt="{{ post.title }}" width="100" src="{{ post.image }}">
   {% endfor %}
   </a>
   </div>
@@ -104,12 +104,11 @@ title:  "Kontakt"
 <!-- END Weitere -->
 </div>
 
-<a name="bankverbindung"></a>
-# Bankverbindung
+# <a name="bankverbindung"></a> Bankverbindung
 
 * IBAN: **CH43 0839 0032 4370 1000 1** <br>
 
-##Daten unserer Bank
+## Daten unserer Bank
 
 * Name: **Alternative Bank Schweiz (ABS)**
 * Kontonummer der sinndrin genossenschaft: **324.370.100-01**
