@@ -139,7 +139,19 @@ sizingmethod='scale'); width: 95px; display: inline-block; height: 46px; top: 2p
     /* make form visible */
     document.getElementById('anmeldeformular').className += ' active';
     document.getElementById('anmeldeformular-li').className += ' active';
+
+    /* remove the button */
+    $("#btn-gruppen-anmeldung").remove();
   }
+
+  $("#btn-gruppen-anmeldung").on('click', function() {
+    /* make form visible */
+    document.getElementById('anmeldeformular').className += ' active';
+    document.getElementById('anmeldeformular-li').className += ' active';
+
+    /* remove the button */
+    $("#btn-gruppen-anmeldung").remove();
+  });
 </script>
 {% include block/piwik-tracking.html %}
 </body>

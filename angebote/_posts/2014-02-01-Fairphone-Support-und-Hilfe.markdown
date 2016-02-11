@@ -157,10 +157,10 @@ Wir beantworten Ihre Fragen rund um Software (App-, Mail-, Kontaktverwaltung, SM
   <ul id="fairphone-workshop-anmeldung-accordion" class="accordion" data-accordion data-options="toggleable: false">
     <a name="anmelden"></a>
     <li id="anmeldeformular-li" class="accordion-navigation">
-      <a class="button" href="#anmeldeformular">Jetzt anmelden</a>
+      <a id="btn-gruppen-anmeldung" class="button" href="#anmeldeformular">Jetzt anmelden</a>
       <div id="anmeldeformular" class="content">
       <div class="panel" style="background-color:#0da557;"><h3>Melden Sie sich für einen Fairphone-Workshop an:</h3></div>
-      <!-- ACCORDION CONTENT -->
+      <!-- BEGIN ACCORDION CONTENT -->
 <form style="text-align:left;" action="https://getsimpleform.com/messages?form_api_token=0cea77ae9f3d69f2e518d8b8a07044cc" method="post" data-abide>
   <input type='hidden' name='redirect_to' value='http://www.sinndrin.ch/angebote/fairphone/support-und-hilfe/anmeldebestaetigung/'>
   <div class="row">
@@ -229,7 +229,7 @@ Wir beantworten Ihre Fragen rund um Software (App-, Mail-, Kontaktverwaltung, SM
   </div>
   <input class="button" type="submit" value="Verbindlich anmelden" />
 </form>
-      <!-- ACCORDION CONTENT -->
+      <!-- END ACCORDION CONTENT -->
       </div>
     </li>
   </ul>
