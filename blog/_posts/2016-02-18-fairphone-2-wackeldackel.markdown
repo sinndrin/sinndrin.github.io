@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Fairphone Wackeldackel"
+title: "Fairphone 2 Wackeldackel"
 subtitle: "Faiprhone 2 Verpackaktion für unsere schweizer Kundinnen und Kunden mit 150 fache Geschwindigkeit aufgenommen."
 image: /images/blog/fairphone-wackeldackel.jpg
 date: 2016-02-18 16:00:00
