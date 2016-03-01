@@ -17,7 +17,7 @@ title:  "HTML & CSS Grundlagen"
 </ul>
 
 <h2>Slides / Unterrichtsmaterialien</h2>
-<p>Hier sind alle Slides und Unterlagen aufgelistet, die nicht im <a href="https://trello.com/b/hlArimBF/kunstschule-html-css-2015">Trello-Board</a> aufgeführt sind.</p>
+<p>Hier sind alle Slides und Unterlagen aufgelistet, die nicht im <a href="https://trello.com/b/gRKOqVTC">Trello-Board</a> aufgeführt sind.</p>
 
 <h3>Tag 1</h3>
 <ul>
