@@ -12,18 +12,22 @@ title: "Fairphone Support und Hilfe"
 ---
 <div class="angebot-top-wide"><img title="Fairphone Support und Hilfe" src="/images/angebote/fairphone-support-und-hilfe-sub.png"></div>
 
+Bitte besuchen Sie <b>vor jeder Kontaktaufnahme</b> unsere <a href="http://support.sinndrin.org/de"><i class="fi-page-multiple"></i> Fairphone Support Seite</a> und prüfen Sie, ob Ihr Problem bereits bekannt ist und eine Lösung dafür angeboten wird. Weiter ist es empfehlenswert, wenn Sie sich auch auf der <a href="https://fairphone.zendesk.com">offiziellen Fairphone.com Support Seite</a> nach einer Lösung für ihr Problem umschauen.
+
+Ferner gibt es eine sehr aktive Facebook Hilfe Gruppe, die <a href="https://www.facebook.com/groups/469967869751560/">Swiss Friends of Fairphone</a> und das belebte <a href="http://forum.fairphone-freunde.de/">Forum der fairphone-freunde.de</a>, wo die Gemeinschaft schnell und Kompetent auf Ihre Fragen eingeht.
+
 ## Was möchten Sie tun?
 
 <div class="row" data-equalizer>
   <div class="small-6 medium-4 large-4 columns" data-equalizer-watch>
-    <a href="/ueber-uns/kontakt/">
+    <a href="http://support.sinndrin.org/de/topics/new">
     <div class="panel callout text-center" style="min-height: 134px;">
     <i class="fi-asterisk" style="font-size: 2.6875rem;"></i><br><br>Garantiefall melden
     </div>
     </a>
   </div>
   <div class="small-6 medium-4 large-4 columns" data-equalizer-watch>
-    <a href="/hintergrundwissen/selbststaendige-fairphone-fehlerbehebung-und-diagnose-faq/">
+    <a href="http://support.sinndrin.org/de">
     <div class="panel callout text-center" style="min-height: 134px;">
     <i class="fi-lightbulb" style="font-size: 2.6875rem;"></i><br><br>Problem selber lösen
     </div>

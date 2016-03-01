@@ -25,6 +25,7 @@ title:  "Kontakt"
   CH-8152 Glattbrugg<br></a>
   <i class="fi-telephone"></i> 044 534 64 54<br>
   <a href="mailto:info@sinndrin.ch"><i class="fi-mail"></i> info@sinndrin.ch</a><br><br>
+  <b>Fairphone Support:</b><br><a href="http://support.sinndrin.org/de"><i class="fi-page-multiple"></i> Fairphone Support Seite</a><br><a href="mailto:support@sinndrin.ch"><i class="fi-mail"></i> support@sinndrin.ch</a><br><br>
   MWST-Nr.: CHE-259.799.074 MWST<br>
   <a href="http://zh.powernet.ch/webservices/inet/HRG/HRG.asmx/getHRGHTML?chnr=0205000489&amp;amt=020&amp;toBeModified=0&amp;validOnly=0&amp;lang=1&amp;sort=0"><i class="fi-info"></i> Handelsregistereintrag</a><br>
   <a href="#bankverbindung"><i class="fi-bitcoin-circle"></i> Bankverbindung</a><br><br>
