@@ -9,7 +9,7 @@ title: "Fairphone Reparatur"
 ---
 <div class="angebot-top-wide"><img title="Fairphone Reparatur" src="/images/angebote/fairphone-reparaturwerkstatt.jpg"></div>
 
-In unserem [Büro in Glattbrugg][kontakt] bieten wir einen Reparaturservice für Ihr Fairphone. [Kontaktieren][kontakt] Sie uns für eine unverbindliche Offerte. Egal ob es sich um ein kaputtes Display, Softwareprobleme oder anderweitige Anliegen handelt. Wir stehen eng mit dem Reparaturcenter von Fairphone in Kontakt, um eine schnelle Abwicklung ihres Falles zu ermöglichen. Bei den Reparaturen orientieren sich unsere Preise an denen von Fairphone.
+In unserem [Büro in Glattbrugg][kontakt] bieten wir einen Reparaturservice für Ihr Fairphone. [Kontaktieren][ticket] Sie uns für eine unverbindliche Offerte. Egal ob es sich um ein kaputtes Display, Softwareprobleme oder anderweitige Anliegen handelt. Wir stehen eng mit dem Reparaturcenter von Fairphone in Kontakt, um eine schnelle Abwicklung ihres Falles zu ermöglichen. Bei den Reparaturen orientieren sich unsere Preise an denen von Fairphone.
 
 **Vielleicht können Sie Ihr Problem auch selbständig durch einen der [zahlreichen Tipps][faq] beheben und eine Kontaktaufnahme mit uns erübrigt sich.**
 
@@ -17,7 +17,7 @@ In unserem [Büro in Glattbrugg][kontakt] bieten wir einen Reparaturservice für
 
 ## Reparaturabwicklung
 
-Wenn Sie ihr Fairphone von uns repariren lassen möchten, können sie das Gerät entweder persönlich bei uns in Glattbrugg vorbei bringen oder per Post an uns senden. **[Kontaktieren][kontakt] Sie uns in jedem Fall vorgängig damit das Vorgehen geklärt werden kann.**
+Wenn Sie ihr Fairphone von uns repariren lassen möchten, können sie das Gerät entweder persönlich bei uns in Glattbrugg vorbei bringen oder per Post an uns senden. **[Kontaktieren][ticket] Sie uns in jedem Fall vorgängig, damit das Vorgehen geklärt werden kann.**
 
 ### Wenn Sie das Gerät vorbei bringen
 
@@ -48,8 +48,9 @@ Die Reparatur wird in unserer voll ausgestatteten Werkstatt durchgeführt. Die A
 
 {% include block/fairphone-crosslinks.html %}
 
-[faq]: /hintergrundwissen/selbststaendige-fairphone-fehlerbehebung-und-diagnose-faq/
+[faq]: http://support.sinndrin.org
 [kontakt]: /ueber-uns/kontakt/
-[backup]: /hintergrundwissen/selbststaendige-fairphone-fehlerbehebung-und-diagnose-faq#backup
+[backup]: http://support.sinndrin.org/de/knowledgebase/3/docs/8-Datensicherung-Backup
 [reparaturformular]: /assets/files/fairphone/Fairphone-Reparaturformular-sinndrin-genossenschaft.pdf
 [ifixit]: https://de.ifixit.com/Device/Fairphone
+[ticket]: http://support.sinndrin.org/de/topics/new
