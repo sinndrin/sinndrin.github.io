@@ -115,7 +115,7 @@ Dank Resesellerrabatt sowie Einsparungen bei Versand und Zollgebühren ist es un
 
 Quelle: [https://www.fairphone.com/technical-specifications/](https://www.fairphone.com/technical-specifications/)
 
-##<a name="weiterführendeinformationen"></a> Weiterführende Informationen
+## <a name="weiterführendeinformationen"></a> Weiterführende Informationen
 <a href="https://www.fairphone.com/phone/"><img src="/images/angebote/fairphone/fairphone-2-interaktive-webseite.jpg" alt="Interaktive Webseite für das Fairphone 2" /></a>
 Weitere Informationen können auf der interaktiven [Fairphone 2](https://www.fairphone.com/phone/) Webseite abgerufen werden.
 
