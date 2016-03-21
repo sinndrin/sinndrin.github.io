@@ -43,7 +43,7 @@ Dank Resesellerrabatt sowie Einsparungen bei Versand und Zollgebühren ist es un
 
 <img src="/images/angebote/fairphone/cost_breakdown_fairphone2_sinndrin.jpg" alt="sinndrin genossenschaft Fairphone 2 cost breakdown" />
 
-##<a name="spezifikationen"></a> Technische Spezifikationen des Fairphone 2
+## <a name="spezifikationen"></a> Technische Spezifikationen des Fairphone 2
 <div class="row">
 <div class="large-6 columns">
   <h3>Display</h3>
