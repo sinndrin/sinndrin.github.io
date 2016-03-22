@@ -1,6 +1,6 @@
 # Website for www.sinndrin.ch
 
-## Bildformate
+## Bildformate (in Pixel)
 
 * Angebote:
   * 1 Spalte: 803x100
