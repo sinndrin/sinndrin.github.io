@@ -9,8 +9,6 @@ title: "Energieanzeigen"
 ---
 <div class="angebot-top-wide"><img title="Energieanzeigen" src="/images/angebote/energieanzeigen_sub.jpg"></div>
 
-Wie viel Energie produziert mein erneuerbares Kraftwerk? Was könnte ich damit alles machen? Wie funktioniert mein Kraftwerk? Wo kommt die Energie her? Wo geht sie hin?
+Ihrer Energieanzeige sind fast keine Grenzen gesetzt. Sie kann spielerisch sein. Sie kann Wissen verbreiten. Sie kann auch beides und mehr. Sie kann aus Holz sein. Aus Metall oder anderen Materiallien. Sie kann bei einem Windpark stehen oder auf eine "versteckte" Photovoltaikanlage auf ihrem Dach aufmerksam machen.
 
-Wir bieten Ihnen den gegebenen Bedürfnissen angepasste Energieanzeigen. Unsere Energieanzeigen machen Energie greifbar, sind spielerisch, lehrreich und unkonventionell.
-
-Kontaktieren Sie uns und informieren Sie sich unverbindlich über die Möglichkeiten.
+Wir sind motiviert die verrücktesten Ideen mit ihnen zusammen umzusetzen und mit unserer internen Designabteilung gestalterisch auf ihre Bedürfnisse einzugehen.
