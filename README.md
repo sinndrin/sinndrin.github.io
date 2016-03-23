@@ -20,10 +20,10 @@
 ## Bilder mit Gimp bearbeiten
 
 * Bild zuschneiden
-Im "Werkzeugkasten" auf Skalpel-Symbol (ausschneiden) dann die benötigten Masse (siehe oben) eingeben. Mit gehaltener "SHIFT"-Taste den Bildausschnitt vergrössern und platzieren. Mit Enter bestätigen.
+  * Im "Werkzeugkasten" auf Skalpel-Symbol (ausschneiden) dann die benötigten Masse (siehe oben) eingeben. Mit gehaltener "SHIFT"-Taste den Bildausschnitt vergrössern und platzieren. Mit Enter bestätigen.
 
 * Bild auf grösse Skalieren
-Bild anwählen, im Menü unter Bild -> Bild scalieren wählen und gewünschte Masse eingeben
+  * Bild anwählen, im Menü unter Bild -> Bild scalieren wählen und gewünschte Masse eingeben
 
 * Bild exportieren
   * Datei -> exportieren als
