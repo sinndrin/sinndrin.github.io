@@ -4,7 +4,7 @@ categories: angebote
 tags:
   - Energie
 permalink: /angebote/energie/energieanzeigen/
-image: /images/angebote/energieanzeige.jpg
+image: /images/angebote/energieanzeige_sup.jpg
 title: "Die etwas andere Energieanzeige"
 ---
 <div class="angebot-top-wide"><img title="Energieanzeigen" src="/images/angebote/energieanzeigen_sub.jpg"></div>
