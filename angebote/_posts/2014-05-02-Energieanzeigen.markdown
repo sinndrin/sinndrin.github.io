@@ -3,7 +3,7 @@ layout: two-columns
 categories: angebote
 tags:
   - Energie
-permalink: /angebote/energie/energieanzeige/
+permalink: /angebote/energie/energieanzeigen/
 image: /images/angebote/energieanzeige.jpg
 title: "Die etwas andere Energieanzeige"
 ---
