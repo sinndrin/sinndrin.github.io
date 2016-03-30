@@ -4,7 +4,7 @@ categories: angebote
 tags:
   - Administration-und-IT
 permalink: /angebote/administration-und-it/z11-buero-atelier/
-image: /images/angebote/mit-uns-zusammen-arbeiten.jpg
+image: /images/angebote/z11-buero-atelier.jpg
 title: "Z11 Coworking, Bürogemeinschaft, Atelierräume"
 ---
 <p class="hide-for-large-up"><a href="#mome"><i class="fi-arrow-right"></i> zur Ausstellung von mome</a></p>
