@@ -37,7 +37,7 @@ title: "Z11 Coworking, Bürogemeinschaft, Atelierräume"
 <li>Bio-Lebensmittelverkauf</li>
 <li>Wechselnde Kunstausstellung</li>
 <li>Naherholung in unmittelbarer Nähe (Glattpark)</li>
-Briefkasten zur Mitbenutzung
+<li>Briefkasten zur Mitbenutzung</li>
 </ul>
 
 <h2>Hier ist Z11</h2>
