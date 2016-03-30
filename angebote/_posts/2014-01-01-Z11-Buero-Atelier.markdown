@@ -48,24 +48,6 @@ title: "Z11 Coworking, Bürogemeinschaft, Atelierräume"
 <a href="http://www.baz11.ch">www.baz11.ch</a><br>
 </p>
 
-</div>
-<!-- mome  -->
-<div class="panel large-4 columns" style="background-color: transparent;">
-<a name="mome" target="_blank" href="http://www.mome-art.com/">
-<h4>Aktuelle Ausstellung von mome</h4>
-<h5>vom 13.12.15 bis 21.2.16</h5>
-<img width="207" alt="mome" src="/images/angebote/z11-buero-atelier/mome/mome1.jpg" />
-<h5><span class="mehr-button"><i class="fi-arrow-right"></i> mehr über mome <br> und Ihre Werke</span></h5>
-<p><b>Vernissage:</b><br>So, 13.12.15 13-16 Uhr<br><br>
-<b>Apero:</b><br> So, 21.12.15 13-16 Uhr<br>So, 31.01.16 13-16 Uhr<br><br>
-<b>Finissage:</b><br> So, 21.02.16 13-16 Uhr<br><br>
-<b>Generelle Öffnungszeiten:</b><br> Montag - Mittwoch 10-17 Uhr<br><br>
-<b>Ort:</b><br>In den Räumlichkeiten der Büro- & Ateliergemeinschaft <i>Z11 Büro Atelier</i> an der Zunstrasse 11 in 8152 Glattbrugg.<br><br>
-<b>Eintritt frei.</b></p>
-</a>
-</div>
-</div>
-
 <img alt="Z11 Büro Atelier" src="/images/angebote/z11-buero-atelier/raeume/DSC_0001.resized.JPG" /><br><br>
 <img alt="Z11 Büro Atelier" src="/images/angebote/z11-buero-atelier/raeume/DSC_0009.resized.JPG" /><br><br>
 <img alt="Z11 Büro Atelier" src="/images/angebote/z11-buero-atelier/raeume/DSC_0002.resized.JPG" /><br><br>
