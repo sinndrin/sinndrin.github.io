@@ -26,6 +26,7 @@ Wir möchten uns bei folgenden Menschen bedanken:
 * ... und alle Anderen die mitgeholfen haben und sich nun über das Resultat freuen dürfen
 
 Viele herzlichen Dank
+
 sinndrin genossenschaft
 
 [ez]: /angebote/energie/energieanzeigen/
