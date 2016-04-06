@@ -11,7 +11,7 @@ tags:
  - Georg Trapp
 ---
 
-Das lange warten hat ein Ende. Die Energieanzeige [Energieanzeige][ez] am Campus Reidbach in Wädenswil steht! Das Projekt findet am Mittwoch 13. April 2016 seinen Abschluss und wird mit einem kleinen Apéro gefeiert. Alle sind eingeladen die Energieanzeige in Wädenswil zu bestaunen. Ein in der Schweiz einzigartiges Projekt, dass das Thema Energie auf kreative Weise aufzeigt. Wir freuen uns einen Beitrag in der Sensibilisierung zu diesem Themas leisten zu können und hoffen die Anzeige führt zu weiteren kreativen Ansätzen und Visionen.
+Das lange warten hat ein Ende. Die Energieanzeige [Energieanzeige][ez] am Campus Reidbach in Wädenswil steht! Das Projekt findet am Mittwoch 13. April 2016 seinen Abschluss und wird mit einem kleinen Apéro ab 12.00 Uhr gefeiert. Alle sind eingeladen die Energieanzeige in Wädenswil zu bestaunen. Ein in der Schweiz einzigartiges Projekt, dass das Thema Energie auf kreative Weise aufzeigt. Wir freuen uns einen Beitrag in der Sensibilisierung zu diesem Themas leisten zu können und hoffen die Anzeige führt zu weiteren kreativen Ansätzen und Visionen.
 
 
 Wir möchten uns bei folgenden Menschen bedanken:
