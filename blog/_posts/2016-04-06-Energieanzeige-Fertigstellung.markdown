@@ -4,7 +4,7 @@ title: "Die Energieanzeige steht"
 subtitle: "Die Energieanzeige auf dem Campus Reidbach in Wädenswil wir eingeweiht"
 image: /images/blog/blog-energieanzeige-fertigstellung.jpg
 date: 2016-04-06 12:00:00
-published: true
+published: false
 categories: blog
 comments: true
 tags:
