@@ -4,11 +4,39 @@ categories: angebote
 tags:
   - Energie
 permalink: /angebote/energie/energieanzeigen/
-image: /images/angebote/energieanzeige_sup.jpg
+image: /images/angebote/energieanzeige_konzept_sup.jpg
 title: "Die etwas andere Energieanzeige"
 ---
-<div class="angebot-top-wide"><img title="Energieanzeigen" src="/images/angebote/energieanzeige.jpg"></div>
+<div class="angebot-top-wide"><img title="EnergieanzeigenKonzept" src="/images/angebote/energieanzeige_konzept.jpg"></div>
 
-Ihrer Energieanzeige sind fast keine Grenzen gesetzt. Sie kann spielerisch sein. Sie kann Wissen verbreiten. Sie kann auch beides und mehr. Sie kann aus Holz sein. Aus Metall oder anderen Materiallien. Sie kann bei einem Windpark stehen oder auf eine "versteckte" Photovoltaikanlage auf ihrem Dach aufmerksam machen.
+Wie funktioniert eine Energieproduktionsanlag? Wie viel Energie wird ins Stromnetz eingespeist? Was kann ich mit dieser Energie alles machen? 
 
-Wir sind motiviert die verrücktesten Ideen mit ihnen zusammen umzusetzen und mit unserer internen Designabteilung gestalterisch auf ihre Bedürfnisse einzugehen.
+Energieanzeigen der sinndrin genossenschaft informieren auf eine unkonventionelle Weise und verschaffen
+Verweilcharakter.
+
+<h3>Energieanzeige zur Sensibilisierung</h3>
+Mit Photovoltaikanlagen und anderen Kleinkraftwerken verschiebt sich die Stromproduktion von zentralen zu dezentralen Anlagen. Dieser Wandel bietet die Chance, die Bevölkerung gleichzeitig für das Thema Energie zu sensibilisieren.
+
+<h3>Unsere Energieanzeige</h3>
+Wir konzipieren interaktive, künstlerische und erlebnisreiche Installationen. Diese laden Beobachter dazu ein, Erkenntnisse über erneuerbare Energienanlagen auf eine unkonventionelle Weise zu gewinnen.
+
+<h3>Gestalterische Möglichkeiten</h3>
+Jede Installation ist ein Unikat und wird auf Kundenwusch angefertigt. Unsere Energieanzeigen sind für alle Arten von erneuerbaren Energienanlagen geeignet. Die Ausführung kann in verschiedenen Materialien wie Metall, Holz, Kunststoff, etc. erfolgen. Stationäre wie auch mobile Varianten für Messen oder Wanderausstellungen sind möglich.
+
+<h3>Fakten</h3>
+<ul>
+    <li>Die Sensibilisierung in Umwelt- und Energiethemen ist wichtig.</li>
+    <li>Konventionelle Energieanzeigen sind nur schwer verständlich und darum für ein Laienpublikum uninteressant, nicht so Energieanzeigen der sinndrin genossenschaft.</li>
+    <li>Die Möglichkeiten für innovative und individuelle Energieanzeigen sind vielfältig.</li>
+    <li>Unsere Energieanzeige wertet den Standort auf und schafft Verweilcharakter.</li>
+    <li>Kann ein erster Schritt hin zu einem lokalen Energie- oder Umwelterlebnispfad sein.</li>
+</ul>
+
+<h3>Referenzanzeige in Wädenswil</h3>
+<img alt="Energieanzeigen" src="/images/angebote/energieanzeige.jpg" /><br><br>
+Die Energieanzeige auf dem Campus Reidbach an der ZHAW Wädenswil in Form einer Kugelbahn zeigt auf, wie viel Strom die Photovoltaik-Anlage auf den Dächern des Tuwag-Areals im Moment produziert. Wenn eine Kilowattstunde produziert wurde, wird dies durch eine rote Kugel, die spielerisch durch die Kugelbahn läuft, dargestellt. Wurden 10 Kilowattstunden produziert, wird dies mit einer gravierten Holzkugel darstellt. Diese Kugeln stapeln sich in Säulen der entsprchenden Tages zeit und zeigen so die Tagesverlaufskurve. Weiter zeigen die Kugeln verschiedene Beispiele, was ein Stromkonsument mit der eingespeisten Energiemege alles machen könnte. [Hier][blogeroeffnungsfest] kommen sie zu unserem Blogeintrag vom Eröffnungsfest der Energieanzeige.
+
+Den Angebotsflyer für eine Energieanzeige der sinndrin genossenschaft finden sie [hier][angebotenergieanzeige]. Haben wir ihr Interesse geweckt? [Kontaktieren](/ueber-uns/kontakt/) sie uns mit ihrer Idee.
+
+[blogeroeffnungsfest]: /blog/2016/04/18/energieanzeige-fertigstellung/
+[angebotenergieanzeige]: assets/files/energieanzeige/Angebot-flyer-press03.pdf
