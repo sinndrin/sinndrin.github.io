@@ -36,7 +36,7 @@ Jede Installation ist ein Unikat und wird auf Kundenwusch angefertigt. Unsere En
 <img alt="Energieanzeigen" src="/images/angebote/energieanzeige.jpg" /><br><br>
 Die Energieanzeige auf dem Campus Reidbach an der ZHAW Wädenswil in Form einer Kugelbahn zeigt auf, wie viel Strom die Photovoltaik-Anlage auf den Dächern des Tuwag-Areals im Moment produziert. Wenn eine Kilowattstunde produziert wurde, wird dies durch eine rote Kugel, die spielerisch durch die Kugelbahn läuft, dargestellt. Wurden 10 Kilowattstunden produziert, wird dies mit einer gravierten Holzkugel darstellt. Diese Kugeln stapeln sich in Säulen der entsprchenden Tages zeit und zeigen so die Tagesverlaufskurve. Weiter zeigen die Kugeln verschiedene Beispiele, was ein Stromkonsument mit der eingespeisten Energiemege alles machen könnte. [Hier][blogeroeffnungsfest] kommen sie zu unserem Blogeintrag vom Eröffnungsfest der Energieanzeige.
 
-Den Angebotsflyer für eine Energieanzeige der sinndrin genossenschaft finden sie [hier][angebotenergieanzeige]. Haben wir ihr Interesse geweckt? [Kontaktieren](/ueber-uns/kontakt/) sie uns mit ihrer Idee.
+Auf dem [Angebotsflyer][angebotenergieanzeige] finden sie die Informationen für eine Energieanzeige der sinndrin genossenschaft kompakt zusammen gefasst. Haben wir ihr Interesse geweckt? [Kontaktieren](/ueber-uns/kontakt/) sie uns mit ihrer Idee.
 
 [blogeroeffnungsfest]: /blog/2016/04/18/energieanzeige-fertigstellung/
 [angebotenergieanzeige]: /assets/files/energieanzeige/Angebot-flyer-press03.pdf
