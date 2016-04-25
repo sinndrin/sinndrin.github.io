@@ -39,4 +39,4 @@ Die Energieanzeige auf dem Campus Reidbach an der ZHAW Wädenswil in Form einer 
 Den Angebotsflyer für eine Energieanzeige der sinndrin genossenschaft finden sie [hier][angebotenergieanzeige]. Haben wir ihr Interesse geweckt? [Kontaktieren](/ueber-uns/kontakt/) sie uns mit ihrer Idee.
 
 [blogeroeffnungsfest]: /blog/2016/04/18/energieanzeige-fertigstellung/
-[angebotenergieanzeige]: assets/files/energieanzeige/Angebot-flyer-press03.pdf
+[angebotenergieanzeige]: /assets/files/energieanzeige/Angebot-flyer-press03.pdf
