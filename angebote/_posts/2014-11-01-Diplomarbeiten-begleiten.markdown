@@ -15,11 +15,11 @@ Gemeinsam können wir für Ihr Interessengebiet ein praxistaugliches Exposé ers
 
 Mit uns zusammen können Sie das Verfassen einer „Schubladenarbeit“ vermeiden und schöpfen durch die ausgewogene Balance zwischen Theorie und Praxis neue Motivation. Ihr Beitrag an der praktischen Umsetzung ist erwünscht, aber nicht zwingend.
 
-## Arbeiten die begleitet wurden
+## Arbeiten die begleitet wurden:
 Nachfolgend finden Sie Arbeiten die bereits von uns begleitet wurden. Wenn Sie die gesamte Arbeit einsehen möchten können Sie uns gerne [kontaktieren](/ueber-uns/kontakt/).
 
 ### Kinderfreundliche Energieanzeige im Reidbachareal
-Semesterarbeit 2 von Gabriel Eberhard, Studienrichtung Umweltingenieurwesen
+Semesterarbeit 2 von Gabriel Eberhard - Studienrichtung Umweltingenieurwesen
 
 #### Zusammenfassung
 Auf dem Reidbachareal soll eine kinderfreundliche [Energieanzeige](/angebote/energie/energieanzeigen/) für die Solaranlagen auf den Dächern des TUWAG Areals entstehen. Die Idee dazu kam von der Genossenschaft Sinndrin und besteht aus einer Kugelbahn, bei der pro Kilowattstunde Strom eine Kugel runterfällt. Bei zehn Kilowattstunden soll eine grössere Kugel runterfallen und in einer der Tageszeit entsprechenden Säule liegen bleiben.
