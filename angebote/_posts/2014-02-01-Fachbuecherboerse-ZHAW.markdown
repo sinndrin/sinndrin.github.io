@@ -36,12 +36,6 @@ Alle auf diesem Weg nicht verkauften Bücher, werden an der nächstjährigen Fac
     <td>22</td>
   </tr>
   <tr>
-    <td>Biologie Oberstufe Gesamtband</td>
-    <td>Ulrich Weber</td>
-    <td>3-06-011104-9</td>
-    <td>10</td>
-  </tr>
-  <tr>
     <td>Biologie, 21. neu bearbeitete Auflage</td>
     <td>Linder</td>
     <td>3-507-10580-2</td>
@@ -182,35 +176,6 @@ Alle auf diesem Weg nicht verkauften Bücher, werden an der nächstjährigen Fac
     <td>Neumann, Jürgen </td>
     <td>978-3-540-72568-8 </td>
     <td>18</td>
-  </tr>
-  <tr>
-    <td>Der Bartgeier</td>
-    <td>Klaus Robin, Jürg Paul Müller, Thomas Pachlatko
-    </td>
-    <td>3-9522874-0-7</td>
-    <td>7</td>
-  </tr>
-  <tr>
-    <td>Der Ornothologische Beobachter Band 105 (2008) bis
-      112 (2015), 26 Hefte</td>
-    <td>CH-Gesellschaft für Vogelkunde und Vogelschutz
-    </td>
-    <td>www.vogelwarte.ch</td>
-    <td>8</td>
-  </tr>
-  <tr>
-    <td>Auftreten und Herkunft der Wasservögel am
-      Sempachersee, mit sep. Karte</td>
-    <td>Josef Hofer, Pius Korner-Nievergelt und Fränzi
-      Korner-Nievergelt</td>
-    <td>987-3-9521064-2-6</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>Avifauna der Schweiz, zweite Auflage</td>
-    <td>Raffael Winkler</td>
-    <td>3-9521064-1-0</td>
-    <td>5</td>
   </tr>
   <!--------------------------------------------------- END ------------------------------------------------------>
   </tbody>
@@ -359,12 +324,6 @@ Alle auf diesem Weg nicht verkauften Bücher, werden an der nächstjährigen Fac
     <td>20</td>
   </tr>
   <tr>
-    <td>Chemie 9. Auflage (Mortimer)</td>
-    <td>Charles E. Mortimer, Ulrich Müller</td>
-    <td>978-3-13-484309-5</td>
-    <td>28</td>
-  </tr>
-  <tr>
     <td>Chemie für Biologen, 3. Auflage</td>
     <td>Latscha, Kazmaier</td>
     <td>978-3-540-78842-3</td>
@@ -401,18 +360,6 @@ Alle auf diesem Weg nicht verkauften Bücher, werden an der nächstjährigen Fac
     <td>Neil E. Schore</td>
     <td>978-3-527-31526-0</td>
     <td>10</td>
-  </tr>
-  <tr>
-    <td>Anorganische Chemie machiato 2. Auflage</td>
-    <td>Kurt Haim, Johanna Lederer-Gamberger</td>
-    <td>978-3-86894-058-9</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>Organische Chemie macchiato</td>
-    <td>Kurt Haim, Johanna Lederer-Gamberger</td>
-    <td>978-3-86894-059-6</td>
-    <td>5</td>
   </tr>
   <tr>
     <td>Chemie 10. Auflage (Mortimer)</td>
@@ -609,12 +556,6 @@ Alle auf diesem Weg nicht verkauften Bücher, werden an der nächstjährigen Fac
     <td>9</td>
   </tr>
   <tr>
-    <td>Wirtschaftskrise ohne Ende? 3. Auflage</td>
-    <td>Aymo Brunetti</td>
-    <td>978-3-03905-882-9</td>
-    <td>15</td>
-  </tr>
-  <tr>
     <td>Lernen und Behalten</td>
     <td>Norbert M. Seel, Ulrike Hanke</td>
     <td>978-3-407-34208-9</td>
@@ -765,12 +706,6 @@ Alle auf diesem Weg nicht verkauften Bücher, werden an der nächstjährigen Fac
     <td>20</td>
   </tr>
   <tr>
-    <td>Phytomedizin grundwissen bachelor</td>
-    <td>J. Hallmann; A. Quadt-Hallmann; A. von Tiedemann</td>
-    <td>978-3-8252-2863-7</td>
-    <td>20</td>
-  </tr>
-  <tr>
     <td>Betriebswirtschaft und Management, 9. vollständig
       überarbeitete Auflage</td>
     <td>Thommen, Jean-Paul </td>
@@ -831,13 +766,6 @@ Alle auf diesem Weg nicht verkauften Bücher, werden an der nächstjährigen Fac
     <td>Walter Edelmann</td>
     <td>978-3-621-27465-4</td>
     <td>7</td>
-  </tr>
-  <tr>
-    <td>Allgemeine Geologie, Einfluss in das System Erde, 3.
-      Auflage</td>
-    <td>Frank Press / Raymond Siever</td>
-    <td>3-8274-0307-3</td>
-    <td>15</td>
   </tr>
   <tr>
     <td>Miteinander Reden 1, Störungen und Klärungen
@@ -932,12 +860,6 @@ Alle auf diesem Weg nicht verkauften Bücher, werden an der nächstjährigen Fac
     <td>k. Nipp, D. Stoffer</td>
     <td>3-7281-2818-x</td>
     <td>5</td>
-  </tr>
-  <tr>
-    <td>Physik Gymnasiale Oberstufe</td>
-    <td>Giancoli</td>
-    <td>978-3-86894-903-2</td>
-    <td>35</td>
   </tr>
   <tr>
     <td>Physik In einem Band</td>
@@ -1081,12 +1003,6 @@ Alle auf diesem Weg nicht verkauften Bücher, werden an der nächstjährigen Fac
     <td>50</td>
   </tr>
   <tr>
-    <td>Physik Gymnasiale Oberstufe</td>
-    <td>Giancoli</td>
-    <td>978-3-86894-903-2</td>
-    <td>30</td>
-  </tr>
-  <tr>
     <td>Physik für Dummies. Das Lehrbuch </td>
     <td>Kulisch, Wilhelm </td>
     <td>978-3-527-70923-6 </td>
@@ -1097,13 +1013,6 @@ Alle auf diesem Weg nicht verkauften Bücher, werden an der nächstjährigen Fac
     <td>Imboden, Dieter; Koch, Sabine </td>
     <td>978-3-540-43935-6 </td>
     <td>25</td>
-  </tr>
-  <tr>
-    <td>Vorkurs Mathematik, Ein Übungsbuch für
-      Fachhochschulen, 4. aktualisiserte Auflage</td>
-    <td>Michael Knorrenschild</td>
-    <td>978-3-446-43798-2</td>
-    <td>8</td>
   </tr>
   <tr>
     <td>Vorkurs Mathematik, Ein Übungsbuch für
@@ -1280,12 +1189,6 @@ Alle auf diesem Weg nicht verkauften Bücher, werden an der nächstjährigen Fac
     <td>3</td>
   </tr>
   <tr>
-    <td>Duden, Schülerduden Literatur</td>
-    <td> </td>
-    <td>3-411-05403-4</td>
-    <td>3</td>
-  </tr>
-  <tr>
     <td>Vocabulary for Toefl iBT</td>
     <td> </td>
     <td>978-1-57685-632-1</td>
@@ -1302,13 +1205,6 @@ Alle auf diesem Weg nicht verkauften Bücher, werden an der nächstjährigen Fac
     <td>Bernières, Louis de; Hopkins, Andy (Nacherz.)</td>
     <td>978-1-4058-8260-6 </td>
     <td>10</td>
-  </tr>
-  <tr>
-    <td>The Curious Incident of the Dog in the
-      Night-Time </td>
-    <td>Haddon, Mark </td>
-    <td>978-0-09-947043-4</td>
-    <td>9</td>
   </tr>
   <tr>
     <td>Wörterbuch Englisch, Langenscheidt,</td>
@@ -1394,12 +1290,6 @@ Alle auf diesem Weg nicht verkauften Bücher, werden an der nächstjährigen Fac
     <td>Peter Eisenhut</td>
     <td>978-3-7253-1018-0</td>
     <td>40</td>
-  </tr>
-  <tr>
-    <td>Volkswirtschaft verstehen, 5. Auflage</td>
-    <td>Beck, Bernhard </td>
-    <td>978-3-7281-3207-9 </td>
-    <td>15</td>
   </tr>
   <!--------------------------------------------------- END ------------------------------------------------------>
 </tbody>
