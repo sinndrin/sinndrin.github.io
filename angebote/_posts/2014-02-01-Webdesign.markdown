@@ -13,6 +13,6 @@ Wir bieten Ihnen einen kompletten Webseiten-Service vom Design über Programmier
 
 Wir gestalten ausschliesslich Internetseiten, die sowohl auf dem PC/ Laptop als auch auf kleineren Bildschirmen von Smartphones und Tablets funktionieren.
 
-Bei der Umsetzung gehen wir auf Ihre persönlichen Wünsche ein und besitzen bezüglich Details und Raffinessen ein umfangreiches Repertoire. Es ist uns wichtig, dass Ihr Internetauftritt mit Ihrem Unternehmenskonzept harmonisiert.
+Bei der Umsetzung gehen wir auf Ihre persönlichen Wünsche ein und besitzen bezüglich Details und Raffinessen ein umfangreiches Repertoire. Es ist uns wichtig, dass Ihr Internetauftritt mit Ihrem Unternehmenskonzept harmonisiert. Für den optischen Feinschliff steht für Sie unser Designspezialist [Jon](/ueber-uns/team/jon-glarbo/) zur Seite.
 
 Wir verwenden und unterstützen freie Software mit offenem Quellcode (Open Source).
