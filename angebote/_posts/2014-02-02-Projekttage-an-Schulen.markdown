@@ -15,7 +15,7 @@ title: "Projekttage an Schulen"
 
 Im Vordergrund steht das Lernerlebnis. Den Schülern und Schülerinnen wird eine möglichst interaktive Lernumgebung geboten, auf Frontalunterricht wird wo möglich verzichtet. Es darf mitgestaltet, mitdiskutiert, mitgebaut und mitgelacht werden. Es ist uns wichtig, dass die Projekttage in den Lehrplan Ihres Unterrichtes passen.
 
-###Mögliche Themen könnten sein
+### Mögliche Themen könnten sein
 
 - Energie: Was ist das? Energie im Alltag (Heizen, Strom, Verkehr, etc.). Energie sparen!
 - Wasser: Wasserkreislauf, Wasserreinigung, Wasserkraft, Wasser sparen.
