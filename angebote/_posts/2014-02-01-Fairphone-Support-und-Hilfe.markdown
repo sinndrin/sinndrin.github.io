@@ -108,7 +108,7 @@ Wir beantworten Ihre Fragen rund um Software (App-, Mail-, Kontaktverwaltung, SM
               <div class="large-3 columns">
                 <ul>
                   <li><h5>Bern</h5></li>
-                  <li><span data-tooltip aria-haspopup="true" class="has-tip" title="Dieser Workshop kostet aufgrund der langen Reisezeit der Experten unabhängig von der Gruppengrösse immer CHF 50.- pro Person." style="font-weight:normal;"><a href="#anmeldeformular" onClick="dateWorkshop = $(this).html(); clickAnmelden();">15.03.2016</a></span></li>
+                  <li>Zur Zeit keine Kurse geplant</li>
                 </ul>
               </div>
         <div class="large-3 columns">
