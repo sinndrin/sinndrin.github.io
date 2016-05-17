@@ -1,9 +1,9 @@
 ---
 layout: blog
 title: "Vernetzungswanderung 2016 von HOLON - Netzwerk für integrale Entwicklung, organisiert und durchgeführt von uns"
-subtitle: "spazieren, besichtigen, austauschen"
+subtitle: "Spazieren, besichtigen, austauschen"
 image: /images/blog/blog-vernetzungswanderung.jpg
-date: 2016-05-04 12:00:00
+date: 2016-05-04 13:00:00
 published: true
 categories:
  - blog
