@@ -14,7 +14,7 @@ tags:
 Das lange Warten hat ein Ende. Die [Energieanzeige][ez] am Campus Reidbach in Wädenswil steht! Das Projekt wurde am Mittwoch 13. April 2016 feierlich eingeweiht. Ein in der Schweiz einzigartiges Projekt, das das Thema Energie auf kreative Weise aufnimmt und spielerisch darüber informiert. Wir freuen uns einen Beitrag in der Sensibilisierung zu diesem Thema leisten zu können und hoffen, dass die Anzeige zu weiteren kreativen Ansätzen und Visionen führt.
 
 
-Wir möchten uns bei folgenden Menschen bedanken:
+Wir bedanken uns bei folgenden Menschen:
 
 * Hama von der [Sinnwerkstatt][sw] für die Konstruktion, Realisierung und Problembehebung
 * Martin von [360° Grün][3g] für die Unterstützung beim Bau des Fundamentes
