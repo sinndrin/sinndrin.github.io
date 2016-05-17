@@ -77,7 +77,7 @@ Wir beantworten Ihre Fragen rund um Software (App-, Mail-, Kontaktverwaltung, SM
     <ul class="pricing-table" data-equalizer-watch>
       <li class="title" style="font-size: 2.6875rem;"><i class="fi-torsos-female-male"></i><br>Per&shy;sön&shy;lich</li>
       <li class="price">CHF 90.-<br>pro Stunde<sup>1</sup></li>
-      <li class="description"><p>Supportstandorte in Glattbrugg, Stadt Zürich, Wädenswil und Winterthur oder bei Ihnen vor Ort.<sup>2</sup></p></li>
+      <li class="description"><p>Supportstandorte in Glattbrugg, Stadt Zürich und Winterthur oder bei Ihnen vor Ort.<sup>2</sup></p></li>
       <li class="cta-button"><a class="button" href="/ueber-uns/kontakt/">Jetzt anfordern</a></li>
       <li class="bullet-item">
         <sup>1</sup> Für Firmenkunden CHF 120.- pro Stunde.<br>
@@ -101,11 +101,11 @@ Wir beantworten Ihre Fragen rund um Software (App-, Mail-, Kontaktverwaltung, SM
   <li class="title" style="font-size: 2.6875rem;"><i class="fi-torsos-all"></i><i class="fi-torsos-all"></i><br>Fair&shy;phone-Work&shy;shop</li>
   <li class="price">CHF 35.- bis 50.-<br>für 2 Stunden<sup>4</sup></li>
   <li class="description"><p>Mit fachkundiger Unterstützung lösen Sie Ihre persönliche Fragestellung in der Gruppe. Pro 3-5 Teilnehmenden ist mindestens ein Experte vor Ort.</p></li>
-  <li class="bullet-item">Kursorte: Bern, Glattbrugg, Stadt Zürich, Wädenswil und Winterthur.</li>
+  <li class="bullet-item">Kursorte: Bern, Glattbrugg, Stadt Zürich und Winterthur.</li>
   <!-- FIXME: termine box with floating content does not expand to correct height -->
 
       <li class="bullet-item" style="min-width: 200px;"><h4>Termine</h4>
-              <div class="large-2 columns">
+              <div class="large-3 columns">
                 <ul>
                   <li><h5>Bern</h5></li>
                   <li><span data-tooltip aria-haspopup="true" class="has-tip" title="Dieser Workshop kostet aufgrund der langen Reisezeit der Experten unabhängig von der Gruppengrösse immer CHF 50.- pro Person." style="font-weight:normal;"><a href="#anmeldeformular" onClick="dateWorkshop = $(this).html(); clickAnmelden();">15.03.2016</a></span></li>
@@ -114,11 +114,10 @@ Wir beantworten Ihre Fragen rund um Software (App-, Mail-, Kontaktverwaltung, SM
         <div class="large-3 columns">
           <ul>
             <li><h5>Glattbrugg</h5></li>
-            <li><a href="#anmeldeformular" onClick="dateWorkshop = $(this).html(); clickAnmelden();">16.05.2016</a></li>
             <li><a href="#anmeldeformular" onClick="dateWorkshop = $(this).html(); clickAnmelden();">14.06.2016</a></li>
           </ul>
         </div>
-        <div class="large-2 columns">
+        <div class="large-3 columns">
           <ul>
             <li><h5>Zürich (Stadt)</h5></li>
             <li><a href="#anmeldeformular" onClick="dateWorkshop = $(this).html(); clickAnmelden();">01.06.2016</a></li>
@@ -126,16 +125,7 @@ Wir beantworten Ihre Fragen rund um Software (App-, Mail-, Kontaktverwaltung, SM
         </div>
         <div class="large-3 columns">
           <ul>
-            <li><h5>Wädenswil</h5></li>
-            <li><a href="#anmeldeformular" onClick="dateWorkshop = $(this).html(); clickAnmelden();">10.05.2016</a></li>
-            <li><a href="#anmeldeformular" onClick="dateWorkshop = $(this).html(); clickAnmelden();">30.05.2016</a></li>
-            <li><a href="#anmeldeformular" onClick="dateWorkshop = $(this).html(); clickAnmelden();">28.06.2016</a></li>
-          </ul>
-        </div>
-        <div class="large-2 columns">
-          <ul>
             <li><h5>Winterthur</h5></li>
-            <li><a href="#anmeldeformular" onClick="dateWorkshop = $(this).html(); clickAnmelden();">17.05.2016</a></li>
             <li><a href="#anmeldeformular" onClick="dateWorkshop = $(this).html(); clickAnmelden();">20.06.2016</a></li>
           </ul>
         </div>
@@ -186,14 +176,9 @@ Wir beantworten Ihre Fragen rund um Software (App-, Mail-, Kontaktverwaltung, SM
             <label>Kursdatum:
               <select id="datum" name="Datum" required>
                 <option value="">bitte wählen...</option>
-                <option value="10052016">10.05.16</option>
-                <option value="16052016">16.05.16</option>
-                <option value="17052016">17.05.16</option>
-                <option value="30052016">30.05.16</option>
                 <option value="01062016">01.06.16</option>
                 <option value="14062016">14.06.16</option>
                 <option value="20062016">20.06.16</option>
-                <option value="28062016">28.06.16</option>
               </select>
             </label>
             <small class="error">Bitte wählen sie ein Veranstaltungsdatum aus.</small>
