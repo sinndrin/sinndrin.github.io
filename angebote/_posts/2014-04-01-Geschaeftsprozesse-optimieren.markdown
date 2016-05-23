@@ -6,6 +6,7 @@ tags:
 permalink: /angebote/administration-und-it/geschaeftsprozesse-optimieren/
 image: /images/angebote/geschaeftsprozesse-optimieren.jpg
 title: "Geschäftsprozesse optimieren"
+published: flase
 ---
 <div class="angebot-top-wide"><img title="Geschäftsprozesse optimieren" src="/images/angebote/geschaeftsprozesse-optimieren_sub.jpg"></div>
 
