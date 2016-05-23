@@ -2,3 +2,6 @@ name: sinndrin genossenschaft
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
+
+future: true
+timezone: Europe/Berlin
