@@ -6,6 +6,7 @@ tags:
 permalink: /angebote/suffizienz/offener-spieleabend/
 image: /images/angebote/offener-spieleabend.jpg
 title: "Offener Spieleabend"
+published: false
 ---
 <div class="angebot-top-wide"><img title="Fachbücherbörse" src="/images/angebote/offener-spieleabend_sub.jpg"></div>
 
