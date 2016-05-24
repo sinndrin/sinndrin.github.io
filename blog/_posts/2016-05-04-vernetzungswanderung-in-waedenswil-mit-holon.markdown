@@ -2,7 +2,7 @@
 layout: blog
 title: "Ver&shy;net&shy;zungs&shy;wan&shy;de&shy;rung HOLON am 4. Juni 2016 wird von uns durchgeführt"
 subtitle: "Spazieren, besichtigen, austauschen"
-image: /images/blog/blog-vernetzungswanderung.jpg
+image: /images/blog/blog-vernetzungswanderung-2.jpg
 date: 2016-05-04 13:00:00
 published: true
 categories:
