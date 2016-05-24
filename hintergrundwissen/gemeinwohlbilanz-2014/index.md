@@ -3,7 +3,7 @@ layout: two-columns
 title:  "Gemeinwohlbilanz 2014"
 published: true
 ---
-<p><img class="leadimage right" width="120" title="Gemeinwohlbilanz" src="/hintergrundwissen/gemeinwohlbilanz2014/hintergrundwissen-gwb-2014.jpg"> 
+<img class="leadimage right" width="120" title="Gemeinwohlbilanz" src="/hintergrundwissen/gemeinwohlbilanz2014/hintergrundwissen-gwb-2014.jpg"> 
 
 Die Gemeinwohlbilanz ist das „Herzstück“ der [Gemeinwohl-Ökonomie][gwö]. Sie stellt den Menschen und alle Lebewesen sowie das 
 Gelingen der Beziehungen zwischen ihnen in den Mittelpunkt des Wirtschaftens. Sie überträgt die heute schon gültigen Beziehungs-
@@ -70,11 +70,11 @@ Wir stehen in Kontakt mit der Regionalgruppe GWÖ-Luzern. Kontaktperson: Ralf Na
 
 ## Selbsteinschätzung, Negativkriterien und Resultat
 
-<p><img src="/hintergrundwissen/gemeinwohlbilanz2014/images/gwb_1.jpg"> 
+<img src="/hintergrundwissen/gemeinwohlbilanz2014/images/gwb_1.jpg"> 
 
-<p><img src="/hintergrundwissen/gemeinwohlbilanz2014/images/gwb_2.jpg"> 
+<img src="/hintergrundwissen/gemeinwohlbilanz2014/images/gwb_2.jpg"> 
 
-<p><img src="/hintergrundwissen/gemeinwohlbilanz2014/images/gwb_3.jpg"> 
+<img src="/hintergrundwissen/gemeinwohlbilanz2014/images/gwb_3.jpg"> 
 
 |Indikator|Selbst-Einschätzung (%)|
 |---------|-----------------------|
