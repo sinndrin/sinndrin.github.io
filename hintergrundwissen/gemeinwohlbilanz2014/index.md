@@ -270,8 +270,6 @@ folgt und dass die sinndrin genossenschaft diesen auch gerecht werden soll.
 #### C2.1 Senkung der Normalarbeitszeit
 * Eigeneinschätzung: 100% (Vorbildlich)
 
-**Kennzahlen**
-
 * Durchschnittliche Arbeitszeit je Beschäftigtem: 35%-Pensum
 * Geleistete Überstunden je Mitarbeitende: Keine, die Überzeit gibt es statistisch nicht, da keine Arbeitsverträge mit 
 festgelegten Stellenprozenten existieren.
@@ -284,8 +282,6 @@ Fix-Termin, welcher, wenn irgend möglich, wahrgenommen werden soll.
 
 #### C2.2 Erhöhung des Anteils der Teilzeit-Arbeitsmodelle und Einsatz von Zeitarbeit
 * Eigeneinschätzung: 100% (Vorbildlich)
-
-**Kennzahlen**
 
 * Zeitarbeitsquote: 0%
 * Teilzeitquote: 100%
@@ -310,8 +306,6 @@ sowie die bewusst vegetarisch/vegane Ernährung in den Mittagspausen.
 #### C3.1 Ernährung während der Arbeitszeit
 * Eigeneinschätzung: 90% (Vorbildlich)
 
-**Kennzahlen/ wichtige Daten**
-
 ||Teilweise vegetarisch/vegan|Mehrheitlich veget./vegan|Überwiegend veget./vegan|Bio-Anteil (in%)|
 |-------------------------------------------|---------------------------|-------------------------|------------------------|----------------|
 |Angebote im Unternehmen (% uale Verteilung)| | |x|65%|
@@ -327,8 +321,6 @@ führt zu weniger, aber einem bewussteren Kaffeekonsum. Die Mitarbeitenden unter
 
 #### C3.2 Mobilität zum Arbeitsplatz
 * Eigeneinschätzung: 100% (Vorbildlich)
-
-**Kennzahlen pro Jahr**
 
 ||Gesamt KM für das Unternehmen|Durchschnittlich pro MA|
 |----|----|----|
@@ -660,8 +652,6 @@ Allerdings bestehen noch keine ausformulierten Ziele, um Umweltdaten systematisc
 #### E3.1 Absolute Auswirkungen
 * Eigeneinschätzung: 70% (Vorbildlich)
 
-Kennzahlen: Auflistung aller Emissionen/ möglichen negativen ökologischen Auswirkungen (gerne auch differenzierter)
-
 **Umweltdaten aller sinndrin GenossenschafterInnen (geschätzt)**
 
 |Aspekt|Gesamt|Pro MA|
@@ -708,8 +698,6 @@ gestalten.
 
 #### E4.1 Außenausschüttung
 * Eigeneinschätzung: 80% (Vorbildlich)
-
-**Kennzahl**
 
 Seit der Gründung der sinndrin genossenschaft wurden 0.00 % der jährlichen Gewinne an externe Eigentümer ausgeschüttet.
 
