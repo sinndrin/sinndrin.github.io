@@ -1,7 +1,7 @@
 ---
 layout: two-columns
 title:  "Gemeinwohlbilanz 2014"
-published: false
+published: true
 ---
 <p><img class="leadimage left" width="120" title="Gemeinwohlbilanz" src="/hintergrundwissen/gemienwohlbilanz2014/hintergrundwissen-gwb-2014.jpg"> 
 
