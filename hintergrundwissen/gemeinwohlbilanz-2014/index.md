@@ -1,15 +1,13 @@
 ---
 layout: two-columns
-title:  "Gemeinwohlbilanz 2014"
+title:  "Gemeinwohlbilanz 2014 der sinndrin genossenschaft"
 published: true
 ---
-Die Gemeinwohlbilanz ist das „Herzstück“ der [Gemeinwohl-Ökonomie][gwö]. Sie stellt den Menschen und alle Lebewesen sowie das 
+Die Gemeinwohlbilanz ist das "Herzstück" der [Gemeinwohl-Ökonomie][gwö]. Sie stellt den Menschen und alle Lebewesen sowie das 
 Gelingen der Beziehungen zwischen ihnen in den Mittelpunkt des Wirtschaftens. Sie überträgt die heute schon gültigen Beziehungs-
 und Verfassungswerte auf den Markt, indem sie die WirtschaftsakteurInnen dafür belohnt, dass sie sich human, wertschätzend, 
 kooperativ, solidarisch, ökologisch und demokratisch verhalten und organisieren. Sie macht die Werte der Gesellschaft zu den 
 Werten der Wirtschaft.
-
-# Gemeinwohlbilanz 2014
 
 ## Allgemeine Infos
 
