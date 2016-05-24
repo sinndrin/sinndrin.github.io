@@ -597,7 +597,8 @@ kreativen Planungsstufe.
 |Fairphonehandel|(4) Kommunikation / (8) schafft Identität und stützt soziale Werte / (9) Menschenwürde durch Fairtrade|fördert den global-sozialen Zusammenhalt / gibt den Konsumenten die Möglichkeit wertegerecht zu konsumieren|Kann zu Reboundeffekten im Ressourceverbr-auch führen durch Mehrkonsumation, da das gute Gewissen gefördert wird|
 |Bildung im erweiterten Nachhaltigkeitsbereich|(3) Naturverbunden / (4) Bildungssystem / (7) Fähigkeiten|Förderung im Umweltbewusstein / Mitgestaltung des alternativen Bildungssystems / fördert die Fähigkeiten einzelner Personen|die Reichweite ist beschränkt, es werden relativ wenige angesprochen, kann sich aber im Verlauf der Zeit potenzieren|
 |Reparatur von elektronischen Geräten|(5) Verantwortung / (7) Fähigkeiten und know-how|schont Ressourcen da nicht neu gekauft werden muss / fördert die Fähigkeiten der Mitarbeiter / wirkt gegen die geplante Obsoleszenz|beschränkt auf das Fairphone, daher ein kleiner Wirkungsbereich|
-|Fachbücherbörse|(3) Beziehung / (3) Naturverbunden / (8) Wert|führt Anbieter und Konsument zu einander / gibt den Konsumenten die Möglichkeit wertegerecht zu konsumieren|relativ kleiner Wirkungsbereich|Energieanzeigen|(4) Bildungssystem / (7) know-how|sensibilisiert und informiert über Energiekonsum und Endliche Ressourcen / führt bei Produzent und Konsument zu mehr know-how|ist für den Konsument ein Luxusprodukt|
+|Fachbücherbörse|(3) Beziehung / (3) Naturverbunden / (8) Wert|führt Anbieter und Konsument zu einander / gibt den Konsumenten die Möglichkeit wertegerecht zu konsumieren|relativ kleiner Wirkungsbereich|
+|Energieanzeigen|(4) Bildungssystem / (7) know-how|sensibilisiert und informiert über Energiekonsum und endliche Ressourcen / führt bei Produzent und Konsument zu mehr know-how|ist für den Konsument ein Luxusprodukt|
 
 #### E1.2 Ökologischer und sozialer Vergleich der Produkte/ Dienstleistungen mit Alternativen und ähnlichem Endnutzen
 * Eigeneinschätzung: 80% vorbildlich
@@ -751,7 +752,6 @@ Die Arbeit steht allen Mitarbeitenden zum lesen zur Verfügung. Auch werden alle
 lesen und Feedback zu geben. Voraussichtlich wird an der Generalversammlung (Frühling 2016) Teile der Bilanz vorgestellt.
 
 *Datum: 23. November 2015*
-
 
 <a name="sup1"><sup>1</sup></a>: [https://www.ecogood.org/gemeinwohl-bilanz/was-ist-die-gemeinwohl-bilanz](https://www.ecogood.org/gemeinwohl-bilanz/was-ist-die-gemeinwohl-bilanz)
 
