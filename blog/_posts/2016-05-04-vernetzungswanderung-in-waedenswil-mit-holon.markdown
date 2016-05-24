@@ -12,7 +12,7 @@ tags:
  - Georg Trapp
 ---
 Wir organisieren die diesjährige Vernetzungswanderung von [Holon][holon]. Am Samstag 4. Juni geht es nach Wädenswil zu den
-Gärten vom Campus Grüntal der ZHAW Wädenswil. Später gehts weiter zur Burgruine, wo sich die verschiedenen Organisationen vorstellen.
+Gärten vom Campus Grüntal der ZHAW Wädenswil. Später gehts weiter zur Burgruine, wo sich die verschiedenen Organisationen vorstellen. 
 
 Im zweiten Teil spazieren wir zum Campus Reidbach, wo wir die [Energieanzeige][ez] zeigen dürfen. 
 Der Ausklang des Anlasses findet auf dem Horn in Richterswil statt. Detailierte Informationen findet ihr auf diesem [Flyer][flyervernetzungswanderung]. 
