@@ -20,7 +20,7 @@ Wir bedanken uns bei folgenden Menschen:
 * Martin von [360° Grün][3g] für die Unterstützung beim Bau des Fundamentes
 * Reno von [mikronis GmbH][mi] für die Unterstützung bei der Programmierung
 * Gabriel für die Semesterarbeit zum Thema Steuerung und Programmierung 
-* Stefan für die geleistete Semesterarbeit zum Thema Umweltkommunikation
+* Stefan für die geleistete Semesterarbeit zum Thema Umweltkommunikation 
 * Peter für die Mitarbeit beim Bau vom Visier
 * Sven für die Hilfe in der Werkstatt und das Besorgen von Materialien
 * ... und allen Anderen, die mitgeholfen haben und sich nun über das Resultat freuen dürfen.
