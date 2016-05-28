@@ -22,7 +22,7 @@ Was sie abhebt von anderen Anbietern ist ihre Aufmerksamkeit auf die verwendeten
 
 **Stromallmend der Energie Genossenschaft**
 
-<img src="/images/angebote/stromallmend-kreis.jpg">
+<img src="/images/angebote/stromallmend-kreis-1.jpg">
 
 Haben sie kein eigenes Dach auf dem sie ein solares Kraftwerk realisieren können aber möchten sich trotzdem für die Energiewende aktiv einsetzen? Dann ist vielleicht die Stromallmend etwas für sie:
 
