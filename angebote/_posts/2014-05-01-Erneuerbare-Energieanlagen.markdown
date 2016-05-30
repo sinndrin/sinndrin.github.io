@@ -13,7 +13,7 @@ Spielen sie mit dem Gedanken eine Photovoltaik-Anlage auf ihrem Dach zu installi
 
 Mit der Energie Genossenschaft Schweiz als Partner haben wir einen Spezialisten rund um das Thema Photovoltaikanlagen. Ob Planung, Realisierung oder Wartung, die Energie Genossenschaft Schweiz hat langjährige Erfahrung mit PV-Anlagen. 
 
-Was sie abhebt von anderen Anbietern ist ihre Aufmerksamkeit auf die verwendeten Produkte und dass sie, wie wir, eine Gemeinwohlbilanz erstellt. Sie empfiehlt Komponenten, die einen möglichst kleine ökologischen Fussabdruck haben und Sozial gerecht produziert wurden. Mehr Informationen zur Energie Genossenschaft Schweiz finden sie auf http://www.energiegenossenschaft.ch/pv.
+Was sie abhebt von anderen Anbietern ist ihre Aufmerksamkeit auf die verwendeten Produkte und dass sie, wie wir, eine Gemeinwohlbilanz erstellt. Sie empfiehlt Komponenten, die einen möglichst kleine ökologischen Fussabdruck haben und Sozial gerecht produziert wurden. Mehr Informationen zur Energie Genossenschaft Schweiz finden sie auf diesem [Link](http://www.energiegenossenschaft.ch/pv).
 
 * [Gemeinwohlbilanz](/hintergrundwissen/gemeinwohlbilanz-2014/) der sinndrin genossenschaft
 * [Gemeinwohlbilanz](http://www.energiegenossenschaft.ch/wp2/wp-content/uploads/2015/12/151127_Gemeinwohl-Bericht-EGch-2014.pdf) der Energie Genossenschaft
