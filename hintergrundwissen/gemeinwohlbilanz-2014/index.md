@@ -8,6 +8,8 @@ Gelingen der Beziehungen zwischen ihnen in den Mittelpunkt des Wirtschaftens. Si
 
 # Gemeinwohlbilanz 2014 der sinndrin genossenschaft
 
+Die gesamte Gemeinwohlbilanz kann [hier](/hintergrundwissen/gemeinwohlbilanz-2014/gwb_sinndrin_genossenschaft.pdf) als PDF heruntergeladen werden.
+
 ## Allgemeine Infos
 
 * Stand: Geschäftsjahresabschluss 2014
