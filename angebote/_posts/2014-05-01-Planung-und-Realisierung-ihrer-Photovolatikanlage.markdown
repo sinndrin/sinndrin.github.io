@@ -3,7 +3,7 @@ layout: two-columns
 categories: angebote
 tags:
   - Energie
-permalink: /angebote/energie/erneuerbare-energieanlagen/
+permalink: /angebote/energie/planung-und-realisierung-ihrer-photovolatikanlage/
 image: /images/angebote/erneuerbare-energieanlagen.jpg
 title: "Planung und Realisierung ihrer Photovolatikanlage"
 ---
