@@ -19,4 +19,4 @@ Wir arbeiten bereits seit einiger Zeit mit der Energie Genossenschaft und ihrem 
 
 [gwb]: /hintergrundwissen/gemeinwohlbilanz-2014/
 [fp]: /angebote/fairphone-2/kaufen/
-[eg]: /angebote/energie/erneuerbare-energieanlagen/
+[eg]: /angebote/energie/planung-und-realisierung-ihrer-photovolatikanlage/
