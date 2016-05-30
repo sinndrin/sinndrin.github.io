@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: "Wir gehen in die Solarbranche mit einer Partnerschaft mit der Energie Genosschaft"
-subtitle: "Statt Konkurrenzen bauen wir Partnerschaften auf"
+title: "Partnerschaft mit der Energie Genosschaft"
+subtitle: "Statt Konkurrenzen bauen wir Partnerschaften in der Solarbranche auf"
 image: /images/blog/blog-partnerschaft-energiegenossenschaft.jpg
 date: 2016-05-29 08:00:00
 published: true
