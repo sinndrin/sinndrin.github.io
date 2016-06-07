@@ -7,9 +7,8 @@ permalink: /angebote/administration-und-it/z11-buero-atelier/
 image: /images/angebote/z11-buero-atelier-new.jpg
 title: "Z11 Coworking, Bürogemeinschaft, Atelierräume"
 ---
-<p class="hide-for-large-up"><a href="#mome"><i class="fi-arrow-right"></i> zur Ausstellung von mome</a></p>
 <div class="row">
-<div class="large-8 columns">
+<div class="large-12 columns">
 <img alt="Z11 Büro Atelier" src="/images/angebote/z11-buero-atelier/angebot/z11-1.jpg" /><br><br>
 <img alt="Z11 Büro Atelier" src="/images/angebote/z11-buero-atelier/angebot/z11-2.jpg" />
 <p><br>Wir vom <i>Z11 Büro Atelier</i> bieten dir eine anregende, flexible Arbeitsumgebung ab 220.- Fr./Monat.</p>
