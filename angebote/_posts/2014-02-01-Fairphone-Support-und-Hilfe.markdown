@@ -109,14 +109,14 @@ Wir beantworten Ihre Fragen rund um Software (App-, Mail-, Kontaktverwaltung, SM
                 <ul>
                   <li><h5>Bern</h5></li>
                   <li>Auf Anfrage.</li>
-                  <li>Zur Zeit sind keine Kurse geplant</li>
+                  <li>Zur Zeit sind keine Kurse geplant.</li>
                 </ul>
               </div>
         <div class="large-3 columns">
           <ul>
             <li><h5>Glattbrugg</h5></li>
             <li>Auf Anfrage.</li>
-            <li>Zur Zeit sind keine Kurse geplant</li>
+            <li>Zur Zeit sind keine Kurse geplant.</li>
           </ul>
         </div>
         <div class="large-3 columns">
