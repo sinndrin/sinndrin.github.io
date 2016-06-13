@@ -108,13 +108,15 @@ Wir beantworten Ihre Fragen rund um Software (App-, Mail-, Kontaktverwaltung, SM
               <div class="large-3 columns">
                 <ul>
                   <li><h5>Bern</h5></li>
-                  <li>Zur Zeit keine Kurse geplant</li>
+                  <li>Auf Anfrage.</li>
+                  <li>Zur Zeit sind keine Kurse geplant</li>
                 </ul>
               </div>
         <div class="large-3 columns">
           <ul>
             <li><h5>Glattbrugg</h5></li>
-            <li><a href="#anmeldeformular" onClick="dateWorkshop = $(this).html(); clickAnmelden();">14.06.2016</a></li>
+            <li>Auf Anfrage.</li>
+            <li>Zur Zeit sind keine Kurse geplant</li>
           </ul>
         </div>
         <div class="large-3 columns">
@@ -183,8 +185,6 @@ Wir beantworten Ihre Fragen rund um Software (App-, Mail-, Kontaktverwaltung, SM
             <label>Kursdatum:
               <select id="datum" name="Datum" required>
                 <option value="">bitte wählen...</option>
-                <option value="01062016">01.06.16</option>
-                <option value="14062016">14.06.16</option>
                 <option value="20062016">20.06.16</option>
                 <option value="26072016">26.07.16</option>
                 <option value="27072016">27.07.16</option>
