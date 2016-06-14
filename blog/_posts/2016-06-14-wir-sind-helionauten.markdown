@@ -2,7 +2,7 @@
 layout: blog
 title: "Wir sind Helionauten!"
 subtitle: "Ein goldener Kugelschreiber für eine sonnige Zukunft."
-image: images/blog/energie-genossenschaft-golden-pen2.jpg
+image: /images/blog/energie-genossenschaft-golden-pen2.jpg
 date: 2016-06-14 10:00:00
 published: true
 categories: blog
