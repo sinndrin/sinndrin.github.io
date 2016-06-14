@@ -108,25 +108,34 @@ Wir beantworten Ihre Fragen rund um Software (App-, Mail-, Kontaktverwaltung, SM
               <div class="large-3 columns">
                 <ul>
                   <li><h5>Bern</h5></li>
-                  <li>Zur Zeit keine Kurse geplant</li>
+                  <li>Auf Anfrage.</li>
+                  <li>Zur Zeit sind keine Kurse geplant.</li>
                 </ul>
               </div>
         <div class="large-3 columns">
           <ul>
             <li><h5>Glattbrugg</h5></li>
-            <li><a href="#anmeldeformular" onClick="dateWorkshop = $(this).html(); clickAnmelden();">14.06.2016</a></li>
+            <li>Auf Anfrage.</li>
+            <li>Zur Zeit sind keine Kurse geplant.</li>
           </ul>
         </div>
         <div class="large-3 columns">
           <ul>
             <li><h5>Zürich (Stadt)</h5></li>
-            <li><a href="#anmeldeformular" onClick="dateWorkshop = $(this).html(); clickAnmelden();">01.06.2016</a></li>
+            <li><a href="#anmeldeformular" onClick="dateWorkshop = $(this).html(); clickAnmelden();">27.07.2016</a></li>
+            <li><a href="#anmeldeformular" onClick="dateWorkshop = $(this).html(); clickAnmelden();">23.08.2016</a></li>
+            <li><a href="#anmeldeformular" onClick="dateWorkshop = $(this).html(); clickAnmelden();">19.09.2016</a></li>
+            <li><a href="#anmeldeformular" onClick="dateWorkshop = $(this).html(); clickAnmelden();">26.10.2016</a></li>
+            <li><a href="#anmeldeformular" onClick="dateWorkshop = $(this).html(); clickAnmelden();">21.11.2016</a></li>
+            <li><a href="#anmeldeformular" onClick="dateWorkshop = $(this).html(); clickAnmelden();">13.12.2016</a></li>
           </ul>
         </div>
         <div class="large-3 columns">
           <ul>
             <li><h5>Winterthur</h5></li>
             <li><a href="#anmeldeformular" onClick="dateWorkshop = $(this).html(); clickAnmelden();">20.06.2016</a></li>
+            <li><a href="#anmeldeformular" onClick="dateWorkshop = $(this).html(); clickAnmelden();">26.07.2016</a></li>
+            <li><a href="#anmeldeformular" onClick="dateWorkshop = $(this).html(); clickAnmelden();">20.09.2016</a></li>
           </ul>
         </div>
       </li>
@@ -176,9 +185,15 @@ Wir beantworten Ihre Fragen rund um Software (App-, Mail-, Kontaktverwaltung, SM
             <label>Kursdatum:
               <select id="datum" name="Datum" required>
                 <option value="">bitte wählen...</option>
-                <option value="01062016">01.06.16</option>
-                <option value="14062016">14.06.16</option>
                 <option value="20062016">20.06.16</option>
+                <option value="26072016">26.07.16</option>
+                <option value="27072016">27.07.16</option>
+                <option value="23082016">23.08.16</option>
+                <option value="19092016">19.09.16</option>
+                <option value="20092016">20.09.16</option>
+                <option value="26102016">26.10.16</option>
+                <option value="21112016">21.11.16</option>
+                <option value="13122016">13.12.16</option>
               </select>
             </label>
             <small class="error">Bitte wählen sie ein Veranstaltungsdatum aus.</small>
