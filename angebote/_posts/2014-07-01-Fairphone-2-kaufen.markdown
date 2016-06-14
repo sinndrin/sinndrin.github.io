@@ -21,6 +21,8 @@ Das Fairphone 2 bringt Innovationen, welche die Lebensspanne des Telefons verlä
 * Schneller und effektiver Support durch langjährige Zusammenarbeit mit Fairphone
 
 <ul class="clearing-thumbs" data-clearing>
+  <li><a href="/images/angebote/fairphone/fp2-front.jpg"><img src="/images/angebote/fairphone/fp2-front-tumb.jpg"></a></li>
+  <li><a href="/images/angebote/fairphone/fp2-side.jpg"><img src="/images/angebote/fairphone/fp2-side-tumb.jpg"></a></li>
   <li><a href="/images/angebote/fairphone/fp2-bl-matt.jpg"><img src="/images/angebote/fairphone/fp2-bl-matt-tumb.jpg"></a></li>
   <li><a href="/images/angebote/fairphone/fp2-bl-trans.jpg"><img src="/images/angebote/fairphone/fp2-bl-trans-tumb.jpg"></a></li>
   <li><a href="/images/angebote/fairphone/fp2-sw-matt.jpg"><img src="/images/angebote/fairphone/fp2-sw-matt-tumb.jpg"></a></li>
