@@ -20,6 +20,8 @@ Das Fairphone 2 bringt Innovationen, welche die Lebensspanne des Telefons verlä
 * 2 Jahre Garantie
 * Schneller und effektiver Support durch langjährige Zusammenarbeit mit Fairphone
 
+<br>
+
 <ul class="clearing-thumbs" data-clearing>
   <li><a href="/images/angebote/fairphone/fp2-front.jpg"><img src="/images/angebote/fairphone/fp2-front-tumb.jpg"></a></li>
   <li><a href="/images/angebote/fairphone/fp2-side.jpg"><img src="/images/angebote/fairphone/fp2-side-tumb.jpg"></a></li>
