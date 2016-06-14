@@ -119,13 +119,19 @@ Jedes Smartphone enthält über 30 verschiedene Mineralien. Alle Mineralien und 
 
 ### Design
 
+<img src="/images/angebote/fairphone/design.jpg" alt="sinndrin genossenschaft Fairphone 2 Design" />
+
 Produkte der Unterhaltungselektronik werden häufig als leicht austauschbar betrachtet. Nutzer verlieren zunehmend die Möglichkeit, ihre Geräte zu modifizieren, zu reparieren und die Herstellungsprozesse genau nachzuvollziehen. Da wir unser Telefon selbst designen, können wir Einfluss auf die Lieferkette sowie den Lebenszyklus des Produktes nehmen, und so gezielt Themen wie Langlebigkeit und Reparierbarkeit des Gerätes aufgreifen. Mit unserem Design wollen wir die Beziehung zwischen Menschen und ihren Produkten verändern und dadurch den Käufern mehr Kontrolle und Eigenverantwortung für ihre Telefone ermöglichen.
 
 ### Produktion
 
+<img src="/images/angebote/fairphone/produktion.jpg" alt="sinndrin genossenschaft Fairphone 2 Produktion" />
+
 Die Herstellung von Unterhaltungselektronik ist anspruchsvoll und beinhaltet arbeitsintensive Produktionsprozesse. Oftmals erhalten die Arbeitnehmer weder existenzsichernde Löhne noch eine Arbeitnehmervertretung und müssen unter gesundheitsgefährdenden Arbeitsbedingungen viele Überstunden verrichten. Diese Probleme sind systembedingt vielschichtig und können nicht auf Anhieb beseitigt werden. Um einen positiven Wandel einzuleiten, legen wir Wert auf transparente, kollaborative und beidseitig vorteilhafte Beziehungen mit Herstellern, die dazu bereit sind, in das Wohlbefinden ihrer Angestellten zu investieren.
 
 ### Lebenszyklus
+
+<img src="/images/angebote/fairphone/lebenszyklus.jpg" alt="sinndrin genossenschaft Fairphone 2 Lebenszyklus" />
 
 Jedes Jahr werfen Verbraucher Millionen von Mobiltelefonen weg und tragen dadurch zur weltweiten Elektroschrottkrise bei. Gründe dafür sind, dass viele Telefone nicht auf Langlebigkeit konzipiert sind und wir als Verbraucher ständig nach Upgrades für unsere Geräte suchen. Obwohl viele europäische Länder Recyclingprogramme für Elektroschrott eingeführt haben, werden gebrauchte oder beschädigte elektronische Geräte laufend in Entwicklungsländer exportiert, denen es an angemessenen Recycling-Anlagen fehlt. Der Großteil des Elektroschrotts wird entweder verbrannt oder auf Müllhalden deponiert. Dadurch werden giftige und für Mensch und Umwelt schädliche Substanzen freigesetzt. Wir bei Fairphone versuchen, die gesamte Lebensdauer des Mobiltelefons zu betrachten, einschließlich Gebrauch, Wiederverwendung und einem sicheren Recycling.
 
