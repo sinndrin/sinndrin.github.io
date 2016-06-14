@@ -20,6 +20,10 @@ Das Fairphone 2 bringt Innovationen, welche die Lebensspanne des Telefons verlä
 * 2 Jahre Garantie
 * Schneller und effektiver Support durch langjährige Zusammenarbeit mit Fairphone
 
+<ul class="clearing-thumbs" data-clearing>
+  <li><a href="/images/angebote/fairphone/fp2-sw-matt.jpg"><img src="/images/angebote/fairphone/fp2-sw-matt.jpg"></a></li>
+</ul>
+
 <br>
 
 <a href="http://fairphone.faircustomer.ch/" class="button"><i class="fi-arrow-right"></i> Fairphone 2 kaufen</a>
