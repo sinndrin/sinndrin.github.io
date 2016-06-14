@@ -13,6 +13,8 @@ Das Fairphone 2 bringt Innovationen, welche die Lebensspanne des Telefons verlä
 
 <iframe width="803" height="452" src="https://www.youtube.com/embed/6DW733G76BY" frameborder="0" allowfullscreen></iframe>
 
+<br>
+
 * Fairphone 2 in allen Farben erhältlich (blau matt, blau transparent, schwarz matt, schwarz transparent und transparent)
 * Die Lieferzeit beträgt zwischen 2 und 7 Tagen
 * 2 Jahre Garantie
@@ -109,7 +111,7 @@ Weitere Informationen können auf der interaktiven [Fairphone 2](https://www.fai
 
 ### Bergbau
 
-<img src="/images/angebote/fairphone/bergbau.jpg" alt="sinndrin genossenschaft Fairphone 2 Bergbau" />
+<img src="/images/angebote/fairphone/bergbau2.jpg" alt="sinndrin genossenschaft Fairphone 2 Bergbau" />
 
 Jedes Smartphone enthält über 30 verschiedene Mineralien. Alle Mineralien und Metalle in der Lieferkette entstammen dem Bergbau – ein in Bezug auf ökologische und soziale Verantwortung schwieriger Industriebereich. Zahlreiche Vorgehensweisen im Bergbau benötigen dringender Verbesserungen, beispielsweise in Bezug auf Umweltverschmutzung, hochgefährliche Arbeitsbedingungen und Kinderarbeit. Konfliktmineralien finanzieren Rebellengruppen und tragen damit zur politischen und ökonomischen Instabilität bei, während Arbeitnehmerrechte, Sicherheit und faire Löhne missachtet werden. Wir wollen Rohstoffe aus verantwortungsvollen Quellen beziehen und somit die lokale Wirtschaft unterstützen – und nicht bewaffnete Milizen.
 
