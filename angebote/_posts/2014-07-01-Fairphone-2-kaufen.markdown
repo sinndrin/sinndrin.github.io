@@ -11,6 +11,8 @@ title: "Fairphone 2"
 
 Das Fairphone 2 bringt Innovationen, welche die Lebensspanne des Telefons verlängern. Neben dem Full HD 5 Zoll Display, der Qualcomm® Snapdragon™ 801 Plattform und der Dual-SIM-Funktion, verfügt die neuartige Telefonrückseite über eine integrierte Schutzhülle, die das Gerät ohne zusätzliche Aussenhülle schützt. Das Gerät lässt sich einfach öffnen, Nutzer können die Batterie entfernen, die unterschiedlichen "Schichten" des Telefons erkunden und defekte Bauteile selber reparieren. Der Film zeigt wie einfach das ersetzen der einzelnen Bauteile funktioniert.
 
+<br>
+
 <iframe width="803" height="452" src="https://www.youtube.com/embed/6DW733G76BY" frameborder="0" allowfullscreen></iframe>
 
 <br>
