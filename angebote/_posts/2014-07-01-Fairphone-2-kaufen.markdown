@@ -135,15 +135,4 @@ Die Herstellung von Unterhaltungselektronik ist anspruchsvoll und beinhaltet arb
 
 Jedes Jahr werfen Verbraucher Millionen von Mobiltelefonen weg und tragen dadurch zur weltweiten Elektroschrottkrise bei. Gründe dafür sind, dass viele Telefone nicht auf Langlebigkeit konzipiert sind und wir als Verbraucher ständig nach Upgrades für unsere Geräte suchen. Obwohl viele europäische Länder Recyclingprogramme für Elektroschrott eingeführt haben, werden gebrauchte oder beschädigte elektronische Geräte laufend in Entwicklungsländer exportiert, denen es an angemessenen Recycling-Anlagen fehlt. Der Großteil des Elektroschrotts wird entweder verbrannt oder auf Müllhalden deponiert. Dadurch werden giftige und für Mensch und Umwelt schädliche Substanzen freigesetzt. Wir bei Fairphone versuchen, die gesamte Lebensdauer des Mobiltelefons zu betrachten, einschließlich Gebrauch, Wiederverwendung und einem sicheren Recycling.
 
-<div class="panel">
-<h5>Themen:</h5>
-<ul>
-<li><a href="#fairphonebestellen">Fairphone bestellen</a></li>
-<li><a href="#überfairphone">Über Fairphone</a></li>
-<li><a href="#kostenaufstellung">Kostenaufstellung</a></li>
-<li><a href="#spezifikationen">Technische Spezifikationen des Fairphone 2</a></li>
-<li><a href="#weiterführendeinformationen">Weiterführende Informationen</a></li>
-</ul>
-</div>
-
 {% include block/fairphone-crosslinks.html %}
