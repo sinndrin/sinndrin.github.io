@@ -13,6 +13,10 @@ Das Fairphone 2 bringt Innovationen, welche die Lebensspanne des Telefons verlä
 
 <br>
 
+<a href="http://fairphone.faircustomer.ch/" class="button big"><i class="fi-arrow-right"></i> Fairphone 2 kaufen</a>
+
+<br>
+
 <iframe width="803" height="452" src="https://www.youtube.com/embed/6DW733G76BY" frameborder="0" allowfullscreen></iframe>
 
 <br>
@@ -108,8 +112,6 @@ Das Fairphone 2 bringt Innovationen, welche die Lebensspanne des Telefons verlä
 
 Quelle: [https://www.fairphone.com/technical-specifications/](https://www.fairphone.com/technical-specifications/)
 
-<a href="http://fairphone.faircustomer.ch/" class="button"><i class="fi-arrow-right"></i> Fairphone 2 kaufen</a>
-
 <br>
 
 ## <a name="überfairphone"></a> Über Fairphone
@@ -139,6 +141,8 @@ Die Herstellung von Unterhaltungselektronik ist anspruchsvoll und beinhaltet arb
 <img src="/images/angebote/fairphone/lebenszyklus.jpg" alt="sinndrin genossenschaft Fairphone 2 Lebenszyklus" />
 
 Jedes Jahr werfen Verbraucher Millionen von Mobiltelefonen weg und tragen dadurch zur weltweiten Elektroschrottkrise bei. Gründe dafür sind, dass viele Telefone nicht auf Langlebigkeit konzipiert sind und wir als Verbraucher ständig nach Upgrades für unsere Geräte suchen. Obwohl viele europäische Länder Recyclingprogramme für Elektroschrott eingeführt haben, werden gebrauchte oder beschädigte elektronische Geräte laufend in Entwicklungsländer exportiert, denen es an angemessenen Recycling-Anlagen fehlt. Der Großteil des Elektroschrotts wird entweder verbrannt oder auf Müllhalden deponiert. Dadurch werden giftige und für Mensch und Umwelt schädliche Substanzen freigesetzt. Wir bei Fairphone versuchen, die gesamte Lebensdauer des Mobiltelefons zu betrachten, einschließlich Gebrauch, Wiederverwendung und einem sicheren Recycling.
+
+<br>
 
 ## <a name="kostenaufstellung"></a> Unsere Kostenaufstellung
 Analog zum [Costbreakdown](https://www.fairphone.com/wp-content/uploads/2015/09/Cost-Breakdown-Fairphone-2-German-1.pdf) von Fairphone wollen auch wir transparent aufzeigen wie sich die Kosten verteilen.
