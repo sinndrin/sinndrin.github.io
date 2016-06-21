@@ -4,17 +4,17 @@ category: team
 permalink: /ueber-uns/team/michael-tanner/
 
 title: "Michael Tanner"
-subtitle: "Erwachsenenbildner, TZI-Zert., Mediation, Konsensmoderation WfgA, Zert. Kampagner, Aktionsleiter, Betriebsökonom HWV"
+subtitle: "Erwachsenenbildner SVEB1, TZI-Zert., Mediation, Konsensmoderation WfgA, Zert. Kampagner, Aktionsleiter, Betriebsökonom HWV"
 email: michael.tanner@sinndrin.ch
-byline: "ist dieses Jahr weniger an Kampagnen und anderen erwachsenenbildnerischen Aktivitäten beteiligt. Im Blog schreibt er u.a. über seine Segelschiff-Reise über den Atlantik."
+byline: "ermächtigt, bildet und vernetzt Menschen, begleitet Einzelpersonen und Gruppen auf ihrem Weg, plant und leitet Projekte, erzählt von der Schönheit der Erde und deren Bewohner*innen und wie es sich lohnt, Suffizienz zu üben."
 image: /images/ueber-uns/team/michael.png
 
 published: true
 ---
-Menschen vernetzen und ermächtigen, Projekte auf die Beine stellen und koordinieren, Personen weiterbilden und begleiten, Zivilcourage üben und lehren, die Erde bereichern und seine Wesen pflegen sind einige meiner Lieblingsbeschäftigungen. DAZ, Computersupport und Veranstaltungs-Betreuung passen gut dazu. Als Vorstandsmitglied amte ich in den Vereinen Ruth Cohn Institut für TZI Schweiz, Glaris lueget häne sowie im Frybergchor. Dieser Zeit bin ich unterwegs. Im [Blog][mtblog] erfahren Sie u.a. von meiner Segelschiff-Reise über den Atlantik sowie von Aufenthalt und Reisen in Mexiko und anderen Ländern (Oktober 2015 - Mai 2016).
+Menschen vernetzen und ermächtigen, Projekte auf die Beine stellen und koordinieren, Personen weiterbilden und begleiten, Zivilcourage üben und lehren, die Erde bereichern und seine Wesen pflegen sind einige meiner Lieblingsbeschäftigungen. DAZ, Computersupport und Veranstaltungs-Betreuung passen gut dazu. Als Vorstandsmitglied amte ich in den Vereinen Ruth Cohn Institut für TZI Schweiz und Frybergchor.
 
-Kurz-CV: Nach dem KV habe ich während zwei Jahren in einem grossen Handelsunternehmen gearbeitet. Anschliessend ans Betriebswirtschafts-Studium bin ich von Winterthur nach Portugal und zurück geradelt. Dabei hat mich beeindruckt und bedrückt, wie die vorherrschende Ökonomie die Erde verändert. Nach elf Sommer als Pächter einer Bio-Alp und elf Winter als Kampagner und Erwachsenenbildner ist es Zeit für eine Reise zu Freundinnen und Freunden in Mexiko. Da ich meine, in meinem Leben bisher mehr als genug CO<sub>2</sub> in die Welt gepustet zu haben, verweigere ich mich weitgehend Flugzeugen. 
+Kurz-CV: Nach dem KV habe ich während zwei Jahren in einem grossen Handelsunternehmen gearbeitet. Anschliessend ans Betriebswirtschafts-Studium bin ich von Winterthur nach Portugal und zurück geradelt. Dabei habe ich erfahren, wie die vorherrschende Ökonomie die Erde verändert. Nach elf Sommer als Pächter einer Bio-Alp und elf Winter als Kampagner für kleine und grosse Umweltorganisationen in der Schweiz und in Frankreich, war es Zeit für eine Segelreise über den Atlantik und zurück. Seit 2016 arbeite ich in Teilzeit als Erwachsenenbildner, Berater und Projektleiter bei der sinndrin genossenschaft.
 
-Eine Reise auf einem Segelschiff ist relativ langsam und recht lebendig. Ende Oktober 2015 stechen wir in Vilamoura bei Faro, Portugal, in See. Bei Interesse klicken Sie unten auf die Berichte dazu.
+Meistens bin ich Montag, Dienstag im Büro erreichbar.
 
 [mtblog]: /blog/unterwegs/
