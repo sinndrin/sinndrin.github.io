@@ -17,21 +17,20 @@ Eine Energieanzeige zeigt den Besuchern ihr Engagement für die Energiewende auf
 
 Zum Beispiel bei einer Solaranlage
 
-<li>Die versteckte Solaranlage bekommt wieder die Aufmerksamkeit, die sie verdient. Die Besucher der Energieanzeige erkennen das auf dem Gebäude aus Sonne Strom produziert wird.<li>
+* Die versteckte Solaranlage bekommt wieder die Aufmerksamkeit, die sie verdient. Die Besucher der Energieanzeige erkennen das auf dem Gebäude aus Sonne Strom produziert wird.
 
 Oder bei einem Windpark
 
-<li>Im günstigsten Fall drehen sich Windräder immer und sind meist nicht zu übersehen. Wieviel Energieproduziert die Anlage im Moment? Eine Energieanzeige kann dies den Besucher auf eine kreative Weise aufzeigen.<li>
+* Im günstigsten Fall drehen sich Windräder immer und sind meist nicht zu übersehen. Wieviel Energieproduziert die Anlage im Moment? Eine Energieanzeige kann dies den Besucher auf eine kreative Weise aufzeigen.
 
 <h3>Weitere Argumente, die für eine Energieanzeige der sinndrin genossenschaft sprechen:</h3>
-<ul>
+
 <li>Die Sensibilisierung in Umwelt- und Energiethemen ist wichtig. Trotzdem ist dem nicht geholfen bei konventionelle Energieanzeigen. Diese sind nur schwer verständlich und darum für ein Laienpublikum uninteressant. Energieanzeigen der sinndrin genossenschaft können auf die Zielgruppe und den Standort abgestimmt werden.<li>
 <li>Die Möglichkeiten für innovative und individuelle Energieanzeigen sind vielfältig. Sowohl was die Materialien angeht wie auch die Ausführung.<li>
 <li>Unsere Energieanzeige wertet den Standort auf und schafft Verweilcharakter. So kann eine solche Anzeige auch gut in einem Energie- oder Umwelterlebnispfad integriert werden oder als mobile Variante zu Messezwecken ihre Verwendung finden.<li>
 <li>Wir arbeiten eng mit Designern zusammen, um die Energieanzeige auch optisch auf ihre Wünsche anzupassen.<li>
 <li>Mit der Realisierung der ersten Energieanzeige in Form einer Kugelbahn haben wir in diesem Berich gute Kontakte und einige Erfahrungen gesammelt.<li>
 <li>Wir haben Zugang zu 3D-Drucker, Laser-Cutter, Metall-, Holz und Textilwerkstatt. Zudem haben wir in den einzelnen Berichen grosse Erfahrung und können auf ein vielfältiges Netzwerk zurück greifen.<li>
-</ul>
 
 <h3>Pilotanlage in Wädenswil</h3>
 <img alt="Energieanzeigen" src="/images/angebote/energieanzeige.jpg" /><br><br>
