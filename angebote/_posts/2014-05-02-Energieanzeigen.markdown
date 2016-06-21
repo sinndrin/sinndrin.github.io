@@ -9,27 +9,28 @@ title: "Die etwas andere Energieanzeige"
 ---
 <div class="angebot-top-wide"><img title="EnergieanzeigenKonzept" src="/images/angebote/energieanzeige_konzept.jpg"></div>
 
-Wie funktioniert eine Energieproduktionsanlage? Wie viel Energie wird ins Stromnetz eingespeist? Was kann ich mit dieser Energie alles machen? 
+Eine Energieanzeige der sinndrin genossenschaft kann als Kunst-Installation angesehen werden, die auf Themen der Nachhaltigkeit aufmerksam macht. Um ein klareres Bild einer möglichen Anlage machen zu können finden sie [hier][blogeroeffnungsfest] der Blogeintrag zur Fertigstellung der ersten Energieanzeige in Wädenswil auf dem Campus Reidbach der ZHAW Wädenswil.
 
-Energieanzeigen der sinndrin genossenschaft informieren auf eine unkonventionelle Weise und schaffen Orte mit Verweilcharakter.
+Diese Installation ist eine übergrosse Kugelbahn mit den Massen von ca. 2 x 2 Metern und einer Tiefe von ca. 80cm. Sie zeigt auf spielerische Art wieviel Energie die nahegelegene Solaranlage produziert und zeigt zudem auf in welcher Tageszeit wieviel Energie produziert wird.
 
-<h3>Energieanzeige zur Sensibilisierung</h3>
-Mit Photovoltaikanlagen und anderen Kleinkraftwerken verschiebt sich die Stromproduktion von zentralen zu dezentralen Anlagen. Dieser Wandel bietet die Chance, die Bevölkerung gleichzeitig für das Thema Energie zu sensibilisieren und ihren Einsatz für diesen Wandel den Besuchern einer Energieanzeige aufzuzeigen.
+Eine Energieanzeige zeigt den Besuchern ihr Engagement für die Energiewende auf.
 
-<h3>Unsere Energieanzeige</h3>
-Wir konzipieren interaktive, künstlerische und erlebnisreiche Installationen, die die Einspeiseleistung und den Verbrauch in lokalen Energiekreisläufen spielerisch, bildlich oder auch zeitecht darstellen. Diese laden Beobachter dazu ein, Erkenntnisse über erneuerbare Energieanlagen auf eine unkonventionelle Weise zu gewinnen.
+Zum Beispiel bei einer Solaranlage
 
-<h3>Gestalterische Möglichkeiten</h3>
-Jede Installation ist ein Unikat und kann nach den Vorstellungen und Wünschen der Kunden sowie für alle Arten von erneuerbaren Energieanlagen konzipiert werden. Die Ausführung kann in verschiedenen Materialien wie Metall, Holz, Kunststoff, etc. erfolgen. Stationäre wie auch mobile Varianten für Messen oder Wanderausstellungen sind möglich.
+<li>Die versteckte Solaranlage bekommt wieder die Aufmerksamkeit, die sie verdient. Die Besucher der Energieanzeige erkennen das auf dem Gebäude aus Sonne Strom produziert wird.<li>
 
-<h3>Fakten</h3>
+Oder bei einem Windpark
+
+<li>Im günstigsten Fall drehen sich Windräder immer und sind meist nicht zu übersehen. Wieviel Energieproduziert die Anlage im Moment? Eine Energieanzeige kann dies den Besucher auf eine kreative Weise aufzeigen.<li>
+
+<h3>Weitere Argumente, die für eine Energieanzeige der sinndrin genossenschaft sprechen:</h3>
 <ul>
-    <li>Eine Energieanzeige zeigt den Besuchern ihr Engagement für die Energiewende auf.</li>
-    <li>Die Sensibilisierung in Umwelt- und Energiethemen ist wichtig.</li>
-    <li>Konventionelle Energieanzeigen sind nur schwer verständlich und darum für ein Laienpublikum uninteressant - nicht so Energieanzeigen der sinndrin genossenschaft.</li>
-    <li>Die Möglichkeiten für innovative und individuelle Energieanzeigen sind vielfältig.</li>
-    <li>Unsere Energieanzeige wertet den Standort auf und schafft Verweilcharakter.</li>
-    <li>Eine Energieanzeige kann ein erster Schritt hin zu einem lokalen Energie- oder Umwelterlebnispfad sein.</li>
+<li>Die Sensibilisierung in Umwelt- und Energiethemen ist wichtig. Trotzdem ist dem nicht geholfen bei konventionelle Energieanzeigen. Diese sind nur schwer verständlich und darum für ein Laienpublikum uninteressant. Energieanzeigen der sinndrin genossenschaft können auf die Zielgruppe und den Standort abgestimmt werden.<li>
+<li>Die Möglichkeiten für innovative und individuelle Energieanzeigen sind vielfältig. Sowohl was die Materialien angeht wie auch die Ausführung.<li>
+<li>Unsere Energieanzeige wertet den Standort auf und schafft Verweilcharakter. So kann eine solche Anzeige auch gut in einem Energie- oder Umwelterlebnispfad integriert werden oder als mobile Variante zu Messezwecken ihre Verwendung finden.<li>
+<li>Wir arbeiten eng mit Designern zusammen, um die Energieanzeige auch optisch auf ihre Wünsche anzupassen.<li>
+<li>Mit der Realisierung der ersten Energieanzeige in Form einer Kugelbahn haben wir in diesem Berich gute Kontakte und einige Erfahrungen gesammelt.<li>
+<li>Wir haben Zugang zu 3D-Drucker, Laser-Cutter, Metall-, Holz und Textilwerkstatt. Zudem haben wir in den einzelnen Berichen grosse Erfahrung und können auf ein vielfältiges Netzwerk zurück greifen.<li>
 </ul>
 
 <h3>Pilotanlage in Wädenswil</h3>
