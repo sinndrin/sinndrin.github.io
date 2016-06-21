@@ -6,7 +6,7 @@ permalink: /ueber-uns/team/michael-tanner/
 title: "Michael Tanner"
 subtitle: "Erwachsenenbildner SVEB1, TZI-Zert., Mediation, Konsensmoderation WfgA, Zert. Kampagner, Aktionsleiter, Betriebsökonom HWV"
 email: michael.tanner@sinndrin.ch
-byline: "ermächtigt, bildet und vernetzt Menschen, begleitet Einzelpersonen und Gruppen auf ihrem Weg, plant und leitet Projekte, erzählt von der Schönheit der Erde und deren Bewohner*innen und wie es sich lohnt, Suffizienz zu üben."
+byline: "ermächtigt, bildet und vernetzt Menschen, begleitet Einzelpersonen und Gruppen auf ihrem Weg, plant und leitet Projekte, erzählt von der Schönheit der Erde und deren Bewohner*innen. Dabei versucht er, Suffizienz zu üben."
 image: /images/ueber-uns/team/michael.png
 
 published: true
