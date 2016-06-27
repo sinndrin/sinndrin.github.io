@@ -116,7 +116,7 @@ Quelle: [https://www.fairphone.com/technical-specifications/](https://www.fairph
 
 ## <a name="überfairphone"></a> Über Fairphone
 
-Fairphone ist ein social Enterprise aus den Niederlanden, welches sich für mehr Nachhaltigkeit in der IT-Welt einsetzt. Als erstes Smartphone enthält das Fairphone die Mineralien; Zinn, Coltan und Gold aus konfliktfreien Gebieten. Fairphone setzt sich für faire Arbeitsbedingungen bei der Produktion ein und ist bestrebt Transparenz sowohl bei den Lieferketten wie auch bei den Kosten aufzuzeigen.
+Fairphone ist ein social Enterprise aus den Niederlanden, welches sich für mehr Nachhaltigkeit in der IT-Welt einsetzt. Als erstes Smartphone enthält das Fairphone die Mineralien; Zinn, Coltan, Wolfram und Gold aus konfliktfreien Gebieten. Fairphone setzt sich für faire Arbeitsbedingungen bei der Produktion ein und ist bestrebt Transparenz sowohl bei den Lieferketten wie auch bei den Kosten aufzuzeigen.
 
 ### Bergbau
 
