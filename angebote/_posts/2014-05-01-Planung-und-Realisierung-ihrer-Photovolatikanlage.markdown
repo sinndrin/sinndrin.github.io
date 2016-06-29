@@ -5,9 +5,9 @@ tags:
   - Energie
 permalink: /angebote/energie/planung-und-realisierung-ihrer-photovoltaikanlage/
 image: /images/angebote/erneuerbare-energieanlagen.jpg
-title: "Planung und Realisierung ihrer Photovolatikanlage"
+title: "Planung und Realisierung ihrer Photovoltaikanlage"
 ---
-<div class="angebot-top-wide"><img title="Planung und Realisierung ihrer Photovolatikanlage" src="/images/angebote/erneuerbare-energieanlagen_sub.jpg"></div>
+<div class="angebot-top-wide"><img title="Planung und Realisierung ihrer Photovoltaikanlage" src="/images/angebote/erneuerbare-energieanlagen_sub.jpg"></div>
 
 Spielen sie mit dem Gedanken eine Photovoltaik-Anlage auf ihrem Dach zu installieren und damit einen Schritt zu tun für eine Atom- und CO2 freie Welt?
 
