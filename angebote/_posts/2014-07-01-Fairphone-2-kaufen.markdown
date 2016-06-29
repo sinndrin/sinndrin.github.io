@@ -9,7 +9,7 @@ title: "Fairphone 2"
 ---
 <div class="angebot-top-wide"><img title="Fairphone" src="/images/angebote/fairphone_sub.jpg"></div>
 
-Das Fairphone 2 bringt Innovationen, welche die Lebensspanne des Telefons verlängern. Neben dem Full HD 5 Zoll Display, der Qualcomm® Snapdragon™ 801 Plattform und der Dual-SIM-Funktion, verfügt die neuartige Telefonrückseite über eine integrierte Schutzhülle, die das Gerät ohne zusätzliche Aussenhülle schützt. Das Gerät lässt sich einfach öffnen, Nutzer können die Batterie entfernen, die unterschiedlichen "Schichten" des Telefons erkunden und defekte Bauteile selber reparieren. Der Film zeigt wie einfach das ersetzen der einzelnen Bauteile funktioniert.
+Das Fairphone 2 bringt Innovationen, welche die Lebensspanne des Telefons verlängern. Neben dem Full HD 5 Zoll Display, der Qualcomm&reg; Snapdragon&trade; 801 Plattform und der Dual-SIM-Funktion, verfügt die neuartige Telefonrückseite über eine integrierte Schutzhülle, die das Gerät ohne zusätzliche Aussenhülle schützt. Das Gerät lässt sich einfach öffnen, Nutzer können die Batterie entfernen, die unterschiedlichen "Schichten" des Telefons erkunden und defekte Bauteile selber reparieren. Der Film zeigt wie einfach das ersetzen der einzelnen Bauteile funktioniert.
 
 <br>
 
@@ -41,19 +41,20 @@ Das Fairphone 2 bringt Innovationen, welche die Lebensspanne des Telefons verlä
 <br>
 
 ## <a name="spezifikationen"></a> Technische Spezifikationen des Fairphone 2
+
 <div class="row">
 <div class="large-6 columns">
   <h3>Display</h3>
   <ul>
     <li>5 Zoll, Full HD LCD display</li>
-    <li>Gorilla® Glass 3</li>
+    <li>Gorilla&reg; Glass 3</li>
   </ul>
 </div>
 
 <div class="large-6 columns">
   <h3>Betriebssystem</h3>
   <ul>
-    <li>Android™​ 5.1 (Lollipop)</li>
+    <li>Android&trade; 5.1 (Lollipop)</li>
   </ul>
 </div>
 </div>
@@ -69,7 +70,7 @@ Das Fairphone 2 bringt Innovationen, welche die Lebensspanne des Telefons verlä
 <div class="large-6 columns">
   <h3>Plattform</h3>
   <ul>
-    <li>Qualcomm® Snapdragon​​™ 801 platform</li>
+    <li>Qualcomm&reg; Snapdragon​​&trade; 801 platform</li>
     <li>2GB RAM</li>
   </ul>
 </div>
@@ -105,7 +106,7 @@ Das Fairphone 2 bringt Innovationen, welche die Lebensspanne des Telefons verlä
   <ul>
     <li>4G LTE/3G/2G</li>
     <li>Wi-Fi (802.11 b/g/n/ac)</li>
-    <li>Bluetooth® 4.0 LE, GPS</li>
+    <li>Bluetooth&reg; 4.0 LE, GPS</li>
   </ul>
 </div>
 </div>
@@ -118,27 +119,27 @@ Quelle: [https://www.fairphone.com/technical-specifications/](https://www.fairph
 
 Fairphone ist ein social Enterprise aus den Niederlanden, welches sich für mehr Nachhaltigkeit in der IT-Welt einsetzt. Als erstes Smartphone enthält das Fairphone die Mineralien; Zinn, Coltan, Wolfram und Gold aus konfliktfreien Gebieten. Fairphone setzt sich für faire Arbeitsbedingungen bei der Produktion ein und ist bestrebt Transparenz sowohl bei den Lieferketten wie auch bei den Kosten aufzuzeigen.
 
-### Bergbau
+<img style="float: left; padding-left: 10px; padding-bottom: 10px;" src="/images/angebote/fairphone/bergbau2.jpg" alt="sinndrin genossenschaft Fairphone 2 Bergbau" />
 
-<img src="/images/angebote/fairphone/bergbau2.jpg" alt="sinndrin genossenschaft Fairphone 2 Bergbau" />
+### Bergbau
 
 Jedes Smartphone enthält über 30 verschiedene Mineralien. Alle Mineralien und Metalle in der Lieferkette entstammen dem Bergbau – ein in Bezug auf ökologische und soziale Verantwortung schwieriger Industriebereich. Zahlreiche Vorgehensweisen im Bergbau benötigen dringender Verbesserungen, beispielsweise in Bezug auf Umweltverschmutzung, hochgefährliche Arbeitsbedingungen und Kinderarbeit. Konfliktmineralien finanzieren Rebellengruppen und tragen damit zur politischen und ökonomischen Instabilität bei, während Arbeitnehmerrechte, Sicherheit und faire Löhne missachtet werden. Wir wollen Rohstoffe aus verantwortungsvollen Quellen beziehen und somit die lokale Wirtschaft unterstützen – und nicht bewaffnete Milizen.
 
-### Design
+<img style="float: left; padding-left: 10px; padding-bottom: 10px;" src="/images/angebote/fairphone/design.jpg" alt="sinndrin genossenschaft Fairphone 2 Design" />
 
-<img src="/images/angebote/fairphone/design.jpg" alt="sinndrin genossenschaft Fairphone 2 Design" />
+### Design
 
 Produkte der Unterhaltungselektronik werden häufig als leicht austauschbar betrachtet. Nutzer verlieren zunehmend die Möglichkeit, ihre Geräte zu modifizieren, zu reparieren und die Herstellungsprozesse genau nachzuvollziehen. Da wir unser Telefon selbst designen, können wir Einfluss auf die Lieferkette sowie den Lebenszyklus des Produktes nehmen, und so gezielt Themen wie Langlebigkeit und Reparierbarkeit des Gerätes aufgreifen. Mit unserem Design wollen wir die Beziehung zwischen Menschen und ihren Produkten verändern und dadurch den Käufern mehr Kontrolle und Eigenverantwortung für ihre Telefone ermöglichen.
 
-### Produktion
+<img style="float: left; padding-left: 10px; padding-bottom: 10px;" src="/images/angebote/fairphone/produktion.jpg" alt="sinndrin genossenschaft Fairphone 2 Produktion" />
 
-<img src="/images/angebote/fairphone/produktion.jpg" alt="sinndrin genossenschaft Fairphone 2 Produktion" />
+### Produktion
 
 Die Herstellung von Unterhaltungselektronik ist anspruchsvoll und beinhaltet arbeitsintensive Produktionsprozesse. Oftmals erhalten die Arbeitnehmer weder existenzsichernde Löhne noch eine Arbeitnehmervertretung und müssen unter gesundheitsgefährdenden Arbeitsbedingungen viele Überstunden verrichten. Diese Probleme sind systembedingt vielschichtig und können nicht auf Anhieb beseitigt werden. Um einen positiven Wandel einzuleiten, legen wir Wert auf transparente, kollaborative und beidseitig vorteilhafte Beziehungen mit Herstellern, die dazu bereit sind, in das Wohlbefinden ihrer Angestellten zu investieren.
 
-### Lebenszyklus
+<img style="float: left; padding-left: 10px; padding-bottom: 10px;" src="/images/angebote/fairphone/lebenszyklus.jpg" alt="sinndrin genossenschaft Fairphone 2 Lebenszyklus" />
 
-<img src="/images/angebote/fairphone/lebenszyklus.jpg" alt="sinndrin genossenschaft Fairphone 2 Lebenszyklus" />
+### Lebenszyklus
 
 Jedes Jahr werfen Verbraucher Millionen von Mobiltelefonen weg und tragen dadurch zur weltweiten Elektroschrottkrise bei. Gründe dafür sind, dass viele Telefone nicht auf Langlebigkeit konzipiert sind und wir als Verbraucher ständig nach Upgrades für unsere Geräte suchen. Obwohl viele europäische Länder Recyclingprogramme für Elektroschrott eingeführt haben, werden gebrauchte oder beschädigte elektronische Geräte laufend in Entwicklungsländer exportiert, denen es an angemessenen Recycling-Anlagen fehlt. Der Großteil des Elektroschrotts wird entweder verbrannt oder auf Müllhalden deponiert. Dadurch werden giftige und für Mensch und Umwelt schädliche Substanzen freigesetzt. Wir bei Fairphone versuchen, die gesamte Lebensdauer des Mobiltelefons zu betrachten, einschließlich Gebrauch, Wiederverwendung und einem sicheren Recycling.
 
