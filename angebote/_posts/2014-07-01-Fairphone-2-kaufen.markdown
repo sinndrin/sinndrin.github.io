@@ -146,11 +146,13 @@ Jedes Jahr werfen Verbraucher Millionen von Mobiltelefonen weg und tragen dadurc
 <br>
 
 ## <a name="kostenaufstellung"></a> Unsere Kostenaufstellung
+
 Analog zum [Costbreakdown](https://www.fairphone.com/wp-content/uploads/2015/09/Cost-Breakdown-Fairphone-2-German-1.pdf) von Fairphone wollen auch wir transparent aufzeigen wie sich die Kosten verteilen.
 
 <img src="/images/angebote/fairphone/cost_breakdown07_fairphone2_sinndrin.jpg" alt="sinndrin genossenschaft Fairphone 2 cost breakdown" />
 
 ## <a name="weiterführendeinformationen"></a> Weiterführende Informationen
+
 <a href="https://www.fairphone.com/phone/"><img src="/images/angebote/fairphone/fairphone-2-interaktive-webseite.jpg" alt="Interaktive Webseite für das Fairphone 2" /></a>
 Weitere Informationen können auf der interaktiven [Fairphone 2](https://www.fairphone.com/phone/) Webseite abgerufen werden.
 
