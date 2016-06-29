@@ -26,6 +26,8 @@ Haben sie kein eigenes Dach auf dem sie ein solares Kraftwerk realisieren könne
 
 <iframe width="803" height="452" src="https://www.youtube.com/embed/LgR6MwzIX9A" frameborder="0" allowfullscreen></iframe>
 
+<br>
+
 Die Stromallmend ist das Netzwerk für Solarstrom Konsumenten und Produzenten. Die Energie Genossenschaft betreibt kooperativ das grösste dezentrale Solarkraftwerk der Schweiz. Dieses besteht aus Solaranlagen verteilt auf vielen Hausdächern. Gemeinsam dezentral gestalten wir die Energiewende und ersetzen die AKW Stromproduktion durch neue erneuerbare Energiequellen.
 
 <a class="button expand" target="_blank" href="http://www.energiegenossenschaft.ch/wp2/wp-admin/admin-ajax.php?action=frm_forms_preview&form=dy948g222">Bestellen Sie jetzt Solarstrom für ihren Energieverbrauch</a>
