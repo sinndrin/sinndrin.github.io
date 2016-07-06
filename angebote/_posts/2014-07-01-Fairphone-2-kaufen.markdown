@@ -13,7 +13,14 @@ Das Fairphone 2 bringt Innovationen, welche die Lebensspanne des Telefons verlä
 
 <br>
 
-<a href="http://fairphone.faircustomer.ch/" class="button big"><i class="fi-arrow-right"></i> Fairphone 2 kaufen</a>
+<div class="row">
+<div class="large-6 columns">
+<a href="http://fairphone.faircustomer.ch/" class="button big expand"><i class="fi-arrow-right"></i> Fairphone 2 kaufen</a>
+</div>
+<div class="large-6 columns">
+<a href="/angebote/fairphone-2/zubehoer-und-ersatzteile/" class="button big expand"><i class="fi-arrow-right"></i> Zubehör und Ersatzteile kaufen</a>
+</div>
+</div>
 
 <br>
 

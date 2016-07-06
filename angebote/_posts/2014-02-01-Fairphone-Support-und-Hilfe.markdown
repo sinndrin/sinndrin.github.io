@@ -55,7 +55,7 @@ Ferner gibt es eine sehr aktive Facebook Hilfe Gruppe, die <a href="https://www.
     </a>
   </div>
   <div class="small-6 medium-4 large-4 columns" data-equalizer-watch>
-    <a href="/angebote/fairphone/zubehoer/">
+    <a href="/angebote/fairphone-2/zubehoer-und-ersatzteile/">
     <div class="panel callout text-center" style="min-height: 134px;">
     <i class="fi-shopping-bag" style="font-size: 2.6875rem;"></i><br><br>Ersatzteile bestellen<br>&nbsp;
     </div>
@@ -133,7 +133,6 @@ Wir beantworten Ihre Fragen rund um Software (App-, Mail-, Kontaktverwaltung, SM
         <div class="large-3 columns">
           <ul>
             <li><h5>Winterthur</h5></li>
-            <li><a href="#anmeldeformular" onClick="dateWorkshop = $(this).html(); clickAnmelden();">20.06.2016</a></li>
             <li><a href="#anmeldeformular" onClick="dateWorkshop = $(this).html(); clickAnmelden();">26.07.2016</a></li>
             <li><a href="#anmeldeformular" onClick="dateWorkshop = $(this).html(); clickAnmelden();">20.09.2016</a></li>
           </ul>
@@ -185,7 +184,6 @@ Wir beantworten Ihre Fragen rund um Software (App-, Mail-, Kontaktverwaltung, SM
             <label>Kursdatum:
               <select id="datum" name="Datum" required>
                 <option value="">bitte wählen...</option>
-                <option value="20062016">20.06.16</option>
                 <option value="26072016">26.07.16</option>
                 <option value="27072016">27.07.16</option>
                 <option value="23082016">23.08.16</option>
