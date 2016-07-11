@@ -23,22 +23,22 @@ Als Zubehör bieten wir für das Fairphone 1 und 2 Akkus, Displays, Hüllen, Ers
     </a>
   </div>
   <div class="large-4 medium-6 columns">
-    <a href="https://www.faircustomer.ch/sinndrin-genossenschaft/">
+    <a href="https://www.faircustomer.ch/sinndrin-genossenschaft/de/green-it/9197-fairphone-2-akku-original.html">
       <p class="text-center">
         <img width="250" src='/images/angebote/fairphone/fairphone-2-akku-original.jpg' alt='Fairphone 2 Akku original'>
 
-        <a href="https://www.faircustomer.ch/sinndrin-genossenschaft/" class="button expand"><i
+        <a href="https://www.faircustomer.ch/sinndrin-genossenschaft/de/green-it/9197-fairphone-2-akku-original.html" class="button expand"><i
             class="fi-arrow-right"></i> Fairphone 2 Akku</a>
       </p>
     </a>
   </div>
   <div class="large-4 medium-6 columns">
-    <a href="https://www.faircustomer.ch/sinndrin-genossenschaft/">
+    <a href="https://www.faircustomer.ch/sinndrin-genossenschaft/de/buero/9198-fairphone-2-display-modul.html">
       <p class="text-center">
         <img width="250" src='/images/angebote/fairphone/fairphone-2-display-modul.jpg'
              alt='Fairphone 2 Display Modul original'>
 
-        <a href="https://www.faircustomer.ch/sinndrin-genossenschaft/" class="button expand"><i
+        <a href="https://www.faircustomer.ch/sinndrin-genossenschaft/de/buero/9198-fairphone-2-display-modul.html" class="button expand"><i
             class="fi-arrow-right"></i> Fairphone 2 Display</a>
       </p>
     </a>
