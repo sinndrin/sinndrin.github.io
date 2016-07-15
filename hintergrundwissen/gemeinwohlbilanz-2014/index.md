@@ -22,7 +22,6 @@ Die gesamte Gemeinwohlbilanz kann [hier](/hintergrundwissen/gemeinwohlbilanz-201
 * Gewinn: CHF 0.-
 * Sitz: Zunstrasse 11, CH-8152 Glattbrugg
 * Web: www.sinndrin.ch
-* Berichtszeitraum: Zeitraum für den der Bericht erstellt wurde
 
 ## Tätigkeitsbereich
 Die sinndrin genossenschaft ist ein auf Nachhaltigkeit ausgerichtetes Team von Ingenieuren.
@@ -118,6 +117,7 @@ Hiermit bestätigt die sinndrin genossenschaft, dass wir keines der Negativkrite
 |Keine Exzessive Einkommensspreizung|X| |
 
 ## Genaue Beschreibung der einzelnen Kriterien
+
 ### A1 Ethisches Beschaffungsmanagement
 Das Beschaffungswesen ist verschieden aufgebaut. Bei Softwareprodukten wird wenn möglich auf Open-Source gesetzt. Auf 
 materieller Ebene (Büromaterial wie Papier, Elektronik und IT) sind die Ausgaben gering, da kein grossen Mengen benötigt 
