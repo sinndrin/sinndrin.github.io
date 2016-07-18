@@ -13,4 +13,4 @@ tags:
 
 Mit Freude können wir mitteilen, dass wir nun auch die ersten Ersatzteile für das Fairphone 2 zum Verkauf anbieten. Neben dem Fairphone 2 haben wir nun auch Akkus, Displays und Hüllen an Lager. Zudem sind wir daran auch die Spare Parts (einzelne Module) in unser Sortiment auf zu nehmen. 
 
-Unser Sortiment für die Ersatzteile findet ihr [hier][/angebote/fairphone-2/zubehoer-und-ersatzteile/].
+Unser Sortiment für die Ersatzteile findet ihr [hier][/angebote/fairphone-2/zubehoer-und-ersatzteile/]. 
