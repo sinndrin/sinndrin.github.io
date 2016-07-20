@@ -133,7 +133,6 @@ Wir beantworten Ihre Fragen rund um Software (App-, Mail-, Kontaktverwaltung, SM
         <div class="large-3 columns">
           <ul>
             <li><h5>Winterthur</h5></li>
-            <li><a href="#anmeldeformular" onClick="dateWorkshop = $(this).html(); clickAnmelden();">26.07.2016</a></li>
             <li><a href="#anmeldeformular" onClick="dateWorkshop = $(this).html(); clickAnmelden();">20.09.2016</a></li>
           </ul>
         </div>
@@ -184,7 +183,6 @@ Wir beantworten Ihre Fragen rund um Software (App-, Mail-, Kontaktverwaltung, SM
             <label>Kursdatum:
               <select id="datum" name="Datum" required>
                 <option value="">bitte wählen...</option>
-                <option value="26072016">26.07.16</option>
                 <option value="27072016">27.07.16</option>
                 <option value="23082016">23.08.16</option>
                 <option value="19092016">19.09.16</option>
