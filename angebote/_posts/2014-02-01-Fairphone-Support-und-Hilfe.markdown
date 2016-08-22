@@ -122,7 +122,6 @@ Wir beantworten Ihre Fragen rund um Software (App-, Mail-, Kontaktverwaltung, SM
         <div class="large-3 columns">
           <ul>
             <li><h5>Zürich (Stadt)</h5></li>
-            <li><a href="#anmeldeformular" onClick="dateWorkshop = $(this).html(); clickAnmelden();">23.08.2016</a></li>
             <li><a href="#anmeldeformular" onClick="dateWorkshop = $(this).html(); clickAnmelden();">19.09.2016</a></li>
             <li><a href="#anmeldeformular" onClick="dateWorkshop = $(this).html(); clickAnmelden();">26.10.2016</a></li>
             <li><a href="#anmeldeformular" onClick="dateWorkshop = $(this).html(); clickAnmelden();">21.11.2016</a></li>
@@ -182,7 +181,6 @@ Wir beantworten Ihre Fragen rund um Software (App-, Mail-, Kontaktverwaltung, SM
             <label>Kursdatum:
               <select id="datum" name="Datum" required>
                 <option value="">bitte wählen...</option>
-                <option value="23082016">23.08.16</option>
                 <option value="19092016">19.09.16</option>
                 <option value="20092016">20.09.16</option>
                 <option value="26102016">26.10.16</option>
