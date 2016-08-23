@@ -1022,13 +1022,6 @@ Alle auf diesem Weg nicht verkauften Bücher, werden an der nächstjährigen Fac
     <td>5</td>
   </tr>
   <tr>
-    <td>Brückenkurs Mathematik, 3. Auflage</td>
-    <td>Walz, Guido; Zeilfelder, Frank; Rießinger,
-      Thomas </td>
-    <td>978-3-8274-2763-2 </td>
-    <td>10</td>
-  </tr>
-  <tr>
     <td>Vorkurs Mathematik, Ein Übungsbuch für
       Fachhochschulen, 3. aktualisiserte Auflage</td>
     <td>Michael Knorrenschild</td>
