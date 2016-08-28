@@ -5,7 +5,7 @@ tags:
   - Fairphone
 permalink: /angebote/fairphone-2/kaufen/
 image: /images/angebote/fairphone.jpg
-title: "Fairphone 2"
+title: "Fairphone 2 kaufen in der Schweiz"
 ---
 <div class="angebot-top-wide"><img title="Fairphone" src="/images/angebote/fairphone_sub.jpg"></div>
 
