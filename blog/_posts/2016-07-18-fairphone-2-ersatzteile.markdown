@@ -11,6 +11,6 @@ tags:
  - Georg Trapp
 ---
 
-Mit Freude können wir mitteilen, dass wir nun auch die ersten Ersatzteile für das Fairphone 2 zum Verkauf anbieten. Neben dem Fairphone 2 haben wir nun auch Akkus, Displays und Hüllen an Lager. Zudem sind wir daran auch die Spare Parts (einzelne Module) in unser Sortiment auf zu nehmen. 
+Mit Freude können wir mitteilen, dass wir nun auch die ersten Ersatzteile für das Fairphone 2 zum Verkauf anbieten. Neben dem Fairphone 2 haben wir nun auch Akkus, Displays und Hüllen an Lager. Zudem sind wir daran auch die Spare Parts (einzelne Module) in unser Sortiment auf zu nehmen.
 
-Unser Sortiment für die Ersatzteile findet ihr [hier](http://www.sinndrin.ch/angebote/fairphone-2/zubehoer-und-ersatzteile/). 
+<a href="/angebote/fairphone-2/zubehoer-und-ersatzteile/" class="button big expand"><i class="fi-arrow-right"></i> zum Sortiment der Fairphone 2 Ersatzteile</a>
