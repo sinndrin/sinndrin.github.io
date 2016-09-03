@@ -5,7 +5,7 @@ tags:
   - Fairphone
 permalink: /angebote/fairphone-2/zubehoer-und-ersatzteile/
 image: /images/angebote/fairphone_zubehoer.jpg
-title: "Fairphone Zubehör und Ersatzteile"
+title: "Fairphone Zubehör und Ersatzteile kaufen in der Schweiz"
 ---
 <div class="angebot-top-wide"><img title="Fairphone" src="/images/angebote/fairphone_zubehoer_sub.jpg"></div>
 
