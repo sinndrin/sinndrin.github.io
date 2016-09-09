@@ -10,4 +10,4 @@ comments: true
 tags:
  - Michael Tanner
 ---
-Am 25. November 2016 stimmen wir über die Initiative ["Grüne Wirtschaft"](http://www.gruenewirtschaft.ch/) ab. Es geht darum, unsere Verhaltensweise so anzupassen, dass wir mit den vorhandenen Ressourcen auskommen. Wir finden diese Forderung nur logisch, wenn wir längerfristig überleben möchten. Die sinndrin genossenschaft arbeitet schon heute auf dieses Ziel zu. Deshalb beziehen wir zu dieser Abstimmungsfrage gerne Position und empfehlen ein "Ja" in die Urnen zu legen.
+Am 25. September 2016 stimmen wir über die Initiative ["Grüne Wirtschaft"](http://www.gruenewirtschaft.ch/) ab. Es geht darum, unsere Verhaltensweise so anzupassen, dass wir mit den vorhandenen Ressourcen auskommen. Wir finden diese Forderung nur logisch, wenn wir längerfristig überleben möchten. Die sinndrin genossenschaft arbeitet schon heute auf dieses Ziel zu. Deshalb beziehen wir zu dieser Abstimmungsfrage gerne Position und empfehlen ein "Ja" in die Urnen zu legen.
