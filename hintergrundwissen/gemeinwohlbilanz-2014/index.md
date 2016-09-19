@@ -757,6 +757,6 @@ lesen und Feedback zu geben. Voraussichtlich wird an der Generalversammlung (Fr�
 
 <a name="sup1"><sup>1</sup></a>: [https://www.ecogood.org/gemeinwohl-bilanz/was-ist-die-gemeinwohl-bilanz](https://www.ecogood.org/gemeinwohl-bilanz/was-ist-die-gemeinwohl-bilanz)
 
-[gwö]: https://www.ecogood.org/was-ist-die-gemeinwohl-oekonomie
+[gwö]: https://www.ecogood.org/de/gemeinwohl-bilanz/
 [Raphael]: /ueber-uns/team/raphael-hagmann/
 [Roger]: /ueber-uns/team/roger-schaerer/
