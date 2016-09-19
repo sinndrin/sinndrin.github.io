@@ -755,7 +755,7 @@ lesen und Feedback zu geben. Voraussichtlich wird an der Generalversammlung (Fr√
 
 *Datum: 23. November 2015*
 
-<a name="sup1"><sup>1</sup></a>: [https://www.ecogood.org/gemeinwohl-bilanz/was-ist-die-gemeinwohl-bilanz](https://www.ecogood.org/gemeinwohl-bilanz/was-ist-die-gemeinwohl-bilanz)
+<a name="sup1"><sup>1</sup></a>: [https://www.ecogood.org/de/gemeinwohl-bilanz/](https://www.ecogood.org/de/gemeinwohl-bilanz/)
 
 [gw√∂]: https://www.ecogood.org/de/gemeinwohl-bilanz/
 [Raphael]: /ueber-uns/team/raphael-hagmann/
