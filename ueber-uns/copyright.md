@@ -195,7 +195,7 @@ Auf der Webseite [www.sinndrin.ch](/) wurden die folgenden Werke von dritten ers
 </div>
 <div class="row">
       <div class="medium-4 columns">
-        <img src="/images/angebote/offener-spieleabend.jpg" max-width="248px">
+        <img src="/images/ueber-uns/offener-spieleabend.jpg" max-width="248px">
       </div>
       <div class="medium-8 columns">
         <a href="https://flic.kr/p/oXDf9E"><h3>supermiagolator (CC BY 2.0)</h3></a>

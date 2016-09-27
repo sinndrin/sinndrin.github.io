@@ -1,18 +1,19 @@
 ---
 layout: two-columns
-categories: angebote
-tags:
-  - Suffizienz
-permalink: /angebote/suffizienz/offener-spieleabend/
-image: /images/angebote/offener-spieleabend.jpg
-title: "Offener Spieleabend"
-published: false
+title:  "Spieleabend / Spielenachmittag mit der sinndrin genossenschaft"
 ---
-<div class="angebot-top-wide"><img title="Fachbücherbörse" src="/images/angebote/offener-spieleabend_sub.jpg"></div>
 
-Jeden ersten Dienstag im Monat treffen sich ab 18:00 Uhr Spiele interessierte bei [uns][kontakt] zu einem gemütlichen Spieleabend. Für Spielevielfalt ist gesorgt, du kannst jedoch auch dein eigenes mitbringen.
+<div class="angebot-top-wide"><img title="Spieleabend mit der sinndrin genossenschaft" src="/images/ueber-uns/offener-spieleabend_sub.jpg"></div>
 
-Wen du Interesse hast ein Mal im Monat an diese Veranstaltung per E-Mail erinnert zu werden, fülle das unten stehende Formular aus. Wir verwenden deine Daten ausschliesslich zum oben genannten Zweck.
+In regelmässigen Abstäden treffen sich Genossenschafter_innen und externe Spiele interessierte zu einem gemütlichen Spieleabend in Zürich und Umgebung. Für Spielevielfalt ist gesorgt, du kannst jedoch auch dein eigenes mitbringen.
+
+Wen du Interesse hast per E-Mail an solche Spieleabende oder Tage erinnert zu werden, fülle das unten stehende Formular aus. Wir verwenden deine Daten ausschliesslich zum oben genannten Zweck.
+
+## Selber einen Spieleabend organisiert?
+
+Wenn du selbst einen Spieleabend organisierst und die Teilnahme den Mailinglisten-Mitglieder (ca. 50 Menschen) ermöglichen möchtest, sende uns eine E-Mail mit dem Datum, Ort und Zeit an [info@sinndrin.ch](mailto:info@sindnrin.ch). Wir werden deine Einladung gerne verteilen!
+
+## <a name="anmeldeformular"></a> Anmeldeformular zum Spieleabend mit der sinndrin genossenschaft
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
@@ -24,15 +25,14 @@ Wen du Interesse hast ein Mal im Monat an diese Veranstaltung per E-Mail erinner
 <div id="mc_embed_signup">
 <form action="//sinndrin.us9.list-manage.com/subscribe/post?u=83105c74f080e716ae13ad0d7&amp;id=ab2c5c4bb2" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Anmeldeformular zum Spieleabend mit sinndrin</h2>
 <div class="indicates-required"><span class="asterisk">*</span> Eingabe obligatorisch</div>
 <div class="mc-field-group">
-	<label for="mce-FNAME">Vorname </label>
-	<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
+	<label for="mce-FNAME">Vorname <span class="asterisk">*</span></label>
+	<input type="text" value="" name="FNAME" class="required" id="mce-FNAME">
 </div>
 <div class="mc-field-group">
-	<label for="mce-LNAME">Nachname </label>
-	<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
+	<label for="mce-LNAME">Nachname <span class="asterisk">*</span></label>
+	<input type="text" value="" name="LNAME" class="required" id="mce-LNAME">
 </div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">E-Mail Adresse  <span class="asterisk">*</span>
@@ -68,5 +68,3 @@ $.extend($.validator.messages, {
 	min: $.validator.format("Geben Sie bitte einen Wert größer oder gleich {0} ein."),
 	creditcard: "Geben Sie bitte ein gültige Kreditkarten-Nummer ein."
 });}(jQuery));var $mcj = jQuery.noConflict(true);</script>
-
-[kontakt]: /ueber-uns/kontakt/
