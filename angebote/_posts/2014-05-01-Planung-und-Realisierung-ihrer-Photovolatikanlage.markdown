@@ -15,7 +15,7 @@ Mit der Energie Genossenschaft Schweiz als Partner haben wir einen Spezialisten 
 
 Was sie abhebt von anderen Anbietern ist ihre Aufmerksamkeit auf die verwendeten Produkte und dass sie, wie wir, eine Gemeinwohlbilanz erstellt. Sie empfiehlt Komponenten, die einen möglichst kleine ökologischen Fussabdruck haben und Sozial gerecht produziert wurden. Mehr Informationen zur Energie Genossenschaft Schweiz finden sie [hier](http://www.energiegenossenschaft.ch/pv).
 
-* [Gemeinwohlbilanz](/hintergrundwissen/gemeinwohlbilanz-2014/) der sinndrin genossenschaft
+* [Gemeinwohlbilanz](/ueber-uns/gemeinwohlbilanz-2014/) der sinndrin genossenschaft
 * [Gemeinwohlbilanz](http://www.energiegenossenschaft.ch/wp2/wp-content/uploads/2015/12/151127_Gemeinwohl-Bericht-EGch-2014.pdf) der Energie Genossenschaft
 
 [Kontaktieren](/ueber-uns/kontakt/) sie uns, um die weiteren Schritte anzugehen, damit ihr solares Kraftwerk schon in naher Zukunft der Sonne entgegen strahlen kann.

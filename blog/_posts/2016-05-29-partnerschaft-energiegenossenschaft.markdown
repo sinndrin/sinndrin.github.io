@@ -17,6 +17,6 @@ Den die Energie Genossenschaft realisiert Projekte im Solarbereich genau so, wie
 
 Wir arbeiten bereits seit einiger Zeit mit der Energie Genossenschaft und ihrem Produkt der Stromallmend im Zusammenhang mit dem [Fairphone][fp] zusammen. Nun bauen wir die Partnerschaft aus und erweitern den Einflussbereich der Energie Genossenschaft.
 
-[gwb]: /hintergrundwissen/gemeinwohlbilanz-2014/
+[gwb]: /ueber-uns/gemeinwohlbilanz-2014/
 [fp]: /angebote/fairphone-2/kaufen/
 [eg]: /angebote/energie/planung-und-realisierung-ihrer-photovolatikanlage/

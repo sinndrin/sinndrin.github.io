@@ -3,6 +3,7 @@ layout: two-columns
 title:  "Grundsätze"
 ---
 
+Dies ist ein Auszug aus unseren [Statuten](/ueber-uns/statuten/).
 
 #### Wir fördern Bestrebungen zu:
 
@@ -16,7 +17,7 @@ title:  "Grundsätze"
 - Bildung, Beratung und Information.
 - Intervention, Forschung, Produktion und dem Handel.
 
-#### Dies machen wir für: 
+#### Dies machen wir für:
 
 - Einzelne, Gruppierungen und die Wirtschaft.
 - den Staat und die Gesellschaft.
