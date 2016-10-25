@@ -32,6 +32,17 @@
 ## Icons
 [Verfügbare Icons](http://zurb.com/playground/foundation-icon-fonts-3)
 
+# Entwicklungsumgebung
+
+## SASS to CSS compiling by foundation
+
+    cd assets/foundation
+    grunt
+
+## run jekyll
+
+    jekyll serve --watch
+
 ## Inhalte hinzufügen oder entfernen
 
 ###Angebot hinzufügen
