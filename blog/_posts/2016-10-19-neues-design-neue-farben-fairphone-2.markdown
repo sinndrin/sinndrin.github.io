@@ -2,7 +2,7 @@
 layout: blog
 title: "Fairphone 2 erhält ein neues Aussehen - Preorder bei sinndrin.ch"
 subtitle: "Neue Farben und eine schmalere Schutzhülle machen das Fairphone 2 noch eleganter"
-image: /images/blog/slim-design-fp2.jpg
+image: /images/blog/fairphone-2-slim-design.jpg
 date: 2016-10-19 08:00:00
 published: false
 categories: blog
