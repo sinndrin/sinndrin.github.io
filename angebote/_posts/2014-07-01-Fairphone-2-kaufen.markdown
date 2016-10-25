@@ -29,36 +29,36 @@ Das Fairphone 2 bringt Innovationen, welche die Lebensspanne des Telefons verlä
   <div class="large-6 columns">
     <img width="80" style="float: left; padding-right: 10px; padding-bottom: 10px;" src="/images/angebote/fairphone/fairphone-2-icons/conflict_free_minerals_blue-01_1.png" alt="sinndrin genossenschaft Fairphone 2 Conflict Free Minerals">
     <h5>Konfliktfreie Materialien</h5>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+    <p>Bereits vier Rohstoffe; Gold, Wolfram, Zinn und Tantal kommen aus konfliktfreien Gebieten.</p>
   </div>
   <div class="large-6 columns">
     <img width="80" style="float: left; padding-right: 10px; padding-bottom: 10px;" src="/images/angebote/fairphone/fairphone-2-icons/SD_Card_blue-01.png" alt="sinndrin genossenschaft Fairphone 2 Conflict Free Minerals">
-    <h5>Speicherplatz inklusive</h5>
-    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    <h5>Einfach zu reparieren</h5>
+    <p>Die modulare Aufbauweise erlaubt eine schnelle und einfach Reparatur.</p>
   </div>
 </div>
 <div class="row">
   <div class="large-6 columns">
     <img width="80" style="float: left; padding-right: 10px; padding-bottom: 10px;" src="/images/angebote/fairphone/fairphone-2-icons/easy_to_repair_blue-01_1.png" alt="sinndrin genossenschaft Fairphone 2 Conflict Free Minerals">
-    <h5>3</h5>
-    <p>...</p>
+    <h5>Zwei Telefone in Einem</h5>
+    <p>Zwei SIM-Karten Steckplätzen für Arbeit oder Ferien.</p>
   </div>
   <div class="large-6 columns">
     <img width="80" style="float: left; padding-right: 10px; padding-bottom: 10px;" src="/images/angebote/fairphone/fairphone-2-icons/Android_lollipop_blue-01.png" alt="sinndrin genossenschaft Fairphone 2 Conflict Free Minerals">
-    <h5>4</h5>
-    <p>...</p>
+    <h5>Speicherplatz inklusive</h5>
+    <p>32 GB interner Speicher, erweiterbar mit Micro SD-Karte für weitere 64 GB.</p>
   </div>
 </div>
 <div class="row">
   <div class="large-6 columns">
     <img width="80" style="float: left; padding-right: 10px; padding-bottom: 10px;" src="/images/angebote/fairphone/fairphone-2-icons/dual_sim_blue-01.png" alt="sinndrin genossenschaft Fairphone 2 Conflict Free Minerals">
-    <h5>5</h5>
-    <p>...</p>
+    <h5>Android&trade; 5.1 Lollipop Betriebsystem</h5>
+    <p>Google apps und Play Store bereits vorinstalliert. Alternatives googlefreies Betriebsystem einfach installierbar.</p>
   </div>
   <div class="large-6 columns">
     <img width="80" style="float: left; padding-right: 10px; padding-bottom: 10px;" src="/images/angebote/fairphone/fairphone-2-icons/Case_included_blue-01.png" alt="sinndrin genossenschaft Fairphone 2 Conflict Free Minerals">
-    <h5>6</h5>
-    <p>...</p>
+    <h5>Schutzhülle integriert</h5>
+    <p>Das dünne, elegante Cover dient zusätzlich als Schutzhüllen.</p>
   </div>
 </div>
 <!-- end six selling point icons -->
