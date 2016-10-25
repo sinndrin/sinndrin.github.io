@@ -9,7 +9,16 @@ title: "Fairphone 2 kaufen in der Schweiz"
 ---
 <div class="angebot-top-wide"><img title="Fairphone" src="/images/angebote/fairphone_sub.jpg"></div>
 
-Das Fairphone 2 bringt Innovationen, welche die Lebensspanne des Telefons verlängern. Neben dem Full HD 5 Zoll Display, der Qualcomm&reg; Snapdragon&trade; 801 Plattform und der Dual-SIM-Funktion, verfügt die neuartige Telefonrückseite über eine integrierte Schutzhülle, die das Gerät ohne zusätzliche Aussenhülle schützt. Das Gerät lässt sich einfach öffnen, Nutzer können die Batterie entfernen, die unterschiedlichen "Schichten" des Telefons erkunden und defekte Bauteile selber reparieren. Der Film zeigt wie einfach das ersetzen der einzelnen Bauteile funktioniert.
+Das Fairphone 2 erhält ein neues Design mit einem überarbeiteten Rückcover, dass dünner und eleganter daher kommt und dabei die Schutzfunktion weiterhin gewährleistet. Mit dem neuen Design des Rückcovers wurden auch neue Farben verwendet. Neu gibt es das Fairphone 2 in den Farben weiss, türkis, blau und rot.
+
+<br>
+
+<ul class="clearing-thumbs" data-clearing>
+  <li><a href="/images/angebote/fairphone/fp2-slim-bl.jpg"><img src="/images/angebote/fairphone/fp2-slim-bl-tumb.jpg"></a></li>
+  <li><a href="/images/angebote/fairphone/fp2-slim-rt.jpg"><img src="/images/angebote/fairphone/fp2-slim-rt-tumb.jpg"></a></li>
+  <li><a href="/images/angebote/fairphone/fp2-slim-ws.jpg"><img src="/images/angebote/fairphone/fp2-slim-ws-tumb.jpg"></a></li>
+  <li><a href="/images/angebote/fairphone/fp2-slim-tu.jpg"><img src="/images/angebote/fairphone/fp2-slim-tu-tumb.jpg"></a></li>
+</ul>
 
 <br>
 
@@ -62,25 +71,6 @@ Das Fairphone 2 bringt Innovationen, welche die Lebensspanne des Telefons verlä
   </div>
 </div>
 <!-- end six selling point icons -->
-
-<br>
-
-* Fairphone 2 in allen Farben erhältlich (blau matt, blau transparent, schwarz matt, schwarz transparent und transparent)
-* Die Lieferzeit beträgt zwischen 2 und 7 Tagen
-* 2 Jahre Garantie
-* Schneller und effektiver Support durch langjährige Zusammenarbeit mit Fairphone
-
-<br>
-
-<ul class="clearing-thumbs" data-clearing>
-  <li><a href="/images/angebote/fairphone/fp2-front.jpg"><img src="/images/angebote/fairphone/fp2-front-tumb.jpg"></a></li>
-  <li><a href="/images/angebote/fairphone/fp2-side.jpg"><img src="/images/angebote/fairphone/fp2-side-tumb.jpg"></a></li>
-  <li><a href="/images/angebote/fairphone/fp2-bl-matt.jpg"><img src="/images/angebote/fairphone/fp2-bl-matt-tumb.jpg"></a></li>
-  <li><a href="/images/angebote/fairphone/fp2-bl-trans.jpg"><img src="/images/angebote/fairphone/fp2-bl-trans-tumb.jpg"></a></li>
-  <li><a href="/images/angebote/fairphone/fp2-sw-matt.jpg"><img src="/images/angebote/fairphone/fp2-sw-matt-tumb.jpg"></a></li>
-  <li><a href="/images/angebote/fairphone/fp2-sw-trans.jpg"><img src="/images/angebote/fairphone/fp2-sw-trans-tumb.jpg"></a></li>
-  <li><a href="/images/angebote/fairphone/fp2-trans.jpg"><img src="/images/angebote/fairphone/fp2-trans-tumb.jpg"></a></li>
-</ul>
 
 <br>
 
@@ -156,6 +146,10 @@ Das Fairphone 2 bringt Innovationen, welche die Lebensspanne des Telefons verlä
 </div>
 
 Quelle: [https://www.fairphone.com/technical-specifications/](https://www.fairphone.com/technical-specifications/)
+
+<br>
+
+#### Kurzfilm über die modulare Aufbauweise des Fairphone 2
 
 <br>
 
