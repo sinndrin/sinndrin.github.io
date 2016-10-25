@@ -15,12 +15,53 @@ Das Fairphone 2 bringt Innovationen, welche die Lebensspanne des Telefons verlä
 
 <div class="row">
 <div class="large-6 columns">
-<a href="http://fairphone.faircustomer.ch/" class="button big expand"><i class="fi-arrow-right"></i> Fairphone 2 kaufen</a>
+<a href="https://www.faircustomer.ch/sinndrin-genossenschaft/de/fairphone/9188-fairphone-2.html" class="button big expand"><i class="fi-arrow-right"></i> Fairphone 2 mit Slim Cover bestellen</a>
 </div>
 <div class="large-6 columns">
 <a href="/angebote/fairphone-2/zubehoer-und-ersatzteile/" class="button big expand"><i class="fi-arrow-right"></i> Zubehör und Ersatzteile kaufen</a>
 </div>
 </div>
+
+<br>
+
+<!-- begin six selling point icons -->
+<div class="row">
+  <div class="large-6 columns">
+    <img width="80" style="float: left; padding-right: 10px; padding-bottom: 10px;" src="/images/angebote/fairphone/fairphone-2-icons/conflict_free_minerals_blue-01_1.png" alt="sinndrin genossenschaft Fairphone 2 Conflict Free Minerals">
+    <h5>Konfliktfreie Materialien</h5>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  </div>
+  <div class="large-6 columns">
+    <img width="80" style="float: left; padding-right: 10px; padding-bottom: 10px;" src="/images/angebote/fairphone/fairphone-2-icons/SD_Card_blue-01.png" alt="sinndrin genossenschaft Fairphone 2 Conflict Free Minerals">
+    <h5>Speicherplatz inklusive</h5>
+    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  </div>
+</div>
+<div class="row">
+  <div class="large-6 columns">
+    <img width="80" style="float: left; padding-right: 10px; padding-bottom: 10px;" src="/images/angebote/fairphone/fairphone-2-icons/easy_to_repair_blue-01_1.png" alt="sinndrin genossenschaft Fairphone 2 Conflict Free Minerals">
+    <h5>3</h5>
+    <p>...</p>
+  </div>
+  <div class="large-6 columns">
+    <img width="80" style="float: left; padding-right: 10px; padding-bottom: 10px;" src="/images/angebote/fairphone/fairphone-2-icons/Android_lollipop_blue-01.png" alt="sinndrin genossenschaft Fairphone 2 Conflict Free Minerals">
+    <h5>4</h5>
+    <p>...</p>
+  </div>
+</div>
+<div class="row">
+  <div class="large-6 columns">
+    <img width="80" style="float: left; padding-right: 10px; padding-bottom: 10px;" src="/images/angebote/fairphone/fairphone-2-icons/dual_sim_blue-01.png" alt="sinndrin genossenschaft Fairphone 2 Conflict Free Minerals">
+    <h5>5</h5>
+    <p>...</p>
+  </div>
+  <div class="large-6 columns">
+    <img width="80" style="float: left; padding-right: 10px; padding-bottom: 10px;" src="/images/angebote/fairphone/fairphone-2-icons/Case_included_blue-01.png" alt="sinndrin genossenschaft Fairphone 2 Conflict Free Minerals">
+    <h5>6</h5>
+    <p>...</p>
+  </div>
+</div>
+<!-- end six selling point icons -->
 
 <br>
 
