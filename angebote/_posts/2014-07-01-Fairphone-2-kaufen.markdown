@@ -65,10 +65,6 @@ Das Fairphone 2 bringt Innovationen, welche die Lebensspanne des Telefons verlä
 
 <br>
 
-<iframe width="803" height="452" src="https://www.youtube.com/embed/6DW733G76BY" frameborder="0" allowfullscreen></iframe>
-
-<br>
-
 * Fairphone 2 in allen Farben erhältlich (blau matt, blau transparent, schwarz matt, schwarz transparent und transparent)
 * Die Lieferzeit beträgt zwischen 2 und 7 Tagen
 * 2 Jahre Garantie
@@ -160,6 +156,10 @@ Das Fairphone 2 bringt Innovationen, welche die Lebensspanne des Telefons verlä
 </div>
 
 Quelle: [https://www.fairphone.com/technical-specifications/](https://www.fairphone.com/technical-specifications/)
+
+<br>
+
+<iframe width="803" height="452" src="https://www.youtube.com/embed/6DW733G76BY" frameborder="0" allowfullscreen></iframe>
 
 <br>
 
