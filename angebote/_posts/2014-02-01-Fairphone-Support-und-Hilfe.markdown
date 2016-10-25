@@ -7,7 +7,7 @@ tags:
   - Jonas Leimgruber
   - Roger Schärer
 permalink: /angebote/fairphone/support-und-hilfe/
-image: /images/angebote/smartphone-kurs.jpg
+image: /images/angebote/fairphone-support-und-hilfe-sub-small.png
 title: "Fairphone Support und Hilfe"
 ---
 <div class="angebot-top-wide"><img title="Fairphone Support und Hilfe" src="/images/angebote/fairphone-support-und-hilfe-sub.png"></div>
