@@ -9,6 +9,8 @@ title: "Fairphone 2 kaufen in der Schweiz"
 ---
 <div class="angebot-top-wide"><img title="Fairphone" src="/images/angebote/fairphone_sub.jpg"></div>
 
+<br>
+
 Das Fairphone 2 erhält ein neues Design mit einem überarbeiteten Rückcover, dass dünner und eleganter daher kommt und dabei die Schutzfunktion weiterhin gewährleistet. Mit dem neuen Design des Rückcovers wurden auch neue Farben verwendet. Neu gibt es das Fairphone 2 in den Farben weiss, türkis, blau und rot.
 
 <br>
