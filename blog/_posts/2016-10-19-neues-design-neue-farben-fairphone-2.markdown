@@ -10,7 +10,9 @@ comments: true
 tags:
  - Georg Trapp
 ---
-Fairphone bringt das Fairphone 2 in einem neuen Look und in neuen Farben auf den Markt. Neu gibt es das Fairphone 2 in den Farben: rot, türkis, weiss und blau. Das Rückcover wurde einer Diät unterzogen und kommt nun in einem schlanken Design daher, welches die Schutzfunktion weiterhin gewährleistet.
+Fairphone bringt das Fairphone 2 in einem neuen Look und in neuen Farben auf den Markt. Neu gibt es das Fairphone 2 in den Farben: rot, türkis, weiss und blau. Das Rückcover wurde einer Diät unterzogen und kommt nun in einem schlanken Design daher, welches die Schutzfunktion weiterhin gewährleistet. Unter der Haube bleibt das Fairphone 2 technisch unverändert, eine Kompatibilität der Ersatzteile ist also gewährleistet.
+
+<a href="http://www.sinndrin.ch/angebote/fairphone-2/kaufen/" class="button big expand"><i class="fi-arrow-right"></i> Fairphone 2 mit Slim Cover bestellen</a>
 
 <img src="/images/blog/fp2-slim-tuerkis.jpg" alt="eleganz meets fair" />
 
