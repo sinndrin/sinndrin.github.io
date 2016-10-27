@@ -9,7 +9,7 @@ title:  'Mitglied werden bei der sinndrin genossenschaft'
 <p>Die Mitglieder sind unser kostbarstes Gut und wir schätzen dein Interesse. Falls du während dem Anmeldeprozedere auf Unklarheiten stösst, <a href="/ueber-uns/kontakt/">kontaktiere</a> uns!</p>
 </div>
 
-Mitglied können natürliche und juristische Person sowie öffentlich rechtliche Körperschaften werden, die den [Genossenschaftszweck](http://localhost:4000/ueber-uns/statuten/#artikel-21) unterstützen und mindestens einen [Anteilschein](http://localhost:4000/ueber-uns/statuten/#artikel-33) übernehmen. Die Zahl der Mitglieder ist unbeschränkt.<sup><a href="/ueber-uns/statuten/#artikel-31">1</a></sup>
+Mitglied können natürliche und juristische Person sowie öffentlich rechtliche Körperschaften werden, die den [Genossenschaftszweck](/ueber-uns/statuten/#artikel-21) unterstützen und mindestens einen [Anteilschein](/ueber-uns/statuten/#artikel-33) übernehmen. Die Zahl der Mitglieder ist unbeschränkt.<sup><a href="/ueber-uns/statuten/#artikel-31">1</a></sup>
 
 Beitrittsgesuche sind [schriftlich an die Verwaltung](mailto:info@sinndrin.ch) zu richten.<sup><a href="/ueber-uns/statuten/#artikel-32">2</a></sup>
 
