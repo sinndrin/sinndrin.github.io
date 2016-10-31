@@ -12,6 +12,4 @@ tags:
 ---
 Dem Fairphone 2 wurde eine grosse Ehre zuteil. Das Gerät hat in den letzten Tagen das renomierte Label "Blauer Engel" erhalten. Neben 12'000 anderen Geräten und Dienstleistungen hat das Fairphone 2 nun als erstes Smartphone diesen Preis erhalten. 
 
-Die vollständige Liste der zu erfüllenden Kriterien für dieses Label finden sie auf der Webseite [Blauer Engel][blauerengel].
-
-[blauerengel]: https://www.blauer-engel.de/de/produktwelt/haushalt-wohnen/mobiltelefone-266
+Die vollständige Liste der zu erfüllenden Kriterien für dieses Label finden sie auf der Webseite [Blauer Engel](https://www.blauer-engel.de/de/produktwelt/haushalt-wohnen/mobiltelefone-266).
