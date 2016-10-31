@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: "Fairphone 2 erhält als erstes Smartphone das Label "Blauer Engel""
-subtitle: "Neben 12'000 anderen Geräten und Dienstleistungen erhält das Fairphone 2 als erstes Smartphone das renomierte Label "Blauer Engel""
+title: "Fairphone 2 erhält als erstes Smartphone das Label Blauer Engel"
+subtitle: "Neben 12'000 anderen Geräten und Dienstleistungen erhält das Fairphone 2 als erstes Smartphone das renomierte Label Blauer Engel"
 image: /images/blog/fairphone-2-blauer-engel.png
 date: 2016-10-31 08:00:00
 published: true
