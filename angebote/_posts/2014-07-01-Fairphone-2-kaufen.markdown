@@ -28,10 +28,13 @@ Das Fairphone 2 wurde als erstes Smartphone mit dem Label "Blauer Engel" ausgeze
 <br>
 
 <div class="row">
-<div class="large-6 columns">
+<div class="large-4 columns">
 <a href="https://www.faircustomer.ch/sinndrin-genossenschaft/de/fairphone/9188-fairphone-2.html" class="button big expand"><i class="fi-arrow-right"></i> Fairphone 2 mit Slim Cover bestellen</a>
 </div>
-<div class="large-6 columns">
+<div class="large-4 columns">
+<a href="https://www.faircustomer.ch/sinndrin-genossenschaft/de/fairphone/9407-fairphone-2-regular-back-cover.html" class="button big expand"><i class="fi-arrow-right"></i> Fairphone 2 mit Regular Cover bestellen</a>
+</div>
+<div class="large-4 columns">
 <a href="/angebote/fairphone-2/zubehoer-und-ersatzteile/" class="button big expand"><i class="fi-arrow-right"></i> Zubehör und Ersatzteile kaufen</a>
 </div>
 </div>
