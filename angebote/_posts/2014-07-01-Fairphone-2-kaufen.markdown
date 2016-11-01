@@ -12,6 +12,7 @@ title: "Fairphone 2 kaufen in der Schweiz"
 <br>
 
 Das Fairphone 2 erhält ein neues Design mit einem überarbeiteten Rückcover, dass dünner und eleganter daher kommt und dabei die Schutzfunktion weiterhin gewährleistet. Mit dem neuen Design des Rückcovers wurden auch neue Farben verwendet. Neu gibt es das Fairphone 2 in den Farben weiss, türkis, blau und rot. Unter der Haube bleibt das Fairphone 2 technisch unverändert, eine Kompatibilität der Ersatzteile ist also gewährleistet.
+Das Fairphone 2 wurde als erstes Smartphone mit dem Label "Blauer Engel" ausgezeichnet. Mehr über dieses Label erfahrt ihr [hier](https://www.blauer-engel.de/de/produktwelt/haushalt-wohnen/mobiltelefone-266).
 
 <br>
 
@@ -20,6 +21,8 @@ Das Fairphone 2 erhält ein neues Design mit einem überarbeiteten Rückcover, d
   <li><a href="/images/angebote/fairphone/fp2-slim-rt.jpg"><img src="/images/angebote/fairphone/fp2-slim-rt-tumb.jpg"></a></li>
   <li><a href="/images/angebote/fairphone/fp2-slim-ws.jpg"><img src="/images/angebote/fairphone/fp2-slim-ws-tumb.jpg"></a></li>
   <li><a href="/images/angebote/fairphone/fp2-slim-tu.jpg"><img src="/images/angebote/fairphone/fp2-slim-tu-tumb.jpg"></a></li>
+  <li><a href="/images/angebote/fairphone/fp2-reg-bl.jpg"><img src="/images/angebote/fairphone/fp2-reg-bl-tumb.jpg"></a></li>
+  <li><a href="/images/angebote/fairphone/fp2-reg-trans.jpg"><img src="/images/angebote/fairphone/fp2-reg-trans-tumb.jpg"></a></li>
 </ul>
 
 <br>
