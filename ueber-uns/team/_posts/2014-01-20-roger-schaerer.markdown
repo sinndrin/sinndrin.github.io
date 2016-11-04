@@ -6,7 +6,7 @@ permalink: /ueber-uns/team/roger-schaerer/
 title: "Roger Schärer"
 subtitle: "B. Sc. ZFH in Umweltingenieurwesen"
 email: roger.schaerer@sinndrin.ch
-phone: +41 76 451 71 31
+phone: "+41 76 451 71 31 <a href='https://telegram.me/rschaerer'><i alt='Telegram' style='color:#55acee;' class='fa fa-telegram' aria-hidden='true'></i></a> <img alt='Signal by Open Whisper Systems' src='/images/design/signal-16.png' /> <i alt='WhatsApp' style='color:#00e676;' class='fa fa-whatsapp' aria-hidden='true'></i>"
 pgpkeyid: "0x248673576B7AE02DEDF1393D2D141CC02FB359E7"
 pgpkeyfingerprint: "2486 7357 6B7A E02D EDF1 393D 2D14 1CC0 2FB3 59E7"
 byline: "entwickelt gerne neue Projekte im Nach&shy;hal&shy;tig&shy;keits&shy;be&shy;reich. Er interessiert sich hauptsächlich für Umweltbildung, ist aber auch von Webdesign und Programmieren begeistert."
