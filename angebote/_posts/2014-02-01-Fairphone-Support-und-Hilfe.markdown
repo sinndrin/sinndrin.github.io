@@ -122,8 +122,6 @@ Wir beantworten Ihre Fragen rund um Software (App-, Mail-, Kontaktverwaltung, SM
         <div class="large-3 columns">
           <ul>
             <li><h5>Zürich (Stadt)</h5></li>
-            <li><a href="#anmeldeformular" onClick="dateWorkshop = $(this).html(); clickAnmelden();">19.09.2016</a></li>
-            <li><a href="#anmeldeformular" onClick="dateWorkshop = $(this).html(); clickAnmelden();">26.10.2016</a></li>
             <li><a href="#anmeldeformular" onClick="dateWorkshop = $(this).html(); clickAnmelden();">21.11.2016</a></li>
             <li><a href="#anmeldeformular" onClick="dateWorkshop = $(this).html(); clickAnmelden();">13.12.2016</a></li>
           </ul>
@@ -131,11 +129,12 @@ Wir beantworten Ihre Fragen rund um Software (App-, Mail-, Kontaktverwaltung, SM
         <div class="large-3 columns">
           <ul>
             <li><h5>Winterthur</h5></li>
-            <li><a href="#anmeldeformular" onClick="dateWorkshop = $(this).html(); clickAnmelden();">20.09.2016</a></li>
+            <li>Auf Anfrage.</li>
+            <li>Zur Zeit sind keine Kurse geplant.</li>
           </ul>
         </div>
       </li>
-  
+
   <li class="bullet-item" style="clear: both;">&nbsp;</li>
   <li class="bullet-item">Zeit: jeweils von 18:00 - 20:00 Uhr. Freies kommen und gehen während dieser Zeit möglich.</li>
   <li class="bullet-item">Anmeldung bis spätestens fünf Tage im Voraus. Eine kurze Schilderung Ihrer Fragestellung ist erwünscht. Die exakte Adresse des Kurslokals senden wir Ihnen nach ihrer Anmeldung zu.</li>
@@ -181,9 +180,6 @@ Wir beantworten Ihre Fragen rund um Software (App-, Mail-, Kontaktverwaltung, SM
             <label>Kursdatum:
               <select id="datum" name="Datum" required>
                 <option value="">bitte wählen...</option>
-                <option value="19092016">19.09.16</option>
-                <option value="20092016">20.09.16</option>
-                <option value="26102016">26.10.16</option>
                 <option value="21112016">21.11.16</option>
                 <option value="13122016">13.12.16</option>
               </select>
