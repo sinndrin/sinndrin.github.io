@@ -15,6 +15,7 @@ Weitere Stellenseiten werden gerne in die Liste [aufgenommen][kontakt]. Ebenso s
 - [Arban Personal][27]
 - [careerjet][45]
 - [Jardin Suisse][31]
+- [Jooble](https://ch.jooble.org/jobs-umwelt-)
 - [kampajobs des kampagnenforum][9]
 - [naturschutz.ch][11]
 - [Service Umwelt][25]
