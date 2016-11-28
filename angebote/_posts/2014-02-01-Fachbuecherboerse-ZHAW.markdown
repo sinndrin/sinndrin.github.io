@@ -1374,7 +1374,7 @@ Alle auf diesem Weg nicht verkauften Bücher, werden an der nächstjährigen Fac
   <td>7</td>
 </tr>
 <tr>
-  <td>Ready for Advanced 3rd Edition</td
+<td>Ready for Advanced 3rd Edition</td>
   <td>Roy Norris, Amanda French</td>
   <td>9780230463677</td>
   <td>30</td>
