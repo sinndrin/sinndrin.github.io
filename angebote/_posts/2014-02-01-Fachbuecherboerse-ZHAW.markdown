@@ -34,7 +34,175 @@ Alle auf diesem Weg nicht verkauften Bücher, werden an der nächstjährigen Fac
   <td>Ulrich Weber</td>
   <td>3-06-011104-9</td>
   <td>22</td>
+</tr>
 <tr>
+  <td>Biologie, 21. neu bearbeitete Auflage</td>
+  <td>Linder</td>
+  <td>3-507-10580-2</td>
+  <td>15</td>
+</tr>
+<tr>
+  <td>Biologie, 21. neu bearbeitete Auflage</td>
+  <td>Linder</td>
+  <td>3-507-10580-2</td>
+  <td>15</td>
+</tr>
+<tr>
+  <td>Das Praktische Orchideen-Buch</td>
+  <td>Lutz Röllke</td>
+  <td>3-8001-4743-2</td>
+  <td>10</td>
+</tr>
+<tr>
+  <td>Grundlagen der qualitativen und quantitativen Analyse, 5. überarbeitete Auflage</td>
+  <td>Udo R. Kunze, Georg Schwedt</td>
+  <td>3-527-30858-x</td>
+  <td>30</td>
+</tr>
+<tr>
+  <td>Humanbiologie</td>
+  <td>Ernst Waldemar Bauer</td>
+  <td>3-464-01517-3</td>
+  <td>10</td>
+</tr>
+<tr>
+  <td>Kurzes Lehrbuch der Zoologie, 8. Auflage</td>
+  <td>Volker Storch, Ulrich Welsch</td>
+  <td>978-3-8274-2967-4</td>
+  <td>25</td>
+</tr>
+<tr>
+  <td>Natural resource and environmental economics, 4th eidition</td>
+  <td>Permann et. al.</td>
+  <td>978-0-321-41753-4</td>
+  <td>60</td>
+</tr>
+<tr>
+  <td>Schul- und Exkursionsflora für die Schweiz 19. Auflage</td>
+  <td>Binz, Heitz</td>
+  <td>978-3-7965-0892-9</td>
+  <td>16</td>
+</tr>
+<tr>
+  <td>Umwelt Schweiz, Statistiken und Analysen und Politik und Perspektiven im Duopack</td>
+  <td>Vera Bueller</td>
+  <td>3-303-02066-3</td>
+  <td>5</td>
+</tr>
+<tr>
+  <td>Zellgeflüster – Streifzüge durch wissenschaftliches Neuland</td>
+  <td>Florianne Koechlin</td>
+  <td>3-85787-368-x</td>
+  <td>20</td>
+</tr>
+<tr>
+  <td>The Botanical Ark</td>
+  <td>Alan & Susan Carle</td>
+  <td>978-3-0000-8660-1</td>
+  <td>10</td>
+</tr>
+<tr>
+  <td>Genetik, Allgemeine Genetik – Molekulare Genetik – Entwicklungsgenetik</td>
+  <td>Wilfried Janning, Elisabeth Knust</td>
+  <td>978-3-1312-8771-7</td>
+  <td>30</td>
+</tr>
+<tr>
+  <td>Biologie macchiato</td>
+  <td>Norbert W. Kopf</td>
+  <td>978-3-8273-7315-1</td>
+  <td>8</td>
+</tr>
+<tr>
+  <td>Biologie, 22. neu bearbeitete Auflage</td>
+  <td>Linder</td>
+  <td>978-3-507-10930-8</td>
+  <td>25</td>
+</tr>
+<tr>
+  <td>Natura 3, Biologie für die gymnasiale Oberstufe</td>
+  <td>Beyer et al.</td>
+  <td>978-3-264-04530-7</td>
+  <td>25</td>
+</tr>
+<tr>
+  <td>Biologie Oberstufe Gesamtband</td>
+  <td>Ulrich Weber</td>
+  <td>3-06-011104-9</td>
+  <td>25</td>
+</tr>
+<tr>
+  <td>Campbell Essential Biology with Physiology. International Edition, forth edition</td>
+  <td>Simon, Eric J.; Dickey, Jean L.; Reece, Jane B. </td>
+  <td>978-0-321-82700-5</td>
+  <td>10</td>
+</tr>
+<tr>
+  <td>Biologie Oberstufe Gesamtband, 2. Auflage</td>
+  <td>Ulrich Weber</td>
+  <td>978-3-464-17183-7</td>
+  <td>25</td>
+</tr>
+<tr>
+  <td>Plant Systematics</td>
+  <td>Judd, Campell, kellogg, Stevens, Donoghue</td>
+  <td>0-87893-403-0</td>
+  <td>50</td>
+</tr>
+<tr>
+  <td>Biologie Heute</td>
+  <td>Braun</td>
+  <td>978-3-507-19800-5</td>
+  <td>19</td>
+</tr>
+<tr>
+  <td>Biologie Oberstufe Gesamtband</td>
+  <td>Weber, Süssen</td>
+  <td>978-3-464-04279-3</td>
+  <td>20</td>
+</tr>
+<tr>
+  <td>Biogas Praxis</td>
+  <td>Barbara Eder, Heinz Schulz</td>
+  <td>3-936896-13-5</td>
+  <td>15</td>
+</tr>
+<tr>
+  <td>Öko Aquarien</td>
+  <td>Quante Alexander kai</td>
+  <td>978-3-8001-7723-3</td>
+  <td>6</td>
+</tr>
+<tr>
+  <td>Biotechnologie für Einsteiger, 4. Auflage</td>
+  <td>Renneberg, Reinhard; Berkling, Viola; Süssbier</td>
+  <td>978-3-8274-3047-2</td>
+  <td>20</td>
+</tr>
+<tr>
+  <td>Cell and Tissue Reaction Engineering</td>
+  <td>Eibl, Eibl, Pörtner, Catapano, Czermak</td>
+  <td>978-3-642-01874-9</td>
+  <td>29</td>
+</tr>
+<tr>
+  <td>Alkaloid Biology and Metabolism in Plants</td>
+  <td>Waller and Nowacki</td>
+  <td>0-306-30981-5</td>
+  <td>8</td>
+</tr>
+<tr>
+  <td>Numerical Ecology</td>
+  <td>Legendre</td>
+  <td>978-0-444-53868-0</td>
+  <td>45</td>
+</tr>
+<tr>
+  <td>Neuroscience</td>
+  <td>Purves, Augustine, Fitzpatrick, Hall, LaMantia, McNamara, White</td>
+  <td>978-0-87893-697-7</td>
+  <td>30</td>
+</tr>
   <!--------------------------------------------------- END ------------------------------------------------------>
   </tbody>
 </table>
