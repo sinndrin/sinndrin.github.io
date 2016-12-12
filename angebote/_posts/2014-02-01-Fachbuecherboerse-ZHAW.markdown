@@ -206,13 +206,13 @@ Alle auf diesem Weg nicht verkauften Bücher, werden an der nächstjährigen Fac
   <td>Freizeitaktivitäten im Lebensraum der Alpentiere</td>
   <td>Paul Ingold</td>
   <td>978-3-258-06780-3</td>
-  <td>39</td>
+  <td>20</td>
 </tr>
 <tr>
   <td>Ökologie</td>
   <td>Townsend, Harper, Begon</td>
   <td>978-3-540-95896-3</td>
-  <td>33</td>
+  <td>20</td>
 </tr>
   <!--------------------------------------------------- END ------------------------------------------------------>
   </tbody>
@@ -844,7 +844,7 @@ Alle auf diesem Weg nicht verkauften Bücher, werden an der nächstjährigen Fac
   <td>Qualitative Sozialforschung</td>
   <td>Aglaja Przyborski, Monika Wohlrab-Sahr</td>
   <td>978-3-486-70892-9</td>
-  <td>24</td>
+  <td>20</td>
 </tr>
   <!--------------------------------------------------- END ------------------------------------------------------>
   </tbody>
