@@ -202,6 +202,17 @@ Alle auf diesem Weg nicht verkauften Bücher, werden an der nächstjährigen Fac
   <td>Purves, Augustine, Fitzpatrick, Hall, LaMantia, McNamara, White</td>
   <td>978-0-87893-697-7</td>
   <td>30</td>
+<tr>
+  <td>Freizeitaktivitäten im Lebensraum der Alpentiere</td>
+  <td>Paul Ingold</td>
+  <td>978-3-258-06780-3</td>
+  <td>39</td>
+</tr>
+<tr>
+  <td>Ökologie</td>
+  <td>Townsend, Harper, Begon</td>
+  <td>978-3-540-95896-3</td>
+  <td>33</td>
 </tr>
   <!--------------------------------------------------- END ------------------------------------------------------>
   </tbody>
@@ -828,6 +839,12 @@ Alle auf diesem Weg nicht verkauften Bücher, werden an der nächstjährigen Fac
   <td>Christian W. Hofstätter</td>
   <td>978-3-440-10471-2</td>
   <td>8</td>
+</tr>
+<tr>
+  <td>Qualitative Sozialforschung</td>
+  <td>Aglaja Przyborski, Monika Wohlrab-Sahr</td>
+  <td>978-3-486-70892-9</td>
+  <td>24</td>
 </tr>
   <!--------------------------------------------------- END ------------------------------------------------------>
   </tbody>
