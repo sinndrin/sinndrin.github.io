@@ -2,7 +2,10 @@
 layout: two-columns
 title:  "Jobs im Umweltbereich"
 ---
-<img class="leadimage left" width="55" title="Jobs im Umweltbereich" src="/hintergrundwissen/jobs-im-umweltbereich/jobs-im-umweltbereich.jpg"> Eine Linksammlung zu Stellenbörsen und Direktlinks zu Arbeitgebern im grünen Bereich in der Region Schweiz und Zürich.
+<div class="angebot-top-wide"><a href="/angebote/fairphone-2/kaufen/"><img title="Fairphone" src="/images/angebote/fairphone/fairphone2-slice-banner.jpeg"></a></div>
+
+
+Eine Linksammlung zu Stellenbörsen und Direktlinks zu Arbeitgebern im grünen Bereich in der Region Schweiz und Zürich.
 
 Weitere Stellenseiten werden gerne in die Liste [aufgenommen][kontakt]. Ebenso sind [Aktualisierungen und Hinweise über verwaiste Links][kontakt] erwünscht.
 
