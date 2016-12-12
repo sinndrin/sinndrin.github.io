@@ -202,6 +202,7 @@ Alle auf diesem Weg nicht verkauften Bücher, werden an der nächstjährigen Fac
   <td>Purves, Augustine, Fitzpatrick, Hall, LaMantia, McNamara, White</td>
   <td>978-0-87893-697-7</td>
   <td>30</td>
+</tr>
 <tr>
   <td>Freizeitaktivitäten im Lebensraum der Alpentiere</td>
   <td>Paul Ingold</td>
