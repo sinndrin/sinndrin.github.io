@@ -31,6 +31,7 @@ Weitere Stellenseiten werden gerne in die Liste [aufgenommen][kontakt]. Ebenso s
 - [ETH Zürich][35]
 - [Fachhochschule Nordwestschweiz FHNW][4]
 - [Feuervogel][1]
+- [Filme für die Erde](https://filmefuerdieerde.org/unterstuetze-uns/mitarbeit)
 - [Gartenbau, Fachmagazin Schweiz][38]
 - [Greenpeace Schweiz, Stellen und Praktika][5]
 - [Max Havelaar-Stiftung][24]
