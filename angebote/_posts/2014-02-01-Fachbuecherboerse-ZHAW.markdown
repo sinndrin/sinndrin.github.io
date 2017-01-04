@@ -506,22 +506,10 @@ Alle auf diesem Weg nicht verkauften Bücher, werden an der nächstjährigen Fac
   <td>10</td>
 </tr>
 <tr>
-  <td>Lernen, Gehirnforschung und Schule des Lebens</td>
-  <td>Manfred Spitzer</td>
-  <td>978-3-8274-1723-7</td>
-  <td>9</td>
-</tr>
-<tr>
   <td>Wirtschaftskrise ohne Ende? 3. Auflage</td>
   <td>Aymo Brunetti</td>
   <td>978-3-03905-882-9</td>
   <td>15</td>
-</tr>
-<tr>
-  <td>Lernen und Behalten</td>
-  <td>Norbert M. Seel, Ulrike Hanke</td>
-  <td>978-3-407-34208-9</td>
-  <td>10</td>
 </tr>
 <tr>
   <td>Miteinander Reden, Störungen und Klärungen</td>
@@ -624,12 +612,6 @@ Alle auf diesem Weg nicht verkauften Bücher, werden an der nächstjährigen Fac
   <td>Berlinger, Donatus; Birri, Thomas; Zumsteg, Barbara</td>
   <td>978-3-03905-251-6 </td>
   <td>10</td>
-</tr>
-<tr>
-  <td>Exploratives Lernen, Der persönliche Weg zum Erfolg Ein Arbeitsbuch für Studium, Beruf und Weiterbildung 11. Auflage</td>
-  <td>Verena Steiner</td>
-  <td>978-3-86612-032-7</td>
-  <td>7</td>
 </tr>
 <tr>
   <td>The Economics of the Environment</td>
@@ -1196,12 +1178,6 @@ Alle auf diesem Weg nicht verkauften Bücher, werden an der nächstjährigen Fac
   <td>Lother Meyer, Gerd-Dietrich Schmidt</td>
   <td>978-3-411-71464-3 </td>
   <td>5</td>
-</tr>
-<tr>
-  <td>Physik Gymnasiale Oberstufe</td>
-  <td>Giancoli</td>
-  <td>978-3-86894-903-2</td>
-  <td>24</td>
 </tr>
 <tr>
   <td>Physik bis zur 10. Klasse </td>
