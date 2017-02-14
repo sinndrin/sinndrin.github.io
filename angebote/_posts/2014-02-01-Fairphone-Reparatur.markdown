@@ -51,6 +51,6 @@ Die Reparatur wird in unserer voll ausgestatteten Werkstatt durchgeführt. Die A
 [faq]: http://support.sinndrin.org
 [kontakt]: /ueber-uns/kontakt/
 [backup]: http://support.sinndrin.org/de/knowledgebase/3/docs/8-Datensicherung-Backup
-[reparaturformular]: /assets/files/fairphone/Fairphone-Reparaturformular-sinndrin-genossenschaft.pdf
+[reparaturformular]: /assets/files/fairphone/Fairphone-2-Reparaturformular-sinndrin-genossenschaft.pdf
 [ifixit]: https://de.ifixit.com/Device/Fairphone
 [ticket]: http://support.sinndrin.org/de/topics/new
