@@ -1,9 +1,11 @@
 ---
 layout: blog
 title: Älpler auf dem Ozean in Linthal
-subtitle: Première der Erzählung zur Reise mit dem Segelschiff über den Ozean - in Linthal am 9. März 2017
+subtitle: >-
+  Première der Erzählung zur Reise mit dem Segelschiff über den Ozean - in
+  Linthal am 9. März 2017
 image: /images/blog/2017-03-03-Aelpler.png
-date: 2017-03-03 15:36:00
+date: 2017-03-03T15:36:00.000Z
 published: true
 categories: blog
 comments: true
