@@ -36,7 +36,7 @@ Produktion: sinndrin genossenschaft
 Anreise: S25 ab Zürich (ohne Umsteigen)
 dann 8 Minuten zu Fuss
 
-Wegkarte:
+Karte:
 
 <script type="text/javascript" src="//map.search.ch/api/map.js"></script>
 <script type="text/javascript">new SearchChMap({center:"8783 Linthal/Schulhausstr. 6",x:"253m",y:"276m",zoom:2,poigroups:"default"});</script>
