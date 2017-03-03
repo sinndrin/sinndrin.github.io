@@ -28,4 +28,4 @@ Austritt mit freiwilliger Kollekte
 Organisation: Kirchgemeinde Grosstal  
 Produktion: sinndrin genossenschaft
 
-<a href="/assets/files/michael-tanner/michael-tanner-glarner-woche-20151111.pdf">Veranstaltungsflyer als pdf (2.2 MB)</a>
+<a href="/assets/files/michael-tanner/2017-Flyer-einfach-Linthal-Aelpler-Ozean.pdf ">Veranstaltungsflyer als pdf (2.2 MB)</a>
