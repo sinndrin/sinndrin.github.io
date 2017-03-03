@@ -11,7 +11,7 @@ tags:
  - Michael Tanner
 ---
 
-Es ist soweit: am 9. März 2017 findet die Première der Multivisions-Veranstaltung statt. Wir freuen uns sehr, auf einen interessanten Abend in Linthal:
+### Es ist soweit: am 9. März 2017 findet die Première der Multivisions-Veranstaltung statt. Wir freuen uns sehr, auf einen kurzweiligen Abend in Linthal
 
 Ein persönlicher Abenteuerbericht einer Reise mit dem Segelschiff über den Atlantik von Europa in die Karibik und zurück. Mit öffentlichen Verkehrsmitteln durch Zentralamerika und zu den Zapatistinnen Mexikos. Michael Tanner erzählt von
 seiner aussergewöhnlichen Reise über den Ozean, von Begegnungen
