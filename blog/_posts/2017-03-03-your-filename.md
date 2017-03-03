@@ -28,4 +28,4 @@ Austritt mit freiwilliger Kollekte
 Organisation: Kirchgemeinde Grosstal  
 Produktion: sinndrin genossenschaft
 
-[Veranstaltungsflyer als pdf (2.2 MB)](assets/files/michael-tanner/2017-Flyer-einfach-Linthal-Aelpler-Ozean.pdf"Flyer - Aelpler-Ozean-Linthal-2017")
+[Veranstaltungsflyer als pdf (2.2 MB)](www.sinndrin.ch/assets/files/michael-tanner/2017-Flyer-einfach-Linthal-Aelpler-Ozean.pdf"Flyer - Aelpler-Ozean-Linthal-2017")
