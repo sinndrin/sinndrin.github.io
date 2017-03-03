@@ -18,12 +18,12 @@ seiner aussergewöhnlichen Reise über den Ozean, von Begegnungen
 mit speziellen Menschen, faszinierenden Tieren und magischen
 Kräften der Natur. 
 
-Do. 9. März 2017 | 19.30 Uhr /br
-reformiertes Kirchgemeindehaus /br
-Schulhausstrasse 6 /br
-Linthal GL /br
-Eintritt frei /br
+Do. 9. März 2017 | 19.30 Uhr  
+reformiertes Kirchgemeindehaus  
+Schulhausstrasse 6  
+Linthal GL  
+Eintritt frei  
 Austritt mit freiwilliger Kollekte
 
-Organisation: Kirchgemeinde Grosstal /br
+Organisation: Kirchgemeinde Grosstal  
 Produktion: sinndrin genossenschaft
