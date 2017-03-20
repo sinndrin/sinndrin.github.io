@@ -10,7 +10,7 @@ comments: true
 tags:
  - Roger Schärer
 ---
-<p>Wir haben ein neues Angebot: Das <a href="/angebote/administration-und-it/z11-buero-atelier/">Z11 Büro Atelier</a> bietet dir eine anregende, flexible Arbeitsumgebung ab 220.- Fr./Mt.</p>
+<p>Wir haben ein neues Angebot: Das <a href="/ueber-uns/realisierte-projekte/co-woking-konzeption-und-betrieb/">Z11 Büro Atelier</a> bietet dir eine anregende, flexible Arbeitsumgebung ab 220.- Fr./Mt.</p>
 <p>Nebst dem kreativen, unternehmerischen Umfeld profitierst du ausserdem von der komplett ausgebauten Büro und IT-Infrastruktur.</p>
 <p>Wechselnde Kunstausstellungen und ein kleines Lebensmittelsortiment (Bio) kreieren eine inspirierende Arbeitsatmosphäre.</p>
 

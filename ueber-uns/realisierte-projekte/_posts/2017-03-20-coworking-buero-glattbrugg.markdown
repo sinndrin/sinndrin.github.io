@@ -1,23 +1,22 @@
 ---
 layout: two-columns
-categories: angebote
+categories: realisierte-projekte
+permalink: /ueber-uns/realisierte-projekte/co-woking-konzeption-und-betrieb/
+image: /images/ueber-uns/realisierte-projekte/coworking-buerogemeinschaft-atelierraeume.jpg
+title: "Coworking, Bürogemeinschaft, Atelierräume"
+subtitle: "Co-Working Konzeption und Betrieb als Zwischennutzung von 300 m<sup>2</sup> Bürofläche in Glattbrugg"
 tags:
-  - Administration-und-IT
-permalink: /angebote/administration-und-it/z11-buero-atelier/
-image: /images/angebote/z11-buero-atelier-new.jpg
-title: "Z11 Coworking, Bürogemeinschaft, Atelierräume"
+  - Raphael Hagmann
+  - Roger Schärer
 ---
-<div class="row">
-<div class="large-12 columns">
+Wir haben die Konzeption, den Betrieb, die Verwaltung und das Marketing für das Co-Working Zwischennutzungsprojekt einer rund 300 m<sup>2</sup> umfassenden Büroetage in Glattbrugg durchgeführt.
+
+Während 1.5 Jahren haben wir in neun Räumen mit einer Maximalkapazität von 20 Arbeitsplätzen einer Vielzahl von Mieter*innen eine angenehme Arbeitsatmosphäre ermöglicht. Dabei übernahmen wir die Einrichtung der einzelnen Arbeitsplätze und der gemeinsam genutzten Räume wie dem Foyer, Sitzungszimmer und der Küche. Die günstigsten Arbeitsplätze waren ab 220.- Fr./ Monat verfügbar.
+
 <img alt="Z11 Büro Atelier" src="/images/angebote/z11-buero-atelier/angebot/z11-1.jpg" /><br><br>
 <img alt="Z11 Büro Atelier" src="/images/angebote/z11-buero-atelier/angebot/z11-2.jpg" />
-<p><br>Wir vom <i>Z11 Büro Atelier</i> bieten dir eine anregende, flexible Arbeitsumgebung ab 220.- Fr./Monat.</p>
-<p>Nebst dem kreativen, unternehmerischen Umfeld profitierst du ausserdem von der komplett ausgebauten Büro und IT-Infrastruktur.</p>
-<p>Wechselnde Kunstausstellungen und ein kleines Lebensmittelsortiment (Bio) kreieren eine inspirierende Arbeitsatmosphäre.</p>
 
-<a href="/ueber-uns/kontakt/" class="button"><i class="fi-arrow-right"></i> Kontaktiere uns für eine Besichtigung!</a>
-
-<h2>Das ist Z11</h2>
+<h2>Das war Z11</h2>
 <ul>
 <li>Komplett eingerichteter Arbeitsplatz oder leerer Büroraum</li>
 <li>Abschliessbare Räume à 15-30 m2 (Einzel- oder Mehrfachbelegung möglich)</li>
@@ -39,15 +38,11 @@ title: "Z11 Coworking, Bürogemeinschaft, Atelierräume"
 <li>Briefkasten zur Mitbenutzung</li>
 </ul>
 
-<h2>Hier ist Z11</h2>
+<h2>Hier war Z11</h2>
 <p>Z11 Büro Atelier<br>
 <a target="_blank" href="http://map.search.ch/Glattbrugg,Zunstr.11">Zunstrasse 11<br>8152 Glattbrugg</a><br>
-044 534 64 54<br>
-<a href="mailto:info@baz11.ch">info@baz11.ch</a><br>
-<a href="http://www.baz11.ch">www.baz11.ch</a><br>
 </p>
 
 <img alt="Z11 Büro Atelier" src="/images/angebote/z11-buero-atelier/raeume/DSC_0001.resized.JPG" /><br><br>
 <img alt="Z11 Büro Atelier" src="/images/angebote/z11-buero-atelier/raeume/DSC_0009.resized.JPG" /><br><br>
-<img alt="Z11 Büro Atelier" src="/images/angebote/z11-buero-atelier/raeume/DSC_0002.resized.JPG" /><br><br>
-<img alt="Z11 Büro Atelier" src="/images/angebote/z11-buero-atelier/raeume/DSC_0004.resized.JPG" />
+<img alt="Z11 Büro Atelier" src="/images/angebote/z11-buero-atelier/raeume/DSC_0002.resized.JPG" />
