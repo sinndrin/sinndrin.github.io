@@ -15,7 +15,7 @@ title:  "Jobs im Umweltbereich"
     <h2>Grüne Stellenbörsen</h2>
     <ul>
       <li><a href="http://www.agroverde.ch/content.cfm?site=6">agroverde</a></li>
-      <li><a href="https://www.alumni-hafl.bfh.ch/stellen.html">ALIS, Alumniorganisation der Absolventinnen und Absolventen der Hochschule für Agrar-, Forst- und Lebensmittelwissenschaften HAFL</a></li>
+      <li><a href="https://www.alumni-hafl.bfh.ch/stellen.html">Alumni BFH-HAFL, Alumniorganisation der Absolventinnen und Absolventen der Hochschule für Agrar-, Forst- und Lebensmittelwissenschaften HAFL</a></li>
       <li><a href="http://www.arban.ch/stellen/stellen.php?typ=10&category=4000">Arban Personal</a></li>
       <li><a href="http://www.careerjet.ch/umwelt-jobs.html">careerjet</a></li>
       <li><a href="http://jardinsuisse.ch/de/service/dienstleistungen/stellenborse/">Jardin Suisse</a></li>
