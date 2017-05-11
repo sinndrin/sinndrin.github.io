@@ -44,36 +44,36 @@ Das Fairphone 2 wurde als erstes Smartphone mit dem Label "Blauer Engel" ausgeze
 <!-- begin six selling point icons -->
 <div class="row">
   <div class="large-6 columns">
-    <img width="80" style="float: left; padding-right: 10px; padding-bottom: 50px;" src="/images/angebote/fairphone/fairphone-2-icons/conflict_free_minerals_blue-01_1.png" alt="sinndrin genossenschaft Fairphone 2 Conflict Free Minerals">
+    <img width="80" style="float: left; padding-right: 10px; padding-bottom: 50px;" src="/images/angebote/fairphone/fairphone-2-icons/conflict_free_minerals_blue-01_1.png" alt="sinndrin genossenschaft Fairphone 2 Konfliktfreie Materialien">
     <h5>Konfliktfreie Materialien</h5>
     <p>Bereits vier Rohstoffe; Gold, Wolfram, Zinn und Tantal kommen aus konfliktfreien Gebieten.</p>
   </div>
   <div class="large-6 columns">
-    <img width="80" style="float: left; padding-right: 10px; padding-bottom: 50px;" src="/images/angebote/fairphone/fairphone-2-icons/SD_Card_blue-01.png" alt="sinndrin genossenschaft Fairphone 2 Conflict Free Minerals">
-    <h5>Einfach zu reparieren</h5>
-    <p>Die modulare Aufbauweise erlaubt eine schnelle und einfach Reparatur.</p>
-  </div>
-</div>
-<div class="row">
-  <div class="large-6 columns">
-    <img width="80" style="float: left; padding-right: 10px; padding-bottom: 50px;" src="/images/angebote/fairphone/fairphone-2-icons/easy_to_repair_blue-01_1.png" alt="sinndrin genossenschaft Fairphone 2 Conflict Free Minerals">
-    <h5>Zwei Telefone in Einem</h5>
-    <p>Zwei SIM-Karten Steckplätzen für Arbeit oder Ferien.</p>
-  </div>
-  <div class="large-6 columns">
-    <img width="80" style="float: left; padding-right: 10px; padding-bottom: 50px;" src="/images/angebote/fairphone/fairphone-2-icons/Android_lollipop_blue-01.png" alt="sinndrin genossenschaft Fairphone 2 Conflict Free Minerals">
+    <img width="80" style="float: left; padding-right: 10px; padding-bottom: 50px;" src="/images/angebote/fairphone/fairphone-2-icons/SD_Card_blue-01.png" alt="sinndrin genossenschaft Fairphone 2 Speicherplatz inklusive">
     <h5>Speicherplatz inklusive</h5>
     <p>32 GB interner Speicher, erweiterbar mit Micro SD-Karte für weitere 64 GB.</p>
   </div>
 </div>
 <div class="row">
   <div class="large-6 columns">
-    <img width="80" style="float: left; padding-right: 10px; padding-bottom: 50px;" src="/images/angebote/fairphone/fairphone-2-icons/dual_sim_blue-01.png" alt="sinndrin genossenschaft Fairphone 2 Conflict Free Minerals">
-    <h5>Android&trade; 5.1 Lollipop Betriebsystem</h5>
-    <p>Google apps und Play Store bereits vorinstalliert. Alternatives googlefreies Betriebsystem einfach installierbar.</p>
+    <img width="80" style="float: left; padding-right: 10px; padding-bottom: 50px;" src="/images/angebote/fairphone/fairphone-2-icons/easy_to_repair_blue-01_1.png" alt="sinndrin genossenschaft Fairphone 2 Einfach zu reparieren">
+    <h5>Einfach zu reparieren</h5>
+    <p>Die modulare Aufbauweise erlaubt eine schnelle und einfach Reparatur.</p>
   </div>
   <div class="large-6 columns">
-    <img width="80" style="float: left; padding-right: 10px; padding-bottom: 50px;" src="/images/angebote/fairphone/fairphone-2-icons/Case_included_blue-01.png" alt="sinndrin genossenschaft Fairphone 2 Conflict Free Minerals">
+    <img width="80" style="float: left; padding-right: 10px; padding-bottom: 50px;" src="/images/angebote/fairphone/fairphone-2-icons/Android_lollipop_blue-01.png" alt="sinndrin genossenschaft Fairphone 2 >Android 6.0 Marshmallow Betriebsystem">
+    <h5>Android&trade; 6.0 Marshmallow Betriebsystem</h5>
+    <p>Google apps und Play Store bereits vorinstalliert. Alternatives googlefreies Betriebsystem einfach installierbar.</p>
+  </div>
+</div>
+<div class="row">
+  <div class="large-6 columns">
+    <img width="80" style="float: left; padding-right: 10px; padding-bottom: 50px;" src="/images/angebote/fairphone/fairphone-2-icons/dual_sim_blue-01.png" alt="sinndrin genossenschaft Fairphone 2 Zwei Telefone in Einem">
+    <h5>Zwei Telefone in Einem</h5>
+    <p>Zwei SIM-Karten Steckplätzen für Arbeit oder Ferien.</p>
+  </div>
+  <div class="large-6 columns">
+    <img width="80" style="float: left; padding-right: 10px; padding-bottom: 50px;" src="/images/angebote/fairphone/fairphone-2-icons/Case_included_blue-01.png" alt="sinndrin genossenschaft Fairphone 2 Schutzhülle integriert">
     <h5>Schutzhülle integriert</h5>
     <p>Das dünne, elegante Cover dient zusätzlich als Schutzhüllen.</p>
   </div>
@@ -96,7 +96,7 @@ Das Fairphone 2 wurde als erstes Smartphone mit dem Label "Blauer Engel" ausgeze
 <div class="large-6 columns">
   <h3>Betriebssystem</h3>
   <ul>
-    <li>Android&trade; 5.1 (Lollipop)</li>
+    <li>Android&trade; 6.0 (Marshmallow)</li>
   </ul>
 </div>
 </div>
