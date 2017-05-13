@@ -12,7 +12,7 @@ title: "Fairphone 2 kaufen in der Schweiz"
 <br>
 
 Das Fairphone 2 erhält ein neues Design mit einem überarbeiteten Rückcover, dass dünner und eleganter daher kommt und dabei die Schutzfunktion weiterhin gewährleistet. Mit dem neuen Design des Rückcovers wurden auch neue Farben verwendet. Neu gibt es das Fairphone 2 in den Farben weiss, türkis, blau und rot. Unter der Haube bleibt das Fairphone 2 technisch unverändert, eine Kompatibilität der Ersatzteile ist also gewährleistet.
-Das Fairphone 2 wurde als erstes Smartphone mit dem Label "Blauer Engel" ausgezeichnet. Mehr über dieses Label erfahrt ihr [hier](https://www.blauer-engel.de/de/produktwelt/haushalt-wohnen/mobiltelefone-266).
+Das Fairphone 2 wurde als erstes Smartphone mit dem Label "Blauer Engel" ausgezeichnet. Mehr über dieses Label erfahrt ihr [hier](https://www.blauer-engel.de/de/produktwelt/haushalt-wohnen/mobiltelefone/fairphone-2).
 
 <br>
 
@@ -29,13 +29,10 @@ Das Fairphone 2 wurde als erstes Smartphone mit dem Label "Blauer Engel" ausgeze
 
 <div class="row">
 <div class="large-4 columns">
-<a href="https://www.faircustomer.ch/sinndrin-genossenschaft/de/fairphone/9188-fairphone-2.html" class="button big expand"><i class="fi-arrow-right"></i> Fairphone 2 mit Slim Cover bestellen</a>
+<a href="https://www.sinndrin-shop.ch/fairphone-2/3/fairphone-2" class="button big expand"><i class="fi-arrow-right"></i> Fairphone 2 mit Slim Cover bestellen</a>
 </div>
 <div class="large-4 columns">
-<a href="https://www.faircustomer.ch/sinndrin-genossenschaft/de/fairphone/9407-fairphone-2-regular-back-cover.html" class="button big expand"><i class="fi-arrow-right"></i> Fairphone 2 mit Regular Cover bestellen</a>
-</div>
-<div class="large-4 columns">
-<a href="/angebote/fairphone-2/zubehoer-und-ersatzteile/" class="button big expand"><i class="fi-arrow-right"></i> Zubehör und Ersatzteile kaufen</a>
+<a href="https://www.sinndrin-shop.ch/fairphone-zubehoer-und-ersatzteile/" class="button big expand"><i class="fi-arrow-right"></i> Zubehör und Ersatzteile kaufen</a>
 </div>
 </div>
 
