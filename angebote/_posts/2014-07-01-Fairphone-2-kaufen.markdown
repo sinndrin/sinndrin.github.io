@@ -21,8 +21,6 @@ Das Fairphone 2 wurde als erstes Smartphone mit dem Label "Blauer Engel" ausgeze
   <li><a href="/images/angebote/fairphone/fp2-slim-rt.jpg"><img src="/images/angebote/fairphone/fp2-slim-rt-tumb.jpg"></a></li>
   <li><a href="/images/angebote/fairphone/fp2-slim-ws.jpg"><img src="/images/angebote/fairphone/fp2-slim-ws-tumb.jpg"></a></li>
   <li><a href="/images/angebote/fairphone/fp2-slim-tu.jpg"><img src="/images/angebote/fairphone/fp2-slim-tu-tumb.jpg"></a></li>
-  <li><a href="/images/angebote/fairphone/fp2-reg-bl.jpg"><img src="/images/angebote/fairphone/fp2-reg-bl-tumb.jpg"></a></li>
-  <li><a href="/images/angebote/fairphone/fp2-reg-trans.jpg"><img src="/images/angebote/fairphone/fp2-reg-trans-tumb.jpg"></a></li>
 </ul>
 
 <br>
