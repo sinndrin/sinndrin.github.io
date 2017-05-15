@@ -16,23 +16,23 @@ Das Fairphone 2 wurde als erstes Smartphone mit dem Label "Blauer Engel" ausgeze
 
 <br>
 
-<ul class="clearing-thumbs" data-clearing>
-  <li><a href="/images/angebote/fairphone/fp2-slim-bl.jpg"><img src="/images/angebote/fairphone/fp2-slim-bl-tumb.jpg"></a></li>
-  <li><a href="/images/angebote/fairphone/fp2-slim-rt.jpg"><img src="/images/angebote/fairphone/fp2-slim-rt-tumb.jpg"></a></li>
-  <li><a href="/images/angebote/fairphone/fp2-slim-ws.jpg"><img src="/images/angebote/fairphone/fp2-slim-ws-tumb.jpg"></a></li>
-  <li><a href="/images/angebote/fairphone/fp2-slim-tu.jpg"><img src="/images/angebote/fairphone/fp2-slim-tu-tumb.jpg"></a></li>
-</ul>
-
-<br>
-
 <div class="row">
-<div class="large-4 columns">
+<div class="large-6 columns">
 <a href="https://www.sinndrin-shop.ch/fairphone-2/3/fairphone-2" class="button big expand"><i class="fi-arrow-right"></i> Fairphone 2 mit Slim Cover bestellen</a>
 </div>
-<div class="large-4 columns">
+<div class="large-6 columns">
 <a href="https://www.sinndrin-shop.ch/fairphone-zubehoer-und-ersatzteile/" class="button big expand"><i class="fi-arrow-right"></i> Zubehör und Ersatzteile kaufen</a>
 </div>
 </div>
+
+<br>
+
+<ul class="clearing-thumbs" data-clearing>
+  <li><a href="/images/angebote/fairphone/fp2-slim-bl.jpg"><img width="190" src="/images/angebote/fairphone/fp2-slim-bl-tumb.jpg"></a></li>
+  <li><a href="/images/angebote/fairphone/fp2-slim-rt.jpg"><img width="190" src="/images/angebote/fairphone/fp2-slim-rt-tumb.jpg"></a></li>
+  <li><a href="/images/angebote/fairphone/fp2-slim-ws.jpg"><img width="190" src="/images/angebote/fairphone/fp2-slim-ws-tumb.jpg"></a></li>
+  <li><a href="/images/angebote/fairphone/fp2-slim-tu.jpg"><img width="190" src="/images/angebote/fairphone/fp2-slim-tu-tumb.jpg"></a></li>
+</ul>
 
 <br>
 
