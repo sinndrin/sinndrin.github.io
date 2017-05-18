@@ -12,68 +12,63 @@ title: "Fairphone 2 kaufen in der Schweiz"
 <br>
 
 Das Fairphone 2 erhält ein neues Design mit einem überarbeiteten Rückcover, dass dünner und eleganter daher kommt und dabei die Schutzfunktion weiterhin gewährleistet. Mit dem neuen Design des Rückcovers wurden auch neue Farben verwendet. Neu gibt es das Fairphone 2 in den Farben weiss, türkis, blau und rot. Unter der Haube bleibt das Fairphone 2 technisch unverändert, eine Kompatibilität der Ersatzteile ist also gewährleistet.
-Das Fairphone 2 wurde als erstes Smartphone mit dem Label "Blauer Engel" ausgezeichnet. Mehr über dieses Label erfahrt ihr [hier](https://www.blauer-engel.de/de/produktwelt/haushalt-wohnen/mobiltelefone-266).
-
-<br>
-
-<ul class="clearing-thumbs" data-clearing>
-  <li><a href="/images/angebote/fairphone/fp2-slim-bl.jpg"><img src="/images/angebote/fairphone/fp2-slim-bl-tumb.jpg"></a></li>
-  <li><a href="/images/angebote/fairphone/fp2-slim-rt.jpg"><img src="/images/angebote/fairphone/fp2-slim-rt-tumb.jpg"></a></li>
-  <li><a href="/images/angebote/fairphone/fp2-slim-ws.jpg"><img src="/images/angebote/fairphone/fp2-slim-ws-tumb.jpg"></a></li>
-  <li><a href="/images/angebote/fairphone/fp2-slim-tu.jpg"><img src="/images/angebote/fairphone/fp2-slim-tu-tumb.jpg"></a></li>
-  <li><a href="/images/angebote/fairphone/fp2-reg-bl.jpg"><img src="/images/angebote/fairphone/fp2-reg-bl-tumb.jpg"></a></li>
-  <li><a href="/images/angebote/fairphone/fp2-reg-trans.jpg"><img src="/images/angebote/fairphone/fp2-reg-trans-tumb.jpg"></a></li>
-</ul>
+Das Fairphone 2 wurde als erstes Smartphone mit dem Label "Blauer Engel" ausgezeichnet. Mehr über dieses Label erfahrt ihr [hier](https://www.blauer-engel.de/de/produktwelt/haushalt-wohnen/mobiltelefone/fairphone-2).
 
 <br>
 
 <div class="row">
-<div class="large-4 columns">
-<a href="https://www.faircustomer.ch/sinndrin-genossenschaft/de/fairphone/9188-fairphone-2.html" class="button big expand"><i class="fi-arrow-right"></i> Fairphone 2 mit Slim Cover bestellen</a>
+<div class="large-6 columns">
+<a href="https://www.sinndrin-shop.ch/fairphone-2/3/fairphone-2" class="button big expand"><i class="fi-arrow-right"></i> Fairphone 2 mit Slim Cover bestellen</a>
 </div>
-<div class="large-4 columns">
-<a href="https://www.faircustomer.ch/sinndrin-genossenschaft/de/fairphone/9407-fairphone-2-regular-back-cover.html" class="button big expand"><i class="fi-arrow-right"></i> Fairphone 2 mit Regular Cover bestellen</a>
-</div>
-<div class="large-4 columns">
-<a href="/angebote/fairphone-2/zubehoer-und-ersatzteile/" class="button big expand"><i class="fi-arrow-right"></i> Zubehör und Ersatzteile kaufen</a>
+<div class="large-6 columns">
+<a href="https://www.sinndrin-shop.ch/fairphone-zubehoer-und-ersatzteile/" class="button big expand"><i class="fi-arrow-right"></i> Zubehör und Ersatzteile kaufen</a>
 </div>
 </div>
+
+<br>
+
+<ul class="clearing-thumbs" data-clearing>
+  <li><a href="/images/angebote/fairphone/fp2-slim-bl.jpg"><img width="190" src="/images/angebote/fairphone/fp2-slim-bl-tumb.jpg"></a></li>
+  <li><a href="/images/angebote/fairphone/fp2-slim-rt.jpg"><img width="190" src="/images/angebote/fairphone/fp2-slim-rt-tumb.jpg"></a></li>
+  <li><a href="/images/angebote/fairphone/fp2-slim-ws.jpg"><img width="190" src="/images/angebote/fairphone/fp2-slim-ws-tumb.jpg"></a></li>
+  <li><a href="/images/angebote/fairphone/fp2-slim-tu.jpg"><img width="190" src="/images/angebote/fairphone/fp2-slim-tu-tumb.jpg"></a></li>
+</ul>
 
 <br>
 
 <!-- begin six selling point icons -->
 <div class="row">
   <div class="large-6 columns">
-    <img width="80" style="float: left; padding-right: 10px; padding-bottom: 50px;" src="/images/angebote/fairphone/fairphone-2-icons/conflict_free_minerals_blue-01_1.png" alt="sinndrin genossenschaft Fairphone 2 Conflict Free Minerals">
+    <img width="80" style="float: left; padding-right: 10px; padding-bottom: 50px;" src="/images/angebote/fairphone/fairphone-2-icons/conflict_free_minerals_blue-01_1.png" alt="sinndrin genossenschaft Fairphone 2 Konfliktfreie Materialien">
     <h5>Konfliktfreie Materialien</h5>
     <p>Bereits vier Rohstoffe; Gold, Wolfram, Zinn und Tantal kommen aus konfliktfreien Gebieten.</p>
   </div>
   <div class="large-6 columns">
-    <img width="80" style="float: left; padding-right: 10px; padding-bottom: 50px;" src="/images/angebote/fairphone/fairphone-2-icons/SD_Card_blue-01.png" alt="sinndrin genossenschaft Fairphone 2 Conflict Free Minerals">
-    <h5>Einfach zu reparieren</h5>
-    <p>Die modulare Aufbauweise erlaubt eine schnelle und einfach Reparatur.</p>
-  </div>
-</div>
-<div class="row">
-  <div class="large-6 columns">
-    <img width="80" style="float: left; padding-right: 10px; padding-bottom: 50px;" src="/images/angebote/fairphone/fairphone-2-icons/easy_to_repair_blue-01_1.png" alt="sinndrin genossenschaft Fairphone 2 Conflict Free Minerals">
-    <h5>Zwei Telefone in Einem</h5>
-    <p>Zwei SIM-Karten Steckplätzen für Arbeit oder Ferien.</p>
-  </div>
-  <div class="large-6 columns">
-    <img width="80" style="float: left; padding-right: 10px; padding-bottom: 50px;" src="/images/angebote/fairphone/fairphone-2-icons/Android_lollipop_blue-01.png" alt="sinndrin genossenschaft Fairphone 2 Conflict Free Minerals">
+    <img width="80" style="float: left; padding-right: 10px; padding-bottom: 50px;" src="/images/angebote/fairphone/fairphone-2-icons/SD_Card_blue-01.png" alt="sinndrin genossenschaft Fairphone 2 Speicherplatz inklusive">
     <h5>Speicherplatz inklusive</h5>
     <p>32 GB interner Speicher, erweiterbar mit Micro SD-Karte für weitere 64 GB.</p>
   </div>
 </div>
 <div class="row">
   <div class="large-6 columns">
-    <img width="80" style="float: left; padding-right: 10px; padding-bottom: 50px;" src="/images/angebote/fairphone/fairphone-2-icons/dual_sim_blue-01.png" alt="sinndrin genossenschaft Fairphone 2 Conflict Free Minerals">
-    <h5>Android&trade; 5.1 Lollipop Betriebsystem</h5>
-    <p>Google apps und Play Store bereits vorinstalliert. Alternatives googlefreies Betriebsystem einfach installierbar.</p>
+    <img width="80" style="float: left; padding-right: 10px; padding-bottom: 50px;" src="/images/angebote/fairphone/fairphone-2-icons/easy_to_repair_blue-01_1.png" alt="sinndrin genossenschaft Fairphone 2 Einfach zu reparieren">
+    <h5>Einfach zu reparieren</h5>
+    <p>Die modulare Aufbauweise erlaubt eine schnelle und einfach Reparatur.</p>
   </div>
   <div class="large-6 columns">
-    <img width="80" style="float: left; padding-right: 10px; padding-bottom: 50px;" src="/images/angebote/fairphone/fairphone-2-icons/Case_included_blue-01.png" alt="sinndrin genossenschaft Fairphone 2 Conflict Free Minerals">
+    <img width="80" style="float: left; padding-right: 10px; padding-bottom: 50px;" src="/images/angebote/fairphone/fairphone-2-icons/Android_lollipop_blue-01.png" alt="sinndrin genossenschaft Fairphone 2 >Android 6.0 Marshmallow Betriebsystem">
+    <h5>Android&trade; 6.0 Marshmallow Betriebsystem</h5>
+    <p>Google apps und Play Store bereits vorinstalliert. Alternatives googlefreies Betriebsystem einfach installierbar.</p>
+  </div>
+</div>
+<div class="row">
+  <div class="large-6 columns">
+    <img width="80" style="float: left; padding-right: 10px; padding-bottom: 50px;" src="/images/angebote/fairphone/fairphone-2-icons/dual_sim_blue-01.png" alt="sinndrin genossenschaft Fairphone 2 Zwei Telefone in Einem">
+    <h5>Zwei Telefone in Einem</h5>
+    <p>Zwei SIM-Karten Steckplätzen für Arbeit oder Ferien.</p>
+  </div>
+  <div class="large-6 columns">
+    <img width="80" style="float: left; padding-right: 10px; padding-bottom: 50px;" src="/images/angebote/fairphone/fairphone-2-icons/Case_included_blue-01.png" alt="sinndrin genossenschaft Fairphone 2 Schutzhülle integriert">
     <h5>Schutzhülle integriert</h5>
     <p>Das dünne, elegante Cover dient zusätzlich als Schutzhüllen.</p>
   </div>
@@ -96,7 +91,7 @@ Das Fairphone 2 wurde als erstes Smartphone mit dem Label "Blauer Engel" ausgeze
 <div class="large-6 columns">
   <h3>Betriebssystem</h3>
   <ul>
-    <li>Android&trade; 5.1 (Lollipop)</li>
+    <li>Android&trade; 6.0 (Marshmallow)</li>
   </ul>
 </div>
 </div>
