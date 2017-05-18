@@ -53,26 +53,6 @@ Als Zubehör bieten wir für das Fairphone 1 und 2 Akkus, Displays, Hüllen, Ers
       </p>
     </a>
   </div>
-  <div class="large-4 medium-6 columns">
-    <a href="https://www.sinndrin-shop.ch/fairphone-zubehoer-und-ersatzteile/">
-      <p class="text-center">
-        <img width="250" src='/images/angebote/fairphone/fairphone-1-ersatzteile.jpg' alt='Fairphone 1 Ersatzteile'><br><br>
-
-        <a href="/angebote/fairphone/reparatur/" class="button expand"><i class="fi-arrow-right"></i> Fairphone 1
-          Ersatzteile</a>
-      </p>
-    </a>
-  </div>
-  <div class="large-4 medium-6 columns">
-    <a href="https://www.sinndrin-shop.ch/fairphone-zubehoer-und-ersatzteile/">
-      <p class="text-center">
-        <img width="250" src='/images/angebote/fairphone/battery.jpg' alt='Fairphone 1 Akku original'><br><br>
-
-        <a href="https://www.sinndrin-shop.ch/fairphone-zubehoer-und-ersatzteile/" class="button expand"><i
-            class="fi-arrow-right"></i> Fairphone 1 Akku</a>
-      </p>
-    </a>
-  </div>
 </div>
 
 {% include block/fairphone-crosslinks.html %}
