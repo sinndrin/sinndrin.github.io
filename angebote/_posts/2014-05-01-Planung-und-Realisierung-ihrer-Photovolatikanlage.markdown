@@ -9,7 +9,7 @@ title: "Planung und Realisierung ihrer Photovoltaikanlage"
 ---
 <div class="angebot-top-wide"><img title="Planung und Realisierung ihrer Photovoltaikanlage" src="/images/angebote/erneuerbare-energieanlagen_sub.jpg"></div>
 
-Spielen sie mit dem Gedanken eine Photovoltaik-Anlage auf ihrem Dach zu installieren und damit einen Schritt zu tun für eine Atom- und CO2 freie Welt?
+Spielen sie mit dem Gedanken eine Photovoltaik-Anlage auf ihrem Dach zu installieren und damit einen Schritt zu tun für eine Atom- und CO<sub>2</sub> freie Welt?
 
 Mit der Energie Genossenschaft Schweiz als Partner haben wir einen Spezialisten rund um das Thema Photovoltaikanlagen. Ob Planung, Realisierung oder Wartung, die Energie Genossenschaft Schweiz hat langjährige Erfahrung mit PV-Anlagen.
 
