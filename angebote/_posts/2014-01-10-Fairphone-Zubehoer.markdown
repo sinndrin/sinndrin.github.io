@@ -9,8 +9,6 @@ title: "Fairphone Zubehör und Ersatzteile kaufen in der Schweiz"
 ---
 <div class="angebot-top-wide"><img title="Fairphone" src="/images/angebote/fairphone_zubehoer_sub.jpg"></div>
 
-Als Zubehör bieten wir für das Fairphone 1 und 2 Akkus, Displays, Hüllen, Ersatzteile und Ersatzmodule an.
-
 <div class="row">
   <div class="large-4 medium-4 columns">
     <a href="https://www.sinndrin-shop.ch/fairphone-zubehoer-und-ersatzteile/4/akku-fuer-fairphone-2">
