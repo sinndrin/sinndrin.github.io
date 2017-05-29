@@ -35,6 +35,8 @@ Das Fairphone 2 wurde als erstes Smartphone mit dem Label "Blauer Engel" ausgeze
   <li><a href="/images/angebote/fairphone/fp2-slim-tu.jpg"><img width="190" src="/images/angebote/fairphone/fp2-slim-tu-tumb.jpg"></a></li>
 </ul>
 
+<br>
+
 ## <a name="spezifikationen"></a> Technische Spezifikationen des Fairphone 2
 
 <div class="row">
@@ -118,8 +120,6 @@ Quelle: [https://www.fairphone.com/technical-specifications/](https://www.fairph
 
 <br>
 
-<br>
-
 <!-- begin six selling point icons -->
 <div class="row">
   <div class="large-6 columns">
@@ -167,8 +167,6 @@ Analog zum [Costbreakdown](https://www.fairphone.com/wp-content/uploads/2015/09/
 
 <img src="/images/angebote/fairphone/02_cost_breakdown.jpg" alt="sinndrin genossenschaft Fairphone 2 cost breakdown" />
 
-<br>
-
 ## <a name="überfairphone"></a> Über Fairphone
 
 Fairphone ist ein social Enterprise aus den Niederlanden, welches sich für mehr Nachhaltigkeit in der IT-Welt einsetzt. Als erstes Smartphone enthält das Fairphone die Mineralien; Zinn, Coltan, Wolfram und Gold aus konfliktfreien Gebieten. Fairphone setzt sich für faire Arbeitsbedingungen bei der Produktion ein und ist bestrebt Transparenz sowohl bei den Lieferketten wie auch bei den Kosten aufzuzeigen.
@@ -196,5 +194,7 @@ Die Herstellung von Unterhaltungselektronik ist anspruchsvoll und beinhaltet arb
 ### Lebenszyklus
 
 Jedes Jahr werfen Verbraucher Millionen von Mobiltelefonen weg und tragen dadurch zur weltweiten Elektroschrottkrise bei. Gründe dafür sind, dass viele Telefone nicht auf Langlebigkeit konzipiert sind und wir als Verbraucher ständig nach Upgrades für unsere Geräte suchen. Obwohl viele europäische Länder Recyclingprogramme für Elektroschrott eingeführt haben, werden gebrauchte oder beschädigte elektronische Geräte laufend in Entwicklungsländer exportiert, denen es an angemessenen Recycling-Anlagen fehlt. Der Großteil des Elektroschrotts wird entweder verbrannt oder auf Müllhalden deponiert. Dadurch werden giftige und für Mensch und Umwelt schädliche Substanzen freigesetzt. Wir bei Fairphone versuchen, die gesamte Lebensdauer des Mobiltelefons zu betrachten, einschließlich Gebrauch, Wiederverwendung und einem sicheren Recycling.
+
+<br>
 
 {% include block/fairphone-crosslinks.html %}
