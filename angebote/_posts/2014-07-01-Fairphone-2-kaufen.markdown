@@ -11,14 +11,15 @@ title: "Fairphone 2 kaufen in der Schweiz"
 
 <br>
 
-Das Fairphone 2 erhält ein neues Design mit einem überarbeiteten Rückcover, dass dünner und eleganter daher kommt und dabei die Schutzfunktion weiterhin gewährleistet. Mit dem neuen Design des Rückcovers wurden auch neue Farben verwendet. Neu gibt es das Fairphone 2 in den Farben weiss, türkis, blau und rot. Unter der Haube bleibt das Fairphone 2 technisch unverändert, eine Kompatibilität der Ersatzteile ist also gewährleistet.
+Das Fairphone 2 ist ein modernes Smartphone mit einem 5-Zoll Full-HD Display und setzt auf Android 6.0 (Marshmallow). Das Fairphone unterscheidet sich von anderen Smartphones durch die Verwendung von Zinn, Coltan und Wolfram aus konfliktfreien Gebieten und zertifiziertem Fairtrade Gold. Ebenfalls neuartig ist der modulare Aufbau, der die Reparatur in hohem Masse vereinfacht. Das Gerät ist in den Farben weiss, türkis, blau und rot erhältlich.
+
 Das Fairphone 2 wurde als erstes Smartphone mit dem Label "Blauer Engel" ausgezeichnet. Mehr über dieses Label erfahrt ihr [hier](https://www.blauer-engel.de/de/produktwelt/haushalt-wohnen/mobiltelefone/fairphone-2).
 
 <br>
 
 <div class="row">
 <div class="large-6 columns">
-<a href="https://www.sinndrin-shop.ch/fairphone-2/3/fairphone-2" class="button big expand"><i class="fi-arrow-right"></i> Fairphone 2 mit Slim Cover bestellen</a>
+<a href="https://www.sinndrin-shop.ch/fairphone-2/3/fairphone-2" class="button big expand"><i class="fi-arrow-right"></i> Fairphone 2 bestellen</a>
 </div>
 <div class="large-6 columns">
 <a href="https://www.sinndrin-shop.ch/fairphone-zubehoer-und-ersatzteile/" class="button big expand"><i class="fi-arrow-right"></i> Zubehör und Ersatzteile kaufen</a>
@@ -33,49 +34,6 @@ Das Fairphone 2 wurde als erstes Smartphone mit dem Label "Blauer Engel" ausgeze
   <li><a href="/images/angebote/fairphone/fp2-slim-ws.jpg"><img width="190" src="/images/angebote/fairphone/fp2-slim-ws-tumb.jpg"></a></li>
   <li><a href="/images/angebote/fairphone/fp2-slim-tu.jpg"><img width="190" src="/images/angebote/fairphone/fp2-slim-tu-tumb.jpg"></a></li>
 </ul>
-
-<br>
-
-<!-- begin six selling point icons -->
-<div class="row">
-  <div class="large-6 columns">
-    <img width="80" style="float: left; padding-right: 10px; padding-bottom: 50px;" src="/images/angebote/fairphone/fairphone-2-icons/conflict_free_minerals_blue-01_1.png" alt="sinndrin genossenschaft Fairphone 2 Konfliktfreie Materialien">
-    <h5>Konfliktfreie Materialien</h5>
-    <p>Bereits vier Rohstoffe; Gold, Wolfram, Zinn und Tantal kommen aus konfliktfreien Gebieten.</p>
-  </div>
-  <div class="large-6 columns">
-    <img width="80" style="float: left; padding-right: 10px; padding-bottom: 50px;" src="/images/angebote/fairphone/fairphone-2-icons/SD_Card_blue-01.png" alt="sinndrin genossenschaft Fairphone 2 Speicherplatz inklusive">
-    <h5>Speicherplatz inklusive</h5>
-    <p>32 GB interner Speicher, erweiterbar mit Micro SD-Karte für weitere 64 GB.</p>
-  </div>
-</div>
-<div class="row">
-  <div class="large-6 columns">
-    <img width="80" style="float: left; padding-right: 10px; padding-bottom: 50px;" src="/images/angebote/fairphone/fairphone-2-icons/easy_to_repair_blue-01_1.png" alt="sinndrin genossenschaft Fairphone 2 Einfach zu reparieren">
-    <h5>Einfach zu reparieren</h5>
-    <p>Die modulare Aufbauweise erlaubt eine schnelle und einfach Reparatur.</p>
-  </div>
-  <div class="large-6 columns">
-    <img width="80" style="float: left; padding-right: 10px; padding-bottom: 50px;" src="/images/angebote/fairphone/fairphone-2-icons/Android_lollipop_blue-01.png" alt="sinndrin genossenschaft Fairphone 2 >Android 6.0 Marshmallow Betriebsystem">
-    <h5>Android&trade; 6.0 Marshmallow Betriebsystem</h5>
-    <p>Google apps und Play Store bereits vorinstalliert. Alternatives googlefreies Betriebsystem einfach installierbar.</p>
-  </div>
-</div>
-<div class="row">
-  <div class="large-6 columns">
-    <img width="80" style="float: left; padding-right: 10px; padding-bottom: 50px;" src="/images/angebote/fairphone/fairphone-2-icons/dual_sim_blue-01.png" alt="sinndrin genossenschaft Fairphone 2 Zwei Telefone in Einem">
-    <h5>Zwei Telefone in Einem</h5>
-    <p>Zwei SIM-Karten Steckplätzen für Arbeit oder Ferien.</p>
-  </div>
-  <div class="large-6 columns">
-    <img width="80" style="float: left; padding-right: 10px; padding-bottom: 50px;" src="/images/angebote/fairphone/fairphone-2-icons/Case_included_blue-01.png" alt="sinndrin genossenschaft Fairphone 2 Schutzhülle integriert">
-    <h5>Schutzhülle integriert</h5>
-    <p>Das dünne, elegante Cover dient zusätzlich als Schutzhüllen.</p>
-  </div>
-</div>
-<!-- end six selling point icons -->
-
-<br>
 
 ## <a name="spezifikationen"></a> Technische Spezifikationen des Fairphone 2
 
@@ -152,11 +110,62 @@ Quelle: [https://www.fairphone.com/technical-specifications/](https://www.fairph
 
 <br>
 
-#### Kurzfilm über die modulare Aufbauweise des Fairphone 2
+## Kurzfilm über die modulare Aufbauweise des Fairphone 2
 
 <br>
 
 <iframe width="803" height="452" src="https://www.youtube.com/embed/6DW733G76BY" frameborder="0" allowfullscreen></iframe>
+
+<br>
+
+<br>
+
+<!-- begin six selling point icons -->
+<div class="row">
+  <div class="large-6 columns">
+    <img width="80" style="float: left; padding-right: 10px; padding-bottom: 50px;" src="/images/angebote/fairphone/fairphone-2-icons/conflict_free_minerals_blue-01_1.png" alt="sinndrin genossenschaft Fairphone 2 Konfliktfreie Materialien">
+    <h5>Konfliktfreie Materialien</h5>
+    <p>Bereits vier Rohstoffe; Gold, Wolfram, Zinn und Tantal kommen aus konfliktfreien Gebieten.</p>
+  </div>
+  <div class="large-6 columns">
+    <img width="80" style="float: left; padding-right: 10px; padding-bottom: 50px;" src="/images/angebote/fairphone/fairphone-2-icons/SD_Card_blue-01.png" alt="sinndrin genossenschaft Fairphone 2 Speicherplatz inklusive">
+    <h5>Speicherplatz inklusive</h5>
+    <p>32 GB interner Speicher, erweiterbar mit Micro SD-Karte für weitere 64 GB.</p>
+  </div>
+</div>
+<div class="row">
+  <div class="large-6 columns">
+    <img width="80" style="float: left; padding-right: 10px; padding-bottom: 50px;" src="/images/angebote/fairphone/fairphone-2-icons/easy_to_repair_blue-01_1.png" alt="sinndrin genossenschaft Fairphone 2 Einfach zu reparieren">
+    <h5>Einfach zu reparieren</h5>
+    <p>Die modulare Aufbauweise erlaubt eine schnelle und einfach Reparatur.</p>
+  </div>
+  <div class="large-6 columns">
+    <img width="80" style="float: left; padding-right: 10px; padding-bottom: 50px;" src="/images/angebote/fairphone/fairphone-2-icons/Android_lollipop_blue-01.png" alt="sinndrin genossenschaft Fairphone 2 >Android 6.0 Marshmallow Betriebsystem">
+    <h5>Android&trade; 6.0 Marshmallow Betriebsystem</h5>
+    <p>Google apps und Play Store bereits vorinstalliert. Alternatives googlefreies Betriebsystem einfach installierbar.</p>
+  </div>
+</div>
+<div class="row">
+  <div class="large-6 columns">
+    <img width="80" style="float: left; padding-right: 10px; padding-bottom: 50px;" src="/images/angebote/fairphone/fairphone-2-icons/dual_sim_blue-01.png" alt="sinndrin genossenschaft Fairphone 2 Zwei Telefone in Einem">
+    <h5>Zwei Telefone in Einem</h5>
+    <p>Zwei SIM-Karten Steckplätzen für Arbeit oder Ferien.</p>
+  </div>
+  <div class="large-6 columns">
+    <img width="80" style="float: left; padding-right: 10px; padding-bottom: 50px;" src="/images/angebote/fairphone/fairphone-2-icons/Case_included_blue-01.png" alt="sinndrin genossenschaft Fairphone 2 Schutzhülle integriert">
+    <h5>Schutzhülle integriert</h5>
+    <p>Das dünne, elegante Cover dient zusätzlich als Schutzhüllen.</p>
+  </div>
+</div>
+<!-- end six selling point icons -->
+
+<br>
+
+## <a name="kostenaufstellung"></a> Unsere Kostenaufstellung
+
+Analog zum [Costbreakdown](https://www.fairphone.com/wp-content/uploads/2015/09/Cost-Breakdown-Fairphone-2-German-1.pdf) von Fairphone wollen auch wir transparent aufzeigen wie sich die Kosten verteilen.
+
+<img src="/images/angebote/fairphone/02_cost_breakdown.jpg" alt="sinndrin genossenschaft Fairphone 2 cost breakdown" />
 
 <br>
 
@@ -187,13 +196,5 @@ Die Herstellung von Unterhaltungselektronik ist anspruchsvoll und beinhaltet arb
 ### Lebenszyklus
 
 Jedes Jahr werfen Verbraucher Millionen von Mobiltelefonen weg und tragen dadurch zur weltweiten Elektroschrottkrise bei. Gründe dafür sind, dass viele Telefone nicht auf Langlebigkeit konzipiert sind und wir als Verbraucher ständig nach Upgrades für unsere Geräte suchen. Obwohl viele europäische Länder Recyclingprogramme für Elektroschrott eingeführt haben, werden gebrauchte oder beschädigte elektronische Geräte laufend in Entwicklungsländer exportiert, denen es an angemessenen Recycling-Anlagen fehlt. Der Großteil des Elektroschrotts wird entweder verbrannt oder auf Müllhalden deponiert. Dadurch werden giftige und für Mensch und Umwelt schädliche Substanzen freigesetzt. Wir bei Fairphone versuchen, die gesamte Lebensdauer des Mobiltelefons zu betrachten, einschließlich Gebrauch, Wiederverwendung und einem sicheren Recycling.
-
-<br>
-
-## <a name="kostenaufstellung"></a> Unsere Kostenaufstellung
-
-Analog zum [Costbreakdown](https://www.fairphone.com/wp-content/uploads/2015/09/Cost-Breakdown-Fairphone-2-German-1.pdf) von Fairphone wollen auch wir transparent aufzeigen wie sich die Kosten verteilen.
-
-<img src="/images/angebote/fairphone/02_cost_breakdown.jpg" alt="sinndrin genossenschaft Fairphone 2 cost breakdown" />
 
 {% include block/fairphone-crosslinks.html %}
