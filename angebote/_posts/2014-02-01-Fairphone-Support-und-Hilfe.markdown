@@ -181,9 +181,9 @@ Wir beantworten Ihre Fragen rund um Software (App-, Mail-, Kontaktverwaltung, SM
             <label>Kursdatum:
               <select id="datum" name="Datum" required>
                 <option value="">bitte wählen...</option>
-                <option value="140817">14.08.17</option>
-                <option value="040917">04.09.17</option>
-                <option value="231017">23.10.17</option>
+                <option value="14082017">14.08.17</option>
+                <option value="04092017">04.09.17</option>
+                <option value="23102017">23.10.17</option>
               </select>
             </label>
             <small class="error">Bitte wählen sie ein Veranstaltungsdatum aus.</small>
