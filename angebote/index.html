@@ -5,11 +5,11 @@ title:  "Angebote"
 <!-- first row -->
 <div class="row" data-equalizer>
   <div class="large-4 columns" data-equalizer-watch>
-    <a href="/angebote/bildung/"><div class="angebote-img bildung"><h5><span>Bildung</span></h5></div></a>
+    <a href="/angebote/multivisionsshow-ein-aelpler-auf-dem-ozean/"><div class="angebote-img bildung"><h5><span>Multivisionsshow</span></h5></div></a>
     <div class="angebote-bildung">
       <ul class="side-nav">
         {% for post in site.categories.angebote %}
-        {% if post.tags contains "Bildung" %}
+        {% if post.tags contains "Multivisionsshow" %}
         <li><a class="angebot" href="{{ post.url }}"><i class="fi-arrow-right"></i> {{ post.title }}</a></li>
         {% endif %}
         {% endfor %}
