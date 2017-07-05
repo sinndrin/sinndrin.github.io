@@ -7,7 +7,7 @@ title:  "Spieleabend / Spielenachmittag mit der sinndrin genossenschaft"
 
 In regelmässigen Abstäden treffen sich Genossenschafter_innen und externe Spiele interessierte zu einem gemütlichen Spieleabend in Zürich und Umgebung. Für Spielevielfalt ist gesorgt, du kannst jedoch auch dein eigenes mitbringen.
 
-Wen du Interesse hast per E-Mail an solche Spieleabende oder Tage erinnert zu werden, fülle das unten stehende Formular aus. Wir verwenden deine Daten ausschliesslich zum oben genannten Zweck.
+Wenn du Interesse hast per E-Mail an solche Spieleabende oder Tage erinnert zu werden, fülle das unten stehende Formular aus. Wir verwenden deine Daten ausschliesslich zum oben genannten Zweck.
 
 ## Selber einen Spieleabend organisiert?
 
