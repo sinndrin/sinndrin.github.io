@@ -11,7 +11,7 @@ title: "Planung und Realisierung ihrer Photovoltaikanlage"
 
 Spielen sie mit dem Gedanken eine Photovoltaik-Anlage auf ihrem Dach zu installierent?
 
-Wir legen hohe Aufmerksamkeit auf die eingesetzen Produkte und empfehlen Komponenten, die einen möglichst kleinen ökologischen Fussabdruck besitzen und sozial gerecht produziert wurden. Unser Offerte beinhaltet auch immer als zweite Variante eine konventionelle Produkteauswahl.  
+Wir legen hohe Aufmerksamkeit auf die eingesetzten Produkte und empfehlen Komponenten, die einen möglichst kleinen ökologischen Fussabdruck besitzen und sozial gerecht produziert wurden. Unser Offerte beinhaltet auch immer als zweite Variante eine konventionelle Produkteauswahl.  
 
 Generell versuchen wir transparent zu kommunzieren und stellen die gleichen Ansprüche an unsere Partner. Mit der Energie Genossenschaft Schweiz, ebenfalls einer Spezialistin rund um Photovoltaikanlagen haben wir eine solche Partnerschaft aufgebaut. Damit bieten wir Ihnen alles aus einer Hand: von der Planung und Gesuchstellung von Förderbeiträgen, über die Realisierung bis hin zur Wartung ihrer Anlage.
 
