@@ -30,11 +30,11 @@ Oder bei einem Windpark
 * Unsere Energieanzeige wertet den Standort auf und schafft Verweilcharakter. So kann eine solche Anzeige auch gut in einem Energie- oder Umwelterlebnispfad integriert werden oder als mobile Variante zu Messezwecken ihre Verwendung finden.
 * Wir arbeiten eng mit Designern zusammen, um die Energieanzeige auch optisch auf ihre Wünsche anzupassen.
 * Mit der Realisierung der ersten Energieanzeige in Form einer Kugelbahn haben wir in diesem Berich gute Kontakte und einige Erfahrungen gesammelt.
-* Wir haben Zugang zu 3D-Drucker, Laser-Cutter, Metall-, Holz und Textilwerkstatt. Zudem haben wir in den einzelnen Berichen grosse Erfahrung und können auf ein vielfältiges Netzwerk zurück greifen.
+* Wir haben Zugang zu 3D-Drucker, Laser-Cutter, Metall-, Holz und Textilwerkstatt. Zudem haben wir in den einzelnen Bereichen grosse Erfahrung und können auf ein vielfältiges Netzwerk zurück greifen.
 
 <h3>Pilotanlage in Wädenswil</h3>
 <img alt="Energieanzeigen" src="/images/angebote/energieanzeige.jpg" /><br><br>
-Die Energieanzeige auf dem Campus Reidbach an der ZHAW Wädenswil in Form einer Kugelbahn zeigt auf, wie viel Strom die Photovoltaik-Anlage auf den Dächern des Tuwag-Areals im Moment produziert. Wenn eine Kilowattstunde produziert wurde, wird dies durch eine rote Kugel, die spielerisch durch die Kugelbahn läuft, dargestellt. Wurden 10 Kilowattstunden produziert, wird dies mit einer gravierten Holzkugel darstellt. Diese Kugeln stapeln sich in Säulen der entsprechenden Tageszeit und zeigen so die Tagesverlaufskurve. Weiter zeigt die Anlage anhand der Kugeln verschiedene Beispiele dafür, was ein Stromkonsument mit der eingespeisten Energiemenge alles machen könnte. [Hier][blogeroeffnungsfest] kommen sie zu unserem Blogeintrag vom Eröffnungsfest der Energieanzeige.
+Die Energieanzeige auf dem Campus Reidbach an der ZHAW Wädenswil in Form einer Kugelbahn zeigt auf, wie viel Strom die Photovoltaik-Anlage auf den Dächern des Tuwag-Areals im Moment produziert. Wenn eine Kilowattstunde produziert wurde, wird dies durch eine rote Kugel, die spielerisch durch die Kugelbahn läuft, dargestellt. Wurden 10 Kilowattstunden produziert, wird dies mit einer farbigen Kugel auf der rechten Hälfte der Energieanzeige darstellt. Diese Kugeln stapeln sich in Säulen der entsprechenden Tageszeit und zeigen so die Tagesverlaufskurve. Weiter zeigt die Anlage anhand der farbigen Kugeln in der rechten Hälfte die verschiedene Beispiele dafür, was ein Stromkonsument mit der eingespeisten Energiemenge alles machen könnte. [Hier][blogeroeffnungsfest] kommen sie zu unserem Blogeintrag vom Eröffnungsfest der Energieanzeige.
 
 Haben wir ihr Interesse geweckt? [Kontaktieren](/ueber-uns/kontakt/) sie uns mit ihrer Idee.
 
