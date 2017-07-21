@@ -11,9 +11,9 @@ title: "Planung und Realisierung ihrer Solaranlage"
 
 Spielen sie mit dem Gedanken eine Solaranlage auf ihrem Dach zu installieren?
 
-Wir legen hohe Aufmerksamkeit auf die eingesetzten Produkte und empfehlen Komponenten, die einen möglichst kleinen ökologischen Fussabdruck besitzen und sozial gerecht produziert wurden. Unser Offerte beinhaltet auch immer als zweite Variante eine konventionelle Produkteauswahl.  
+Wir legen hohe Aufmerksamkeit auf die eingesetzten Produkte und empfehlen Komponenten, die einen möglichst kleinen ökologischen Fussabdruck besitzen und sozial gerecht produziert wurden. Unsere Offerte beinhaltet immer als zweite Variante eine konventionelle Produkteauswahl.  
 
-Generell versuchen wir transparent zu kommunzieren und stellen die gleichen Ansprüche an unsere Partner. Mit der Energie Genossenschaft Schweiz, ebenfalls einer Spezialistin rund um Solaranlagen haben wir eine solche Partnerschaft aufgebaut. Damit bieten wir Ihnen alles aus einer Hand: von der Planung und Gesuchstellung von Förderbeiträgen, über die Realisierung bis hin zur Wartung ihrer Anlage.
+Generell versuchen wir transparent zu kommunzieren und stellen die gleichen Ansprüche an unsere Partner. Mit der Energie Genossenschaft Schweiz, ebenfalls einer Spezialistin rund um Solaranlagen, haben wir eine solche Partnerschaft aufgebaut. Damit bieten wir Ihnen alles aus einer Hand: von der Planung und Gesuchstellung von Förderbeiträgen, über die Realisierung bis hin zur Wartung ihrer Anlage.
 
 <a href="https://www.sinndrin.ch/ueber-uns/kontakt/" class="button big expand"><i class="fi-arrow-right"></i> Kontaktieren Sie uns um eine unverbindliche Offerte anzufordern</a>
 
