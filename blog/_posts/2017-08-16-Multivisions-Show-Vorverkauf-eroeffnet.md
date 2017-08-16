@@ -5,7 +5,7 @@ subtitle: >-
   Zurück von der Segeltour über den Atlantik, erzählt sinndrin genossenschafter
   Michael Tanner von seinen Abenteuern.
 image: /images/blog/2017-08-16-auf-dem-atlantik-fuesse.JPG
-date: 2017-08-16 15:50:00
+date: {}
 published: true
 categories: blog
 comments: true
@@ -26,5 +26,5 @@ Achtung FrühbucherInnen: 25% Rabatt aufs Ticket mit Promotionscode "sinndrin" -
 
 
 <img class="leadimage left" width="100" title="Medienpartner" src="https://www.sinndrin.ch/images/angebote/medienpartner.jpg">
-<img class="leadimage left" width="50" title="Medienpartner" src="https://www.sinndrin.ch/images/angebote/radio-central-logo.jpg">
-<img class="leadimage left" width="100" title="Medienpartner" src="https://www.sinndrin.ch/images/angebote/zeitpunkt-logo.jpg">
+<a href="http://radiocentral.ch/"><img class="leadimage left" width="50" title="Medienpartner" src="https://www.sinndrin.ch/images/angebote/radio-central-logo.jpg"></a>
+<a href="http://zeitpunkt.ch/"><img class="leadimage left" width="100" title="Medienpartner" src="https://www.sinndrin.ch/images/angebote/zeitpunkt-logo.jpg"></a>
