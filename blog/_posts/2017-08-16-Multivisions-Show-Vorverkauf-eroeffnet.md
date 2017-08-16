@@ -24,4 +24,4 @@ Der Vorverkauf ist eröffnet.
 
 Achtung FrühbucherInnen: 25% Rabatt aufs Ticket mit Promotionscode "sinndrin" - gültig bis Ende August.
 
-<img class="leadimage left" width="350" title="XXX" src="medienpartner-aelpler-ozean.JPG"> 
+<img class="leadimage left" width="350" title="Medienpartner" src="medienpartner-aelpler-ozean.JPG"> 
