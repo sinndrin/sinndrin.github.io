@@ -1,9 +1,11 @@
 ---
 layout: blog
 title: Multivisions-Show 'Ein Älpler auf dem Ozean' - on Tour
-subtitle: Zurück von seiner Segeltour über den Atlantik, erzählt sinndrin genossenschafter Michael Tanner von seinen Abenteuern.
+subtitle: >-
+  Zurück von der Segeltour über den Atlantik, erzählt sinndrin genossenschafter
+  Michael Tanner von seinen Abenteuern.
 image: /images/blog/2017-08-16-auf-dem-atlantik-fuesse.JPG
-date: 2017-08-16 15:50:00
+date: 2017-08-16T15:50:00.000Z
 published: true
 categories: blog
 comments: true
