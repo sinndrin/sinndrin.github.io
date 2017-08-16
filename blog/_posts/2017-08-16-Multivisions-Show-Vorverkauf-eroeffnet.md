@@ -5,7 +5,7 @@ subtitle: >-
   Zurück von der Segeltour über den Atlantik, erzählt sinndrin genossenschafter
   Michael Tanner von seinen Abenteuern.
 image: /images/blog/2017-08-16-auf-dem-atlantik-fuesse.JPG
-date: {}
+date: 2017-08-16 15:50:00
 published: true
 categories: blog
 comments: true
@@ -24,3 +24,4 @@ Der Vorverkauf ist eröffnet.
 
 Achtung FrühbucherInnen: 25% Rabatt aufs Ticket mit Promotionscode "sinndrin" - gültig bis Ende August.
 
+<img class="leadimage left" width="350" title="Medienpartner" src="medienpartner-aelpler-ozean.jpg">
