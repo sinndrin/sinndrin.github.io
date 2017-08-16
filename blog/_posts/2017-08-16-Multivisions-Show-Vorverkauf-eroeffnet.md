@@ -5,7 +5,7 @@ subtitle: >-
   Zurück von der Segeltour über den Atlantik, erzählt sinndrin genossenschafter
   Michael Tanner von seinen Abenteuern.
 image: /images/blog/2017-08-16-auf-dem-atlantik-fuesse.JPG
-date: 2017-08-16T15:50:00.000Z
+date: {}
 published: true
 categories: blog
 comments: true
@@ -21,3 +21,5 @@ Kommen Sie mit auf eine Reise mit dem Segelschiff von Portugal über die Kanaren
 Der Vorverkauf ist eröffnet. 
 
 [Prüfen Sie jetzt die Verfügbarkeit der Tickets und sichern Sie sich Ihren Eintritt!](https://www.sinndrin.ch/angebote/multivisions-show-ein-aelpler-auf-dem-ozean/ "Tickets Älpler auf dem Ozean")
+
+![Medienpartner]({{site.baseurl}}/blog/_posts/medienpartner-aelpler-ozean.jpg)
