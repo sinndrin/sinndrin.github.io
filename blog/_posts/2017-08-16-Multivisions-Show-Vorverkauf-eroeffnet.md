@@ -5,7 +5,7 @@ subtitle: >-
   Zurück von der Segeltour über den Atlantik, erzählt sinndrin genossenschafter
   Michael Tanner von seinen Abenteuern.
 image: /images/blog/2017-08-16-auf-dem-atlantik-fuesse.JPG
-date: 2017-08-16T15:50:00.000Z
+date: 2017-08-16 15:50:00
 published: true
 categories: blog
 comments: true
@@ -22,7 +22,7 @@ Der Vorverkauf ist eröffnet.
 
 [Prüfen Sie jetzt die Verfügbarkeit der Tickets und sichern Sie sich Ihren Eintritt!](https://www.sinndrin.ch/angebote/multivisions-show-ein-aelpler-auf-dem-ozean/ "Tickets Älpler auf dem Ozean")
 
-Achtung FrühbucherInnen: 25% Rabatt aufs Ticket mit Promotionscode "sinndrin" - gültig bis Ende August.
+Achtung FrühbucherInnen: 25% Rabatt aufs Ticket mit Promotionscode "sinndrin" - gültig bis Ende August (nur für Internetbestellungen oder auf der Post).
 
 
 <img class="leadimage left" width="100" title="Medienpartner" src="https://www.sinndrin.ch/images/angebote/medienpartner.jpg">
