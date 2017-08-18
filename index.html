@@ -14,15 +14,15 @@ title: Home
           </div>
         </a>
       </li>
-      <!--<li>
+      <li>
         <a href="/angebote/fairphone-2/kaufen/">
           <img widht=800 src="/images/blog/fairphone-2-slim-design.jpg" alt="slide 2" />
           <div class="orbit-caption">
-            Das Fairphone 2 mit dem neuen Slim Cover kann jetzt bei uns vorbestellt werden {% include block/mehr-button.html %}
+            Das Fairphone 2 im Webshop bestellen. {% include block/mehr-button.html %}
           </div>
         </a>
       </li>
-      <li>
+      <!--<li>
         <a href="/ueber-uns/">
         <img width=800 src="/images/frontpage/welcome.jpg" alt="slide 3" />
         <div class="orbit-caption">
@@ -46,119 +46,67 @@ title: Home
             <a href="/angebote/energie/"><div class="angebote-img energie"><h5><span>Solarenergie</span></h5></div></a>
           </div>
           <div class="large-4 columns">
-            <a href="/angebote/suffizienz/"><div class="angebote-img suffizienz"><h5><span>Suffizienz</span></h5></div></a>
-          </div>
-        </div>
-        <!-- second row -->
-        <div class="row">
-          <div class="large-4 columns">
-            <a href="/angebote/administration-und-it/"><div class="angebote-img administration-und-it"><h5><span>Administration und IT</span></h5></div></a>
-          </div>
-          <div class="large-4 columns">
             <a href="/angebote/fairphone/"><div class="angebote-img fairphone"><h5><span>Fairphone</span></h5></div></a>
-          </div>
-          <div class="large-4 columns">
-            <a href="/angebote/ihr-projekt/"><div class="angebote-img mit-uns-zusammen-arbeiten"><h5><span>Ihr Projekt</span></h5></div></a>
           </div>
         </div>
       </a>
     </div>
   </div>
 </div>
-<div class="row" data-equalizer>
-  <div class="large-8 columns">
-        <a href="/ueber-uns/realisierte-projekte/">
-        <div class="panel" style="background-color: transparent;" data-equalizer-watch>
-          <h3>Kürzlich abgeschlossene Projekte</h3><br>
-          <!-- BEGIN realisierte-projekte-list -->
-          {% assign displayedProjekte = 0 %}
-          {% for post in site.categories.realisierte-projekte limit:3 %}
-            {% if displayedProjekte < 3 and post.hideOnFrontpage != true %}
-            {% include block/realisierte-projekte-list.html %}
-            {% assign displayedProjekte = displayedProjekte | plus:1 %}
-            {% endif %}
-          {% endfor %}
-          <!-- END realisierte-projekte-list -->
-          <!-- BEGIN show a more entry with the number of entries -->
-          {% assign postsNum = 0 %}
-          {% for post in site.categories.realisierte-projekte %}
-          {% assign postsNum = postsNum | plus:1 %}
-          {% endfor %}
-          {% assign postsNum = postsNum | minus:3 %}
-          {% if postsNum > 0 %} <!-- only show if more than 3 entries exist -->
-          <div class="row">
-            <div class="realisiertes-projekt">
-              <a href="/ueber-uns/realisierte-projekte/">
-                <div class="medium-4 columns">
-                  <!--<div class="panel callout show-for-large-up" style="width:206px; height: 83px;"><h1 class="text-center">+ {{postsNum}}</h1></div>
-                  <div class="panel callout show-for-medium-down" style="width:248px; height: 100px;"><h1 class="text-center">+ {{postsNum}}</h1></div>
-                --></div>
-                <div class="medium-8 columns">
-                  <h4>und weitere Projekte ...</h4>
-                </div>
-              </a>
-            </div>
-          </div>
-          {% endif %}
-          <!-- END show a more entry with the number of entries -->
-        </div>
+<div class="row">
+  <div class="columns">
+  <a href="/blog/"><h3>Blog</h3></a><br>
+  <div class="row">
+    <div id="blog">
+      {% for post in site.categories.blog limit:2 %}
+      {% comment %} CHECK IF BLOGPOST IS PART OF SUBBLOG UNTERWEGS {% endcomment %}
+      {% assign identifier = post.url | split: '/' %}
+      {% if identifier[2] != "unterwegs" %}
+      <div class="large-12 columns">
+        <a href="{{ post.url }}">
+          <h4>{{ post.title }}</h4>
+          <div class="meta"><i class="fi-marker"></i> {{ post.tags }}<br><i class="fi-clock"></i>
+            <!-- Whitespace added for readability -->
+            {% assign m = post.date | date: "%-m" %}
+            {{ post.date | date: "%-d" }}
+            {% case m %}
+            {% when '1' %}Januar
+            {% when '2' %}Februar
+            {% when '3' %}M&auml;rz
+            {% when '4' %}April
+            {% when '5' %}Mai
+            {% when '6' %}Juni
+            {% when '7' %}Juli
+            {% when '8' %}August
+            {% when '9' %}September
+            {% when '10' %}Oktober
+            {% when '11' %}November
+            {% when '12' %}Dezember
+            {% endcase %}
+            {{ post.date | date: "%Y" }}
+          </div><br>
+          <img src="{{ post.image }}">
         </a>
-  </div>
-  <div class="large-4 columns">
-    <div class="panel" data-equalizer-watch>
-      <a href="/blog/"><h3>Blog</h3></a><br>
-      <div class="row">
-        <div id="blog">
-          {% for post in site.categories.blog limit:2 %}
-          {% comment %} CHECK IF BLOGPOST IS PART OF SUBBLOG UNTERWEGS {% endcomment %}
-          {% assign identifier = post.url | split: '/' %}
-          {% if identifier[2] != "unterwegs" %}
-          <div class="large-12 columns">
-            <a href="{{ post.url }}">
-              <h4>{{ post.title }}</h4>
-              <div class="meta"><i class="fi-marker"></i> {{ post.tags }}<br><i class="fi-clock"></i>
-                <!-- Whitespace added for readability -->
-                {% assign m = post.date | date: "%-m" %}
-                {{ post.date | date: "%-d" }}
-                {% case m %}
-                {% when '1' %}Januar
-                {% when '2' %}Februar
-                {% when '3' %}M&auml;rz
-                {% when '4' %}April
-                {% when '5' %}Mai
-                {% when '6' %}Juni
-                {% when '7' %}Juli
-                {% when '8' %}August
-                {% when '9' %}September
-                {% when '10' %}Oktober
-                {% when '11' %}November
-                {% when '12' %}Dezember
-                {% endcase %}
-                {{ post.date | date: "%Y" }}
-              </div><br>
-              <img src="{{ post.image }}">
-            </a>
-            <hr>
-          </div>
-          {% endif %}
-          {% endfor %}
-          <!-- BEGIN show a more entry with the number of entries -->
-          {% assign blogNum = 0 %}
-          {% for post in site.categories.blog %}
-          {% assign blogNum = blogNum | plus:1 %}
-          {% endfor %}
-          {% assign blogNum = blogNum | minus:3 %}
-          {% if blogNum > 0 %} <!-- only show if more than 3 entries exist -->
-          <div class="large-12 columns">
-            <a href="/blog/">
-              <h4>und weitere Blogeinträge ...</h4>
-              <!--<div class="panel callout" style="width:178px; height: 72px;"><h1 class="text-center">+ {{blogNum}}</h1></div>-->
-            </a>
-          </div>
-          {% endif %}
-          <!-- END show a more entry with the number of entries -->
-        </div>
+        <hr>
       </div>
+      {% endif %}
+      {% endfor %}
+      <!-- BEGIN show a more entry with the number of entries -->
+      {% assign blogNum = 0 %}
+      {% for post in site.categories.blog %}
+      {% assign blogNum = blogNum | plus:1 %}
+      {% endfor %}
+      {% assign blogNum = blogNum | minus:3 %}
+      {% if blogNum > 0 %} <!-- only show if more than 3 entries exist -->
+      <div class="large-12 columns">
+        <a href="/blog/">
+          <h4>und weitere Blogeinträge ...</h4>
+          <!--<div class="panel callout" style="width:178px; height: 72px;"><h1 class="text-center">+ {{blogNum}}</h1></div>-->
+        </a>
+      </div>
+      {% endif %}
+      <!-- END show a more entry with the number of entries -->
     </div>
   </div>
+</div>
 </div>

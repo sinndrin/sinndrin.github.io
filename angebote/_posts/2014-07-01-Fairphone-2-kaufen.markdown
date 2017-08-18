@@ -13,7 +13,7 @@ title: "Fairphone 2 kaufen in der Schweiz"
 
 Das Fairphone 2 ist ein modernes Smartphone mit einem 5-Zoll Full-HD Display und setzt auf Android 6.0 (Marshmallow). Das Fairphone unterscheidet sich von anderen Smartphones durch die Verwendung von Zinn, Coltan und Wolfram aus konfliktfreien Gebieten und zertifiziertem Fairtrade Gold. Ebenfalls neuartig ist der modulare Aufbau, der die Reparatur in hohem Masse vereinfacht. Das Gerät ist in den Farben weiss, türkis, blau und rot erhältlich.
 
-Das Fairphone 2 wurde als erstes Smartphone mit dem Label "Blauer Engel" ausgezeichnet. Mehr über dieses Label erfahrt ihr [hier](https://www.blauer-engel.de/de/produktwelt/haushalt-wohnen/mobiltelefone/fairphone-2).
+Das Fairphone 2 wurde als erstes Smartphone mit dem Label "Blauer Engel" ausgezeichnet. Mehr über dieses Label erfahrt ihr hier[<sup>1</sup>](https://www.blauer-engel.de/de/produktwelt/haushalt-wohnen/mobiltelefone/fairphone-2).
 
 <br>
 
