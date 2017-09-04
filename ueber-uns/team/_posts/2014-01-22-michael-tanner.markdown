@@ -11,7 +11,7 @@ email: michael.tanner@sinndrin.ch
 byline: >-
   coacht, ermächtigt, bildet und vernetzt Menschen, begleitet Einzelpersonen und
   Gruppen auf ihrem Weg, plant und leitet Projekte, erzählt von der Schönheit
-  der Erde und deren Bewohner*innen. Und er verkündet Suffizienz.
+  der Erde und deren Bewohner*innen.
 image: /images/ueber-uns/team/michael.png
 published: true
 ---
