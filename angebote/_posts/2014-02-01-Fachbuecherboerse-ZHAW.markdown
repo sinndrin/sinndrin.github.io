@@ -922,12 +922,6 @@ Alle auf diesem Weg nicht verkauften Bücher, werden an der nächstjährigen Fac
   <td>5</td>
 </tr>
 <tr>
-  <td>Lineare Algebra, Eine Einführung für Ingenieure unter besonderer Berücksichtigung numerischer Aspekte, 5. Auflage</td>
-  <td>k. Nipp, D. Stoffer</td>
-  <td>3-7281-2818-x</td>
-  <td>5</td>
-</tr>
-<tr>
   <td>Physik Gymnasiale Oberstufe</td>
   <td>Giancoli</td>
   <td>978-3-86894-903-2</td>
