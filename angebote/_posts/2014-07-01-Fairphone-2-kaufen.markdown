@@ -167,7 +167,7 @@ Quelle: [https://www.fairphone.com/technical-specifications/](https://www.fairph
 
 Analog zum [Costbreakdown](https://www.fairphone.com/wp-content/uploads/2015/09/Cost-Breakdown-Fairphone-2-German-1.pdf) von Fairphone wollen auch wir transparent aufzeigen wie sich die Kosten verteilen.
 
-<img src="/images/angebote/fairphone/02_cost_breakdown.jpg" alt="sinndrin genossenschaft Fairphone 2 cost breakdown" />
+<img src="/images/angebote/fairphone/03_cost_breakdown.jpg" alt="sinndrin genossenschaft Fairphone 2 cost breakdown" />
 
 ## <a name="überfairphone"></a> Über Fairphone
 
