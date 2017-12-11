@@ -29,6 +29,18 @@ title:  "Angebote aus unserem Experimentierlabor"
     </div>
   </div>
   <div class="large-4 columns" data-equalizer-watch>
+    <a href="/angebote/multivisions-show-ein-aelpler-auf-dem-ozean/"><div class="angebote-img bildung"><h5><span>Multivisions-Show</span></h5></div></a>
+    <div class="angebote-bildung">
+      <ul class="side-nav">
+        {% for post in site.categories.angebote %}
+        {% if post.tags contains "Multivisionsshow" %}
+        <li><a class="angebot" href="{{ post.url }}"><i class="fi-arrow-right"></i> {{ post.title }}</a></li>
+        {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+  <div class="large-12 columns" data-equalizer-watch>
     <a href="/angebote/ihr-projekt/"><div class="angebote-img mit-uns-zusammen-arbeiten"><h5><span>Ihr Projekt</span></h5></div></a>
     <div class="angebote-ihre-idee">
       <p style="font-size: 14px; margin-top: 14px;">Wir unterstützen Sie beim Ver&shy;feinern Ihrer Idee, realisieren von Projekten und mitgestalten der Zukunft. Egal wie wild, ver&shy;rückt oder simpel Ihre Idee ist: <a href="/ueber-uns/kontakt/" class="angebot-link">kontaktieren</a> Sie uns. Ihre Idee könnte in der Zukunft eine gewichtige Rolle spielen!
