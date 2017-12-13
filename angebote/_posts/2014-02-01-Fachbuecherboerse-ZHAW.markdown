@@ -148,7 +148,6 @@ Alle auf diesem Weg nicht verkauften Bücher, werden an der nächstjährigen Fac
 <tr><td>Professionelle Gesprächsführung, Ein praxisnahes Lese- und Übungssbuch 8.Auflage</td><td>Christian-Rainer Weisbach, Petra Sonne-Neubacher</td><td>978-3-423-50936-7</td><td>12</td></tr>
 <tr><td>Vom Lernen zum Lehren</td><td>Berlinger, Donatus; Birri, Thomas; Zumsteg, Barbara</td><td>978-3-03905-251-6</td><td>10</td></tr>
 <tr><td>The Economics of the Environment</td><td>Peter Berck, Gloria Helfand</td><td>978-0-321-75264-2</td><td>40</td></tr>
-<tr><td>Betriebswirtschaft und Management, 9. vollständig überarbeitete Auflage</td><td>Thommen, Jean-Paul</td><td>978-3-03909-153-9</td><td>45</td></tr>
 <tr><td>Controlling für Dummies 2. überarbeitete und erweiterte Auflage</td><td>Griga et. al.</td><td>978-3-527-70648-8</td><td>14</td></tr>
 <tr><td>Von der Faser zum Stoff</td><td>Völker, Ursula; Brückner, Katrin</td><td>978-3-582-05112-7</td><td>5</td></tr>
 <tr><td>Marketing, 11. Auflage</td><td>Bruhn, Manfred</td><td>978-3-8349-3439-0</td><td>15</td></tr>
