@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: "Ein Älpler auf dem Ozean"
-subtitle: "Multivisions-Show in Winterthur"
+title: "Ein Älpler auf dem Ozean: Show in Winterthur"
+subtitle: "Live-Abenteuererzählung"
 image: /images/blog/2018-01-24-aelpler-auf-dem-ozean.JPG
 date: 2018-01-24 15:00:00
 published: true
@@ -10,6 +10,8 @@ comments: true
 tags:
  - Michael Tanner
 ---
+<h2>Live-Abenteuererzählung</h2>
+
 Nach der letztjährigen Tour durch die Zentral- und Ostschweiz kommt der Reise-Vortrag nun für eine Einzelvorstellung nach Winterthur.
 
 Kommen Sie mit auf ein Abenteuer
