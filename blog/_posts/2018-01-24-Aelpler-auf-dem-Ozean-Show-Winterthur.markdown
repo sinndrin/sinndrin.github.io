@@ -19,10 +19,10 @@ Kommen Sie mit auf ein Abenteuer
 
 Der Älpler, Coach und Erwachsenenbildner Michael Tanner erzählt von seinen Erlebnissen mit dem Segelboot über den Atlantik.
 
-mit humorvoll-philosophischen Gedanken aus Älplerperspektive.
+Mit humorvoll-philosophischen Gedanken aus Älplerperspektive.
 
 Sie erleben
-	
+
 <li>Eine Atlantiküberquerung auf dem Segelboot</li>
 <li>Die Weite des Meers</li>
 <li>Die Schönheit von Ländern, Inseln und Landschaften</li>
@@ -39,7 +39,7 @@ Dauer: ca. 120' inkl. 15' Pause
 
 Multivisions-Show mit vielen Bildern, Videoaufnahmen und schöner Musik
 
-am 3. März 2018, 19.30 Uhr
+Am 3. März 2018, 19.30 Uhr
 
 Bäumlisaal, Rychenbergstrasse 179, Winterthur<br>
 Eintritt frei – Kollekte am Ausgang<br>

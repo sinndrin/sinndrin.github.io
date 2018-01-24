@@ -5,6 +5,22 @@ title:  "Weitere Angebote"
 <!-- second row -->
 <div class="row" data-equalizer>
   <div class="large-4 columns" data-equalizer-watch>
+    <a href="/angebote/coaching/"><div class="angebote-img coaching"><h5><span>Coaching</span></h5></div></a>
+    <div class="angebote-bildung">
+      <ul class="side-nav">
+        <li><a class="angebot" href="/angebote/coaching/"><i class="fi-arrow-right"></i> Coaching</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="large-4 columns" data-equalizer-watch>
+    <a href="/angebote/multivisions-show-ein-aelpler-auf-dem-ozean/"><div class="angebote-img bildung"><h5><span>Multivisions-Show</span></h5></div></a>
+    <div class="angebote-bildung">
+      <ul class="side-nav">
+          <li><a class="angebot" href="/angebote/multivisions-show-ein-aelpler-auf-dem-ozean/"><i class="fi-arrow-right"></i> Multivisions-Show</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="large-4 columns" data-equalizer-watch>
     <a href="/angebote/administration-und-it/"><div class="angebote-img administration-und-it"><h5><span>Administration und IT</span></h5></div></a>
     <div class="angebote-administration-und-it">
       <ul class="side-nav">
@@ -22,18 +38,6 @@ title:  "Weitere Angebote"
       <ul class="side-nav">
         {% for post in site.categories.angebote %}
         {% if post.tags contains "Suffizienz" %}
-        <li><a class="angebot" href="{{ post.url }}"><i class="fi-arrow-right"></i> {{ post.title }}</a></li>
-        {% endif %}
-        {% endfor %}
-      </ul>
-    </div>
-  </div>
-  <div class="large-4 columns" data-equalizer-watch>
-    <a href="/angebote/multivisions-show-ein-aelpler-auf-dem-ozean/"><div class="angebote-img bildung"><h5><span>Multivisions-Show</span></h5></div></a>
-    <div class="angebote-bildung">
-      <ul class="side-nav">
-        {% for post in site.categories.angebote %}
-        {% if post.tags contains "Multivisionsshow" %}
         <li><a class="angebot" href="{{ post.url }}"><i class="fi-arrow-right"></i> {{ post.title }}</a></li>
         {% endif %}
         {% endfor %}

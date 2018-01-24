@@ -4,9 +4,7 @@ category: team
 permalink: /ueber-uns/team/michael-tanner/
 title: Michael Tanner
 subtitle: >-
-  Coach und Supervisor, Erwachsenenbildner SVEB1, TZI-Zert., Mediation,
-  Konsensmoderation WfgA, Zert. Kampagner, Aktionsleiter, Betriebsökonom HWV,
-  Älpler
+  Coach und Supervisor, Erwachsenenbildner SVEB1, Erwachsenenbildner DaZ, TZI-Zert., Mediation, Konsensmoderation WfgA, Zert. Kampagner, Aktionsleiter, Betriebsökonom HWV; Langjähriger Kampagner für Greenpeace und andere Organisationen und Gruppen; Älpler, Hochsee-Segler.
 email: michael.tanner@sinndrin.ch
 byline: >-
   coacht, ermächtigt, bildet und vernetzt Menschen, begleitet Einzelpersonen und
@@ -15,7 +13,7 @@ byline: >-
 image: /images/ueber-uns/team/michael.png
 published: true
 ---
-Menschen vernetzen und ermächtigen, Projekte auf die Beine stellen und koordinieren, Personen weiterbilden und begleiten, Zivilcourage üben und lehren, die Erde bereichern und seine Wesen pflegen sind einige meiner Lieblingsbeschäftigungen. DAZ, Computersupport und Veranstaltungs-Betreuung passen gut dazu. Als Vorstandsmitglied amte ich im Verein Ruth Cohn Institut für TZI Schweiz.
+Menschen vernetzen und ermächtigen, Projekte auf die Beine stellen und koordinieren, Personen weiterbilden und begleiten, Zivilcourage üben und lehren, die Erde bereichern und seine Wesen pflegen sind einige meiner Lieblingsbeschäftigungen. Als Vorstandsmitglied amte ich im Verein Ruth Cohn Institut für TZI Schweiz.
 
 Kurz-CV: Nach dem KV habe ich während zwei Jahren in einem grossen Handelsunternehmen gearbeitet. Anschliessend ans Betriebswirtschafts-Studium bin ich von Winterthur nach Portugal und zurück geradelt. Dabei habe ich erfahren, wie die vorherrschende Ökonomie die Erde verändert. Nach elf Sommer als Pächter einer Bio-Alp und elf Winter als Kampagner für kleine und grosse Umweltorganisationen in der Schweiz und in Frankreich, war es Zeit für eine Segelreise über den Atlantik und zurück. Seit 2016 arbeite ich in Teilzeit als Coach, Supervisor, Erwachsenenbildner, Berater, Projektleiter und Support-Assistent bei der sinndrin genossenschaft.
 

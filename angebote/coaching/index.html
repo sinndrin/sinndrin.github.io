@@ -1,0 +1,76 @@
+---
+layout: two-columns
+title: 'Coaching'
+published: true
+---
+<div class="row">
+  <div class="small-12 medium-4 medium-push-8 large-7 large-push-5 columns"><a name="kontakt">
+    <div class="panel">
+      <a href="/ueber-uns/team/michael-tanner/"><img style="float:left; padding-right: 20px; padding-bottom: 10px;" src="/images/ueber-uns/team/michael.png" / ></a><h3><a href="/ueber-uns/team/michael-tanner/">Michael Tanner</a></h3><p>Kontaktieren Sie <a href="/ueber-uns/team/michael-tanner/">mich</a> für ein un&shy;ver&shy;bind&shy;liches erstes Gespräch.<br>Ich freue mich auf Ihre Anfrage via Telefon unter 079 542 52 12 (nachmittags oder abends) oder <a href="mailto:coaching@sinndrin.ch">E-Mail.</a></p><span style="clear:left;"> </span>
+    </div>
+  </div>
+  <div class="small-12 medium-8 medium-pull-4 large-5 large-pull-7 columns">
+    <p><i>Veränderung gestalten<br>
+    Entscheidungen treffen<br>
+    Ins Lot kommen</i></p>
+
+    <p>Sie finden bei mir Coaching in drei Bereichen:</p>
+
+    <ul>
+      <li><a href="#persoenlichkeits-coaching">Persönlichkeitscoaching</a></li>
+      <li><a href="#gewaltfrei-coaching">Coaching zu gewaltfreiem Handeln</a></li>
+      <li><a href="#kampagnen-coaching">Kampagnencoaching</a></li>
+    </ul>
+  </div>
+</div>
+
+<p>Diese Coachings werden unabhängig von einander angeboten und können folgende Schwerpunkte enthalten:</p>
+
+<h2><a name="persoenlichkeits-coaching"></a>Persönlichkeits-Coaching</h2>
+<p>"So kann es nicht mehr weiter gehen!" - Sie möchten entdecken wie denn, wenn nicht "so"?<br>
+Ihnen steht ein neuer Lebensabschnitt bevor und Sie möchten mutige Schritte tun, ohne übermütig zu werden?<br>
+Sie glauben (nicht) an Wunder?<br>
+Sie möchten Ihre Arbeit oder Ihr Privatleben neu oder besser gestalten?<br>
+Sie möchten Ihre Lebensfreude wiedergewinnen und behalten?<br>
+Sie möchten sich oder Ihr Unternehmen besser organisieren?<br>
+Sie möchten Ihre Werte entdecken und danach leben?<br>
+Sie haben ein anderes Anliegen, bei dem Sie kompetente Begleitung wünschen?</p>
+
+<p><a href="#kontakt" class="button big expand"><i class="fi-arrow-right"></i> Starten Sie mit mir ein Persönlichkeits-Coaching für mehr Lebensqualität.</a></p>
+
+<p>Ohne etwas versprechen zu wollen:<br>
+Es können Veränderungen geschehen, von denen Sie kaum zu träumen wagten.</p>
+
+<p>Weiterlesen: <a href="/angebote/coaching/deshalb-biete-ich-coaching-an/#persoenlichkeits-coaching"><i class="fi-arrow-right"></i> Deshalb biete ich Persönlchkeits-Coaching an</a></p>
+
+<h2><a name="gewaltfrei-coaching"></a>Coaching zum gewaltfreien Handeln</h2>
+<p>Sie sind plötzlich laut, obwohl Sie sonst harmonisch sind?<br>
+Ihnen droht die Hand auszurutschen bei der Person/jenen Personen, die sie am liebsten haben?<br>
+Sie haben den Eindruck, sich unnötig zu verdrehen und anzupassen, da, wo Sie gerade da stehen und sich selbst sein möchten?<br>
+Sie haben Fluchtgedanken und möchten Ihr Handlungsspektrum erweitern?<br>
+Sie haben auch mal dunkle Gedanken, mehr als Ihnen lieb ist?<br>
+Sie möchten Ihre Situation beleuchten und überlegt handeln?<br>
+Sie möchten besser verstanden und mehr gehört werden?<br>
+Sind Sie überfordert und wissen nicht wie weiter?</p>
+
+<p><a href="#kontakt" class="button big expand"><i class="fi-arrow-right"></i> Fragen Sie nach einem Coaching zum gewaltfreien Handeln, auf dem Weg zu sich selbst und zu lebendigen Beziehungen.</a></p>
+
+<p>Weiterlesen: <a href="/angebote/coaching/deshalb-biete-ich-coaching-an/#gewaltfrei-coaching"><i class="fi-arrow-right"></i> Deshalb biete ich Coaching zum gewaltfreien Handeln an</a></p>
+
+<h2><a name="kampagnen-coaching"></a>Kampagnen-Coaching für Organisationen und Gemeinden</h2>
+<p>Sie möchten Ideen für lust- und wirkungsvolle Kampagnen finden?<br>
+Sie wünschen sich mehr Sicherheit und Unterstützung bei der Kampagnenplanung?<br>
+Sie brauchen ein Kommunikations-Training oder ein Gewaltfrei-Training zur Bewahrung von Nerven und Gesundheit von Angestellten oder Freiwilligen?<br>
+Möchten Sie Gewalt mindern und Frieden stiften?</p>
+
+<p><a href="#kontakt" class="button big expand"><i class="fi-arrow-right"></i> Lassen Sie sich coachen bei der Gestaltung Ihrer Kampagnen und Aktionen.</a></p>
+
+<p>Weiterlesen: <a href="/angebote/coaching/deshalb-biete-ich-coaching-an/#kampagnen-coaching"><i class="fi-arrow-right"></i> Deshalb biete ich Kampagnen-Coaching an</a></p>
+
+
+
+{% for post in site.categories.angebote %}
+{% if post.tags contains "Multivisionsshow" %}
+{% include block/angebote-lvl2.html %}
+{% endif %}
+{% endfor %}
