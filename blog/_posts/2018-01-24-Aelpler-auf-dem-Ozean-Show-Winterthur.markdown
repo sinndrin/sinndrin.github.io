@@ -33,8 +33,8 @@ Sie erleben
 <li>Wundervolle Karibik-Erfahrungen</li>
 <li>Einen Streifzug durch den Nebelwald Costa Ricas</li>
 <li>Menschenrechtsbeobachtung bei den Zapatist*innen Chiapas', Mexiko</li>
-<li>Die magischen Wasserfälle von Aguazul</li>
-
+<li>Die magischen Wasserfälle von Aguazul</li><br>
+<br>
 Dauer: ca. 120' inkl. 15' Pause
 
 Multivisions-Show mit vielen Bildern, Videoaufnahmen und schöner Musik
@@ -46,3 +46,6 @@ Eintritt frei – Kollekte am Ausgang<br>
 Platzzahl beschränkt, keine Reservationsmöglichkeit
 
 Produktion: sinndrin genossenschaft
+
+«Die Abenteuer-Show zeigt Eindrückliches»<br>
+(Südostschweiz-Zeitung)
