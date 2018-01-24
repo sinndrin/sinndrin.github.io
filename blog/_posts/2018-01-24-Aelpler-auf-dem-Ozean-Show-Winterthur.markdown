@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Ein Älpler auf dem Ozean: Show in Winterthur"
-subtitle: "Live-Abenteuererzählung"
+subtitle: "Live-Abenteuererzählung am 3. März 2018"
 image: /images/blog/2018-01-24-aelpler-auf-dem-ozean.JPG
 date: 2018-01-24 15:00:00
 published: true
