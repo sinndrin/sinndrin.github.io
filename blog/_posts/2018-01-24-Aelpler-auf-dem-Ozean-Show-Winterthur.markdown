@@ -41,8 +41,8 @@ Multivisions-Show mit vielen Bildern, Videoaufnahmen und schöner Musik
 
 3. März 2018, 19.30 Uhr
 
-Bäumlisaal, Rychenbergstrasse 179, Winterthur
-Eintritt frei – Kollekte am Ausgang
+Bäumlisaal, Rychenbergstrasse 179, Winterthur<br>
+Eintritt frei – Kollekte am Ausgang<br>
 Platzzahl beschränkt, keine Reservationsmöglichkeit
 
 Produktion: sinndrin genossenschaft
