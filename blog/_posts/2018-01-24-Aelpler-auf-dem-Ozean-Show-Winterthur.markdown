@@ -39,7 +39,7 @@ Dauer: ca. 120' inkl. 15' Pause
 
 Multivisions-Show mit vielen Bildern, Videoaufnahmen und schöner Musik
 
-3. März 2018, 19.30 Uhr
+am 3. März 2018, 19.30 Uhr
 
 Bäumlisaal, Rychenbergstrasse 179, Winterthur<br>
 Eintritt frei – Kollekte am Ausgang<br>
