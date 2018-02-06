@@ -6,28 +6,29 @@
 	<meta name="description" content="" />
 	<meta name="keywords" content="" />
 	<title>Weiterleitung...</title>
-
-<script type="text/javascript">
-</script>
+	<!-- Matomo (Piwik) -->
+	<script type="text/javascript">
+		var _paq = _paq || [];
+		/* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+		_paq.push(["setCookieDomain", "*.www.sinndrin.ch"]);
+		_paq.push(["setDomains", ["*.www.sinndrin.ch","*.support.sinndrin.org","*.www.sinndrin-shop.ch"]]);
+		_paq.push(["enableCrossDomainLinking"]);
+		_paq.push(['trackPageView']);
+		_paq.push(['enableLinkTracking']);
+		(function() {
+			var u="//www.sinndrin.org/piwik/";
+			_paq.push(['setTrackerUrl', u+'piwik.php']);
+			_paq.push(['setSiteId', '3']);
+			var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+			g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+		})();
+	</script>
+	<!-- End Matomo (Piwik) Code -->
 </head>
 <body>
 	<p>Bitte haben Sie einige Sekunden geduld, Sie werden nun weitergeleitet. Wenn die automatische Weiterleitung nicht funktioniert, klicken Sie bitte <a href="/ueber-uns/team/roger-schaerer/">hier</a>.</p>
+	<!-- Matomo noscript (Piwik) -->
+	<noscript><p><img src="//www.sinndrin.org/piwik/piwik.php?idsite=3&rec=1" style="border:0;" alt="" /></p></noscript>
+	<!-- End Matomo (Piwik) Code -->
 </body>
-
-<!-- Piwik -->
-<script type="text/javascript">
-	var _paq = _paq || [];
-	_paq.push(['trackPageView']);
-	_paq.push(['enableLinkTracking']);
-	(function() {
-		var u="//www.sinndrin.org/piwik/";
-		_paq.push(['setTrackerUrl', u+'piwik.php']);
-		_paq.push(['setSiteId', 3]);
-		var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-		g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
-	})();
-</script>
-<noscript><p><img src="//www.sinndrin.org/piwik/piwik.php?idsite=3" style="border:0;" alt="" /></p></noscript>
-<!-- End Piwik Code -->
-
 </html>

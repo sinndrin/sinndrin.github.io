@@ -8,6 +8,7 @@
   <link rel="stylesheet" href="/assets/foundation-icons/foundation-icons.css"/>
   <link rel="stylesheet" href="/assets/font-awesome-4.7.0/css/font-awesome.min.css"/>
   <script src="/assets/foundation/bower_components/modernizr/modernizr.js"></script>
+  {% include block/piwik-tracking.html %}
 </head>
 <body>
 <!-- Navigation -->
@@ -155,6 +156,8 @@ sizingmethod='scale'); width: 95px; display: inline-block; height: 46px; top: 2p
     $("#btn-gruppen-anmeldung").remove();
   });
 </script>
-{% include block/piwik-tracking.html %}
+<!-- Matomo noscript (Piwik) -->
+<noscript><p><img src="//www.sinndrin.org/piwik/piwik.php?idsite=3&rec=1" style="border:0;" alt="" /></p></noscript>
+<!-- End Matomo (Piwik) Code -->
 </body>
 </html>
