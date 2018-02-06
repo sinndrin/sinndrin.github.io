@@ -1,6 +1,6 @@
 ---
 layout: two-columns
-title:  "Spieleabend / Spielenachmittag mit der sinndrin genossenschaft"
+title:  "Spieleabend und Spielenachmittag mit der sinndrin genossenschaft"
 ---
 
 <div class="angebot-top-wide"><img title="Spieleabend mit der sinndrin genossenschaft" src="/images/ueber-uns/offener-spieleabend_sub.jpg"></div>
