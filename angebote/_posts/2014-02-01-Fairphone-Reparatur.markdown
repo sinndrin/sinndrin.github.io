@@ -6,6 +6,10 @@ tags:
 permalink: /angebote/fairphone/reparatur/
 image: /images/angebote/fairphone-reparatur.jpg
 title: "Fairphone Reparatur"
+
+
+
+published: false
 ---
 <div class="angebot-top-wide"><img title="Fairphone Reparatur" src="/images/angebote/fairphone-reparaturwerkstatt.jpg"></div>
 
@@ -38,7 +42,7 @@ Wenn Sie ihr Fairphone von uns repariren lassen möchten, können sie das Gerät
 * Mit dem Gerät erhalten Sie die Rechnung.
 
 ## Garantie
-Bei der Reparatur Ihres Gerätes bleibt der Garantieanspruch gegenüber Fairphone bestehen. Auf die Reparatur selbst haben Sie eine zwei wöchige Garantie. Selbstverständlich wird nach jeder Reparatur ein Funktionstest durchgeführt. 
+Bei der Reparatur Ihres Gerätes bleibt der Garantieanspruch gegenüber Fairphone bestehen. Auf die Reparatur selbst haben Sie eine zwei wöchige Garantie. Selbstverständlich wird nach jeder Reparatur ein Funktionstest durchgeführt.
 
 ## Selbstständige Fairphone Fehlerbehebung und Diagnose (FAQ)
 Wir haben für Sie eine [Sammlung von Fehlerbehebungen und Diagnosen][faq] zusammen gestellt, die Ihnen helfen kann die Probleme Ihres Gerätes selbstständig zu lösen.

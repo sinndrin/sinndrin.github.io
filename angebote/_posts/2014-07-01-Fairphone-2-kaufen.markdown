@@ -6,6 +6,9 @@ tags:
 permalink: /angebote/fairphone-2/kaufen/
 image: /images/angebote/fairphone-2-slim-design-small.jpg
 title: "Fairphone 2 kaufen in der Schweiz"
+
+
+published: false
 ---
 <div class="angebot-top-wide"><img title="Fairphone" src="/images/angebote/fairphone_sub.jpg"></div>
 
