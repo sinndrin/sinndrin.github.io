@@ -50,4 +50,4 @@ Produktion: sinndrin genossenschaft
 <h4>«Die Abenteuer-Show zeigt Eindrückliches»<br>
 (Südostschweiz-Zeitung)<h4>
 
-<a href="Aelpler-Ozean-Winterthur-Flyer-A6.pdf" class="button big expand"><i class="fi-arrow-right"></i> Event-Flyer den wichtigsten Infos zur Vorstellung vom 3. März</a>
+<a href="https://www.sinndrin.ch/angebote/multivisions-show-ein-aelpler-auf-dem-ozean/Aelpler-Ozean-Winterthur-Flyer-A6.pdf" class="button big expand"><i class="fi-arrow-right"></i> Event-Flyer den wichtigsten Infos zur Vorstellung vom 3. März</a>
