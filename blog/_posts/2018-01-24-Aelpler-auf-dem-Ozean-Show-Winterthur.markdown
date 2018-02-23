@@ -47,5 +47,7 @@ Platzzahl beschränkt, keine Reservationsmöglichkeit
 
 Produktion: sinndrin genossenschaft
 
-«Die Abenteuer-Show zeigt Eindrückliches»<br>
-(Südostschweiz-Zeitung)
+<h4>«Die Abenteuer-Show zeigt Eindrückliches»<br>
+(Südostschweiz-Zeitung)<h4>
+
+<a href="Aelpler-Ozean-Winterthur-Flyer-A6.pdf" class="button big expand"><i class="fi-arrow-right"></i> Event-Flyer den wichtigsten Infos zur Vorstellung vom 3. März</a>
