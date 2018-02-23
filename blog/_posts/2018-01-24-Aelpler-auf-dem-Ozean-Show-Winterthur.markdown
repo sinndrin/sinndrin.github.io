@@ -45,9 +45,6 @@ Bäumlisaal, Rychenbergstrasse 179, Winterthur<br>
 Eintritt frei – Kollekte am Ausgang<br>
 Platzzahl beschränkt, keine Reservationsmöglichkeit
 
-Produktion: sinndrin genossenschaft
-
-<h4>«Die Abenteuer-Show zeigt Eindrückliches»<br>
-(Südostschweiz-Zeitung)<h4>
-
 <a href="https://www.sinndrin.ch/angebote/multivisions-show-ein-aelpler-auf-dem-ozean/Aelpler-Ozean-Winterthur-Flyer-A6.pdf" class="button big expand"><i class="fi-arrow-right"></i> Event-Flyer den wichtigsten Infos zur Vorstellung vom 3. März</a>
+<br><br>
+<h4><p><a href="https://www.sinndrin.ch/angebote/multivisions-show-ein-aelpler-auf-dem-ozean/05_sogl_72_2017-10-09.pdf">"Die Abenteuer-Show zeigt Eindrückliches" - (Südostschweiz-Zeitung)</a></p><h4>
