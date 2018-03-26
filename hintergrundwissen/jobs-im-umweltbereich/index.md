@@ -58,7 +58,6 @@ title:  "Jobs im Umweltbereich"
       <li><a href="http://sozialinfo-stellen.ch">Grün im sozialen Bereich?</a></li>
 
       <li><a href="https://www.zhaw.ch/de/jobs/offene-stellen/">Zürcher Hochschule ZHAW</a></li>
-      <li><a href="https://www.hafl.bfh.ch/ueber-die-hafl/jobs.html">HAFL</a></li>
       <li><a href="http://internet1.refline.ch/655298/search.html?lang=de">Fachhochschule Nordwestschweiz FHNW</a></li>
       <li><a href="https://www.bfh.ch/de/bfh/stellenangebote.html?no_cache=1">Berner Hochschule</a></li>
       <li><a href="https://emploi.epfl.ch/en">Hochschule Lausanne EPFL</a></li>
@@ -92,12 +91,6 @@ title:  "Jobs im Umweltbereich"
       <li><a href="https://www.bafu.admin.ch/bafu/de/home/amt/offene-stellen-des-bafu.html">Bundesamt für Umwelt BAFU</a></li>
       <li><a href="www.publicjobs.ch">öffentliche Stellen</a></li>
     </ul>
-    <h2>Noch mehr mit Sinn!</h2>
-    <ul>
-      <li><a href="https://www.berufsberatung.ch/dyn/show/2879">Ausbildung im Grünen Bereich</a></li>
-      <li><a href="https://www.berufsberatung.ch/dyn/show/13772?id=12">Tipps bei der Stellensuche</a></li>
-      <li><a href="https://www.simap.ch/">öffentliche Aufträge werden hier ausgeschrieben</a></li>
-    </ul>
      <h2>Nachhaltige Netzwerke</h2>
     <ul>
       <li><a href="https://cooperativesuisse.ch/">cooperativeSuisse</a></li>
@@ -106,6 +99,27 @@ title:  "Jobs im Umweltbereich"
       <li><a href="http://www.transition-zuerich.ch/">Transition Zürich</a></li>
       <li><a href="http://www.integrale-politik.ch/">IP Schweiz</a></li>
       <li><a href="https://www.energieschweiz.ch">energie schweiz</a></li>
+    </ul>
+     <h2>Verbände im Bereich alternativer Energien</h2>
+    <ul>
+      <li><a href="http://www.infrawatt.ch/">InfraWatt</a></li>
+      <li><a href="http://vbsa.ch/">Verband der Betreiber Schweizerischer Abfallverwertungsanlagen</a></li>
+      <li><a href="https://www.fernwaerme-schweiz.ch">Fernwärme Schweiz</a></li>
+      <li><a href="http://www.svgw.ch/">Schweizerischer Verein des Gas- und Wasserfaches</a></li>
+      <li><a href="http://www.suisse-eole.ch">Vereinigung zur Förderung der Windenergie in der Schweiz</a></li>
+      <li><a href="http://www.holzenergie.ch">Holz Energie</a></li>
+      <li><a href="http://www.swissolar.ch/">Swissolar</a></li>
+      <li><a href="https://swissmallhydro.ch">klein Wasserkraft</a></li>
+      <li><a href="https://www.swv.ch/">Schweizerischer Wasserwirtschafts Verband</a></li>
+      <li><a href="http://geothermie-schweiz.ch/">Geothermie Schweiz</a></li>
+      <li><a href="https://www.biomassesuisse.ch/">Biomasse</a></li>
+      <li><a href="https://www.waermekraftkopplung.ch/">Wärmekraftkopplung</a></li>
+    </ul>
+     <h2>Noch mehr mit Sinn!</h2>
+    <ul>
+      <li><a href="https://www.berufsberatung.ch/dyn/show/2879">Ausbildung im Grünen Bereich</a></li>
+      <li><a href="https://www.berufsberatung.ch/dyn/show/13772?id=12">Tipps bei der Stellensuche</a></li>
+      <li><a href="https://www.simap.ch/">öffentliche Aufträge werden hier ausgeschrieben</a></li>
     </ul>
   
   </div>
