@@ -4,7 +4,7 @@ title:  "Jobs im Umweltbereich"
 ---
 <div class="row">
   <div class="small-12 medium-8 large-8 columns">
-    <p>Eine Linksammlung zu Stellenbörsen und Direktlinks zu Arbeitgebern im grünen Bereich in der Region Schweiz und Zürich.</p>
+    <p>Eine Linksammlung zu Stellenbörsen und Direktlinks zu Arbeitgebern im grünen Bereich in der Region Schweiz und Zürich. Weiter sind Institutionen aufgeführt, die Forschung und Lehre im grünen Bereich betreiben. Auch haben wir einige grosse öffentliche Arbeitgeber aufgezählt, die Umweltämter haben. Am Ende der Linksammlung sind Netzwerke und Verbände aufgezählt, die sich für nachhaltige Entwicklung oder alternative Energien stark machen. </p>
 
     <p>Weitere Stellenseiten werden gerne in die Liste <a href="/ueber-uns/kontakt/">aufgenommen</a>. Ebenso sind <a href="/ueber-uns/kontakt/">Aktualisierungen und Hinweise über verwaiste Links erwünscht</a>.</p>
 
