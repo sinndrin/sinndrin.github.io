@@ -12,7 +12,7 @@ title:  "Jobs im Umweltbereich"
       <a href="/angebote/fairphone-2/kaufen/"><img style="border: 1px solid grey; padding:4px; margin-bottom: 10px;" title="Fairphone" src="/images/angebote/fairphone/fairphone-jobs-im-umweltbereich-fuer-dein-bewerbungsgespraech-querformat.jpg"></a>
     </div>
 
-    <h2>Stellenbörsen im Grünen Bereich</h2>
+    <h2>grüne Stellenbörsen</h2>
     <ul>
       <li><a href="https://nachhaltige-jobs.ch/">nachhaltige-jobs.ch</a></li>
       <li><a href="https://www.umweltnetz-schweiz.ch/jobs.html">umweltnetz-schweiz</a></li>
@@ -84,7 +84,7 @@ title:  "Jobs im Umweltbereich"
       <li><a href="https://www.stadtluzern.ch/arbeitenbeiderstadt/offenestellenstadtverwaltung">Kanton Luzern</a></li>
       <li><a href="http://www.sh.ch/Stellenangebote.21.0.html?&no_cache=1">Kanton Schaffhausen</a></li>
       <li><a href="https://www.sg.ch/home/publikationen___services/dienstleistungen/arbeiten-beim-kanton.html">Kanton St.Gallen</a></li>
-      <li><a href="https://stellen.tg.ch/">Kanton Thurgau</a></li>
+      <li><a href="https://stellen.tg.ch">Kanton Thurgau</a></li>
       <li><a href="https://www.zh.ch/internet/de/arbeiten_beim_kanton/offene_stellen.html">Kanton Zürich</a></li>
 
       <li><a href="https://www.bafu.admin.ch/bafu/de/home/amt/offene-stellen-des-bafu.html">Bundesamt für Umwelt BAFU</a></li>
