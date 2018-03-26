@@ -88,7 +88,7 @@ title:  "Jobs im Umweltbereich"
       <li><a href="https://www.zh.ch/internet/de/arbeiten_beim_kanton/offene_stellen.html">Kanton Zürich</a></li>
 
       <li><a href="https://www.bafu.admin.ch/bafu/de/home/amt/offene-stellen-des-bafu.html">Bundesamt für Umwelt BAFU</a></li>
-      <li><a href="www.publicjobs.ch">öffentliche Stellen</a></li>
+      <li><a href="https://www.publicjobs.ch">öffentliche Stellen</a></li>
     </ul>
      <h2>Nachhaltige Netzwerke</h2>
     <ul>
