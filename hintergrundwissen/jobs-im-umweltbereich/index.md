@@ -56,7 +56,7 @@ title:  "Jobs im Umweltbereich"
       <li><a href="http://www.education21.ch/de/aktualitaet/stellen">education21</a></li>
       <li><a href="https://job.educa.ch">educa</a></li>
       <li><a href="http://sozialinfo-stellen.ch">Grün im sozialen Bereich?</a></li>
-      
+
       <li><a href="https://www.zhaw.ch/de/jobs/offene-stellen/">Zürcher Hochschule ZHAW</a></li>
       <li><a href="https://www.hafl.bfh.ch/ueber-die-hafl/jobs.html">HAFL</a></li>
       <li><a href="http://internet1.refline.ch/655298/search.html?lang=de">Fachhochschule Nordwestschweiz FHNW</a></li>
