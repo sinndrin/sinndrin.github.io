@@ -71,7 +71,7 @@ title:  "Jobs im Umweltbereich"
       <li><a href="https://www.unige.ch/dife/emploi/">Uni Genf</a></li>
       <li><a href="http://www.uzh.ch/de/studies/studentlife/vacancies.html">Uni Zürich</a></li>
     </ul>
-    <h2>Gemeinden, Kantone und Bund</h2>
+    <h2>Gemeinde, Kanton und Bund</h2>
     <ul>
       <li><a href="http://www.arbeitgeber.bs.ch/stellenmarkt/offene-stellen.html">Stadt Basel</a></li>
       <li><a href="http://www.bern.ch/themen/arbeiten-fuer-die-stadt-bern/eine-stelle-bei-der-stadt/stellen">Stadt Bern</a></li>
@@ -80,7 +80,7 @@ title:  "Jobs im Umweltbereich"
       <li><a href="https://jobs.winterthur.ch/">Stadt Winterthur</a></li>
       <li><a href="https://www.stadt-zuerich.ch/portal/de/index/jobs/offene_stellen.html">Stadt Zürich</a></li>
       <li><a href="https://www.stadt-zuerich.ch/ted/de/index/gsz/jobs/berufserfahrene/offene_stellen_gruen_stadt_zuerich.html?dienstabteilung=Gr%C3%BCn+Stadt+Z%C3%BCrich&searchView=extended&submitted=true">Stadt Zürich, Grün Stadt</a></li>
-      <ul>
+      
       <li><a href="https://www.ag.ch/de/meta/jobs_personal_1/jobs_personal.jsp">Kanton Aargau</a></li>
       <li><a href="http://www.be.ch/portal/de/index/stellenangebote.html">Kanton Bern</a></li>
       <li><a href="https://www.stadtluzern.ch/arbeitenbeiderstadt/offenestellenstadtverwaltung">Kanton Luzern</a></li>
@@ -88,7 +88,7 @@ title:  "Jobs im Umweltbereich"
       <li><a href="https://www.sg.ch/home/publikationen___services/dienstleistungen/arbeiten-beim-kanton.html">Kanton St.Gallen</a></li>
       <li><a href="https://stellen.tg.ch/">Kanton Thurgau</a></li>
       <li><a href="https://www.zh.ch/internet/de/arbeiten_beim_kanton/offene_stellen.html">Kanton Zürich</a></li>
-      <ul>
+
       <li><a href="https://www.bafu.admin.ch/bafu/de/home/amt/offene-stellen-des-bafu.html">Bundesamt für Umwelt BAFU</a></li>
       <li><a href="www.publicjobs.ch">öffentliche Stellen</a></li>
     </ul>
