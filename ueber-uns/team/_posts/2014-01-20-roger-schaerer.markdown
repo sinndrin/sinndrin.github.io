@@ -14,6 +14,10 @@ image: /images/ueber-uns/team/roger.png
 ---
 Ich entwickle gerne neue Projekte im Nach&shy;hal&shy;tig&shy;keits&shy;be&shy;reich. Ich liebe es, Menschen zu Vernetzen die gemeinsam sinnvolle Projekte umsetzen.
 
+## Mein persönliches Angebot: Unterstützung, Gesellschaft und Tagesbegleitung
+
+Anfangs 2018 habe ich in Männedorf mein neues Angebot [Unterstützung, Gesellschaft und Tagesbegleitung](https://www.uru.ch/) gestartet.
+
 Ausbildungen:
 
 - Bachelor of Science ZFH in **Umweltingenieurwesen** mit Vertiefungen in "Umweltbildung" und "nachwachsende Rohstoffe und erneuerbare Energien".
