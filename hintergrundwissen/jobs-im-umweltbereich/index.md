@@ -24,9 +24,9 @@ title:  "Jobs im Umweltbereich"
       <li><a href="http://naturschutz.ch/jobs">naturschutz.ch</a></li>
       <li><a href="http://www.service-umwelt.ch/de/Stellenmarkt/">Service Umwelt</a></li>
       <li><a href="https://www.umweltprofis-jobs.ch">Umweltprofis-Jobs.ch</a></li>
-      <li><a href="http://www.agroverde.ch/stellenangebote">agroverde</a></li>
+      <li><a href="https://www.agroverde.ch/stellenangebote">agroverde</a></li>
       <li><a href="https://www.alumni-hafl.bfh.ch/stellen.html">Allumniorganisation BFH HAFL</a></li>
-      <li><a href="http://www.npo-jobs.ch/">npo-jobs</a></li>
+      <li><a href="https://www.npo-jobs.ch/">npo-jobs</a></li>
     </ul>
     <h2>Private Arbeitgeber und NGO's</h2>
     <ul>
