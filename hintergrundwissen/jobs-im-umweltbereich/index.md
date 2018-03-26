@@ -103,16 +103,16 @@ title:  "Jobs im Umweltbereich"
      <h2>Verbände im Bereich alternativer Energien</h2>
     <ul>
       <li><a href="http://www.infrawatt.ch/">InfraWatt</a></li>
-      <li><a href="http://vbsa.ch/">Verband der Betreiber Schweizerischer Abfallverwertungsanlagen</a></li>
+      <li><a href="http://vbsa.ch/">VBSA Verband der Betreiber Schweizerischer Abfallverwertungsanlagen</a></li>
       <li><a href="https://www.fernwaerme-schweiz.ch">Fernwärme Schweiz</a></li>
-      <li><a href="http://www.svgw.ch/">Schweizerischer Verein des Gas- und Wasserfaches</a></li>
-      <li><a href="http://www.suisse-eole.ch">Vereinigung zur Förderung der Windenergie in der Schweiz</a></li>
+      <li><a href="http://www.svgw.ch/">SVGW Schweizerischer Verein des Gas- und Wasserfaches</a></li>
+      <li><a href="http://www.suisse-eole.ch">eole Vereinigung zur Förderung der Windenergie in der Schweiz</a></li>
       <li><a href="http://www.holzenergie.ch">Holz Energie</a></li>
       <li><a href="http://www.swissolar.ch/">Swissolar</a></li>
-      <li><a href="https://swissmallhydro.ch">klein Wasserkraft</a></li>
-      <li><a href="https://www.swv.ch/">Schweizerischer Wasserwirtschafts Verband</a></li>
+      <li><a href="https://swissmallhydro.ch">Kleinwasserkraft</a></li>
+      <li><a href="https://www.swv.ch/">SWV Schweizerischer Wasserwirtschafts Verband</a></li>
       <li><a href="http://geothermie-schweiz.ch/">Geothermie Schweiz</a></li>
-      <li><a href="https://www.biomassesuisse.ch/">Biomasse</a></li>
+      <li><a href="https://www.biomassesuisse.ch/">Biomasse Suisse</a></li>
       <li><a href="https://www.waermekraftkopplung.ch/">Wärmekraftkopplung</a></li>
     </ul>
      <h2>Noch mehr mit Sinn!</h2>
