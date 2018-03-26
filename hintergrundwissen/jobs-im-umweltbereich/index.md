@@ -57,7 +57,7 @@ title:  "Jobs im Umweltbereich"
       <li><a href="http://sozialinfo-stellen.ch">Grün im sozialen Bereich?</a></li>
 
       <li><a href="https://www.zhaw.ch/de/jobs/offene-stellen/">Zürcher Hochschule ZHAW</a></li>
-      <li><a href="http://internet1.refline.ch/655298/search.html?lang=de">Fachhochschule Nordwestschweiz FHNW</a></li>
+      <li><a href="https://www.fhnw.ch/de/karriere">Fachhochschule Nordwestschweiz FHNW</a></li>
       <li><a href="https://www.bfh.ch/de/bfh/stellenangebote.html?no_cache=1">Berner Hochschule</a></li>
       <li><a href="https://emploi.epfl.ch/en">Hochschule Lausanne EPFL</a></li>
       <li><a href="https://www.hes-so.ch/de/jobs-hes-so-1147.html">Fachhochschule Westschweiz HES-SO</a></li>
