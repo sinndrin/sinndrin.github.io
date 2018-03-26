@@ -24,7 +24,6 @@ title:  "Jobs im Umweltbereich"
       <li><a href="http://naturschutz.ch/jobs">naturschutz.ch</a></li>
       <li><a href="http://www.service-umwelt.ch/de/Stellenmarkt/">Service Umwelt</a></li>
       <li><a href="https://www.umweltprofis-jobs.ch">Umweltprofis-Jobs.ch</a></li>
-      <li><a href="https://www.jobagent.ch/component/jobagent/category/BrancheUmwelttechnik.html">Umwelttechnik-Branche bei Jobagent</a></li>
       <li><a href="hhttp://www.agroverde.ch/">agroverde</a></li>
       <li><a href="https://www.alumni-hafl.bfh.ch/stellen.html">Allumniorganisation BFH HAFL</a></li>
       <li><a href="www.npo-jobs.ch">npo-jobs</a></li>
