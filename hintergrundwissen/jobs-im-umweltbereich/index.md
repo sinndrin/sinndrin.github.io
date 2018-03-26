@@ -49,13 +49,12 @@ title:  "Jobs im Umweltbereich"
       <li><a href="http://www.wwf.ch/de/ueberuns/jobs/">WWF Schweiz, Stellen und Praktika</a></li>  
       <li><a href="http://www.birdlife-zuerich.ch/wir-ueber-uns/offene-stellen/">ZTS/BirdLife</a></li>
     </ul>
-    <h2>lehren und forschen im grünen Bereich</h2>
+    <h2>Lehren und forschen im grünen Bereich</h2>
     <ul>
       <li><a href="http://www.feuervogel.ch/presse/jobboerse/">Feuervogel</a></li>
       <li><a href="http://www.education21.ch/de/aktualitaet/stellen">education21</a></li>
       <li><a href="https://job.educa.ch">educa</a></li>
       <li><a href="http://sozialinfo-stellen.ch">Grün im sozialen Bereich?</a></li>
-
       <li><a href="https://www.zhaw.ch/de/jobs/offene-stellen/">Zürcher Hochschule ZHAW</a></li>
       <li><a href="https://www.fhnw.ch/de/karriere">Fachhochschule Nordwestschweiz FHNW</a></li>
       <li><a href="https://www.bfh.ch/de/bfh/stellenangebote.html?no_cache=1">Berner Hochschule</a></li>
@@ -124,6 +123,6 @@ title:  "Jobs im Umweltbereich"
   </div>
 
   <div class="hide-for-small-only medium-4 large-4 columns">
-    <a href="/angebote/fairphone-2/kaufen/"><img title="Fairphone" src="/images/angebote/fairphone/fairphone-jobs-im-umweltbereich-fuer-dein-bewerbungsgespraech-hochformat.jpg"></a>
+    <a href="https://www.sinndrin-shop.ch/fairphone-2/3/fairphone-2"><img title="Fairphone" src="/images/angebote/fairphone/fairphone-jobs-im-umweltbereich-fuer-dein-bewerbungsgespraech-hochformat.jpg"></a>
   </div>
 </div>
