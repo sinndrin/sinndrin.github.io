@@ -1,6 +1,5 @@
 # www.robotstxt.org/
 
 User-agent: *
-Allow: /
-
+Disallow:
 Disallow: /angebote/fairphone/support-und-hilfe/anmeldebestaetigung/
