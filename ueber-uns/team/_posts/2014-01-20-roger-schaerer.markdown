@@ -18,6 +18,8 @@ Ich entwickle gerne neue Projekte im Nach&shy;hal&shy;tig&shy;keits&shy;be&shy;r
 
 Anfangs 2018 habe ich in Männedorf mein neues Angebot [Unterstützung, Gesellschaft und Tagesbegleitung](https://www.uru.ch/) gestartet.
 
+<a href="https://www.uru.ch/" class="button big expand"><i class="fi-arrow-right"></i> Erfahren Sie hier mehr über mein Angebot</a>
+
 Ausbildungen:
 
 - Bachelor of Science ZFH in **Umweltingenieurwesen** mit Vertiefungen in "Umweltbildung" und "nachwachsende Rohstoffe und erneuerbare Energien".
