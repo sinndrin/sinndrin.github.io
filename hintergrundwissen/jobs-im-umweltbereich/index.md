@@ -9,7 +9,7 @@ title:  "Jobs im Umweltbereich"
     <p>Weitere Stellenseiten werden gerne in die Liste <a href="/ueber-uns/kontakt/">aufgenommen</a>. Ebenso sind <a href="/ueber-uns/kontakt/">Aktualisierungen und Hinweise über verwaiste Links erwünscht</a>.</p>
 
     <div class="show-for-small-only columns">
-      <a href="/angebote/fairphone-2/kaufen/"><img style="border: 1px solid grey; padding:4px; margin-bottom: 10px;" title="Fairphone" src="/images/angebote/fairphone/fairphone-jobs-im-umweltbereich-fuer-dein-bewerbungsgespraech-querformat.jpg"></a>
+      <a href="https://wemakeit.com/projects/kopfkissenbuch"><img style="border: 1px solid grey; padding:4px; margin-bottom: 10px;" title="Kopfkissenbuch" src="/images/ad_jobsite_landscape.jpg"></a>
     </div>
 
     <h2>grüne Stellenbörsen</h2>
@@ -123,6 +123,6 @@ title:  "Jobs im Umweltbereich"
   </div>
 
   <div class="hide-for-small-only medium-4 large-4 columns">
-    <a href="https://www.sinndrin-shop.ch/fairphone-2/3/fairphone-2"><img title="Fairphone" src="/images/angebote/fairphone/fairphone-jobs-im-umweltbereich-fuer-dein-bewerbungsgespraech-hochformat.jpg"></a>
+    <a href="https://wemakeit.com/projects/kopfkissenbuch"><img title="Kopfkissenbuch" src="/images/ad_jobsite_portrait.jpg"></a>
   </div>
 </div>
