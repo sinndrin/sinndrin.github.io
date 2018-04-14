@@ -16,7 +16,7 @@ Ich entwickle gerne neue Projekte im Nach&shy;hal&shy;tig&shy;keits&shy;be&shy;r
 
 ## Mein persönliches Angebot: Unterstützung, Gesellschaft und Tagesbegleitung
 
-Anfangs 2018 habe ich in Männedorf mein neues Angebot [Unterstützung, Gesellschaft und Tagesbegleitung](https://www.uru.ch/) gestartet.
+Anfang 2018 habe ich in Männedorf mein persönliches Angebot [Unterstützung, Gesellschaft und Tagesbegleitung](https://www.uru.ch/) gestartet.
 
 <a href="https://www.uru.ch/" class="button big expand"><i class="fi-arrow-right"></i> Erfahren Sie hier mehr über mein Angebot</a>
 
