@@ -4,7 +4,7 @@ title:  "Jobs im Umweltbereich"
 ---
 <div class="row">
   <div class="small-12 medium-8 large-8 columns">
-    <p>Eine Linksammlung zu Stellenbörsen und Direktlinks zu Arbeitgebern im grünen Bereich in der Region Schweiz und Zürich. Weiter sind Institutionen aufgeführt, die Forschung und Lehre im grünen Bereich betreiben. Auch haben wir einige grosse öffentliche Arbeitgeber aufgezählt, die Umweltämter haben. Am Ende der Linksammlung sind Netzwerke und Verbände aufgezählt, die sich für nachhaltige Entwicklung oder alternative Energien stark machen. </p>
+    <p>Eine Linksammlung zu Stellenbörsen und Direktlinks zu Arbeitgebern im grünen Bereich in der Region Schweiz und Zürich. Weiter sind Institutionen aufgeführt, die Forschung und Lehre im grünen Bereich betreiben. Auch haben wir einige grosse öffentliche Arbeitgeber aufgezählt, die Umweltämter haben. Danach folgen alternative Finanzinstitute. Am Ende der Linksammlung sind Netzwerke und Verbände aufgezählt, die sich für nachhaltige Entwicklung oder alternative Energien stark machen. </p>
 
     <p>Weitere Stellenseiten werden gerne in die Liste <a href="/ueber-uns/kontakt/">aufgenommen</a>. Ebenso sind <a href="/ueber-uns/kontakt/">Aktualisierungen und Hinweise über verwaiste Links erwünscht</a>.</p>
 
@@ -12,7 +12,7 @@ title:  "Jobs im Umweltbereich"
       <a href="https://wemakeit.com/projects/kopfkissenbuch"><img style="border: 1px solid grey; padding:4px; margin-bottom: 10px;" title="Kopfkissenbuch" src="/images/ad_jobsite_landscape.jpg"></a>
     </div>
 
-    <h2>grüne Stellenbörsen</h2>
+    <h2>Grüne Stellenbörsen</h2>
     <ul>
       <li><a target="_blank" href="https://nachhaltige-jobs.ch/">nachhaltige-jobs.ch</a></li>
       <li><a target="_blank" href="https://www.umweltnetz-schweiz.ch/jobs.html">umweltnetz-schweiz</a></li>
@@ -89,28 +89,37 @@ title:  "Jobs im Umweltbereich"
       <li><a target="_blank" href="https://www.bafu.admin.ch/bafu/de/home/amt/offene-stellen-des-bafu.html">Bundesamt für Umwelt BAFU</a></li>
       <li><a target="_blank" href="https://www.publicjobs.ch">öffentliche Stellen</a></li>
     </ul>
+    <h2>Grün Investiert</h2>
+    <ul>
+      <li><a target="_blank" href="https://www.abs.ch/de/ueber-die-abs/mitarbeiten/offene-stellen/">Alternative Bank Schweiz</a></li>
+      <li><a target="_blank" href="https://www.gemeinschaftsbank.ch/unsere-bank/offene-stellen">Freie Gemeinschaftsbank</a></li>
+      <li><a target="_blank" href="http://www.gepabu.ch/index.php/de/kontakt">GEPABU Personalvorsorgestiftung</a></li>
+      <li><a target="_blank" href="https://www.nest-info.ch/aktuell/stellenangebot/">Nest Sammelstiftung Pensionskasse</a></li>
+      <li><a target="_blank" href="https://de.oikocredit.ch/">OIKO Credit</a></li>
+      <li><a target="_blank" href="https://www.abendrot.ch/ueber-uns/jobs/">Stiftung Abendrot Pensionskasse</a></li>
+    </ul>
      <h2>Nachhaltige Netzwerke</h2>
     <ul>
       <li><a target="_blank" href="https://cooperativesuisse.ch/">cooperativeSuisse</a></li>
-      <li><a target="_blank" href="http://schweiz.gwoe.net/">Gemeinwohl-Ökonomie Schweiz</a></li>
-      <li><a target="_blank" href="https://www.umweltnetz-schweiz.ch">umweltnetz-schweiz</a></li>
-      <li><a target="_blank" href="http://www.transition-zuerich.ch/">Transition Zürich</a></li>
-      <li><a target="_blank" href="http://www.integrale-politik.ch/">IP Schweiz</a></li>
       <li><a target="_blank" href="https://www.energieschweiz.ch">energie schweiz</a></li>
+      <li><a target="_blank" href="http://schweiz.gwoe.net/">Gemeinwohl-Ökonomie Schweiz</a></li>
+      <li><a target="_blank" href="http://www.integrale-politik.ch/">IP Schweiz</a></li>
+      <li><a target="_blank" href="http://www.transition-zuerich.ch/">Transition Zürich</a></li>
+      <li><a target="_blank" href="https://www.umweltnetz-schweiz.ch">umweltnetz-schweiz</a></li>
     </ul>
      <h2>Verbände im Bereich alternativer Energien</h2>
     <ul>
-      <li><a target="_blank" href="http://www.infrawatt.ch/">InfraWatt</a></li>
-      <li><a target="_blank" href="http://vbsa.ch/">VBSA Verband der Betreiber Schweizerischer Abfallverwertungsanlagen</a></li>
-      <li><a target="_blank" href="https://www.fernwaerme-schweiz.ch">Fernwärme Schweiz</a></li>
-      <li><a target="_blank" href="http://www.svgw.ch/">SVGW Schweizerischer Verein des Gas- und Wasserfaches</a></li>
-      <li><a target="_blank" href="http://www.suisse-eole.ch">eole Vereinigung zur Förderung der Windenergie in der Schweiz</a></li>
-      <li><a target="_blank" href="http://www.holzenergie.ch">Holz Energie</a></li>
-      <li><a target="_blank" href="http://www.swissolar.ch/">Swissolar</a></li>
-      <li><a target="_blank" href="https://swissmallhydro.ch">Kleinwasserkraft</a></li>
-      <li><a target="_blank" href="https://www.swv.ch/">SWV Schweizerischer Wasserwirtschafts Verband</a></li>
-      <li><a target="_blank" href="http://geothermie-schweiz.ch/">Geothermie Schweiz</a></li>
       <li><a target="_blank" href="https://www.biomassesuisse.ch/">Biomasse Suisse</a></li>
+      <li><a target="_blank" href="http://www.suisse-eole.ch">eole Vereinigung zur Förderung der Windenergie in der Schweiz</a></li>
+      <li><a target="_blank" href="https://www.fernwaerme-schweiz.ch">Fernwärme Schweiz</a></li>
+      <li><a target="_blank" href="http://geothermie-schweiz.ch/">Geothermie Schweiz</a></li>
+      <li><a target="_blank" href="http://www.holzenergie.ch">Holz Energie</a></li>
+      <li><a target="_blank" href="http://www.infrawatt.ch/">InfraWatt</a></li>
+      <li><a target="_blank" href="https://swissmallhydro.ch">Kleinwasserkraft</a></li>
+      <li><a target="_blank" href="http://www.svgw.ch/">SVGW Schweizerischer Verein des Gas- und Wasserfaches</a></li>
+      <li><a target="_blank" href="http://www.swissolar.ch/">Swissolar</a></li>
+      <li><a target="_blank" href="https://www.swv.ch/">SWV Schweizerischer Wasserwirtschafts Verband</a></li>
+      <li><a target="_blank" href="http://vbsa.ch/">VBSA Verband der Betreiber Schweizerischer Abfallverwertungsanlagen</a></li>
       <li><a target="_blank" href="https://www.waermekraftkopplung.ch/">Wärmekraftkopplung</a></li>
     </ul>
      <h2>Noch mehr mit Sinn!</h2>
