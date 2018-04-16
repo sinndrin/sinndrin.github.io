@@ -14,19 +14,19 @@ title:  "Jobs im Umweltbereich"
 
     <h2>Grüne Stellenbörsen</h2>
     <ul>
-      <li><a target="_blank" href="https://nachhaltige-jobs.ch/">nachhaltige-jobs.ch</a></li>
-      <li><a target="_blank" href="https://www.umweltnetz-schweiz.ch/jobs.html">umweltnetz-schweiz</a></li>
+      <li><a target="_blank" href="https://www.agroverde.ch/stellenangebote">agroverde</a></li>
+      <li><a target="_blank" href="https://www.alumni-hafl.bfh.ch/stellen.html">Allumniorganisation BFH HAFL</a></li>
       <li><a target="_blank" href="http://www.arban.ch/stellen/stellen.php?typ=10&category=4000">Arban Personal</a></li>
       <li><a target="_blank" href="http://www.careerjet.ch/umwelt-jobs.html">careerjet</a></li>
+      <li><a target="_blank" href="https://nachhaltige-jobs.ch/">nachhaltige-jobs.ch</a></li>
       <li><a target="_blank" href="http://jardinsuisse.ch/de/service/dienstleistungen/stellenborse/">Jardin Suisse</a></li>
       <li><a target="_blank" href="https://ch.jooble.org/jobs-umwelt-">Jooble</a></li>
       <li><a target="_blank" href="http://kampajobs.ch/">kampajobs des kampagnenforum</a></li>
       <li><a target="_blank" href="http://naturschutz.ch/jobs">naturschutz.ch</a></li>
-      <li><a target="_blank" href="http://www.service-umwelt.ch/de/Stellenmarkt/">Service Umwelt</a></li>
-      <li><a target="_blank" href="https://www.umweltprofis-jobs.ch">Umweltprofis-Jobs.ch</a></li>
-      <li><a target="_blank" href="https://www.agroverde.ch/stellenangebote">agroverde</a></li>
-      <li><a target="_blank" href="https://www.alumni-hafl.bfh.ch/stellen.html">Allumniorganisation BFH HAFL</a></li>
       <li><a target="_blank" href="https://www.npo-jobs.ch/">npo-jobs</a></li>
+      <li><a target="_blank" href="http://www.service-umwelt.ch/de/Stellenmarkt/">Service Umwelt</a></li>
+      <li><a target="_blank" href="https://www.umweltnetz-schweiz.ch/jobs.html">umweltnetz-schweiz</a></li>
+      <li><a target="_blank" href="https://www.umweltprofis-jobs.ch">Umweltprofis-Jobs.ch</a></li>   
     </ul>
     <h2>Private Arbeitgeber und NGO's</h2>
     <ul>
@@ -51,22 +51,22 @@ title:  "Jobs im Umweltbereich"
     </ul>
     <h2>Lehren und forschen im grünen Bereich</h2>
     <ul>
-      <li><a target="_blank" href="http://www.feuervogel.ch/presse/jobboerse/">Feuervogel</a></li>
-      <li><a target="_blank" href="http://www.education21.ch/de/aktualitaet/stellen">education21</a></li>
-      <li><a target="_blank" href="https://job.educa.ch">educa</a></li>
-      <li><a target="_blank" href="http://sozialinfo-stellen.ch">Grün im sozialen Bereich?</a></li>
-      <li><a target="_blank" href="https://www.zhaw.ch/de/jobs/offene-stellen/">Zürcher Hochschule ZHAW</a></li>
-      <li><a target="_blank" href="https://www.fhnw.ch/de/karriere">Fachhochschule Nordwestschweiz FHNW</a></li>
       <li><a target="_blank" href="https://www.bfh.ch/de/bfh/stellenangebote.html?no_cache=1">Berner Hochschule</a></li>
-      <li><a target="_blank" href="https://emploi.epfl.ch/en">Hochschule Lausanne EPFL</a></li>
+      <li><a target="_blank" href="https://job.educa.ch">educa</a></li>
+      <li><a target="_blank" href="http://www.education21.ch/de/aktualitaet/stellen">education21</a></li>
+      <li><a target="_blank" href="https://www.ethz.ch/de/die-eth-zuerich/arbeiten-lehren-forschen/jobs.html">ETH Zürich</a></li>
+      <li><a target="_blank" href="https://www.fhnw.ch/de/karriere">Fachhochschule Nordwestschweiz FHNW</a></li>
       <li><a target="_blank" href="https://www.hes-so.ch/de/jobs-hes-so-1147.html">Fachhochschule Westschweiz HES-SO</a></li>
+      <li><a target="_blank" href="http://www.feuervogel.ch/presse/jobboerse/">Feuervogel</a></li>
+      <li><a target="_blank" href="http://sozialinfo-stellen.ch">Grün im sozialen Bereich?</a></li>
+      <li><a target="_blank" href="https://emploi.epfl.ch/en">Hochschule Lausanne EPFL</a></li>
       <li><a target="_blank" href="https://www.hslu.ch/de-ch/hochschule-luzern/ueber-uns/offene-stellen/">Hochschule Luzern HSLU</a></li>
       <li><a target="_blank" href="http://www.supsi.ch/home/supsi/lavora-con-noi.html">SUPSI</a></li>
-      <li><a target="_blank" href="https://www.ethz.ch/de/die-eth-zuerich/arbeiten-lehren-forschen/jobs.html">ETH Zürich</a></li>
       <li><a target="_blank" href="http://www.unibe.ch/universitaet/arbeitgeberin/stellenangebote/index_ger.html">Uni Bern</a></li>
       <li><a target="_blank" href="http://www3.unifr.ch/sp/en/">Uni Freiburg</a></li>
       <li><a target="_blank" href="https://www.unige.ch/dife/emploi/">Uni Genf</a></li>
       <li><a target="_blank" href="http://www.uzh.ch/de/studies/studentlife/vacancies.html">Uni Zürich</a></li>
+      <li><a target="_blank" href="https://www.zhaw.ch/de/jobs/offene-stellen/">Zürcher Hochschule ZHAW</a></li>
     </ul>
     <h2>Gemeinde, Kanton und Bund</h2>
     <ul>
