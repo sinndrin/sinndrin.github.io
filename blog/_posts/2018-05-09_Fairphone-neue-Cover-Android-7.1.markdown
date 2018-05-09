@@ -10,7 +10,7 @@ comments: true
 tags:
  - Jonas Leimgruber
 ---
-<h2>Neue Covers - Lass dein Telefon für sich selbst sprechen!</h2>
+<h1>Neue Covers - Lass dein Telefon für sich selbst sprechen!</h1>
 
 Ein Handy, bei dem die inneren Werte zählen. Das Fairphone 2 ist ethisch korrekt, modular und ganz auf dich eingestellt.
 Beim Fairphone 2 hat jedes Teil seine eigene Geschichte. Deck‘ sie auf mit einem der neuen Cover „Transparent“ oder „Schwarz durchsichtig“ und zeige das Innenleben des Fairphone 2 noch besser als bisher.
