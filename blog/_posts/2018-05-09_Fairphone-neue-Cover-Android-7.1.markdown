@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Fairphone 2 – Neue Transparente Covers und Android 7.1 "Nougat""
+title: "Fairphone 2 – Neue Transparente Covers und Android 7.1 Nougat"
 subtitle: "Lass dein Telefon für sich selbst sprechen"
 image: /images/blog/Blog-neue-Covers-Android7.png
 date: 2018-05-09 15:00:00
@@ -10,7 +10,7 @@ comments: true
 tags:
  - Jonas Leimgruber
 ---
-<h1>Neue Covers - Lass dein Telefon für sich selbst sprechen!</h1>
+<h3>Neue Covers - Lass dein Telefon für sich selbst sprechen!</h3>
 
 Ein Handy, bei dem die inneren Werte zählen. Das Fairphone 2 ist ethisch korrekt, modular und ganz auf dich eingestellt.
 Beim Fairphone 2 hat jedes Teil seine eigene Geschichte. Deck‘ sie auf mit einem der neuen Cover „Transparent“ oder „Schwarz durchsichtig“ und zeige das Innenleben des Fairphone 2 noch besser als bisher.
