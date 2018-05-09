@@ -3,8 +3,8 @@ layout: blog
 title: "Die sinndrin genossenschaft an der Afropfingsten in Winterthur"
 subtitle: "Komm uns doch besuchen"
 image: /images/blog/sinndrin-goes-afropfingsten.jpg
-date: 2018-05-09 15:00:00
-published: false
+date: 2018-05-11 15:00:00
+published: true
 categories: blog
 comments: true
 tags:
