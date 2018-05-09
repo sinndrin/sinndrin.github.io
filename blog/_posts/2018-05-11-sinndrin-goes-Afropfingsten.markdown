@@ -11,4 +11,4 @@ tags:
  - Raphael Hagmann
 ---
 
-Die sinndrin genossenschaft stellt das Fairphone an der Afropfingsten in Winterthur aus. Wir sind von Freitag bis Samstag (18.5- 19.5) am Stand F001 auf dem Kirchplatz präsent. Gerne erzählen wir euch [spannende Neuigkeiten rund ums Fairphone 2](https://www.sinndrin.ch/blog/2018/05/09/Fairphone-neue-Cover-Android-7.1/) und was sich sonst so bei uns tut.
+Die sinndrin genossenschaft stellt das Fairphone an der Afropfingsten in Winterthur aus. Wir sind von Freitag bis Samstag (18.5- 19.5.18) am Stand F001 auf dem Kirchplatz präsent. Gerne erzählen wir euch [spannende Neuigkeiten rund ums Fairphone 2](https://www.sinndrin.ch/blog/2018/05/09/Fairphone-neue-Cover-Android-7.1/) und was sich sonst so bei uns tut.
