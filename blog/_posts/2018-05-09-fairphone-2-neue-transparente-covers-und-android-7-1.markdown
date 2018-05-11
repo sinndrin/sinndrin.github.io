@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Fairphone 2 – Neue Transparente Covers und Android 7.1 Nougat"
+title: "Fairphone 2 - Neue transparente Covers und Android 7.1 Nougat"
 subtitle: "Lass dein Telefon für sich selbst sprechen"
 image: /images/blog/Blog-neue-Covers-Android7.png
 date: 2018-05-09 15:00:00
