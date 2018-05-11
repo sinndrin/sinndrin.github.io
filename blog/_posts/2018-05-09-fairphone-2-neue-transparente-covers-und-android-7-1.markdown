@@ -18,5 +18,6 @@ Sowohl die [neuen Covers](https://www.sinndrin-shop.ch/zubehoer-und-ersatzteile/
 
 <h3>Gute Neuigkeiten gibt es auch bei der Software: dem Android Betriebssystem - Ab diesem Sommer kommt Android 7.1 "Nougat" für dein Fairphone!</h3>
 
-Momentan arbeitet Fairphone hart daran, in diesem Sommer Android 7.1 "Nougat" den bestehenden und neuen Fairphone 2-Nutzern zur Verfügung zu stellen. Dies ist entscheidend um weiterhin monatliche Sicherheitsupdates und Patches bereitstellen zu können. Android 7 bringt auch die neue Funktion "Doze-Modus 2.0", eine Funktion, die darauf abzielt, die Akkulaufzeit zu verlängern, indem inaktive Apps in den Standby-Modus versetzt werden.
+Momentan arbeitet Fairphone hart daran, in diesem Sommer Android 7.1 "Nougat" den bestehenden und neuen Fairphone 2-Nutzern zur Verfügung zu stellen. Dies ist entscheidend um weiterhin monatliche Sicherheitsupdates und Patches bereitstellen zu können. Android 7 bringt auch die neue Funktion "Doze-Modus 2.0" mit, die darauf abzielt, die Akkulaufzeit zu verlängern indem inaktive Apps in den Standby-Modus versetzt werden.
+
 Mehr Informationen sind auf der [Fairphone-Website](https://www.fairphone.com/de/2018/05/08/keeping-your-phone-longer-with-a-refresh-on-the-inside-and-out/) nachzulesen.
