@@ -21,3 +21,14 @@ Sowohl die [neuen Covers](https://www.sinndrin-shop.ch/zubehoer-und-ersatzteile/
 Momentan arbeitet Fairphone hart daran, in diesem Sommer Android 7.1 "Nougat" den bestehenden und neuen Fairphone 2-Nutzern zur Verfügung zu stellen. Dies ist entscheidend um weiterhin monatliche Sicherheitsupdates und Patches bereitstellen zu können. Android 7 bringt auch die neue Funktion "Doze-Modus 2.0" mit, die darauf abzielt, die Akkulaufzeit zu verlängern indem inaktive Apps in den Standby-Modus versetzt werden.
 
 Mehr Informationen sind auf der [Fairphone-Website](https://www.fairphone.com/de/2018/05/08/keeping-your-phone-longer-with-a-refresh-on-the-inside-and-out/) nachzulesen.
+
+**❣️ Wenn du gerade elektronisch am soicalizen bist, hilf uns bitte das zu streuen indem du unsere social media posts teilst:**
+
+[✈️ Telegram](https://t.me/sinndrin/29)
+
+<script async src="https://telegram.org/js/telegram-widget.js?4" data-telegram-post="sinndrin/29" data-width="100%"></script>
+
+
+[🐼 Facebook](https://www.facebook.com/sinndrin/photos/a.1804742603077092.1073741830.1392582140959809/2075444829340200/?type=3)
+
+[🐦 Twitter](https://twitter.com/sinndrin/status/994910776535248896)
