@@ -16,7 +16,7 @@ Ein Handy, bei dem die inneren Werte zählen. Das Fairphone 2 ist ethisch korrek
 Beim Fairphone 2 hat jedes Teil seine eigene Geschichte. Deck‘ sie auf mit einem der neuen Cover "Transparent" oder "Schwarz durchsichtig" und zeige das Innenleben des Fairphone 2 noch besser als bisher.
 Sowohl die [neuen Covers](https://www.sinndrin-shop.ch/zubehoer-und-ersatzteile/), als auch die [Telefone mit den neuen Covers](https://www.sinndrin-shop.ch/fairphone-2/3/fairphone-2?c=10) können in unserem [Shop](https://www.sinndrin-shop.ch/home/) bestellt werden und voraussichtlich ab dem 16. Mai versendet werden.
 
-<h3>Gute Neuigkeiten gibt es auch bei der Software: dem Android Betriebssystem - Ab diesem Sommer kommt Android 7.1 "Nougat" für dein Fairphone!</h3>
+<h3>Gute Neuigkeiten gibt es auch bei der Software: dem Android Betriebssystem - Ab diesem Sommer kommt Android 7.1.2 "Nougat" für dein Fairphone!</h3>
 
 Momentan arbeitet Fairphone hart daran, in diesem Sommer Android 7.1.2 "Nougat" den bestehenden und neuen Fairphone 2-Nutzern zur Verfügung zu stellen. Dies ist entscheidend um weiterhin monatliche Sicherheitsupdates und Patches bereitstellen zu können. Android 7 bringt auch die neue Funktion "Doze-Modus 2.0" mit, die darauf abzielt, die Akkulaufzeit zu verlängern indem inaktive Apps in den Standby-Modus versetzt werden.
 
