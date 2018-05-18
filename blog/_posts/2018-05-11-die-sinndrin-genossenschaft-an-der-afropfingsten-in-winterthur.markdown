@@ -19,4 +19,4 @@ Die sinndrin genossenschaft stellt das Fairphone 2 an der Afropfingsten in Winte
 
 <img src="/images/blog/IMG_20180518_133137.jpg" alt="Die sinndrin genossenschaft an der Afropfnigsten 2018" />
 
-<img src="/images/blog/IMG_20180518_133139.jpg" alt="Die sinndrin genossenschaft an der Afropfnigsten 2018" />
+<img src="/images/blog/IMG_20180518_145702.jpg" alt="Die sinndrin genossenschaft an der Afropfnigsten 2018" />
