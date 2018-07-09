@@ -35,7 +35,7 @@ title:  "Jobs im Umweltbereich"
       <li><a target="_blank" href="http://www.birdlife-zuerich.ch/wir-ueber-uns/offene-stellen/">BirdLife Zürich</a></li>
       <li><a target="_blank" href="http://www.cipra.org/de/stellen">CIPRA International</a></li>
       <li><a target="_blank" href="http://www.econcept.ch/de/portrait/offene-stellen.html">econcept AG</a></li>
-      <li><a target="_blank" href="https://filmefuerdieerde.org/unterstuetze-uns/mitarbeit">Filme für die Erde</a></li>
+      <li><a target="_blank" href="https://filmsfortheearth.org/de/unterstuetze-uns/mitarbeit">Filme für die Erde</a></li>
       <li><a target="_blank" href="http://www.greenpeace.org/switzerland/de/Uber-uns/Jobs/">Greenpeace Schweiz, Stellen und Praktika</a></li>
       <li><a target="_blank" href="https://www.maxhavelaar.ch/was-ist-fairtrade/max-havelaar/jobs.html">Max Havelaar-Stiftung</a></li>
       <li><a target="_blank" href="http://www.naturnetz.ch/naturnetz/stellen/">Naturnetz</a></li>
