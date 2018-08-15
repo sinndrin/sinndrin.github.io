@@ -14,14 +14,3 @@ tags:
 Neu ist in unserem online Shop [die faire Maus](https://www.sinndrin-shop.ch/home/22/die-faire-maus/) zu finden. Die Firma Nager-IT aus Deutschland hat eine Computermaus entwickelt die aus möglichst fair gewonnen Rohstoffen besteht, zu möglichst fairen Arbeitsbedingungen gefertigt und deren Lieferketten so weit als möglich transparent aufgeschlüsselt wurden.
 Die faire Maus ist dreitastig und besitzt ein Scrollrad aus Buchenholz wobei die Scrollradachse aus Birkenholz gemacht ist. Das schwarze Gehäuse ist aus einem auf Zuckerrohr basierendem Biokunststoff gefertigt. Die faire Maus kann in unserem [Shop](https://www.sinndrin-shop.ch/home/22/die-faire-maus/) bestellt werden, wo auch die technischen Spezifikationen, sowie weiterführende Links zur Lieferkette und der tollen Nager-It Story zu finden sind.
 
-
-**❣️ Wenn du gerade elektronisch am soicalizen bist, hilf uns bitte das zu streuen indem du unsere social media posts teilst:**
-
-[✈️ Telegram](https://t.me/sinndrin/29)
-
-<script async src="https://telegram.org/js/telegram-widget.js?4" data-telegram-post="sinndrin/29" data-width="100%"></script>
-
-
-[🐼 Facebook](https://www.facebook.com/sinndrin/photos/a.1804742603077092.1073741830.1392582140959809/2075444829340200/?type=3)
-
-[🐦 Twitter](https://twitter.com/sinndrin/status/994910776535248896)
