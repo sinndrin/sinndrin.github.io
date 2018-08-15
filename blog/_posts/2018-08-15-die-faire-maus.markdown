@@ -3,7 +3,7 @@ layout: blog
 title: "Hier kommt die Maus!"
 subtitle: "Die Faire Maus - die faire Alternative!"
 image: /images/blog/faire-maus-blog.jpg
-date: 2018-08-14 15:00:00
+date: 2018-08-15 15:00:00
 published: true
 categories: blog
 comments: true
