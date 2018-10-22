@@ -19,11 +19,14 @@ title:  "Kontakt"
 <div class="row">
   <div class=" large-6 columns">
   <p>
+  <b>Reparaturadresse</b><br>
+  sinndrin genossenschaft<br>
+  Bahnstrasse 17<br>
+  CH-8400 Winterthur<br></a>
+  Korrespondenzadresse<br>
   <b>sinndrin genossenschaft</b><br>
-  c/o Z11 Büro Atelier<br>
-  <a href="#" data-reveal-id="addressModal">Zunstrasse 11<br>
-  CH-8152 Glattbrugg<br></a>
-  <i class="fi-telephone"></i> 044 534 64 54<br>
+  Zürcherstrasse 54<br>
+  CH-5432 Neuenho<br></a>
   <a href="mailto:info@sinndrin.ch"><i class="fi-mail"></i> info@sinndrin.ch</a><br>
   <a href="/ueber-uns/spieleabend/"><i class="fi-puzzle"></i> Persönliches Kennenlernen an einem unserer Spieleabende</a><br><br>
   <b>Fairphone Support:</b><br><a href="https://support.sinndrin.org/de"><i class="fi-page-multiple"></i> Fairphone Support Seite</a><br><a href="mailto:support@sinndrin.ch"><i class="fi-mail"></i> support@sinndrin.ch</a><br><br>
