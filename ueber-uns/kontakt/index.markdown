@@ -23,8 +23,8 @@ title:  "Kontakt"
   sinndrin genossenschaft<br>
   Bahnstrasse 17<br>
   CH-8400 Winterthur<br></a>
-  Korrespondenzadresse<br>
-  <b>sinndrin genossenschaft</b><br>
+  <b>Korrespondenzadresse</b><br>
+  sinndrin genossenschaft<br>
   Zürcherstrasse 54<br>
   CH-5432 Neuenho<br></a>
   <a href="mailto:info@sinndrin.ch"><i class="fi-mail"></i> info@sinndrin.ch</a><br>
