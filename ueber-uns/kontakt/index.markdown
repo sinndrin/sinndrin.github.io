@@ -19,14 +19,15 @@ title:  "Kontakt"
 <div class="row">
   <div class=" large-6 columns">
   <p>
-  <b>Reparaturadresse</b><br>
+  <b>Reparaturadresse für Fairphone Sendungen</b><br>
   sinndrin genossenschaft<br>
   Bahnstrasse 17<br>
-  CH-8400 Winterthur<br></a>
+  CH-8400 Winterthur<br>
+  <br>
   <b>Korrespondenzadresse</b><br>
   sinndrin genossenschaft<br>
   Zürcherstrasse 54<br>
-  CH-5432 Neuenho<br></a>
+  CH-5432 Neuenhof<br>
   <a href="mailto:info@sinndrin.ch"><i class="fi-mail"></i> info@sinndrin.ch</a><br>
   <a href="/ueber-uns/spieleabend/"><i class="fi-puzzle"></i> Persönliches Kennenlernen an einem unserer Spieleabende</a><br><br>
   <b>Fairphone Support:</b><br><a href="https://support.sinndrin.org/de"><i class="fi-page-multiple"></i> Fairphone Support Seite</a><br><a href="mailto:support@sinndrin.ch"><i class="fi-mail"></i> support@sinndrin.ch</a><br><br>
@@ -111,6 +112,8 @@ title:  "Kontakt"
 # <a name="bankverbindung"></a> Bankverbindung
 
 * IBAN: **CH43 0839 0032 4370 1000 1** <br>
+* **sinndrin genossenschaft** <br>
+* **8002 Zürich** <br>
 
 ## Daten unserer Bank
 
