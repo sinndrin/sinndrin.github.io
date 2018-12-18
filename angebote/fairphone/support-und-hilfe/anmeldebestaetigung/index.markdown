@@ -13,7 +13,6 @@ Vielen Dank für Ihre Anmeldung zu einem unserer Fairphone-Workshops!
 **Bitte beachten Sie, dass die Kursorte je nach Gruppengrösse noch ändern könnten.** Die Adresse mit dem definitiven Kursort erhalten sie ca. vier Tage vor dem Anlass per E-Mail.
 
 * **Bern**: Wird im Bestätigungs-E-Mail ca. 4 Tage vor dem Anlass bekannt gegeben
-* **Glattbrugg**: [sinndrin genossenschaft, c/o Z11 Büro Atelier, Zunstrasse 11, 8152 Glattbrugg][kontakt]
 * **Stadt Zürich**: sinndrin genossenschaft, Alfred-Escher-Strasse 46, 8002 Zürich
 * **Wädenswil**: Stoffelweg 59, 8804 Au
 * **Winterthur**: Bahnstrasse 17, 8400 Winterthur

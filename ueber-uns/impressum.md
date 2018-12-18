@@ -5,9 +5,8 @@ title:  "Impressum"
 ### Herausgeber
 
 **sinndrin genossenschaft**<br>
-c/o Z11 Büro Atelier<br>
-Zunstrasse 11<br>
-CH-8152 Glattbrugg<br>
+Zürcherstrasse 54<br>
+CH-5432 Neuenhof<br>
 <i class="fi-telephone"></i> 044 534 64 54<br>
 <a href="mailto:webmaster@sinndrin.ch"><i class="fi-mail"></i> webmaster@sinndrin.ch</a><br><br>
 MWST-Nr.: CHE-259.799.074 MWST<br>
