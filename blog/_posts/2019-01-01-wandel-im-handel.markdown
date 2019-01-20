@@ -10,7 +10,7 @@ comments: true
 tags:
  - Michael Tanner
 ---
-<h2>Unser Genossenschafter Michael Tanner moderiert das Podium "Handel im Wandel" organisiert vom "Forum 5 im 5i" an der Langstrasse</h2>
+<h4>Unser Genossenschafter Michael Tanner moderiert das Podium "Handel im Wandel" organisiert vom "Forum 5 im 5i" an der Langstrasse</h4>
 
 21.1.2019 ab 19 Uhr: Apéro und Podium
 
@@ -31,5 +31,5 @@ Podium ab 20 Uhr mit:
 
 Eintritt frei.
 
-<img title="Banner Handel im Wandel" src="/images/blog/2019-01-01-handel-im-wandel.JPG">
+<img title="Banner Handel im Wandel" src="/images/blog/2019-01-01-wandel-im-handel.JPG">
 
