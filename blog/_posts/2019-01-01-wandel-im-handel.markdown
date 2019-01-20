@@ -31,3 +31,5 @@ Podium ab 20 Uhr mit:
 
 Eintritt frei.
 
+<img title="Banner Handel im Wandel" src="/images/blog/2019-01-01-handel-im-wandel.JPG">
+
