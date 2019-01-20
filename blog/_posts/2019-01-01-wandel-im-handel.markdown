@@ -29,7 +29,7 @@ Podium ab 20 Uhr mit:
 <li>    Andrea Aebi, Präsidentin Quartierverein Industrie
 <li>    Elin Braun, Geschäftsführerin Chornlade
 
-Eintritt frei.
-
 <img title="Banner Handel im Wandel" src="/images/blog/2019-01-01-wandel-im-handel.JPG">
+
+Eintritt frei.
 
