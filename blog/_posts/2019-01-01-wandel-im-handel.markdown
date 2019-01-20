@@ -2,7 +2,7 @@
 layout: blog
 title: "Handel im Wandel an der Langstrasse"
 subtitle: "Podiumsveranstaltung im L200, Zürich"
-image: /images/blog/2019-01-01-wandel-im-handel.JPG
+image: /images/blog/2019-01-01-wandel-im-handel-1.JPG
 date: 2019-01-05 15:00:00
 published: true
 categories: blog
