@@ -8,10 +8,14 @@ subtitle: "B. Sc. ZFH in Umweltingenieurwesen"
 email: roger.schaerer@sinndrin.ch
 pgpkeyid: "0x248673576B7AE02DEDF1393D2D141CC02FB359E7"
 pgpkeyfingerprint: "2486 7357 6B7A E02D EDF1 393D 2D14 1CC0 2FB3 59E7"
-byline: "entwickelt gerne neue Projekte im Nach&shy;hal&shy;tig&shy;keits&shy;be&shy;reich. Er liebt es, Menschen zu Vernetzen die gemeinsam sinnvolle Projekte umsetzen."
+byline: "entwickelt gerne neue Projekte im Nach&shy;hal&shy;tig&shy;keits&shy;be&shy;reich. Er liebt es, mit Menschen zusammen sinnvolle Projekte umsetzen. Er möchte Menschen einen guten Boden und Rahmen bieten zur Entwicklung und Heilung, dem wiederfinden, erhalten und weitergeben ihrer Lebenskraft."
 image: /images/ueber-uns/team/roger.png
 ---
-Ich entwickle gerne neue Projekte im Nach&shy;hal&shy;tig&shy;keits&shy;be&shy;reich. Ich liebe es, Menschen zu Vernetzen die gemeinsam sinnvolle Projekte umsetzen.
+Ich entwickle gerne neue Projekte im Nach&shy;hal&shy;tig&shy;keits&shy;be&shy;reich. Ich liebe es, mit Menschen zusammen sinnvolle Projekte umsetzen.
+
+Ich möchte Menschen einen guten Boden und Rahmen bieten zur Entwicklung und Heilung, dem wiederfinden, erhalten und weitergeben ihrer Lebenskraft.
+
+Ich glaube: besonders Begegnungen ohne Zeitdruck sind wertvoll. Solche ermöglichen spontane, inspirierende Aktivitäten und freundschaftliches Zusammensein.
 
 ## Mein persönliches Angebot: Unterstützung, Gesellschaft und Tagesbegleitung
 
@@ -21,6 +25,9 @@ Anfang 2018 habe ich in Männedorf mein persönliches Angebot [Unterstützung, G
 
 Ausbildungen:
 
+- **Coach** (Supervision und TZI e. V.)
+- **Erwachsenenbildner** (SVEB-Zertifikat 1)
+- **Themenzentrierte Interaktion** (TZI-Grundausbildung)
 - Bachelor of Science ZFH in **Umweltingenieurwesen** mit Vertiefungen in "Umweltbildung" und "nachwachsende Rohstoffe und erneuerbare Energien".
 - **Betriebstechnologe** mit Eidg. Fähigkeitsausweis.
 - **Elektroniker** mit Eidg. Fähigkeitsausweis.
