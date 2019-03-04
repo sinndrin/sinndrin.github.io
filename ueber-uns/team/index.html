@@ -12,7 +12,6 @@ title: Team
       <p><strong>{{ post.subtitle }}</strong><br>
         {% if post.phone %}<i class="fi-telephone"></i> {{ post.phone }}<br>{% endif %}
         <a href="mailto:{{ post.email }}"><i class="fi-mail"></i> {{ post.email }}</a>
-        {% if post.pgpkeyid %}<br><a target="_blank" href="http://pool.sks-keyservers.net/pks/lookup?search={{ post.pgpkeyid }}&fingerprint=on&op=index"><i class="fi-lock"></i> GPG/PGP E-Mail Schlüssel: {{ post.pgpkeyid }}</a>{% endif %}<br>
         {{ post.title }} {{ post.byline }} <a href="{{ post.url }}">{% include block/mehr-button.html %}</a>
       </p>
     </div>
